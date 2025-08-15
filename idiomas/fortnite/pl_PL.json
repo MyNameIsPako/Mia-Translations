@@ -1,0 +1,71 @@
+{
+  "idioma": "pt_PT",
+  "fortniteAPI": "pt-BR",
+  "comandos": {
+    "auth": {
+      "cuenta": {
+        "login": {
+          "msg1": "Acede a epicgames.com/activate e insere o seguinte código: ${device_code}",
+          "msg2": "✅ A conta já estava registada, autenticação foi atualizada",
+          "msg3": "✅ A conta foi registada com sucesso",
+          "err1": "❌ A conta com a qual te registaste não é a mesma que a atual",
+          "err2": "❌ Não te registaste a tempo",
+          "err3": "❌ Erro ao registar, o código não é válido",
+          "err4": "❌ Estás na blacklist da Mia"
+        },
+        "logout": {
+          "msg1": "✅ Conta removida da Mia"
+        }
+      },
+      "lobby": {
+        "fake-crowns": {
+          "msg1": "✅ Coroas definidas para ${crowns}",
+          "err1": "❌ As coroas têm de ser um número"
+        },
+        "fake-level": {
+          "msg1": "✅ Nível definido para ${level}",
+          "err1": "❌ O nível tem de ser um número"
+        },
+        "hide": {
+          "msg1": "✅ Membro oculto",
+          "err1": "❌ Tens de especificar um membro",
+          "err2": "❌ Membro não encontrado"
+        },
+        "common": {
+          "err1": "❌ Não estás online"
+        }
+      },
+      "otro": {
+        "dupelobby": {
+          "msg1": "✅ DupeLobby ativado!\n- Larga um item no chão, apanha-o e começa a duplicar!",
+          "err1": "❌ Não estás numa partida ou estás ausente no jogo.",
+          "err2": "❌ Falha no DupeLobby!\n- Ainda não passaram 6/7 minutos ou a base não está bugada."
+        }
+      },
+      "stw": {
+        "mk": {
+          "msg1": "🕓 Carregando...",
+          "msg2": "❌ Você não está em uma partida",
+          "msg3": "✅ Expulso da partida"
+        },
+        "mkc": {
+          "msg1": "🕓 Carregando...",
+          "msg2": "❌ Você não está em uma partida",
+          "msg3": "🕓 Expulso da partida, coletando suas recompensas...",
+          "msg4": "✅ Expulso e recompensas coletadas",
+          "msg5": "- Baús abertos:",
+          "msg6": "- Recompensas de desafios:",
+          "msg7": "- Alertas de missão:",
+          "msg8": "❌ Você precisa estar na tela final da partida."
+        }
+      }
+    },
+    "general": {
+      "ayuda": {
+        "msg1": "Możesz użyć mhelp use lub mhelp alias, aby dowiedzieć się, jak korzystać z komend i ich aliasów"
+      },
+      "eq": {},
+      "ping": {}
+    }
+  }
+}

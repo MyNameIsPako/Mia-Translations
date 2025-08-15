@@ -1,0 +1,71 @@
+{
+  "idioma": "fr_FR",
+  "fortniteAPI": "fr",
+  "comandos": {
+    "auth": {
+      "cuenta": {
+        "login": {
+          "msg1": "Allez sur epicgames.com/activate et entrez le code suivant : ${device_code}",
+          "msg2": "✅ Le compte était déjà enregistré, l'auth a été rafraîchi",
+          "msg3": "✅ Le compte a été enregistré avec succès",
+          "err1": "❌ Le compte que vous avez enregistré n'est pas le même que l'actuel",
+          "err2": "❌ Vous ne vous êtes pas inscrit à temps",
+          "err3": "❌ Erreur d'enregistrement, le code n'est pas valide",
+          "err4": "❌ Vous êtes sur la blacklist de Mia"
+        },
+        "logout": {
+          "msg1": "✅ Compte retiré de Mia"
+        }
+      },
+      "lobby": {
+        "fake-crowns": {
+          "msg1": "✅ Couronnes définies à ${crowns}",
+          "err1": "❌ Les couronnes doivent être un nombre"
+        },
+        "fake-level": {
+          "msg1": "✅ Niveau défini à ${level}",
+          "err1": "❌ Le niveau doit être un nombre"
+        },
+        "hide": {
+          "msg1": "✅ Membre caché",
+          "err1": "❌ Vous devez spécifier un membre",
+          "err2": "❌ Membre non trouvé"
+        },
+        "common": {
+          "err1": "❌ Vous n'êtes pas en ligne"
+        }
+      },
+      "otro": {
+        "dupelobby": {
+          "msg1": "✅ DupeLobby activé !\n- Déposez un objet au sol, ramassez-le et commencez à dupliquer !",
+          "err1": "❌ Vous n'êtes pas dans une partie ou vous êtes AFK dans le jeu.",
+          "err2": "❌ DupeLobby a échoué !\n- 6/7 minutes ne sont pas encore passées, ou la base n'est pas buguée."
+        },
+        "stw": {
+          "mk": {
+            "msg1": "🕓 Chargement...",
+            "msg2": "❌ Vous n'êtes pas dans une partie",
+            "msg3": "✅ Expulsé de la partie"
+          },
+          "mkc": {
+            "msg1": "🕓 Chargement...",
+            "msg2": "❌ Vous n'êtes pas dans une partie",
+            "msg3": "🕓 Expulsé de la partie, collecte de vos récompenses...",
+            "msg4": "✅ Expulsé et récompenses collectées",
+            "msg5": "- Coffres ouverts :",
+            "msg6": "- Récompenses des défis :",
+            "msg7": "- Alertes de mission :",
+            "msg8": "❌ Vous devez être sur l'écran de fin de partie."
+          }
+        }
+      }
+    },
+    "general": {
+      "ayuda": {
+        "msg1": "Tu peux utiliser mhelp use ou mhelp alias pour connaître l'utilisation et les alias des commandes"
+      },
+      "eq": {},
+      "ping": {}
+    }
+  }
+}

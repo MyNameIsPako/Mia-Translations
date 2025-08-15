@@ -1,0 +1,71 @@
+{
+  "idioma": "it_IT",
+  "fortniteAPI": "it",
+  "comandos": {
+    "auth": {
+      "cuenta": {
+        "login": {
+          "msg1": "Vai su epicgames.com/activate e inserisci il seguente codice: ${device_code}",
+          "msg2": "✅ L'account era già registrato, l'autenticazione è stata aggiornata",
+          "msg3": "✅ L'account è stato registrato correttamente",
+          "err1": "❌ L'account con cui ti sei registrato non è lo stesso di quello attuale",
+          "err2": "❌ Non ti sei registrato in tempo",
+          "err3": "❌ Errore di registrazione, il codice non è valido",
+          "err4": "❌ Sei nella blacklist di Mia"
+        },
+        "logout": {
+          "msg1": "✅ Account rimosso da Mia"
+        }
+      },
+      "lobby": {
+        "fake-crowns": {
+          "msg1": "✅ Corone impostate a ${crowns}",
+          "err1": "❌ Le corone devono essere un numero"
+        },
+        "fake-level": {
+          "msg1": "✅ Livello impostato a ${level}",
+          "err1": "❌ Il livello deve essere un numero"
+        },
+        "hide": {
+          "msg1": "✅ Membro nascosto",
+          "err1": "❌ Devi specificare un membro",
+          "err2": "❌ Membro non trovato"
+        },
+        "common": {
+          "err1": "❌ Non sei online"
+        }
+      },
+      "otro": {
+        "dupelobby": {
+          "msg1": "✅ DupeLobby attivato!\n- Lascia un oggetto a terra, raccoglilo e inizia a duplicare!",
+          "err1": "❌ Non sei in una partita o sei assente nel gioco.",
+          "err2": "❌ DupeLobby fallito!\n- Non sono ancora passati 6/7 minuti o la base non è buggata."
+        }
+      },
+      "stw": {
+        "mk": {
+          "msg1": "🕓 Caricamento...",
+          "msg2": "❌ Non sei in una partita",
+          "msg3": "✅ Espulso dalla partita"
+        },
+        "mkc": {
+          "msg1": "🕓 Caricamento...",
+          "msg2": "❌ Non sei in una partita",
+          "msg3": "🕓 Espulso dalla partita, raccolta delle tue ricompense...",
+          "msg4": "✅ Espulso e ricompense raccolte",
+          "msg5": "- Forzieri aperti:",
+          "msg6": "- Ricompense delle sfide:",
+          "msg7": "- Allarmi missione:",
+          "msg8": "❌ Devi essere nella schermata finale della partita."
+        }
+      }
+    },
+    "general": {
+      "ayuda": {
+        "msg1": "Puoi usare mhelp use o mhelp alias per conoscere l'uso e gli alias dei comandi"
+      },
+      "eq": {},
+      "ping": {}
+    }
+  }
+}

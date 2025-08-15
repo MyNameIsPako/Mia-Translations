@@ -1,0 +1,71 @@
+{
+  "idioma": "en_US",
+  "fortniteAPI": "en",
+  "comandos": {
+    "auth": {
+      "cuenta": {
+        "login": {
+          "msg1": "Go to epicgames.com/activate and enter the following code: ${device_code}",
+          "msg2": "✅ The account was already registered, auth has been refreshed",
+          "msg3": "✅ The account has been registered successfully",
+          "err1": "❌ The account you registered with is not the same as the current one",
+          "err2": "❌ You did not register in time",
+          "err3": "❌ Error registering, the code is not valid",
+          "err4": "❌ You are on Mia's blacklist"
+        },
+        "logout": {
+          "msg1": "✅ Account removed from Mia"
+        }
+      },
+      "lobby": {
+        "fake-crowns": {
+          "msg1": "✅ Crowns set to ${crowns}",
+          "err1": "❌ Crowns must be a number"
+        },
+        "fake-level": {
+          "msg1": "✅ Level set to ${level}",
+          "err1": "❌ Level must be a number"
+        },
+        "hide": {
+          "msg1": "✅ Member hidden",
+          "err1": "❌ You must specify a member",
+          "err2": "❌ Member not found"
+        },
+        "common": {
+          "err1": "❌ You are not online"
+        }
+      },
+      "otro": {
+        "dupelobby": {
+          "msg1": "✅ DupeLobby activated!\n- Drop an item on the ground, pick it up and start duplicating!",
+          "err1": "❌ You are not in a match or are AFK in the game.",
+          "err2": "❌ DupeLobby failed!\n- 6/7 minutes have not passed yet, or the base is not bugged."
+        },
+        "stw": {
+          "mk": {
+            "msg1": "🕓 Loading...",
+            "msg2": "❌ You are not in a match",
+            "msg3": "✅ Kicked from the match"
+          },
+          "mkc": {
+            "msg1": "🕓 Loading...",
+            "msg2": "❌ You are not in a match",
+            "msg3": "🕓 Kicked from the match, collecting your rewards...",
+            "msg4": "✅ Kicked and rewards collected",
+            "msg5": "- Chests opened:",
+            "msg6": "- Challenge rewards:",
+            "msg7": "- Mission alerts:",
+            "msg8": "❌ You need to be on the final match screen."
+          }
+        }
+      }
+    },
+    "general": {
+      "ayuda": {
+        "msg1": "You can use mhelp use or mhelp alias to learn the usage and aliases of the commands"
+      },
+      "eq": {},
+      "ping": {}
+    }
+  }
+}

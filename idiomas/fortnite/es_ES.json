@@ -1,0 +1,71 @@
+{
+  "idioma": "es_ES",
+  "fortniteAPI": "es",
+  "comandos": {
+    "auth": {
+      "cuenta": {
+        "login": {
+          "msg1": "Entra en epicgames.com/activate y pon el siguiente código: ${device_code}",
+          "msg2": "✅ La cuenta ya estaba registrada, se ha refrescado su auth",
+          "msg3": "✅ La cuenta ha sido registrada correctamente",
+          "err1": "❌ La cuenta con la que te has registrado no es la misma a la actual",
+          "err2": "❌ No te has registrado a tiempo",
+          "err3": "❌ Error al registrar, el código no es valido",
+          "err4": "❌ Estás en la blacklist de Mia"
+        },
+        "logout": {
+          "msg1": "✅ Cuenta borrada de Mia"
+        }
+      },
+      "lobby": {
+        "fake-crowns": {
+          "msg1": "✅ Coronas establecidas en ${crowns}",
+          "err1": "❌ las coronas deben ser un numero"
+        },
+        "fake-level": {
+          "msg1": "✅ Nivel establecido en ${level}",
+          "err1": "❌ El nivel debe ser un numero"
+        },
+        "hide": {
+          "msg1": "✅ Miembro escondido",
+          "err1": "❌ Tienes que especificar un miembro",
+          "err2": "❌ Miembro no encontrado"
+        },
+        "common": {
+          "err1": "❌ No estás online"
+        }
+      },
+      "otro": {
+        "dupelobby": {
+          "msg1": "✅ ¡DupeLobby activado!\n- Suelta un item al suelo, recogelo ¡y a duplicar!.",
+          "err1": "❌ No estas en ninguna partida o estas ausente en el juego.",
+          "err2": "❌ ¡DupeLobby fallida!\n- Todavía no pasaron los 6/7 minutos o la base no esta bugueada."
+        }
+      },
+      "stw": {
+        "mk": {
+          "msg1": "🕓 Cargando...",
+          "msg2": "❌ No estas en una partida",
+          "msg3": "✅ Expulsado de la partida"
+        },
+        "mkc": {
+          "msg1": "🕓 Cargando...",
+          "msg2": "❌ No estas en una partida",
+          "msg3": "🕓 Expulsado de la partida, recogiendo tus recompensas...",
+          "msg4": "✅ Se expulso y recogieron recompensas",
+          "msg5": "- Cofres abiertos:",
+          "msg6": "- Recompensas desafios:",
+          "msg7": "- Alertas de la misión:",
+          "msg8": "❌ Tienes que estar en la pantalla final de la partida."
+        }
+      }
+    },
+    "general": {
+      "ayuda": {
+        "msg1": "Puedes usar mhelp use o mhelp alias para saber el uso y los alias de los comandos"
+      },
+      "eq": {},
+      "ping": {}
+    }
+  }
+}
