@@ -1,10 +1,10 @@
-# 🌍 Mia Idiomas
+# Mia
 
 Este repositorio está destinado únicamente para albergar las traducciones de **Mia** en diferentes idiomas.
 
 Si quieres contribuir al proyecto ya sea añadiendo un nuevo idioma o corrigiendo errores de alguno que ya existe, simplemente lee la guía que figura a continuación.
 
-## Cómo contribuir
+## 🤝 Cómo contribuir
 
 ### Requisitos previos
 - Dominar completamente el idioma al que vas a traducir
@@ -20,7 +20,7 @@ Si quieres contribuir al proyecto ya sea añadiendo un nuevo idioma o corrigiend
 6. **Nombra** el archivo según el patrón de idiomas
 7. **Realiza** una pull request con tus cambios
 
-## Estructura del proyecto
+## 📁 Estructura del proyecto
 
 ```
 idiomas/
@@ -34,28 +34,28 @@ idiomas/
     └── ...
 ```
 
-## Formato de archivos JSON
+## 📝 Formato de archivos JSON
 
 Los archivos JSON están estructurados de la siguiente manera:
 
 ```json
 {
   "comprar": {
-    "sinCodigo": "Du hast keinen Code",
-    "tituloConfirmacion": "Kaufbestätigung",
-    "descripcion": "Möchtest du diesen Artikel wirklich kaufen?"
+    "msg1": "mensaje",
+    "msg2": "mensaje",
+    "msg3": "mensaje"
   }
 }
 ```
 
-### Reglas importantes
+### ⚠️ Reglas importantes
 - La **clave principal** (`comprar`) **NUNCA** se puede modificar
-- Las **propiedades** (`sinCodigo`, `tituloConfirmacion`) **NUNCA** se pueden modificar
+- Las **propiedades** (`msg1`, `msg2`) **NUNCA** se pueden modificar
 - **Solo** traduce el **texto/valor** de cada propiedad
 - Mantén el formato JSON válido
 - Conserva los caracteres especiales y formato Markdown cuando corresponda
 
-## Patrones de nomenclatura
+## 🏷️ Patrones de nomenclatura
 
 Los nombres de archivos deben seguir estos patrones:
 
@@ -73,37 +73,37 @@ Los nombres de archivos deben seguir estos patrones:
 - `es_MX.json` (Español - México)
 - `fr_FR.json` (Francés - Francia)
 
-## Idiomas disponibles
+## 🔍 Idiomas disponibles
 
-### Global
-- 🇩🇪 Alemán (de-DE)
-- 🇺🇸 Inglés (en-US)
-- 🇪🇸 Español España (es-ES)
-- 🇲🇽 Español Latinoamérica (es-LAT)
-- 🇫🇷 Francés (fr-FR)
-- 🇮🇹 Italiano (it-IT)
-- 🇯🇵 Japonés (ja-JP)
-- 🇧🇷 Portugués Brasil (pt-BR)
-- 🇵🇹 Portugués Portugal (pt-PT)
-- 🇹🇷 Turco (tr-TR)
-- 🇨🇳 Chino Simplificado (zh-CN)
+### Global de el  bot
+- Alemán (de-DE)
+- Inglés (en-US)
+- Español España (es-ES)
+- Español Latinoamérica (es-LAT)
+- Francés (fr-FR)
+- Italiano (it-IT)
+- aponés (ja-JP)
+- Portugués Brasil (pt-BR)
+- Portugués Portugal (pt-PT)
+- Turco (tr-TR)
+- Chino Simplificado (zh-CN)
 
-### Fortnite
-- 🇺🇸 Inglés (en_US)
-- 🇪🇸 Español España (es_ES)
-- 🇲🇽 Español México (es_MX)
-- 🇫🇷 Francés (fr_FR)
-- 🇮🇹 Italiano (it_IT)
-- 🇯🇵 Japonés (jp_JP)
-- 🇧🇷 Portugués Brasil (pl_BR)
-- 🇵🇱 Polaco (pl_PL)
-- 🇨🇳 Chino Simplificado (zh_CN)
+### Bot de Fotnite de Mia
+- Inglés (en_US)
+- Español España (es_ES)
+- Español México (es_MX)
+- Francés (fr_FR)
+- Italiano (it_IT)
+- Japonés (jp_JP)
+- Portugués Brasil (pl_BR)
+- Polaco (pl_PL)
+- Chino Simplificado (zh_CN)
 
 ## 🤔 ¿Necesitas ayuda?
 
 Si tienes dudas sobre alguna traducción o el proceso de contribución, no dudes en:
-- Unirte al servidor de soporte de [Mia Lounge](https://discord.gg/miabot)
-- Contacta con los devs de Mia
+- Unete al servidor de [Mia Lounge](https://discord.gg/miaobt) para pedir ayuda
+- Contacta con algun dev de Mia dentro del servidor o abre un ticket de soporte
 - Revisar las traducciones existentes como referencia
 
 ---
