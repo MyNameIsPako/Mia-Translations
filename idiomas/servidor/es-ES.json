@@ -1,0 +1,10 @@
+{
+	"idioma": "es",
+	"fortniteAPI": "es",
+	"idiomaDiscord": ["es-ES"],
+	"alertas": {
+		"vbucks": {
+			"msg1": ""
+		}
+	}
+}
