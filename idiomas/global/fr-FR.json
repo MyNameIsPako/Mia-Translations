@@ -2344,7 +2344,9 @@
 		"msg48": "Banlieues d'automne",
 		"msg49": "Désert",
 		"msg50": "Sauver les survivants",
-		"msg51": "Réapprovisionnement",
-		"msg52": "Tropical"
+		"msg51": "Réapprovisionner la base",
+		"msg52": "Tropical",
+		"msg53": "Construire la grille radar",
+		"msg54": "Détruire les campements"
 	}
 }

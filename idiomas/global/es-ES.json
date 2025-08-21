@@ -2357,10 +2357,12 @@
 		"msg45": "Zona de aventuras de Cataratas Cachemir",
 		"msg46": "Caza al Titán",
 		"msg47": "Misión Dev",
-		"msg48": "Suburbios de Otoñales",
+		"msg48": "Suburbios otoñales",
 		"msg49": "Desierto",
 		"msg50": "Rescata a los supervivientes",
 		"msg51": "Reabastecimiento",
-		"msg52": "Tropical"
+		"msg52": "Tropical",
+		"msg53": "Construye los radares",
+		"msg54": "Destruye los campamentos"
 	}
 }
