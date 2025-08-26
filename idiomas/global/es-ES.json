@@ -711,7 +711,20 @@
 				"msg42": "ID de la cuenta:",
 				"msg43": "amigos mutuos:",
 				"msg44": "No tienes amigos mutuos",
-				"msg45": "Amigos desde:"
+				"msg45": "Amigos desde:",
+				"msg46": "amigos restantes por eliminar",
+				"msg47": "Se borraron un total de",
+				"msg48": "amigos",
+				"msg49": "amigos fueron protegidos por la whitelist",
+				"msg50": "No tienes a nadie agregado a la whitelist",
+				"msg51": "Añadido:",
+				"msg52": "Desconocido",
+				"msg53": "Whitelist de amigos",
+				"msg54": "Tienes que decirme una acción y un ID o displayName",
+				"msg55": "Tienes que decirme una acción",
+				"msg56": "Tienes que decirme un ID o displayName",
+				"msg57": "añadido a tu whitelist",
+				"msg58": "eliminado de tu whitelist"
 			},
 			"lanzar": {
 				"msg1": "Copie y pegue el siguiente código en una ventana del símbolo del sistema (cmd.exe) en un sistema Windows y presione Enter. Este código es válido por 5 minutos y solo puede usarse una vez. Por favor, no comparta este código con nadie.",
