@@ -1124,12 +1124,12 @@
 				"msg2": "ya esta en el sistema de taxibots de Mia.",
 				"msg3": "Tu cuenta",
 				"msg4": "fue añadida al sistema de taxibots de Mia.",
-				"msg5": "Ya puedes agregar a los taxibots en Fortnite. Revisa la lista usando `/taxibot` en la opción de información y agrégalos buscando \"MiaTax\" en la barra del buscador del juego. Te aparecerán todas las cuentas disponibles.",
+				"msg5": "Ya puedes agregar los taxibots de Mia. Consulta en tiempo real la lista disponible con el comando `/taxibot opción: Estado`.",
 				"msg7": "La cuenta",
 				"msg8": "ya esta en el sistema de taxibots de Mia.",
 				"msg9": "Tu cuenta",
 				"msg10": "fue añadida al sistema de taxibots de Mia.",
-				"msg11": "Ya puedes agregar a los taxibots en Fortnite. Revisa la lista usando `/taxibot` en la opción de información y agrégalos buscando \"MiaTax\" en la barra del buscador del juego. Como usuario premium, también puedes agregar cuentas que contengan \"prem\" en el nombre.",
+				"msg11": "Ya puedes agregar los taxibots de Mia. Consulta en tiempo real la lista disponible con el comando `/taxibot opción: Estado`. Como usuario premium, también podrás agregar los taxibots premium de Mia.",
 				"msg13": "La cuenta",
 				"msg14": "fue eliminada del sistema de taxibots",
 				"msg15": "**(premium)**",
@@ -1168,7 +1168,10 @@
 				"msg48": "Pág.",
 				"msg49": "Anterior",
 				"msg50": "Siguiente",
-				"msg51": "Filtros de los Taxibots"
+				"msg51": "Filtros de los Taxibots",
+				"msg52": "¿Dónde puedo ver las cuentas?",
+				"msg53": "Puedes consultar en tiempo real todas las cuentas, su estado y la cola de invitaciones usando el comando `/taxibot opción: Estado`, o visitando la web oficial de Mia dando [clic aquí](https://miadsc.xyz) o mediante el botón adjunto al mensaje.",
+				"msg54": "Web oficial de Mia"
 			},
 			"tiendastw": {
 				"msg1": "No se encontraron datos de las tiendas de STW",
