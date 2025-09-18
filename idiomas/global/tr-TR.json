@@ -884,23 +884,17 @@
 				"msg8": "bekleyen görevler, toplamda"
 			},
 			"dupe": {
-				"msg1": "Devam eden bir komutunuz var, mesaja gitmek için butona tıklayın.",
+				"msg1": "Devam eden bir komutunuz var, mesaja gitmek için butona basın.",
 				"msg2": "Mesaja git",
-				"msg3": "Profil verileri alınırken hata oluştu, lütfen komutu tekrar kullanın.",
-				"msg4": "Zamanlayıcı süresi doldu, muhtemelen 7 dakika geçti. `/dupelobby force: True` kullanın.",
-				"msg5": "**Glitch yapılmış bir ev tabanında değilsiniz**, çoğaltmak için bir tane oluşturmanız gerekiyor.\n\n> ${emojis.bombilla} Nasıl yapılacağını bilmiyorsanız, butona tıklayarak eğitimleri izleyebilirsiniz.",
-				"msg6": "Mia'nın Eğitimleri",
+				"msg3": "Profil verileri alınırken bir hata oluştu, lütfen komutu tekrar çalıştırın.",
+				"msg4": "Zaman aşımı oldu, komutu **zorla** modunda tekrar çalıştırın",
+				"msg5": "Kalan süreyi kontrol edemedim; muhtemelen bir **base (bug)** içinde değilsiniz veya **7 dakika** zaten geçmiş olabilir — bu durumda komutun **zorla** modunu kullanın.",
+				"msg6": "Eğitimler",
 				"msg7": "Kalan süre kontrol ediliyor...",
-				"msg8": "DupeLobby aktif!\n\n> ${emojis.importante} Bir eşya bırakıp alın, çoğaltma başlasın.",
-				"msg9": "Nedeni bilinmeyen bir şekilde DupeLobby başarısız oldu, lütfen komutu tekrar kullanın.",
-				"msg10": "aktifleşmeye kalan dakika.",
-				"msg11": "aktifleşmeye kalan saniye.",
-				"msg12": "Mia'nın Otomatik Tekrar Sistemi",
-				"msg13": "DupeLobby başarısız oldu, maksimum deneme sayısına ulaşıldı, bu sayı",
-				"msg14": "her 30 saniyede bir (yaklaşık 10 dakika), bu tabanın düzgün glitch yapılmadığını veya bir şeylerin yanlış gittiğini gösterir, tekrar deneyin.",
-				"msg15": "Hata devam ederse Fortnite'ı yeniden başlatın ve /dupelobby kullanın.",
-				"msg16": "**AntiCrash** sistemi sadece premium kullanıcılar içindir, premium olmak için `/premium info` kullanın.",
-				"msg17": "**AntiCrash** başarıyla aktifleştirildi, artık aynı oyunda **en fazla 45 kere** çoğaltabilirsiniz ve atılmazsınız. Bu sınırı aşarsanız oyun hata verebilir ve kimse katılamayabilir."
+				"msg8": "Dupe etkinleştirildi, şimdi çoğaltmak istediğiniz eşyaları bırakabilirsiniz",
+				"msg9": "Bir nedenle dupe başarısız oldu, lütfen tekrar deneyin",
+				"msg10": "etkinleşmesine kalan dakika.",
+				"msg11": "etkinleşmesine kalan saniye."
 			},
 			"find": {
 				"msg1": "Oyuncu",

@@ -918,23 +918,17 @@
 				"msg8": "missões pendentes, com um total de"
 			},
 			"dupe": {
-				"msg1": "Você tem um comando em andamento, clique no botão para ir para a mensagem.",
+				"msg1": "Você tem um comando em andamento, pressione o botão para ir para a mensagem.",
 				"msg2": "Ir para a mensagem",
-				"msg3": "Ocorreu um erro ao obter os dados do perfil, por favor, use o comando novamente.",
-				"msg4": "O temporizador expirou e não posso calculá-lo, provavelmente passaram 7 minutos. Use `/dupelobby force: True`.",
-				"msg5": "Você não está em uma **base bugada**, você precisa criar uma para duplicar.\n\n> ${emojis.bombilla} Se você não sabe como fazer, há tutoriais clicando no botão.",
-				"msg6": "Tutoriais da Mia",
+				"msg3": "Ocorreu um erro ao obter os dados do perfil, por favor execute o comando novamente.",
+				"msg4": "O temporizador expirou, execute o comando novamente no modo **force**",
+				"msg5": "Não consegui verificar o tempo restante; pode ser que você não esteja em uma **base (bug)** ou que os **7 minutos** já tenham passado — se for o caso, use o modo **force** do comando.",
+				"msg6": "Tutoriais",
 				"msg7": "Verificando o tempo restante...",
-				"msg8": "DupeLobby ativada!\n\n> ${emojis.importante} Solte um item e pegue-o para começar a duplicar.",
-				"msg9": "Por algum motivo, a DupeLobby falhou, por favor, use o comando novamente.",
-				"msg10": "minutos até a ativação.",
-				"msg11": "segundos até a ativação.",
-				"msg12": "Sistema de AutoRetry da Mia",
-				"msg13": "DupeLobby falhou, o número máximo de tentativas foi atingido, que é",
-				"msg14": "a cada 30 segundos (equivalente a 10 minutos), isso significa que a base não estava corretamente bugada ou algo aconteceu, então tente o bug novamente.",
-				"msg15": "Se o erro persistir, reinicie o Fortnite e use /dupelobby novamente.",
-				"msg16": "O sistema **AntiCrash** é para usuários premium, torne-se premium usando `/premium info`.",
-				"msg17": "Você ativou com sucesso o **AntiCrash**, agora você pode duplicar até **um máximo de 45 vezes na mesma partida** sem ser expulso. Se você exceder esse máximo, o jogo pode ter erros e não permitir que ninguém entre."
+				"msg8": "Dupe ativado, agora você pode largar os itens que deseja duplicar",
+				"msg9": "Por algum motivo o dupe falhou, tente novamente",
+				"msg10": "minutos até ativar.",
+				"msg11": "segundos até ativar."
 			},
 			"find": {
 				"msg1": "O jogador",

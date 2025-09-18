@@ -884,23 +884,17 @@
 				"msg8": "missions en attente, avec un total de"
 			},
 			"dupe": {
-				"msg1": "Vous avez une commande en cours, cliquez sur le bouton pour accéder au message.",
+				"msg1": "Vous avez une commande en cours, appuyez sur le bouton pour aller au message.",
 				"msg2": "Aller au message",
-				"msg3": "Une erreur s'est produite lors de la récupération des données du profil, veuillez réutiliser la commande.",
-				"msg4": "Le minuteur a expiré et je ne peux pas le calculer, probablement 7 minutes se sont écoulées. Utilisez `/dupelobby force: True`.",
-				"msg5": "Vous n'êtes pas dans une **base buguée**, vous devez en créer une pour dupliquer.\n\n> ${emojis.bombilla} Si vous ne savez pas comment faire, il y a des tutoriels en cliquant sur le bouton.",
-				"msg6": "Tutoriels de Mia",
+				"msg3": "Une erreur est survenue lors de la récupération des données du profil, veuillez relancer la commande.",
+				"msg4": "Le minuteur a expiré, relancez la commande en mode **force**",
+				"msg5": "Je n'ai pas pu vérifier le temps restant ; il se peut que vous ne soyez pas dans une **base (bug)** ou que les **7 minutes** soient déjà écoulées — dans ce cas, utilisez le mode **force** de la commande.",
+				"msg6": "Tutoriels",
 				"msg7": "Vérification du temps restant...",
-				"msg8": "DupeLobby activé!\n\n> ${emojis.importante} Déposez un objet et ramassez-le pour commencer à dupliquer.",
-				"msg9": "Pour une raison quelconque, le DupeLobby a échoué, veuillez réutiliser la commande.",
-				"msg10": "minutes avant l'activation.",
-				"msg11": "secondes avant l'activation.",
-				"msg12": "Système AutoRetry de Mia",
-				"msg13": "DupeLobby échoué, le nombre maximum de tentatives a été atteint, soit",
-				"msg14": "toutes les 30 secondes (équivalent à 10 minutes), cela signifie que la base n'était pas correctement buguée ou qu'il s'est passé quelque chose, alors essayez à nouveau le bug.",
-				"msg15": "Si l'erreur persiste, redémarrez Fortnite et utilisez à nouveau /dupelobby.",
-				"msg16": "Le système **AntiCrash** est réservé aux utilisateurs premium, devenez premium en utilisant `/premium info`.",
-				"msg17": "Vous avez activé avec succès **AntiCrash**, vous pouvez maintenant dupliquer jusqu'à **un maximum de 45 fois dans la même partie** sans être expulsé. Si vous dépassez ce maximum, la partie peut rencontrer des erreurs et ne permettre à personne de rejoindre."
+				"msg8": "Dupe activé, vous pouvez maintenant déposer les objets que vous souhaitez dupliquer",
+				"msg9": "Pour une raison quelconque, le dupe a échoué, réessayez",
+				"msg10": "minutes avant son activation.",
+				"msg11": "secondes avant son activation."
 			},
 			"find": {
 				"msg1": "Le joueur",

@@ -918,23 +918,17 @@
 				"msg8": "missioni in sospeso, con un totale di"
 			},
 			"dupe": {
-				"msg1": "Hai un comando in corso, clicca sul pulsante per andare al messaggio.",
+				"msg1": "Hai un comando in corso, premi il pulsante per andare al messaggio.",
 				"msg2": "Vai al messaggio",
-				"msg3": "Si è verificato un errore durante il recupero dei dati del profilo, per favore usa di nuovo il comando.",
-				"msg4": "Il timer è scaduto e non posso calcolarlo, probabilmente sono passati 7 minuti. Usa `/dupelobby forza: True`.",
-				"msg5": "Non sei in una **base buggata**, devi crearne una per duplicare.\n\n> ${emojis.bombilla} Se non sai come fare, ci sono tutorial cliccando sul pulsante.",
-				"msg6": "Tutorial di Mia",
-				"msg7": "Verifica del tempo rimanente...",
-				"msg8": "DupeLobby attivata!\n\n> ${emojis.importante} Lascia cadere un oggetto e raccoglilo per iniziare a duplicare.",
-				"msg9": "Per qualche motivo la DupeLobby è fallita, per favore usa di nuovo il comando.",
-				"msg10": "minuti fino all'attivazione.",
-				"msg11": "secondi fino all'attivazione.",
-				"msg12": "Sistema AutoRetry di Mia",
-				"msg13": "DupeLobby fallita, è stato raggiunto il numero massimo di tentativi che è",
-				"msg14": "ogni 30 secondi (equivalente a 10 minuti), questo significa che la base non era correttamente buggata o è successo qualcosa, quindi prova di nuovo il bug.",
-				"msg15": "Se l'errore persiste, riavvia Fortnite e usa di nuovo /dupelobby.",
-				"msg16": "Il sistema **AntiCrash** è per utenti premium, diventa premium usando `/premium info`.",
-				"msg17": "Hai attivato correttamente **AntiCrash**, ora puoi duplicare fino a **un massimo di 45 volte nella stessa partita** senza essere espulso. Se superi questo massimo, la partita potrebbe avere errori e non permettere a nessuno di unirsi."
+				"msg3": "Si è verificato un errore durante il recupero dei dati del profilo, esegui di nuovo il comando.",
+				"msg4": "Il timer è scaduto, esegui di nuovo il comando in modalità **force**",
+				"msg5": "Non sono riuscito a verificare il tempo rimanente; potresti non essere in una **base (bug)** o i **7 minuti** potrebbero essere già trascorsi — in tal caso usa la modalità **force** del comando.",
+				"msg6": "Tutorial",
+				"msg7": "Controllo del tempo rimanente...",
+				"msg8": "Dupe attivato, ora puoi lasciare gli oggetti che vuoi duplicare",
+				"msg9": "Per qualche motivo il dupe è fallito, riprova",
+				"msg10": "minuti prima che si attivi.",
+				"msg11": "secondi prima che si attivi."
 			},
 			"find": {
 				"msg1": "Il giocatore",

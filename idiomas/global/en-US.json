@@ -884,23 +884,17 @@
 				"msg8": "pending missions, with a total of"
 			},
 			"dupe": {
-				"msg1": "You have a command in progress, click the button to go to the message.",
+				"msg1": "You have a command in progress, press the button to go to the message.",
 				"msg2": "Go to message",
-				"msg3": "An error occurred while fetching profile data, please use the command again.",
-				"msg4": "The timer expired and I can't calculate it, probably 7 minutes passed. Use `/dupelobby force: True`.",
-				"msg5": "You are not in a **glitched homebase**, you need to create one to duplicate.\n\n> ${emojis.bombilla} If you don't know how to do it, there are tutorials by clicking the button.",
-				"msg6": "Mia's Tutorials",
+				"msg3": "An error occurred while fetching the profile data, please run the command again.",
+				"msg4": "The timer expired, run the command again in **force** mode",
+				"msg5": "I couldn't check the remaining time; you may not be in a **base (bug)** or the **7 minutes** may have already passed — if so, use the command's **force** mode.",
+				"msg6": "Tutorials",
 				"msg7": "Checking remaining time...",
-				"msg8": "DupeLobby activated!\n\n> ${emojis.importante} Drop an item and pick it up to start duplicating.",
-				"msg9": "For some reason the DupeLobby failed, please use the command again.",
-				"msg10": "minutes until activation.",
-				"msg11": "seconds until activation.",
-				"msg12": "Mia's AutoRetry System",
-				"msg13": "DupeLobby failed, the maximum number of attempts was reached which is",
-				"msg14": "every 30 seconds (equivalent to 10 minutes), this means the base was not properly glitched or something happened, so try the glitch again.",
-				"msg15": "If the error persists, restart Fortnite and use /dupelobby again.",
-				"msg16": "The **AntiCrash** system is for premium users, become premium using `/premium info`.",
-				"msg17": "You have successfully activated **AntiCrash**, now you can duplicate up to **a maximum of 45 times in the same game** without being kicked. If you exceed this maximum, the game may have errors and not allow anyone to join."
+				"msg8": "Dupe activated, you can now drop the items you want to duplicate",
+				"msg9": "For some reason the dupe failed, try again",
+				"msg10": "minutes until it activates.",
+				"msg11": "seconds until it activates."
 			},
 			"find": {
 				"msg1": "The player",

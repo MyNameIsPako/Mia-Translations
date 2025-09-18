@@ -884,23 +884,17 @@
 				"msg8": "ausstehende Missionen, mit insgesamt"
 			},
 			"dupe": {
-				"msg1": "Du hast einen Befehl in Bearbeitung, klicke auf die Schaltfläche, um zur Nachricht zu gelangen.",
-				"msg2": "Zur Nachricht gehen",
-				"msg3": "Beim Abrufen der Profildaten ist ein Fehler aufgetreten, bitte benutze den Befehl erneut.",
-				"msg4": "Der Timer ist abgelaufen und ich kann es nicht berechnen, wahrscheinlich sind 7 Minuten vergangen. Verwende /dupelobby force: True.",
-				"msg5": "Du befindest dich nicht in einer **verbuggten Heimatbasis**, du musst eine erstellen, um zu duplizieren.\n\n> ${emojis.bombilla} Wenn du nicht weißt, wie das geht, gibt es Tutorials, indem du auf die Schaltfläche klickst.",
-				"msg6": "Mias Tutorials",
-				"msg7": "Verbleibende Zeit wird überprüft...",
-				"msg8": "DupeLobby aktiviert!\n\n> ${emojis.importante} Lege einen Gegenstand ab und hebe ihn auf, um mit dem Duplizieren zu beginnen.",
-				"msg9": "Aus irgendeinem Grund ist die DupeLobby fehlgeschlagen, bitte benutze den Befehl erneut.",
+				"msg1": "Du hast einen laufenden Befehl. Drücke den Button, um zur Nachricht zu springen.",
+				"msg2": "Zur Nachricht",
+				"msg3": "Beim Abrufen der Profildaten ist ein Fehler aufgetreten. Bitte führe den Befehl erneut aus.",
+				"msg4": "Der Timer ist abgelaufen, führe den Befehl erneut im **Force**-Modus aus",
+				"msg5": "Ich konnte die verbleibende Zeit nicht prüfen; du befindest dich möglicherweise nicht in einer **Base (Bug)** oder die **7 Minuten** sind bereits vergangen — in diesem Fall benutze den **Force**-Modus des Befehls.",
+				"msg6": "Tutorials",
+				"msg7": "Überprüfe verbleibende Zeit...",
+				"msg8": "Dupe aktiviert, du kannst jetzt die Items ablegen, die du duplizieren möchtest",
+				"msg9": "Aus irgendeinem Grund ist der Dupe fehlgeschlagen, versuche es erneut",
 				"msg10": "Minuten bis zur Aktivierung.",
-				"msg11": "Sekunden bis zur Aktivierung.",
-				"msg12": "Mias AutoRetry-System",
-				"msg13": "DupeLobby fehlgeschlagen, die maximale Anzahl von Versuchen wurde erreicht, die ist",
-				"msg14": "alle 30 Sekunden (entspricht 10 Minuten), das bedeutet, dass die Basis nicht richtig verbuggt war oder etwas passiert ist, also versuche den Glitch erneut.",
-				"msg15": "Wenn der Fehler weiterhin besteht, starte Fortnite neu und benutze /dupelobby erneut.",
-				"msg16": "Das **AntiCrash**-System ist für Premium-Benutzer, werde Premium mit /premium info.",
-				"msg17": "Du hast **AntiCrash** erfolgreich aktiviert, jetzt kannst du bis zu **maximal 45 Mal im selben Spiel** duplizieren, ohne gekickt zu werden. Wenn du dieses Maximum überschreitest, kann das Spiel Fehler haben und niemandem erlauben, beizutreten."
+				"msg11": "Sekunden bis zur Aktivierung."
 			},
 			"find": {
 				"msg1": "Der Spieler",
