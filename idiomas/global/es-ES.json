@@ -1569,8 +1569,10 @@
 				"msg15": "Club de Fortnite",
 				"msg16": "Estado de los servicios:",
 				"msg17": "Hoja de ruta:",
-				"msg18": "`✅` | Operativo\n> `📉` | Bajo rendimiento\n> `⚠️` | Fallo parcial\n> `❌` | Fallo grande\n> `🛠️` | En Mantenimiento",
-				"msg19": "Para +info click aquí"
+				"msg18": "<a:_:1195121693652418644> | Operativo\n> <:deg:1419139656645345431> | Bajo rendimiento\n> <:alert:1419142401343225897> | Fallo parcial\n> <:par:1419142946070200340> | Fallo grande\n> <:mant:1419139439111700551> | En Mantenimiento",
+				"msg19": "Para +info click aquí",
+				"msg20": "Incidente activo:",
+				"msg21": "*Las incidencias solo se muestran en ingles"
 			},
 			"invitar": {
 				"msg1": "Invitación de Mia",
@@ -1619,7 +1621,7 @@
 				"msg29": "El pago en efectivo, este se llevará a cabo a través de PayPal vía **(amigos y familia)**. Es esencial realizar el pago con la conversión de tu moneda, en caso de que no sea el euro, para asegurarte de que el importe recibido sea correcto.",
 				"msg30": "Una vez que se ha obtenido la key para activar el premium, no se pueden realizar devoluciones.",
 				"msg31": "Informacion sobre Mia premium",
-				"msg32": "Con Mia premium puedes disfrutar de algunas ventajas exclusivas, como algunos sistemas Automaticos, reduccion de cooldowns y mucho mas. Si quieres saber mas sobre los precios, maneras de obtenerlo y demas visita el canal https://discord.com/channels/756859004965093426/1302818417996468234 ahi esta toda la informacion actualizada.\n\n> <:bombilla:827942432720945173> Tambien puedes unirte al servidor y visitar el canal mediante los botones de abajo",
+				"msg32": "Con Mia premium puedes disfrutar de algunas ventajas exclusivas, como algunos sistemas Automaticos, reduccion de cooldowns y mucho mas. Si quieres saber mas sobre los precios, maneras de obtenerlo y demas visita el canal https://discord.com/channels/756859004965093426/1411506386801791006 ahi esta toda la informacion actualizada.\n\n> <:bombilla:827942432720945173> Tambien puedes unirte al servidor y visitar el canal mediante los botones de abajo",
 				"msg33": "Información sobre Mia premium",
 				"msg34": "Acerca de Mia y nuestro projecto",
 				"msg35": "Planes premium de Mia",
