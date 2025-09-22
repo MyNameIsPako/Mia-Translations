@@ -1732,7 +1732,12 @@
 				"msg46": "Recompensas totales:",
 				"msg47": "Recompensas acumuladas de misiones:",
 				"msg48": "Revisa tus recompensas",
-				"msg49": "**Listado de recompensas:**"
+				"msg49": "**Listado de recompensas:**",
+				"msg50": "Faltan",
+				"msg51": "para el nivel 50",
+				"msg52": "Próxima zona:",
+				"msg53": "Siguiente recompensa",
+				"msg54": "Próxima recompensa top:"
 			},
 			"bc": {
 				"msg1": "No hay equipos de héroe llamado",
