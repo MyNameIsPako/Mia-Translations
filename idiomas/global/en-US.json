@@ -792,14 +792,17 @@
 				"msg5": "No data...",
 				"msg6": "Unknown",
 				"msg7": "You changed the platform to",
-				"msg8": "now purchases will use the V-Bucks from that platform.",
+				"msg8": "now in purchases you will use the V-Bucks from that platform.",
 				"msg9": "total across all accounts",
 				"msg10": "Remaining gifts:",
 				"msg11": "Get <:vBucks:929925492012879892> at **very low** prices in [Mia Lounge](https://discord.gg/miabot) <:nise:1297383555210416178>",
 				"msg12": "Buy V-Bucks",
 				"msg13": "Current creator code:",
 				"msg14": "V-Bucks purchased:",
-				"msg15": "Total:"
+				"msg15": "Total:",
+				"msg16": "URL generated to buy",
+				"msg17": "Go to buy",
+				"msg18": "V-Bucks"
 			},
 			"canjear": {
 				"msg1": "Redeemed successfully.",

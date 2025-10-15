@@ -792,14 +792,17 @@
 				"msg5": "Pas de données...",
 				"msg6": "Inconnu",
 				"msg7": "Vous avez changé la plateforme pour",
-				"msg8": "désormais les achats utiliseront les V-Bucks de cette plateforme.",
+				"msg8": "maintenant lors des achats vous utiliserez les V-Bucks de cette plateforme.",
 				"msg9": "total sur tous les comptes",
 				"msg10": "Cadeaux restants:",
 				"msg11": "Obtenez des <:vBucks:929925492012879892> à des prix **très bas** sur [Mia Lounge](https://discord.gg/miabot) <:nise:1297383555210416178>",
 				"msg12": "Acheter des V-Bucks",
 				"msg13": "Code créateur actuel:",
 				"msg14": "V-Bucks achetés:",
-				"msg15": "Total:"
+				"msg15": "Total:",
+				"msg16": "URL générée pour acheter",
+				"msg17": "Aller acheter",
+				"msg18": "V-Bucks"
 			},
 			"canjear": {
 				"msg1": "Échangé avec succès.",

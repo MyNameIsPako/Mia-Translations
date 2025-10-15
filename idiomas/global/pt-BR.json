@@ -819,21 +819,24 @@
 				"msg22": "não existe, verifique se está correto ou tente outro."
 			},
 			"vbucks": {
-				"msg1": "Total V-Bucks:",
+				"msg1": "Total de V-Bucks:",
 				"msg2": "Plataforma:",
 				"msg3": "Total gasto:",
 				"msg4": "Detalhamento:",
 				"msg5": "Sem dados...",
 				"msg6": "Desconhecido",
-				"msg7": "Você alterou a plataforma para",
-				"msg8": "agora as compras usarão os V-Bucks dessa plataforma.",
+				"msg7": "Você mudou a plataforma para",
+				"msg8": "agora nas compras você usará os V-Bucks dessa plataforma.",
 				"msg9": "total em todas as contas",
 				"msg10": "Presentes restantes:",
-				"msg11": "Obtenha <:vBucks:929925492012879892> a preços **muito baixos** no [Mia Lounge](https://discord.gg/miabot) <:nise:1297383555210416178>",
+				"msg11": "Consiga <:vBucks:929925492012879892> a preços **muito baixos** no [Mia Lounge](https://discord.gg/miabot) <:nise:1297383555210416178>",
 				"msg12": "Comprar V-Bucks",
 				"msg13": "Código de criador atual:",
 				"msg14": "V-Bucks comprados:",
-				"msg15": "Total:"
+				"msg15": "Total:",
+				"msg16": "URL gerada para comprar",
+				"msg17": "Ir para comprar",
+				"msg18": "V-Bucks"
 			},
 			"canjear": {
 				"msg1": "Resgatado com sucesso.",

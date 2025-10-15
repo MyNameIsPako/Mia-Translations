@@ -800,7 +800,10 @@
 				"msg12": "Comprar V-Bucks",
 				"msg13": "Código creador actual:",
 				"msg14": "V-Bucks comprados:",
-				"msg15": "Total:"
+				"msg15": "Total:",
+				"msg16": "URL generada para comprar",
+				"msg17": "Ir a comprar",
+				"msg18": "V-Bucks"
 			},
 			"canjear": {
 				"msg1": "Canjeado correctamente.",

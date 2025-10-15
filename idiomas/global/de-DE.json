@@ -785,21 +785,24 @@
 				"msg22": "existiert nicht, überprüfe, ob er korrekt ist oder versuche einen anderen."
 			},
 			"vbucks": {
-				"msg1": "Gesamt-V-Bucks:",
+				"msg1": "Gesamt V-Bucks:",
 				"msg2": "Plattform:",
-				"msg3": "Insgesamt ausgegeben:",
+				"msg3": "Gesamt ausgegeben:",
 				"msg4": "Aufschlüsselung:",
 				"msg5": "Keine Daten...",
 				"msg6": "Unbekannt",
-				"msg7": "Du hast die Plattform geändert zu",
-				"msg8": "jetzt werden Käufe die V-Bucks dieser Plattform verwenden.",
-				"msg9": "insgesamt über alle Konten",
+				"msg7": "Du hast die Plattform gewechselt zu",
+				"msg8": "jetzt bei Käufen wirst du die V-Bucks dieser Plattform verwenden.",
+				"msg9": "gesamt auf allen Konten",
 				"msg10": "Verbleibende Geschenke:",
-				"msg11": "Erhalte <:vBucks:929925492012879892> zu **sehr niedrigen** Preisen im [Mia Lounge](https://discord.gg/miabot) <:nise:1297383555210416178>",
+				"msg11": "Hol dir <:vBucks:929925492012879892> zu **sehr niedrigen** Preisen in [Mia Lounge](https://discord.gg/miabot) <:nise:1297383555210416178>",
 				"msg12": "V-Bucks kaufen",
 				"msg13": "Aktueller Creator-Code:",
 				"msg14": "Gekaufte V-Bucks:",
-				"msg15": "Gesamt:"
+				"msg15": "Gesamt:",
+				"msg16": "URL zum Kauf generiert",
+				"msg17": "Zum Kauf gehen",
+				"msg18": "V-Bucks"
 			},
 			"canjear": {
 				"msg1": "Erfolgreich eingelöst.",
