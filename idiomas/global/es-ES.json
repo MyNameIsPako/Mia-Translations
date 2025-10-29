@@ -2529,7 +2529,10 @@
 		"msg51": "Reabastecimiento",
 		"msg52": "Tropical",
 		"msg53": "Construye los radares",
-		"msg54": "Destruye los campamentos"
+		"msg54": "Destruye los campamentos",
+		"msg55": "No hay alertas de V-Bucks disponibles actualmente.",
+		"msg56": "alertas completadas",
+		"msg57": "restantes"
 	},
 	"permisosDiscord": {
 		"msg1": "Administrador",

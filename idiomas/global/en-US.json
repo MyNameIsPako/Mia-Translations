@@ -2514,7 +2514,10 @@
 		"msg51": "Resupply",
 		"msg52": "Tropical",
 		"msg53": "Build the Radar Grid",
-		"msg54": "Destroy The Encampments"
+		"msg54": "Destroy The Encampments",
+		"msg55": "There are no V-Bucks alerts available at the moment.",
+		"msg56": "alerts completed",
+		"msg57": "remaining"
 	},
 	"permisosDiscord": {
 		"msg1": "Administrator",

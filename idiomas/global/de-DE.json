@@ -2514,7 +2514,10 @@
 		"msg51": "Nachschub",
 		"msg52": "Tropisch",
 		"msg53": "Baue das Radarnetz",
-		"msg54": "Zerstöre die Lager"
+		"msg54": "Zerstöre die Lager",
+		"msg55": "Derzeit sind keine V-Bucks-Alerts verfügbar.",
+		"msg56": "abgeschlossene Alerts",
+		"msg57": "verbleibend"
 	},
 	"permisosDiscord": {
 		"msg1": "Administrator",

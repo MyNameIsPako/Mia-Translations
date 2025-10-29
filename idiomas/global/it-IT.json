@@ -2550,7 +2550,10 @@
 		"msg51": "Rifornimento",
 		"msg52": "Tropicale",
 		"msg53": "Costruisci la griglia radar",
-		"msg54": "Distruggi gli accampamenti"
+		"msg54": "Distruggi gli accampamenti",
+		"msg55": "Non ci sono attualmente avvisi V-Bucks disponibili.",
+		"msg56": "avvisi completati",
+		"msg57": "rimanenti"
 	},
 	"permisosDiscord": {
 		"msg1": "Amministratore",

@@ -2514,7 +2514,10 @@
 		"msg51": "Réapprovisionner la base",
 		"msg52": "Tropical",
 		"msg53": "Construire la grille radar",
-		"msg54": "Détruire les campements"
+		"msg54": "Détruire les campements",
+		"msg55": "Il n'y a actuellement aucune alerte V-Bucks disponible.",
+		"msg56": "alertes complétées",
+		"msg57": "restantes"
 	},
 	"permisosDiscord": {
 		"msg1": "Administrateur",

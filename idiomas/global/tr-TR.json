@@ -2428,7 +2428,10 @@
 		"msg51": "İkmal",
 		"msg52": "Tropikal",
 		"msg53": "Radar ağını inşa et",
-		"msg54": "Kampları yok et"
+		"msg54": "Kampları yok et",
+		"msg55": "Şu anda mevcut V-Bucks uyarısı yok.",
+		"msg56": "tamamlanan uyarılar",
+		"msg57": "kalan"
 	},
 	"permisosDiscord": {
 		"msg1": "Yönetici",

@@ -2548,7 +2548,10 @@
 		"msg51": "Reabastecimento",
 		"msg52": "Tropical",
 		"msg53": "Construir a grelha de radar",
-		"msg54": "Destruir os acampamentos"
+		"msg54": "Destruir os acampamentos",
+		"msg55": "Não há alertas de V-Bucks disponíveis no momento.",
+		"msg56": "alertas concluídos",
+		"msg57": "restantes"
 	},
 	"permisosDiscord": {
 		"msg1": "Administrador",
