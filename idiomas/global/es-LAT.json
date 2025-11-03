@@ -409,6 +409,29 @@
 				"msg1": "Skin **Burn Off** reclamada",
 				"msg2": "Error al reclamar la skin",
 				"msg3": "**Burn Off** reclamada"
+			},
+			"bp": {
+				"msg1": "Pase de Batalla",
+				"msg2": "Pase Músical",
+				"msg3": "Pase de Orígenes",
+				"msg4": "Pase de Lego",
+				"msg5": "¿Que pase quieres comprar?",
+				"msg6": "Balance:",
+				"msg7": "Temporada:",
+				"msg8": "Compra cancelada",
+				"msg9": "No se pudo encontrar la oferta seleccionada, esto no deveria de pasar...",
+				"msg10": "No puedes comprar el pase",
+				"msg11": "Necesitas",
+				"msg12": "y tienes",
+				"msg13": "Confirmar compra",
+				"msg14": "Cancelar",
+				"msg15": "¿Estás seguro que deseas comprar el",
+				"msg16": "por",
+				"msg17": "Pase:",
+				"msg18": "Precio:",
+				"msg19": "Balance:",
+				"msg20": "Compra cancelada",
+				"msg21": "comprado correctamente"
 			}
 		},
 		"cuenta": {

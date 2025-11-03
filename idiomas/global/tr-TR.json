@@ -409,6 +409,29 @@
 				"msg1": "**Burn Off** kostümü alındı",
 				"msg2": "Kostüm alınırken hata oluştu",
 				"msg3": "**Burn Off** alındı"
+			},
+			"bp": {
+				"msg1": "Savaş Bileti",
+				"msg2": "Müzik Bileti",
+				"msg3": "Kökenler Bileti",
+				"msg4": "Lego Bileti",
+				"msg5": "Hangi bileti satın almak istiyorsun?",
+				"msg6": "Bakiye:",
+				"msg7": "Sezon:",
+				"msg8": "Satın alma iptal edildi",
+				"msg9": "Seçilen teklif bulunamadı, bu olmamalı...",
+				"msg10": "Bileti satın alamazsın",
+				"msg11": "Gerekli:",
+				"msg12": "Sahip olunan:",
+				"msg13": "Satın almayı onayla",
+				"msg14": "İptal et",
+				"msg15": "Gerçekten satın almak istediğine emin misin",
+				"msg16": "için",
+				"msg17": "Bilet:",
+				"msg18": "Fiyat:",
+				"msg19": "Bakiye:",
+				"msg20": "Satın alma iptal edildi",
+				"msg21": "başarıyla satın alındı"
 			}
 		},
 		"cuenta": {

@@ -409,6 +409,29 @@
 				"msg1": "Skin **Burn Off** riscattata",
 				"msg2": "Errore durante il riscatto della skin",
 				"msg3": "**Burn Off** riscattata"
+			},
+			"bp": {
+				"msg1": "Pass Battaglia",
+				"msg2": "Pass Musicale",
+				"msg3": "Pass Origini",
+				"msg4": "Pass Lego",
+				"msg5": "Quale pass vuoi acquistare?",
+				"msg6": "Saldo:",
+				"msg7": "Stagione:",
+				"msg8": "Acquisto annullato",
+				"msg9": "Impossibile trovare l'offerta selezionata, questo non dovrebbe accadere...",
+				"msg10": "Non puoi acquistare il pass",
+				"msg11": "Hai bisogno di",
+				"msg12": "e hai",
+				"msg13": "Conferma acquisto",
+				"msg14": "Annulla",
+				"msg15": "Sei sicuro di voler acquistare il",
+				"msg16": "per",
+				"msg17": "Pass:",
+				"msg18": "Prezzo:",
+				"msg19": "Saldo:",
+				"msg20": "Acquisto annullato",
+				"msg21": "acquistato con successo"
 			}
 		},
 		"cuenta": {

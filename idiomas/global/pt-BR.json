@@ -409,6 +409,29 @@
 				"msg1": "Skin **Burn Off** resgatada",
 				"msg2": "Erro ao resgatar a skin",
 				"msg3": "**Burn Off** resgatada"
+			},
+			"bp": {
+				"msg1": "Passe de Batalha",
+				"msg2": "Passe Musical",
+				"msg3": "Passe de Origens",
+				"msg4": "Passe Lego",
+				"msg5": "Qual passe você quer comprar?",
+				"msg6": "Saldo:",
+				"msg7": "Temporada:",
+				"msg8": "Compra cancelada",
+				"msg9": "Não foi possível encontrar a oferta selecionada, isso não deveria acontecer...",
+				"msg10": "Você não pode comprar o passe",
+				"msg11": "Você precisa de",
+				"msg12": "e você tem",
+				"msg13": "Confirmar compra",
+				"msg14": "Cancelar",
+				"msg15": "Tem certeza que deseja comprar o",
+				"msg16": "por",
+				"msg17": "Passe:",
+				"msg18": "Preço:",
+				"msg19": "Saldo:",
+				"msg20": "Compra cancelada",
+				"msg21": "comprado com sucesso"
 			}
 		},
 		"cuenta": {

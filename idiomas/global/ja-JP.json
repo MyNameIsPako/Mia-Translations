@@ -409,6 +409,29 @@
 				"msg1": "**Burn Off**スキン獲得完了",
 				"msg2": "スキン獲得中にエラーが発生しました",
 				"msg3": "**Burn Off**獲得完了"
+			},
+			"bp": {
+				"msg1": "Battle Pass",
+				"msg2": "Musikpass",
+				"msg3": "Ursprungspass",
+				"msg4": "Lego-Pass",
+				"msg5": "Welchen Pass möchtest du kaufen?",
+				"msg6": "Kontostand:",
+				"msg7": "Saison:",
+				"msg8": "Kauf abgebrochen",
+				"msg9": "Das ausgewählte Angebot konnte nicht gefunden werden, das sollte nicht passieren...",
+				"msg10": "Du kannst den Pass nicht kaufen",
+				"msg11": "Du benötigst",
+				"msg12": "und hast",
+				"msg13": "Kauf bestätigen",
+				"msg14": "Abbrechen",
+				"msg15": "Bist du sicher, dass du den",
+				"msg16": "für",
+				"msg17": "Pass:",
+				"msg18": "Preis:",
+				"msg19": "Kontostand:",
+				"msg20": "Kauf abgebrochen",
+				"msg21": "erfolgreich gekauft"
 			}
 		},
 		"cuenta": {
