@@ -384,6 +384,14 @@
 				"msg6": "# Getätigte Käufe",
 				"msg7": "Du hast keine Käufe mit deinem Konto."
 			},
+			"crash": {
+				"msg1": "# Bist du sicher, dass du das Spiel für die Spieler in deiner Lobby zum Absturz bringen möchtest?\n # Wir sind NICHT verantwortlich für Maßnahmen, die gegen dein Konto ergriffen werden, also benutze es auf eigenes Risiko.",
+				"msg2": "Ja, zum Absturz bringen!",
+				"msg3": "Nein, abbrechen",
+				"msg4": "Das Spiel wurde zum Absturz gebracht!",
+				"msg5": "Der Spielabsturz wurde abgebrochen!",
+				"msg6": "Du bist nicht der Host des Spiels, du bist nicht in einem Spiel oder du bist nicht in Fortnite."
+			},
 			"crew": {
 				"msg1": "**Fortnite-Crew**",
 				"msg2": "**Abonniert:**",
@@ -393,6 +401,14 @@
 				"msg6": "**Nächste Belohnung:**",
 				"msg7": "**Abonnementende:**",
 				"msg8": "Du hast kein aktives **Fortnite-Crew**-Abonnement."
+			},
+			"lound": {
+				"msg1": "Lauter Ton im Raum aktiviert."
+			},
+			"burnoff": {
+				"msg1": "**Burn Off**-Skin beansprucht",
+				"msg2": "Fehler beim Beanspruchen des Skins",
+				"msg3": "**Burn Off** beansprucht"
 			},
 			"bp": {
 				"msg1": "Battle Pass",
@@ -1607,7 +1623,10 @@
 				"msg15": "Bei Mia nehmen wir die Privatsphäre und Sicherheit unserer Nutzer sehr ernst. Für weitere Informationen zu Mias Bedingungen und Richtlinien nutze bitte die untenstehenden Schaltflächen. Du erhältst Zugriff auf ausführliche Dokumente zu all unseren Richtlinien und Praktiken.",
 				"msg16": "Allgemeine Geschäftsbedingungen (Spanisch)",
 				"msg17": "Datenschutzrichtlinie (Spanisch)",
-				"msg18": "Du kannst deine IDs und Daten mit `/privatsphäre` verbergen, sodass deine Daten in Mias Befehlen nicht sichtbar sind."
+				"msg18": "Du kannst deine IDs und Daten mit `/privatsphäre` verbergen, sodass deine Daten in Mias Befehlen nicht sichtbar sind.",
+				"msg19": "Übersetzungen:",
+				"msg20": "Netzwerk:",
+				"msg21": "Host:"
 			},
 			"fnestado": {
 				"msg1": "Betriebsbereit",

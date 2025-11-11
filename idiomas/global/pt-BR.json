@@ -1641,7 +1641,10 @@
 				"msg15": "Na Mia, levamos muito a sério a privacidade e segurança de nossos usuários. Para obter mais informações sobre os termos e políticas da Mia, por favor, utilize os botões abaixo. Você poderá acessar documentos detalhados que cobrem todas as nossas políticas e práticas a fundo.",
 				"msg16": "Termos e condições (espanhol)",
 				"msg17": "Política de privacidade (espanhol)",
-				"msg18": "Você pode privatizar seus IDs e dados usando `/privacidad` para que seus dados apareçam ocultos nos comandos da Mia."
+				"msg18": "Você pode privatizar seus IDs e dados usando `/privacidad` para que seus dados apareçam ocultos nos comandos da Mia.",
+				"msg19": "Traduções:",
+				"msg20": "Rede:",
+				"msg21": "Host:"
 			},
 			"fnestado": {
 				"msg1": "Operacional",

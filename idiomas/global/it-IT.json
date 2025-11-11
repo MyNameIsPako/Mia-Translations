@@ -1641,7 +1641,10 @@
 				"msg15": "In Mia, prendiamo molto sul serio la privacy e la sicurezza dei nostri utenti. Per ulteriori informazioni sui termini e le politiche di Mia, utilizza i pulsanti qui sotto. Potrai accedere a documenti dettagliati che coprono tutte le nostre politiche e pratiche in dettaglio.",
 				"msg16": "Termini e condizioni (italiano)",
 				"msg17": "Politica sulla privacy (italiano)",
-				"msg18": "Puoi rendere privati i tuoi ID e dati usando `/privacy` per far sì che i tuoi dati appaiano nascosti nei comandi di Mia."
+				"msg18": "Puoi rendere privati i tuoi ID e dati usando `/privacy` per far sì che i tuoi dati appaiano nascosti nei comandi di Mia.",
+				"msg19": "Traduzioni:",
+				"msg20": "Rete:",
+				"msg21": "Host:"
 			},
 			"fnestado": {
 				"msg1": "Operativo",
