@@ -384,14 +384,6 @@
 				"msg6": "# Purchases made",
 				"msg7": "You have no purchases with your account."
 			},
-			"crash": {
-				"msg1": "# Are you sure you want to crash the game for the players in your lobby?\n # We are NOT responsible for any actions taken on your account, so use it at your own risk.",
-				"msg2": "Yes, crash!",
-				"msg3": "No, cancel",
-				"msg4": "The game has been crashed!",
-				"msg5": "The game crash has been canceled!",
-				"msg6": "You are not the host of the game, you are not in a game, or you are not in Fortnite."
-			},
 			"crew": {
 				"msg1": "**Fortnite Crew**",
 				"msg2": "**Subscribed:**",
@@ -401,14 +393,6 @@
 				"msg6": "**Next Reward:**",
 				"msg7": "**Subscription End:**",
 				"msg8": "You do not have any active **Fortnite Crew** subscription."
-			},
-			"lound": {
-				"msg1": "Loud Sound activated in the room."
-			},
-			"burnoff": {
-				"msg1": "**Burn Off** skin claimed",
-				"msg2": "Error claiming the skin",
-				"msg3": "**Burn Off** claimed"
 			},
 			"bp": {
 				"msg1": "Battle Pass",

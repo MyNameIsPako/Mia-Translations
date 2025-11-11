@@ -384,14 +384,6 @@
 				"msg6": "# Achats effectués",
 				"msg7": "Vous n'avez aucun achat avec votre compte."
 			},
-			"crash": {
-				"msg1": "# Êtes-vous sûr de vouloir faire planter le jeu pour les joueurs de votre lobby?\n # Nous ne sommes PAS responsables des actions prises sur votre compte, utilisez-le donc à vos propres risques.",
-				"msg2": "Oui, planter!",
-				"msg3": "Non, annuler",
-				"msg4": "Le jeu a été planté!",
-				"msg5": "Le plantage du jeu a été annulé!",
-				"msg6": "Vous n'êtes pas l'hôte du jeu, vous n'êtes pas dans un jeu ou vous n'êtes pas dans Fortnite."
-			},
 			"crew": {
 				"msg1": "**Fortnite Crew**",
 				"msg2": "**Abonné:**",
@@ -401,14 +393,6 @@
 				"msg6": "**Prochaine récompense:**",
 				"msg7": "**Fin de l'abonnement:**",
 				"msg8": "Vous n'avez aucun abonnement **Fortnite Crew** actif."
-			},
-			"lound": {
-				"msg1": "Son fort activé dans la salle."
-			},
-			"burnoff": {
-				"msg1": "Skin **Burn Off** réclamée",
-				"msg2": "Erreur lors de la réclamation de la skin",
-				"msg3": "**Burn Off** réclamée"
 			},
 			"bp": {
 				"msg1": "Passe de combat",

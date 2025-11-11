@@ -384,14 +384,6 @@
 				"msg6": "# Yapılan Satın Almalar",
 				"msg7": "Hesabınızda herhangi bir satın alma yok."
 			},
-			"crash": {
-				"msg1": "# Lobinizdeki oyuncular için oyunu çökerteceğinizden emin misiniz?\n# Hesabınızda yapılacak herhangi bir işlemden SORUMLU DEĞİLİZ, bu yüzden kullanırken dikkatli olun.",
-				"msg2": "Evet, çökert!",
-				"msg3": "Hayır, iptal et",
-				"msg4": "Oyun çöktürüldü!",
-				"msg5": "Oyun çökertme iptal edildi!",
-				"msg6": "Oyunun ev sahibi değilsiniz, oyunda değilsiniz veya Fortnite içinde değilsiniz."
-			},
 			"crew": {
 				"msg1": "**Fortnite Crew**",
 				"msg2": "**Abonelik Durumu:**",
@@ -401,14 +393,6 @@
 				"msg6": "**Sonraki Ödül:**",
 				"msg7": "**Abonelik Bitişi:**",
 				"msg8": "Aktif bir **Fortnite Crew** aboneliğiniz yok."
-			},
-			"lound": {
-				"msg1": "Odadaki yüksek ses etkinleştirildi."
-			},
-			"burnoff": {
-				"msg1": "**Burn Off** kostümü alındı",
-				"msg2": "Kostüm alınırken hata oluştu",
-				"msg3": "**Burn Off** alındı"
 			},
 			"bp": {
 				"msg1": "Savaş Bileti",

@@ -384,14 +384,6 @@
 				"msg6": "# Compras realizadas",
 				"msg7": "No tienes ninguna compra con tu cuenta."
 			},
-			"crash": {
-				"msg1": "# ¿Estás seguro de que quieres crashear el juego a los jugadores de tu sala?\n # NO somos responsables de las acciones tomadas en su cuenta, así que utilícela bajo su propio riesgo.",
-				"msg2": "Si, crashear!",
-				"msg3": "No, cancelar",
-				"msg4": "¡Se crasheo la partida!",
-				"msg5": "¡Se cancelo el crasheo de la partida!",
-				"msg6": "No eres el host de la partida, no estas en una partida o no estas en Fortnite."
-			},
 			"crew": {
 				"msg1": "**Fortnite Crew**",
 				"msg2": "**Subscrito:**",
@@ -401,14 +393,6 @@
 				"msg6": "**Próximo regalo:**",
 				"msg7": "**Finalización de la subscripción:**",
 				"msg8": "No tienes ninguna subscripcion a **Fortnite Crew** activa."
-			},
-			"lound": {
-				"msg1": "Loud Sound activado en la sala."
-			},
-			"burnoff": {
-				"msg1": "Skin **Burn Off** reclamada",
-				"msg2": "Error al reclamar la skin",
-				"msg3": "**Burn Off** reclamada"
 			},
 			"bp": {
 				"msg1": "Pase de Batalla",

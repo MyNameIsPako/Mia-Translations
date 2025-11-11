@@ -7,11 +7,13 @@ If you want to contribute to the project by adding a new language or fixing erro
 ## 🤝 How to contribute
 
 ### Prerequisites
+
 - Completely master the language you are going to translate to
 - Basic knowledge of Git and GitHub
 - Understand JSON format
 
 ### Steps to contribute
+
 1. **Choose a language** that you master perfectly
 2. **Fork** the repository
 3. **Clone** your fork locally
@@ -49,6 +51,7 @@ JSON files are structured as follows:
 ```
 
 ### ⚠️ Important rules
+
 - The **main key** (`comprar`) can **NEVER** be modified
 - The **properties** (`msg1`, `msg2`) can **NEVER** be modified
 - **Only** translate the **text/value** of each property
@@ -60,14 +63,17 @@ JSON files are structured as follows:
 File names must follow these patterns:
 
 ### For `global/` folder
+
 - `de-DE.json` (German - Germany)
 - `en-US.json` (English - United States)
 - `es-ES.json` (Spanish - Spain)
 - `es-LAT.json` (Spanish - Latin America)
 - `fr-FR.json` (French - France)
 - `pt-BR.json` (Portuguese - Brazil)
+- `tr-TR.json` (Turkish - Turkey)
 
 ### For `fortnite/` folder
+
 - `en_US.json` (English - United States)
 - `es_ES.json` (Spanish - Spain)
 - `es_MX.json` (Spanish - Mexico)
@@ -76,6 +82,7 @@ File names must follow these patterns:
 ## 🔍 Available languages
 
 ### Global bot
+
 - German (de-DE)
 - English (en-US)
 - Spanish Spain (es-ES)
@@ -89,6 +96,7 @@ File names must follow these patterns:
 - Chinese Simplified (zh-CN)
 
 ### Mia's Fortnite Bot
+
 - English (en_US)
 - Spanish Spain (es_ES)
 - Spanish Mexico (es_MX)
@@ -102,6 +110,7 @@ File names must follow these patterns:
 ## 🤔 Need help?
 
 If you have doubts about any translation or the contribution process, don't hesitate to:
+
 - Join the [Mia Lounge](https://discord.gg/miaobt) server to ask for help
 - Contact any Mia dev within the server or open a support ticket
 - Review existing translations as reference

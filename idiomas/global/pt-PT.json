@@ -384,14 +384,6 @@
 				"msg6": "# Compras realizadas",
 				"msg7": "Você não tem compras com sua conta."
 			},
-			"crash": {
-				"msg1": "# Tem certeza de que deseja fazer o jogo travar para os jogadores no seu lobby?\n # NÃO somos responsáveis por quaisquer ações tomadas na sua conta, portanto, use por sua conta e risco.",
-				"msg2": "Sim, travar!",
-				"msg3": "Não, cancelar",
-				"msg4": "O jogo foi travado!",
-				"msg5": "O travamento do jogo foi cancelado!",
-				"msg6": "Você não é o anfitrião do jogo, não está em um jogo ou não está no Fortnite."
-			},
 			"crew": {
 				"msg1": "**Fortnite Crew**",
 				"msg2": "**Inscrito:**",
@@ -401,14 +393,6 @@
 				"msg6": "**Próxima recompensa:**",
 				"msg7": "**Fim da assinatura:**",
 				"msg8": "Você não tem nenhuma assinatura ativa do **Fortnite Crew**."
-			},
-			"lound": {
-				"msg1": "Som alto ativado na sala."
-			},
-			"burnoff": {
-				"msg1": "Skin **Burn Off** resgatada",
-				"msg2": "Erro ao resgatar a skin",
-				"msg3": "**Burn Off** resgatada"
 			},
 			"bp": {
 				"msg1": "Passe de Batalha",

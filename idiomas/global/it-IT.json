@@ -384,14 +384,6 @@
 				"msg6": "# Acquisti effettuati",
 				"msg7": "Non hai acquisti con il tuo account."
 			},
-			"crash": {
-				"msg1": "# Sei sicuro di voler far crashare il gioco per i giocatori nella tua lobby?\n # NON siamo responsabili per qualsiasi azione intrapresa sul tuo account, quindi usalo a tuo rischio.",
-				"msg2": "Sì, crash!",
-				"msg3": "No, annulla",
-				"msg4": "Il gioco è stato crashato!",
-				"msg5": "Il crash del gioco è stato annullato!",
-				"msg6": "Non sei l'host del gioco, non sei in una partita o non sei in Fortnite."
-			},
 			"crew": {
 				"msg1": "**Fortnite Crew**",
 				"msg2": "**Iscritto:**",
@@ -401,14 +393,6 @@
 				"msg6": "**Prossima ricompensa:**",
 				"msg7": "**Fine dell'abbonamento:**",
 				"msg8": "Non hai nessun abbonamento attivo a **Fortnite Crew**."
-			},
-			"lound": {
-				"msg1": "Suono forte attivato nella stanza."
-			},
-			"burnoff": {
-				"msg1": "Skin **Burn Off** riscattata",
-				"msg2": "Errore durante il riscatto della skin",
-				"msg3": "**Burn Off** riscattata"
 			},
 			"bp": {
 				"msg1": "Pass Battaglia",
