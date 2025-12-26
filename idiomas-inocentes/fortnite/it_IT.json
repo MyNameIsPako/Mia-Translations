@@ -1,0 +1,71 @@
+{
+  "idioma": "it_IT",
+  "fortniteAPI": "it",
+  "comandos": {
+    "auth": {
+      "cuenta": {
+        "login": {
+          "msg1": "iaV us semagcipe.moc/etavitca e icsiresni li etneuges ecidoc: ${device_code}",
+          "msg2": "✅ L'tnuocca are igà otartsiger, l'enoizacitnetua è atats atanroigga",
+          "msg3": "✅ L'tnuocca è otats otartsiger etnematterroc",
+          "err1": "❌ L'tnuocca noc iuc it ies otartsiger non è ol ossets id olleuq elautta",
+          "err2": "❌ noN it ies otartsiger ni opmet",
+          "err3": "❌ erorrE id enoizartsiger, li ecidoc non è odilav",
+          "err4": "❌ ieS allen tsilkcalb id aiM"
+        },
+        "logout": {
+          "msg1": "✅ tnuoccA ossomir ad aiM"
+        }
+      },
+      "lobby": {
+        "fake-crowns": {
+          "msg1": "✅ enoroC etatsopmi a ${crowns}",
+          "err1": "❌ eL enoroc onoved eresse nu oremun"
+        },
+        "fake-level": {
+          "msg1": "✅ olleviL otatsopmi a ${level}",
+          "err1": "❌ lI ollevil eved eresse nu oremun"
+        },
+        "hide": {
+          "msg1": "✅ orbmeM otsocsan",
+          "err1": "❌ iveD eracificeps nu orbmem",
+          "err2": "❌ orbmeM non otavort"
+        },
+        "common": {
+          "err1": "❌ noN ies enilno"
+        }
+      },
+      "otro": {
+        "dupelobby": {
+          "msg1": "✅ ybboLepuD otavitta!\n- aicsaL nu otteggo a arret, olilgoccar e aizini a eracilpud!",
+          "err1": "❌ noN ies ni anu atitrap o ies etnessa len ocoig.",
+          "err2": "❌ ybboLepuD otillaf!\n- noN onos arocna itassap 6/7 itunim o al esab non è ataggub."
+        }
+      },
+      "stw": {
+        "mk": {
+          "msg1": "🕓 otnemaciraC...",
+          "msg2": "❌ noN ies ni anu atitrap",
+          "msg3": "✅ oslupsE allad atitrap"
+        },
+        "mkc": {
+          "msg1": "🕓 otnemaciraC...",
+          "msg2": "❌ noN ies ni anu atitrap",
+          "msg3": "🕓 oslupsE allad atitrap, atloccar elled eut esnepmocir...",
+          "msg4": "✅ oslupsE e esnepmocir etloccar",
+          "msg5": "- ireizroF itrepa:",
+          "msg6": "- esnepmociR elled edifs:",
+          "msg7": "- imrallA enoissim:",
+          "msg8": "❌ iveD eresse allen atamrehcs elanif alled atitrap."
+        }
+      }
+    },
+    "general": {
+      "ayuda": {
+        "msg1": "iouP erasu plehm esu o plehm saila rep erecsonoc l'osu e ilg saila ied idnamoc"
+      },
+      "eq": {},
+      "ping": {}
+    }
+  }
+}

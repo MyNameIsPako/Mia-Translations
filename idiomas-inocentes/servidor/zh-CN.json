@@ -1,0 +1,13 @@
+{
+  "idioma": "zh-CN",
+  "fortniteAPI": "zh-Hans",
+  "idiomaDiscord": [
+    "zh-CN",
+    "zh-TW"
+  ],
+  "alertas": {
+    "vbucks": {
+      "msg1": ""
+    }
+  }
+}

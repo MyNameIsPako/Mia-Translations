@@ -1,0 +1,71 @@
+{
+  "idioma": "en_US",
+  "fortniteAPI": "en",
+  "comandos": {
+    "auth": {
+      "cuenta": {
+        "login": {
+          "msg1": "oG ot semagcipe.moc/etavitca dna retne eht gniwollof edoc: ${device_code}",
+          "msg2": "✅ ehT tnuocca saw ydaerla deretsiger, htua sah neeb dehserfer",
+          "msg3": "✅ ehT tnuocca sah neeb deretsiger yllufsseccus",
+          "err1": "❌ ehT tnuocca uoy deretsiger htiw si ton eht emas sa eht tnerruc eno",
+          "err2": "❌ uoY did ton retsiger ni emit",
+          "err3": "❌ rorrE gniretsiger, eht edoc si ton dilav",
+          "err4": "❌ uoY era no aiM's tsilkcalb"
+        },
+        "logout": {
+          "msg1": "✅ tnuoccA devomer morf aiM"
+        }
+      },
+      "lobby": {
+        "fake-crowns": {
+          "msg1": "✅ snworC tes ot ${crowns}",
+          "err1": "❌ snworC tsum eb a rebmun"
+        },
+        "fake-level": {
+          "msg1": "✅ leveL tes ot ${level}",
+          "err1": "❌ leveL tsum eb a rebmun"
+        },
+        "hide": {
+          "msg1": "✅ rebmeM neddih",
+          "err1": "❌ uoY tsum yficeps a rebmem",
+          "err2": "❌ rebmeM ton dnuof"
+        },
+        "common": {
+          "err1": "❌ uoY era ton enilno"
+        }
+      },
+      "otro": {
+        "dupelobby": {
+          "msg1": "✅ ybboLepuD detavitca!\n- porD na meti no eht dnuorg, kcip ti pu dna trats gnitacilpud!",
+          "err1": "❌ uoY era ton ni a hctam ro era KFA ni eht emag.",
+          "err2": "❌ ybboLepuD deliaf!\n- 6/7 setunim evah ton dessap tey, ro eht esab si ton deggub."
+        },
+        "stw": {
+          "mk": {
+            "msg1": "🕓 gnidaoL...",
+            "msg2": "❌ uoY era ton ni a hctam",
+            "msg3": "✅ dekciK morf eht hctam"
+          },
+          "mkc": {
+            "msg1": "🕓 gnidaoL...",
+            "msg2": "❌ uoY era ton ni a hctam",
+            "msg3": "🕓 dekciK morf eht hctam, gnitcelloc ruoy sdrawer...",
+            "msg4": "✅ dekciK dna sdrawer detcelloc",
+            "msg5": "- stsehC denepo:",
+            "msg6": "- egnellahC sdrawer:",
+            "msg7": "- noissiM strela:",
+            "msg8": "❌ uoY deen ot eb no eht lanif hctam neercs."
+          }
+        }
+      }
+    },
+    "general": {
+      "ayuda": {
+        "msg1": "uoY nac esu plehm esu ro plehm saila ot nrael eht egasu dna sesaila fo eht sdnammoc"
+      },
+      "eq": {},
+      "ping": {}
+    }
+  }
+}

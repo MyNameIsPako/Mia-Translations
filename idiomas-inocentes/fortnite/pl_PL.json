@@ -1,0 +1,71 @@
+{
+  "idioma": "pt_PT",
+  "fortniteAPI": "pt-BR",
+  "comandos": {
+    "auth": {
+      "cuenta": {
+        "login": {
+          "msg1": "edecA a semagcipe.moc/etavitca e eresni o etniuges ogidóc: ${device_code}",
+          "msg2": "✅ A atnoc áj avatse adatsiger, acitnetuação iof adazilauta",
+          "msg3": "✅ A atnoc iof adatsiger moc ossecus",
+          "err1": "❌ A atnoc moc a lauq et etsatsiger não é a amsem euq a lauta",
+          "err2": "❌ Não et etsatsiger a opmet",
+          "err3": "❌ orrE oa ratsiger, o ogidóc não é odiláv",
+          "err4": "❌ sátsE an tsilkcalb ad aiM"
+        },
+        "logout": {
+          "msg1": "✅ atnoC adivomer ad aiM"
+        }
+      },
+      "lobby": {
+        "fake-crowns": {
+          "msg1": "✅ saoroC sadinifed arap ${crowns}",
+          "err1": "❌ sA saoroc têm ed res mu oremún"
+        },
+        "fake-level": {
+          "msg1": "✅ levíN odinifed arap ${level}",
+          "err1": "❌ O levín met ed res mu oremún"
+        },
+        "hide": {
+          "msg1": "✅ orbmeM otluco",
+          "err1": "❌ sneT ed racificepse mu orbmem",
+          "err2": "❌ orbmeM não odartnocne"
+        },
+        "common": {
+          "err1": "❌ Não sátse enilno"
+        }
+      },
+      "otro": {
+        "dupelobby": {
+          "msg1": "✅ ybboLepuD odavita!\n- agraL mu meti on hcão, ahnapa-o e emocça a racilpud!",
+          "err1": "❌ Não sátse amun aditrap uo sátse etnesua on ogoj.",
+          "err2": "❌ ahlaF on ybboLepuD!\n- adniA não marassap 6/7 sotunim uo a esab não átse adagub."
+        }
+      },
+      "stw": {
+        "mk": {
+          "msg1": "🕓 odnagerraC...",
+          "msg2": "❌ coVê não átse me amu aditrap",
+          "msg3": "✅ oslupxE ad aditrap"
+        },
+        "mkc": {
+          "msg1": "🕓 odnagerraC...",
+          "msg2": "❌ coVê não átse me amu aditrap",
+          "msg3": "🕓 oslupxE ad aditrap, odnateloc saus sasnepmocer...",
+          "msg4": "✅ oslupxE e sasnepmocer sadateloc",
+          "msg5": "- súaB sotreba:",
+          "msg6": "- sasnepmoceR ed soifased:",
+          "msg7": "- satrelA ed ssimão:",
+          "msg8": "❌ coVê asicerp ratse an alet lanif ad aditrap."
+        }
+      }
+    },
+    "general": {
+      "ayuda": {
+        "msg1": "oMżzse użyć plehm esu bul plehm saila, yba eizdeiwodć isę, kaj atsyzrokć z dnemok i hci wósaila"
+      },
+      "eq": {},
+      "ping": {}
+    }
+  }
+}

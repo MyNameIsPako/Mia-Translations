@@ -1,0 +1,71 @@
+{
+  "idioma": "fr_FR",
+  "fortniteAPI": "fr",
+  "comandos": {
+    "auth": {
+      "cuenta": {
+        "login": {
+          "msg1": "zellA rus semagcipe.moc/etavitca te zertne el edoc tnavius : ${device_code}",
+          "msg2": "✅ eL etpmoc tiaté jédà értsigerne, l'htua a été arfarîihc",
+          "msg3": "✅ eL etpmoc a été értsigerne ceva ccusès",
+          "err1": "❌ eL etpmoc euq suov zeva értsigerne n'tse sap el mêem euq l'leutca",
+          "err2": "❌ suoV en suov êset sap tircsni à spmet",
+          "err3": "❌ ruerrE d'tnemertsigerne, el edoc n'tse sap edilav",
+          "err4": "❌ suoV êset rus al tsilkcalb ed aiM"
+        },
+        "logout": {
+          "msg1": "✅ etpmoC ériter ed aiM"
+        }
+      },
+      "lobby": {
+        "fake-crowns": {
+          "msg1": "✅ sennoruoC seiniféd à ${crowns}",
+          "err1": "❌ seL sennoruoc tneviod êert nu erbmon"
+        },
+        "fake-level": {
+          "msg1": "✅ uaeviN iniféd à ${level}",
+          "err1": "❌ eL uaevin tiod êert nu erbmon"
+        },
+        "hide": {
+          "msg1": "✅ erbmeM éhcac",
+          "err1": "❌ suoV zeved reificéps nu erbmem",
+          "err2": "❌ erbmeM non évuort"
+        },
+        "common": {
+          "err1": "❌ suoV n'êset sap ne engil"
+        }
+      },
+      "otro": {
+        "dupelobby": {
+          "msg1": "✅ ybboLepuD évitca !\n- zesopéD nu tejbo ua los, zessamar-el te zecnemmoc à reuqilpud !",
+          "err1": "❌ suoV n'êset sap snad enu eitrap uo suov êset KFA snad el uej.",
+          "err2": "❌ ybboLepuD a éuohcé !\n- 6/7 setunim en tnos sap erocne seéssap, uo al esab n'tse sap eéugub."
+        },
+        "stw": {
+          "mk": {
+            "msg1": "🕓 tnemegrahC...",
+            "msg2": "❌ suoV n'êset sap snad enu eitrap",
+            "msg3": "✅ éslupxE ed al eitrap"
+          },
+          "mkc": {
+            "msg1": "🕓 tnemegrahC...",
+            "msg2": "❌ suoV n'êset sap snad enu eitrap",
+            "msg3": "🕓 éslupxE ed al eitrap, etcelloc ed sov sesnepmocér...",
+            "msg4": "✅ éslupxE te sesnepmocér seétcelloc",
+            "msg5": "- serffoC strevuo :",
+            "msg6": "- sesnepmocéR sed siféd :",
+            "msg7": "- setrelA ed noissim :",
+            "msg8": "❌ suoV zeved êert rus l'narcé ed nif ed eitrap."
+          }
+        }
+      }
+    },
+    "general": {
+      "ayuda": {
+        "msg1": "uT xuep resilitu plehm esu uo plehm saila ruop annocîert l'noitasilitu te sel saila sed sednammoc"
+      },
+      "eq": {},
+      "ping": {}
+    }
+  }
+}
