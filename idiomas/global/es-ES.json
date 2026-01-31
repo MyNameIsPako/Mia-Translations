@@ -2192,6 +2192,16 @@
 				"msg40": "****Unicamente mostramos los heroes mas recomendados***",
 				"msg41": "Lineas de misiones",
 				"msg42": "*Algunas fechas pueden varias dependiendo de Fortnite pero normalmente no pasa."
+			},
+			"inventario": {
+				"msg1": "Mochila",
+				"msg2": "Almacén",
+				"msg3": "Aventuras",
+				"msg4": "Inventario de la Mochila",
+				"msg5": "Inventario del Almacén",
+				"msg6": "Inventario de Aventuras",
+				"msg7": "No tienes ningun item en este inventario",
+				"foot1": "Pág."
 			}
 		},
 		"juego": {

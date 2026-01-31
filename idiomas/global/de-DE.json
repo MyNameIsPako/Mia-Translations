@@ -1404,6 +1404,16 @@
 				"msg23": "Belohnungen:",
 				"msg24": "Belohnungen (Fortsetzung):",
 				"msg25": "Keine Belohnungen erhalten (alle Expeditionen sind fehlgeschlagen)."
+			},
+			"inventario": {
+				"msg1": "Rucksack",
+				"msg2": "Lager",
+				"msg3": "Abenteuer",
+				"msg4": "Rucksack-Inventar",
+				"msg5": "Lager-Inventar",
+				"msg6": "Abenteuer-Inventar",
+				"msg7": "Du hast keine Gegenstände in diesem Inventar",
+				"foot1": "Seite"
 			}
 		}
 	},

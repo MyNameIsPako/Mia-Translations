@@ -1422,6 +1422,16 @@
 				"msg23": "Ricompense:",
 				"msg24": "Ricompense (continuazione):",
 				"msg25": "Nessuna ricompensa ottenuta (tutte le spedizioni sono fallite)."
+			},
+			"inventario": {
+				"msg1": "Zaino",
+				"msg2": "Magazzino",
+				"msg3": "Avventure",
+				"msg4": "Inventario dello zaino",
+				"msg5": "Inventario del magazzino",
+				"msg6": "Inventario delle avventure",
+				"msg7": "Non hai nessun oggetto in questo inventario",
+				"foot1": "Pag."
 			}
 		}
 	},

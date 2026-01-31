@@ -1422,6 +1422,16 @@
 				"msg23": "Recompensas:",
 				"msg24": "Recompensas (continuação):",
 				"msg25": "Nenhuma recompensa obtida (todas as expedições falharam)."
+			},
+			"inventario": {
+				"msg1": "Mochila",
+				"msg2": "Armazém",
+				"msg3": "Aventuras",
+				"msg4": "Inventário da Mochila",
+				"msg5": "Inventário do Armazém",
+				"msg6": "Inventário de Aventuras",
+				"msg7": "Você não tem nenhum item neste inventário",
+				"foot1": "Pág."
 			}
 		}
 	},

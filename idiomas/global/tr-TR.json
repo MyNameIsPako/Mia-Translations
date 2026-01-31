@@ -1388,6 +1388,16 @@
 				"msg23": "Ödüller:",
 				"msg24": "Ödüller (devamı):",
 				"msg25": "Hiç ödül alınamadı (tüm seferler başarısız oldu)."
+			},
+			"inventario": {
+				"msg1": "Sırt Çantası",
+				"msg2": "Depo",
+				"msg3": "Macera",
+				"msg4": "Sırt Çantası Envanteri",
+				"msg5": "Depo Envanteri",
+				"msg6": "Macera Envanteri",
+				"msg7": "Bu envanterde hiç eşyan yok",
+				"foot1": "Sayfa"
 			}
 		}
 	},

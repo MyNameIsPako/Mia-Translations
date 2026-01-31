@@ -1388,6 +1388,16 @@
 				"msg23": "Récompenses :",
 				"msg24": "Récompenses (suite) :",
 				"msg25": "Aucune récompense obtenue (toutes les expéditions ont échoué)."
+			},
+			"inventario": {
+				"msg1": "Sac à dos",
+				"msg2": "Stockage",
+				"msg3": "Aventures",
+				"msg4": "Inventaire du sac à dos",
+				"msg5": "Inventaire du stockage",
+				"msg6": "Inventaire des aventures",
+				"msg7": "Tu n'as aucun objet dans cet inventaire",
+				"foot1": "Page"
 			}
 		}
 	},
