@@ -910,7 +910,11 @@
 				"msg35": "Processus terminé pour",
 				"msg36": "utilisateurs, joueurs réinvités",
 				"msg37": "n'est pas enregistré dans Mia",
-				"msg38": "(suite)"
+				"msg38": "(suite)",
+				"msg39": "Expulsé et les récompenses ont été récupérées",
+				"msg40": "Expulsé, mais il n'y avait pas de récompenses à récupérer",
+				"msg41": "Récompenses :",
+				"msg42": "Récompenses (suite) :"
 			}
 		},
 		"stw": {
@@ -2284,8 +2288,8 @@
 		"ak": {
 			"msg1": "Système AutoKick de Mia",
 			"msg2": "Le compte a été expulsé avec succès",
-			"msg3": "du jeu et les récompenses ont été collectées",
-			"msg4": "récompenses",
+			"msg3": "de la partie et les récompenses ont été récupérées",
+			"msg4": "de la partie, il n'y a pas de récompenses à récupérer",
 			"msg5": "également réinvité",
 			"msg6": "utilisateurs",
 			"msg7": "La connexion AutoKick avec votre compte a été perdue, veuillez réactiver ce système.",
@@ -2552,7 +2556,9 @@
 		"msg67": "Compte Discord perdu",
 		"msg68": "Autres",
 		"msg69": "Vous avez annulé le ticket avec succès",
-		"msg70": "Annuler le ticket"
+		"msg70": "Annuler le ticket",
+		"msg71": "Prix :",
+		"msg72": "Premium mensuel : 5 €/mois\nPlan annuel : 40 €/an\nPlan Eternum : Uniquement disponible en promotion."
 	},
 	"api": {
 		"msg1": "Vous avez déjà une clé API générée.",

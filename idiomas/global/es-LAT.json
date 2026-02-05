@@ -910,7 +910,11 @@
 				"msg35": "Proceso completado para",
 				"msg36": "usuarios, jugadores reinvitados",
 				"msg37": "no esta registrado en Mia",
-				"msg38": "(continuado)"
+				"msg38": "(continuado)",
+				"msg39": "Se expulso y recogieron las recompensas",
+				"msg40": "Se expulso pero no habia recompensas que recoger",
+				"msg41": "Recompensas:",
+				"msg42": "Recompensas (continuación):"
 			}
 		},
 		"stw": {
@@ -2552,7 +2556,9 @@
 		"msg67": "Pérdida de la cuenta de Discord",
 		"msg68": "Otros",
 		"msg69": "Cancelaste correctamente el ticket",
-		"msg70": "Cancelar el ticket"
+		"msg70": "Cancelar el ticket",
+		"msg71": "Precios:",
+		"msg72": "Premium mensual: 5€/mes\nPlan anual: 40€/año\nPlan eternum: Solo disponible en ofertas."
 	},
 	"api": {
 		"msg1": "Ya tienes una API key generada.",

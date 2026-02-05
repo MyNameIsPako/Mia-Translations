@@ -926,7 +926,11 @@
 				"msg35": "Vorgang abgeschlossen für",
 				"msg36": "Benutzer, Spieler erneut eingeladen",
 				"msg37": "ist nicht in Mia registriert",
-				"msg38": "(fortgesetzt)"
+				"msg38": "(fortgesetzt)",
+				"msg39": "Wurde entfernt und die Belohnungen wurden eingesammelt",
+				"msg40": "Wurde entfernt, aber es gab keine Belohnungen zum Einsammeln",
+				"msg41": "Belohnungen:",
+				"msg42": "Belohnungen (Fortsetzung):"
 			}
 		},
 		"stw": {
@@ -2300,8 +2304,8 @@
 		"ak": {
 			"msg1": "Mia's AutoKick System",
 			"msg2": "The account was successfully kicked",
-			"msg3": "from the game and rewards were collected",
-			"msg4": "rewards",
+			"msg3": "aus dem Spiel und die Belohnungen wurden eingesammelt",
+			"msg4": "aus dem Spiel, es gibt keine Belohnungen zum Einsammeln",
 			"msg5": "also re-invited",
 			"msg6": "users",
 			"msg7": "The AutoKick connection with your account was lost, please reactivate this system.",
@@ -2568,7 +2572,9 @@
 		"msg67": "Verlorener Discord-Account",
 		"msg68": "Andere",
 		"msg69": "Du hast das Ticket erfolgreich abgebrochen",
-		"msg70": "Ticket abbrechen"
+		"msg70": "Ticket abbrechen",
+		"msg71": "Preise:",
+		"msg72": "Monatliches Premium: 5€/Monat\nJahresplan: 40€/Jahr\nEternum-Plan: Nur in Angeboten verfügbar."
 	},
 	"api": {
 		"msg1": "Du hast bereits einen API-Schlüssel generiert.",

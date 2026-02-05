@@ -910,7 +910,11 @@
 				"msg35": "İşlem tamamlandı",
 				"msg36": "kullanıcılar için, oyuncular yeniden davet edildi",
 				"msg37": "Mia'ya kayıtlı değil",
-				"msg38": "(devam ediyor)"
+				"msg38": "(devam ediyor)",
+				"msg39": "Atıldı ve ödüller toplandı",
+				"msg40": "Atıldı, ancak toplanacak ödül yoktu",
+				"msg41": "Ödüller:",
+				"msg42": "Ödüller (devamı):"
 			}
 		},
 		"stw": {
@@ -2174,8 +2178,8 @@
 			"ak": {
 				"msg1": "Mia'nın Otomatik Atma Sistemi",
 				"msg2": "Hesap başarıyla oyundan atıldı",
-				"msg3": "ve ödüller toplandı",
-				"msg4": "ödüller",
+				"msg3": "maçtan çıkıldı ve ödüller toplandı",
+				"msg4": "maçtan çıkıldı, toplanacak ödül yok",
 				"msg5": "tekrar davet edildi",
 				"msg6": "kullanıcılar",
 				"msg7": "AutoKick bağlantınız hesabınızla kesildi, lütfen sistemi tekrar aktifleştirin.",
@@ -2442,7 +2446,9 @@
 			"msg67": "Discord hesabı kaybı",
 			"msg68": "Diğer",
 			"msg69": "Talebi başarıyla iptal ettiniz",
-			"msg70": "Talebi iptal et"
+			"msg70": "Talebi iptal et",
+			"msg71": "Fiyatlar:",
+			"msg72": "Aylık Premium: 5€/ay\nYıllık Plan: 40€/yıl\nEternum Planı: Sadece tekliflerde mevcut."
 		},
 		"api": {
 			"msg1": "Zaten oluşturulmuş bir API anahtarınız var.",

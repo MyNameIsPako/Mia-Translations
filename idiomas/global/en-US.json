@@ -910,7 +910,11 @@
 				"msg35": "Process completed for",
 				"msg36": "users, players reinvited",
 				"msg37": "is not registered in Mia",
-				"msg38": "(continued)"
+				"msg38": "(continued)",
+				"msg39": "Removed and rewards were collected",
+				"msg40": "Removed, but there were no rewards to collect",
+				"msg41": "Rewards:",
+				"msg42": "Rewards (continued):"
 			}
 		},
 		"stw": {
@@ -2284,8 +2288,8 @@
 		"ak": {
 			"msg1": "Mia's AutoKick System",
 			"msg2": "The account was successfully kicked",
-			"msg3": "from the game and rewards were collected",
-			"msg4": "rewards",
+			"msg3": "from the match and the rewards were collected",
+			"msg4": "from the match, there are no rewards to collect",
 			"msg5": "also re-invited",
 			"msg6": "users",
 			"msg7": "The AutoKick connection with your account was lost, please reactivate this system.",
@@ -2552,7 +2556,9 @@
 		"msg67": "Lost Discord account",
 		"msg68": "Others",
 		"msg69": "You successfully canceled the ticket",
-		"msg70": "Cancel the ticket"
+		"msg70": "Cancel the ticket",
+		"msg71": "Prices:",
+		"msg72": "Monthly Premium: 5€/month\nAnnual Plan: 40€/year\nEternum Plan: Only available in offers."
 	},
 	"api": {
 		"msg1": "You already have an API key generated.",
