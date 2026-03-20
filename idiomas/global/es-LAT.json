@@ -2288,8 +2288,8 @@
 		"ak": {
 			"msg1": "Sistema de AutoKick de Mia",
 			"msg2": "Se expulsó correctamente a la cuenta",
-			"msg3": "de la partida y se recogieron",
-			"msg4": "recompensas",
+			"msg3": "de la partida y se recogieron las recompensas",
+			"msg4": "de la partida, no hay recompensas para recoger",
 			"msg5": "también se re-invitaron a",
 			"msg6": "usuarios",
 			"msg7": "Se perdio la conexion del AutoKick con tu cuenta, vuelve a activar de nuevo este sistema.",
@@ -2297,7 +2297,8 @@
 			"msg9": "Recompensas desafios:",
 			"msg10": "Alertas de la misión:",
 			"msg11": "Se desactivo el **AutoKick** en la cuenta",
-			"msg12": "por que llevas 1h inactivo."
+			"msg12": "por que llevas 1h inactivo.",
+			"msg13": "Materiales transferidos:"
 		},
 		"ar": {
 			"msg1": "Tecnología:",

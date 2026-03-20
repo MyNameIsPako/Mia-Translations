@@ -2302,18 +2302,19 @@
 			"msg5": "Progress is saved every 30s throughout the mission or until you leave."
 		},
 		"ak": {
-			"msg1": "Mia's AutoKick System",
-			"msg2": "The account was successfully kicked",
-			"msg3": "aus dem Spiel und die Belohnungen wurden eingesammelt",
-			"msg4": "aus dem Spiel, es gibt keine Belohnungen zum Einsammeln",
-			"msg5": "also re-invited",
-			"msg6": "users",
-			"msg7": "The AutoKick connection with your account was lost, please reactivate this system.",
-			"msg8": "Opened chests:",
-			"msg9": "Challenge rewards:",
-			"msg10": "Mission alerts:",
-			"msg11": "The **AutoKick** has been disabled on the account",
-			"msg12": "because you have been inactive for 1 hour."
+			"msg1": "Mia AutoKick-System",
+			"msg2": "Konto erfolgreich geworfen",
+			"msg3": "aus dem Match und Belohnungen wurden eingesammelt",
+			"msg4": "aus dem Match, keine Belohnungen zu sammeln",
+			"msg5": "wurden außerdem erneut eingeladen",
+			"msg6": "Benutzer",
+			"msg7": "Die AutoKick-Verbindung mit deinem Konto wurde unterbrochen, bitte aktiviere das System erneut.",
+			"msg8": "Geöffnete Truhen:",
+			"msg9": "Herausforderungsbelohnungen:",
+			"msg10": "Missionsbenachrichtigungen:",
+			"msg11": "**AutoKick** wurde auf dem Konto deaktiviert",
+			"msg12": "weil du seit 1h inaktiv bist.",
+			"msg13": "Übertragene Materialien:"
 		},
 		"ar": {
 			"msg1": "Technology:",

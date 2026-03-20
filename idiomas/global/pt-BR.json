@@ -2320,18 +2320,19 @@
 			"msg5": "O progresso é salvo a cada 30s durante toda a missão ou até você sair."
 		},
 		"ak": {
-			"msg1": "Sistema de AutoKick da Mia",
-			"msg2": "A conta foi expulsa com sucesso",
-			"msg3": "da partida e as recompensas foram coletadas",
-			"msg4": "da partida, não há recompensas para coletar",
-			"msg5": "também reinvitado",
-			"msg6": "usuários",
-			"msg7": "A conexão AutoKick com sua conta foi perdida, por favor, reative este sistema.",
+			"msg1": "Sistema AutoKick da Mia",
+			"msg2": "Conta expulsa com sucesso",
+			"msg3": "da partida e as recompensas foram recolhidas",
+			"msg4": "da partida, sem recompensas para recolher",
+			"msg5": "também foram re-convidados",
+			"msg6": "utilizadores",
+			"msg7": "A ligação AutoKick com a tua conta foi perdida, por favor reativa este sistema.",
 			"msg8": "Baús abertos:",
 			"msg9": "Recompensas de desafios:",
 			"msg10": "Alertas de missão:",
-			"msg11": "O **AutoKick** foi desativado na conta",
-			"msg12": "porque você esteve inativo por 1 hora."
+			"msg11": "**AutoKick** foi desativado na conta",
+			"msg12": "porque estás inativo há 1h.",
+			"msg13": "Materiais transferidos:"
 		},
 		"ar": {
 			"msg1": "Tecnologia:",

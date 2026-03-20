@@ -2287,17 +2287,18 @@
 		},
 		"ak": {
 			"msg1": "Système AutoKick de Mia",
-			"msg2": "Le compte a été expulsé avec succès",
-			"msg3": "de la partie et les récompenses ont été récupérées",
-			"msg4": "de la partie, il n'y a pas de récompenses à récupérer",
-			"msg5": "également réinvité",
+			"msg2": "Compte expulsé avec succès",
+			"msg3": "du match et les récompenses ont été collectées",
+			"msg4": "du match, aucune récompense à collecter",
+			"msg5": "ont également été ré-invités",
 			"msg6": "utilisateurs",
-			"msg7": "La connexion AutoKick avec votre compte a été perdue, veuillez réactiver ce système.",
-			"msg8": "Coffres ouverts:",
-			"msg9": "Récompenses des défis:",
-			"msg10": "Alertes de mission:",
-			"msg11": "Le **AutoKick** a été désactivé sur le compte",
-			"msg12": "parce que vous avez été inactif pendant 1 heure."
+			"msg7": "La connexion AutoKick avec ton compte a été perdue, veuillez réactiver ce système.",
+			"msg8": "Coffres ouverts :",
+			"msg9": "Récompenses de défis :",
+			"msg10": "Alertes de mission :",
+			"msg11": "**AutoKick** a été désactivé sur le compte",
+			"msg12": "car tu es inactif depuis 1h.",
+			"msg13": "Matériaux transférés :"
 		},
 		"ar": {
 			"msg1": "Technologie:",

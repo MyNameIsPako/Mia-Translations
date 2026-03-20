@@ -2323,17 +2323,18 @@
 		},
 		"ak": {
 			"msg1": "Sistema AutoKick di Mia",
-			"msg2": "L'account è stato espulso con successo",
+			"msg2": "Account espulso con successo",
 			"msg3": "dalla partita e le ricompense sono state raccolte",
-			"msg4": "dalla partita, non ci sono ricompense da raccogliere",
-			"msg5": "anche reinvitato",
+			"msg4": "dalla partita, nessuna ricompensa da raccogliere",
+			"msg5": "sono stati anche re-invitati",
 			"msg6": "utenti",
-			"msg7": "La connessione AutoKick con il tuo account è stata persa, per favore riattiva questo sistema.",
-			"msg8": "Casse aperte:",
-			"msg9": "Ricompense delle sfide:",
-			"msg10": "Avvisi di missione:",
-			"msg11": "Il **AutoKick** è stato disattivato sull'account",
-			"msg12": "perché sei stato inattivo per 1 ora."
+			"msg7": "La connessione AutoKick con il tuo account è stata persa, riattiva questo sistema.",
+			"msg8": "Scrigni aperti:",
+			"msg9": "Ricompense sfide:",
+			"msg10": "Avvisi missione:",
+			"msg11": "**AutoKick** è stato disattivato sull'account",
+			"msg12": "perché sei inattivo da 1h.",
+			"msg13": "Materiali trasferiti:"
 		},
 		"ar": {
 			"msg1": "Tecnologia:",
