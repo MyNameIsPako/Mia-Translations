@@ -619,7 +619,25 @@
 				"msg45": "Create support ticket",
 				"msg46": "End User License Agreement (EULA) History",
 				"msg47": "Before registering your account in Mia you need to accept the Fortnite EULA.\n\n> You can go to [epicgames.com/account/eula-history](https://www.epicgames.com/account/eula-history) and click the \"I Accept\" button located at the bottom of the page or click the button below.",
-				"msg48": "Go to accept EULA"
+				"msg48": "Go to accept EULA",
+				"msg49": "Import account(s) from Glow Launcher",
+				"msg50": "Attach your Glow Launcher file:",
+				"msg51": "You can drag and drop the file here or click to select it.",
+				"msg52": "How to get your file?",
+				"msg53": "1. Open Glow Launcher and go to the 'Accounts' section.",
+				"msg54": "2. Click on the 'Export' button.",
+				"msg55": "3. Save the file and upload it here.",
+				"msg56": "Importing accounts...",
+				"msg57": "Accounts imported successfully!",
+				"msg58": "No valid accounts found in the file.",
+				"msg59": "The file is not valid or is corrupted.",
+				"msg60": "You have reached the maximum number of accounts allowed.",
+				"msg61": "Some accounts could not be imported because they are already registered.",
+				"msg62": "Some accounts could not be imported due to errors.",
+				"msg63": "Imported accounts:",
+				"msg64": "Failed accounts:",
+				"msg65": "Try again",
+				"msg66": "more"
 			},
 			"checkBan": {
 				"msg1": "The account",
@@ -2426,7 +2444,9 @@
 		"msg45": "To use this command, you need to own the **\"Save the World\"** mode of Fortnite.",
 		"msg47": "This command can only be used in a server.",
 		"msg48": "Mia doesn't have permissions to execute this command.",
-		"msg49": "Required permissions:"
+		"msg49": "Required permissions:",
+		"msg50": "For security reasons, this command can only be used in private messages with Mia",
+		"msg51": "Send a private message to Mia"
 	},
 	"botonesymodals": {
 		"msg1": "You do not have permission to use this button.",
@@ -2698,5 +2718,10 @@
 		"msg41": "Use Soundboard",
 		"msg42": "Use External Sounds",
 		"msg43": "Send Voice Messages"
+	},
+	"glow": {
+		"msg1": "Exported",
+		"msg2": "accounts for **Glow Launcher**",
+		"msg3": "This file contains all your account information. Do not share it with anyone and delete it after use. If someone gains access, they could register your accounts."
 	}
 }

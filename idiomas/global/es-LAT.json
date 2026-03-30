@@ -619,7 +619,25 @@
 				"msg45": "Crear ticket de soporte",
 				"msg46": "End User License Agreement (EULA) History",
 				"msg47": "Antes de registrar tu cuenta en Mia necesitas aceptar el EULA de Fortnite.\n\n> Puedes ir a [epicgames.com/account/eula-history](https://www.epicgames.com/account/eula-history) y hacer clic en el botón \"Acepto\" ubicado al final de la página o darle click al boton de abajo.",
-				"msg48": "Ir a aceptar EULA"
+				"msg48": "Ir a aceptar EULA",
+				"msg49": "Importar cuenta(s) de Glow Launcher",
+				"msg50": "Adjunta tu archivo de Glow Launcher:",
+				"msg51": "Sube el archivo JSON exportado desde Glow Launcher.",
+				"msg52": "El archivo JSON no se pudo obtener por algun motivo, intenta nuevamente.",
+				"msg53": "Estructura del JSON nl valida, asegurate de subir el archivo correcto exportado desde Glow Launcher.",
+				"msg54": "Importando",
+				"msg55": "cuenta(s)...",
+				"msg56": "Cuenta con datos incompletos",
+				"msg57": "Ya la tienes registrada o pertenece a otro usuario",
+				"msg58": "Cuenta en la blacklist",
+				"msg59": "Cuenta importada correctamente",
+				"msg60": "Se importaron",
+				"msg61": "cuenta(s) correctamente",
+				"msg62": "con",
+				"msg63": "error(es)",
+				"msg64": "Errores encontrados:",
+				"msg65": "y",
+				"msg66": "más"
 			},
 			"checkBan": {
 				"msg1": "La cuenta",
@@ -2427,7 +2445,9 @@
 		"msg45": "Para usar este comando requiere que tengas comprado el modo **\"Salvar El Mundo\"** de Fortnite.",
 		"msg47": "Este comando solo puede ser usado en un servidor.",
 		"msg48": "Mia no tiene permisos para poder ejecutar este comando.",
-		"msg49": "Permisos necesarios:"
+		"msg49": "Permisos necesarios:",
+		"msg50": "Por temas de seguridad este comando solo se puede usar en mensajes privados de Mia",
+		"msg51": "Enviar mensaje privado a Mia"
 	},
 	"botonesymodals": {
 		"msg1": "No tienes permiso para usar este botón.",
@@ -2698,5 +2718,10 @@
 		"msg41": "Usar Soundboard",
 		"msg42": "Usar Sonidos Externos",
 		"msg43": "Enviar Mensajes de Voz"
+	},
+	"glow": {
+		"msg1": "Se exportaron",
+		"msg2": "cuentas para **Glow Launcher**",
+		"msg3": "Este archivo contiene toda la información de tus cuentas, no lo compartas con nadie y elimínalo después de usarlo si alguien tiene acceso a él podria registrar tus cuentas."
 	}
 }

@@ -635,7 +635,25 @@
 				"msg45": "Support-Ticket erstellen",
 				"msg46": "Verlauf der Endbenutzer-Lizenzvereinbarung (EULA)",
 				"msg47": "Bevor du dein Konto in Mia registrierst, musst du die Fortnite-EULA akzeptieren.\n\n> Du kannst zu [epicgames.com/account/eula-history](https://www.epicgames.com/account/eula-history) gehen und auf den Button \"Ich akzeptiere\" unten auf der Seite klicken oder auf den Button unten.",
-				"msg48": "Zur EULA-Akzeptanz gehen"
+				"msg48": "Zur EULA-Akzeptanz gehen",
+				"msg49": "Konto(s) von Glow Launcher importieren",
+				"msg50": "Füge deine Glow Launcher-Datei an:",
+				"msg51": "Lade die aus Glow Launcher exportierte JSON-Datei hoch.",
+				"msg52": "Die JSON-Datei konnte aus irgendeinem Grund nicht abgerufen werden, versuche es erneut.",
+				"msg53": "Ungültige JSON-Struktur, stelle sicher, dass du die richtige, aus Glow Launcher exportierte Datei hochlädst.",
+				"msg54": "Importiere",
+				"msg55": "Konto(s)...",
+				"msg56": "Konto mit unvollständigen Daten",
+				"msg57": "Bereits registriert oder gehört einem anderen Benutzer",
+				"msg58": "Konto auf der Blacklist",
+				"msg59": "Konto erfolgreich importiert",
+				"msg60": "Importiert wurden",
+				"msg61": "Konto(s) erfolgreich",
+				"msg62": "mit",
+				"msg63": "Fehler(n)",
+				"msg64": "Gefundene Fehler:",
+				"msg65": "und",
+				"msg66": "mehr"
 			},
 			"checkBan": {
 				"msg1": "Das Konto",
@@ -2442,7 +2460,9 @@
 		"msg45": "Um diesen Befehl zu verwenden, musst du den **\"Save the World\"** Modus von Fortnite besitzen.",
 		"msg47": "Dieser Befehl kann nur auf einem Server verwendet werden.",
 		"msg48": "Mia hat keine Berechtigung, diesen Befehl auszuführen.",
-		"msg49": "Erforderliche Berechtigungen:"
+		"msg49": "Erforderliche Berechtigungen:",
+		"msg50": "Aus Sicherheitsgründen kann dieser Befehl nur in privaten Nachrichten mit Mia verwendet werden",
+		"msg51": "Sende Mia eine private Nachricht"
 	},
 	"botonesymodals": {
 		"msg1": "Du hast keine Berechtigung, diesen Button zu verwenden.",
@@ -2714,5 +2734,10 @@
 		"msg41": "Soundboard verwenden",
 		"msg42": "Externe Sounds verwenden",
 		"msg43": "Sprachnachrichten senden"
+	},
+	"glow": {
+		"msg1": "Exportiert wurden",
+		"msg2": "Konten für **Glow Launcher**",
+		"msg3": "Diese Datei enthält alle Informationen zu deinen Konten. Teile sie mit niemandem und lösche sie nach der Verwendung. Wenn jemand Zugriff darauf hat, könnte er deine Konten registrieren."
 	}
 }

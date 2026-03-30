@@ -619,7 +619,25 @@
 				"msg45": "Criar ticket de suporte",
 				"msg46": "Histórico do Contrato de Licença do Utilizador Final (EULA)",
 				"msg47": "Antes de registar a sua conta no Mia precisa de aceitar o EULA do Fortnite.\n\n> Pode ir a [epicgames.com/account/eula-history](https://www.epicgames.com/account/eula-history) e clicar no botão \"Aceito\" localizado no final da página ou clicar no botão abaixo.",
-				"msg48": "Ir aceitar EULA"
+				"msg48": "Ir aceitar EULA",
+				"msg49": "Importar conta(s) do Glow Launcher",
+				"msg50": "Anexe seu arquivo do Glow Launcher:",
+				"msg51": "Você pode arrastar e soltar o arquivo aqui ou clicar para selecioná-lo.",
+				"msg52": "Como obter seu arquivo?",
+				"msg53": "1. Abra o Glow Launcher e vá para a seção 'Contas'.",
+				"msg54": "2. Clique no botão 'Exportar'.",
+				"msg55": "3. Salve o arquivo e envie-o aqui.",
+				"msg56": "Importando contas...",
+				"msg57": "Contas importadas com sucesso!",
+				"msg58": "Nenhuma conta válida encontrada no arquivo.",
+				"msg59": "O arquivo não é válido ou está corrompido.",
+				"msg60": "Você atingiu o número máximo de contas permitidas.",
+				"msg61": "Algumas contas não puderam ser importadas porque já estão registradas.",
+				"msg62": "Algumas contas não puderam ser importadas devido a erros.",
+				"msg63": "Contas importadas:",
+				"msg64": "Contas com falha:",
+				"msg65": "Tentar novamente",
+				"msg66": "mais"
 			},
 			"checkBan": {
 				"msg1": "A conta",
@@ -2460,7 +2478,9 @@
 		"msg45": "Para usar este comando, você precisa possuir o modo **\"Salvar o Mundo\"** do Fortnite.",
 		"msg47": "Este comando só pode ser usado em um servidor.",
 		"msg48": "Mia não tem permissões para executar este comando.",
-		"msg49": "Permissões necessárias:"
+		"msg49": "Permissões necessárias:",
+		"msg50": "Por motivos de segurança, este comando só pode ser usado em mensagens privadas com a Mia",
+		"msg51": "Enviar uma mensagem privada para a Mia"
 	},
 	"botonesymodals": {
 		"msg1": "Você não tem permissão para usar este botão.",
@@ -2732,5 +2752,10 @@
 		"msg41": "Usar soundboard",
 		"msg42": "Usar sons externos",
 		"msg43": "Enviar mensagens de voz"
+	},
+	"glow": {
+		"msg1": "Exportado",
+		"msg2": "contas para **Glow Launcher**",
+		"msg3": "Este arquivo contém todas as informações das suas contas. Não compartilhe com ninguém e exclua após o uso. Se alguém tiver acesso, poderá registrar suas contas."
 	}
 }

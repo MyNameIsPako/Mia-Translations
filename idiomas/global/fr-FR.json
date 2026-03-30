@@ -619,7 +619,25 @@
 				"msg45": "Créer un ticket de support",
 				"msg46": "Contrat de Licence Utilisateur Final (CLUF) Historique",
 				"msg47": "Avant d'enregistrer votre compte dans Mia vous devez accepter le CLUF de Fortnite.\n\n> Vous pouvez aller sur [epicgames.com/account/eula-history](https://www.epicgames.com/account/eula-history) et cliquer sur le bouton \"J'accepte\" situé en bas de la page ou cliquer sur le bouton ci-dessous.",
-				"msg48": "Aller accepter le CLUF"
+				"msg48": "Aller accepter le CLUF",
+				"msg49": "Importer un ou plusieurs comptes depuis Glow Launcher",
+				"msg50": "Joins ton fichier Glow Launcher :",
+				"msg51": "Tu peux glisser-déposer le fichier ici ou cliquer pour le sélectionner.",
+				"msg52": "Comment obtenir ton fichier ?",
+				"msg53": "1. Ouvre Glow Launcher et va dans la section 'Comptes'.",
+				"msg54": "2. Clique sur le bouton 'Exporter'.",
+				"msg55": "3. Sauvegarde le fichier et téléverse-le ici.",
+				"msg56": "Importation des comptes...",
+				"msg57": "Comptes importés avec succès !",
+				"msg58": "Aucun compte valide trouvé dans le fichier.",
+				"msg59": "Le fichier n'est pas valide ou est corrompu.",
+				"msg60": "Tu as atteint le nombre maximum de comptes autorisés.",
+				"msg61": "Certains comptes n'ont pas pu être importés car ils sont déjà enregistrés.",
+				"msg62": "Certains comptes n'ont pas pu être importés à cause d'erreurs.",
+				"msg63": "Comptes importés :",
+				"msg64": "Comptes échoués :",
+				"msg65": "Réessayer",
+				"msg66": "plus"
 			},
 			"checkBan": {
 				"msg1": "Le compte",
@@ -2426,7 +2444,9 @@
 		"msg45": "Pour utiliser cette commande, vous devez posséder le mode **\"Sauver le Monde\"** de Fortnite.",
 		"msg47": "Cette commande ne peut être utilisée que sur un serveur.",
 		"msg48": "Mia n'a pas les permissions pour exécuter cette commande.",
-		"msg49": "Permissions requises :"
+		"msg49": "Permissions requises :",
+		"msg50": "Pour des raisons de sécurité, cette commande ne peut être utilisée que dans des messages privés avec Mia",
+		"msg51": "Envoyer un message privé à Mia"
 	},
 	"botonesymodals": {
 		"msg1": "Vous n'avez pas la permission d'utiliser ce bouton.",
@@ -2698,5 +2718,10 @@
 		"msg41": "Utiliser le soundboard",
 		"msg42": "Utiliser des sons externes",
 		"msg43": "Envoyer des messages vocaux"
+	},
+	"glow": {
+		"msg1": "Exporté",
+		"msg2": "comptes pour **Glow Launcher**",
+		"msg3": "Ce fichier contient toutes les informations de vos comptes. Ne le partagez avec personne et supprimez-le après utilisation. Si quelqu'un y accède, il pourrait enregistrer vos comptes."
 	}
 }
