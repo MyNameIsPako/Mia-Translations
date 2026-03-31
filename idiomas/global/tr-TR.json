@@ -442,18 +442,24 @@
 				"msg19": "Harici Kimlik Doğrulamalar:"
 			},
 			"borrar": {
-				"msg1": "Mia'da kayıtlı herhangi bir hesabınız yok, kullanın",
-				"msg2": "başlamak için.",
+				"msg1": "Mia'da kayıtlı bir hesabınız yok, başlamak için",
+				"msg2": "kullanın.",
 				"msg3": "Silmek için bir hesap seçin",
-				"msg4": "Adsız hesap",
+				"msg4": "İsimsiz hesap",
 				"msg5": "Tüm Mia hesaplarını sil",
-				"msg6": "Silmek istediğiniz hesabı seçin:",
+				"msg6": "Silmek istediğiniz hesabı seçin",
 				"msg7": "Hesap",
 				"msg8": "Mia'dan silindi.",
 				"msg9": "Tüm hesaplar Mia'dan silindi.",
-				"msg10": "Zaman aşımı gerçekleşti. Hesap silmek isterseniz komutu tekrar çalıştırın.",
-				"msg11": "Hesabın **deviceAuth** siliniyor...",
-				"msg12": "Hesapların tüm **deviceAuth** siliniyor..."
+				"msg10": "Zaman aşımı. Bir hesabı silmek istiyorsanız lütfen komutu tekrar çalıştırın.",
+				"msg11": "Hesabın **deviceAuth**'u siliniyor...",
+				"msg12": "Tüm hesapların **deviceAuth**'u siliniyor...",
+				"msg13": "Mia'daki hesaplar",
+				"msg14": "Hesabı sil",
+				"msg15": "Hesap indeksi",
+				"msg16": "Örnek: 5",
+				"msg17": "Lütfen geçerli bir sayı girin.",
+				"msg18": "İndeks 1 ile"
 			},
 			"cambiar": {
 				"msg1": "Mia'daki ana hesabınız:",

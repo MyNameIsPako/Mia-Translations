@@ -463,13 +463,19 @@
 				"msg3": "Selecciona una cuenta para borrar",
 				"msg4": "Cuenta sin nombre",
 				"msg5": "Borrar todas las cuentas de Mia",
-				"msg6": "Selecciona la cuenta que deseas borrar:",
+				"msg6": "Selecciona la cuenta que deseas borrar",
 				"msg7": "La cuenta",
 				"msg8": "ha sido borrada de Mia.",
 				"msg9": "Todas las cuentas fueron borradas de Mia.",
 				"msg10": "Tiempo de espera agotado. Por favor, vuelve a ejecutar el comando si deseas borrar una cuenta.",
 				"msg11": "Borrando el **deviceAuth** de la cuenta...",
-				"msg12": "Borrando todos los **deviceAuth** de las cuentas..."
+				"msg12": "Borrando todos los **deviceAuth** de las cuentas...",
+				"msg13": "Cuentas en Mia",
+				"msg14": "Borrar cuenta",
+				"msg15": "Índice de la cuenta",
+				"msg16": "Ejemplo: 5",
+				"msg17": "Por favor, ingresa un número válido.",
+				"msg18": "El índice debe estar entre 1 y"
 			},
 			"cambiar": {
 				"msg1": "Tu cuenta principal en Mia es:",

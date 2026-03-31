@@ -447,13 +447,19 @@
 				"msg3": "Sélectionnez un compte à supprimer",
 				"msg4": "Compte sans nom",
 				"msg5": "Supprimer tous les comptes Mia",
-				"msg6": "Sélectionnez le compte que vous souhaitez supprimer:",
+				"msg6": "Sélectionnez le compte que vous souhaitez supprimer",
 				"msg7": "Le compte",
 				"msg8": "a été supprimé de Mia.",
 				"msg9": "Tous les comptes ont été supprimés de Mia.",
-				"msg10": "Le délai d'attente est écoulé. Veuillez exécuter à nouveau la commande si vous souhaitez supprimer un compte.",
+				"msg10": "Délai dépassé. Veuillez relancer la commande si vous souhaitez supprimer un compte.",
 				"msg11": "Suppression du **deviceAuth** du compte...",
-				"msg12": "Suppression de tous les **deviceAuth'** des comptes..."
+				"msg12": "Suppression de tous les **deviceAuth** des comptes...",
+				"msg13": "Comptes sur Mia",
+				"msg14": "Supprimer le compte",
+				"msg15": "Index du compte",
+				"msg16": "Exemple : 5",
+				"msg17": "Veuillez entrer un nombre valide.",
+				"msg18": "L'index doit être compris entre 1 et"
 			},
 			"cambiar": {
 				"msg1": "Votre compte principal dans Mia est:",

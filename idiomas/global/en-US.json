@@ -443,17 +443,23 @@
 			},
 			"borrar": {
 				"msg1": "You don't have any account registered in Mia, use",
-				"msg2": "to start.",
+				"msg2": "to get started.",
 				"msg3": "Select an account to delete",
 				"msg4": "Unnamed account",
 				"msg5": "Delete all Mia accounts",
-				"msg6": "Select the account you want to delete:",
+				"msg6": "Select the account you want to delete",
 				"msg7": "The account",
 				"msg8": "has been deleted from Mia.",
 				"msg9": "All accounts have been deleted from Mia.",
-				"msg10": "Timeout expired. Please, run the command again if you want to delete an account.",
-				"msg11": "Deleting the **deviceAuth** of the account...",
-				"msg12": "Deleting all **deviceAuth'** of the accounts..."
+				"msg10": "Timeout. Please run the command again if you want to delete an account.",
+				"msg11": "Deleting the account's **deviceAuth**...",
+				"msg12": "Deleting all accounts' **deviceAuth**...",
+				"msg13": "Accounts in Mia",
+				"msg14": "Delete account",
+				"msg15": "Account index",
+				"msg16": "Example: 5",
+				"msg17": "Please enter a valid number.",
+				"msg18": "The index must be between 1 and"
 			},
 			"cambiar": {
 				"msg1": "Your main account in Mia is:",

@@ -442,18 +442,24 @@
 				"msg19": "Autenticações externas:"
 			},
 			"borrar": {
-				"msg1": "Você não tem nenhuma conta registrada no Mia, use",
+				"msg1": "Você não tem nenhuma conta registrada na Mia, use",
 				"msg2": "para começar.",
-				"msg3": "Selecione uma conta para apagar",
+				"msg3": "Selecione uma conta para excluir",
 				"msg4": "Conta sem nome",
-				"msg5": "Apagar todas as contas do Mia",
-				"msg6": "Selecione a conta que deseja apagar:",
+				"msg5": "Excluir todas as contas da Mia",
+				"msg6": "Selecione a conta que deseja excluir",
 				"msg7": "A conta",
-				"msg8": "foi apagada do Mia.",
-				"msg9": "Todas as contas foram apagadas do Mia.",
-				"msg10": "Tempo esgotado. Por favor, execute o comando novamente se deseja apagar uma conta.",
-				"msg11": "Apagando o **deviceAuth** da conta...",
-				"msg12": "Apagando todos os **deviceAuth'** das contas..."
+				"msg8": "foi excluída da Mia.",
+				"msg9": "Todas as contas foram excluídas da Mia.",
+				"msg10": "Tempo esgotado. Por favor, execute o comando novamente se deseja excluir uma conta.",
+				"msg11": "Excluindo o **deviceAuth** da conta...",
+				"msg12": "Excluindo todos os **deviceAuth** das contas...",
+				"msg13": "Contas na Mia",
+				"msg14": "Excluir conta",
+				"msg15": "Índice da conta",
+				"msg16": "Exemplo: 5",
+				"msg17": "Por favor, insira um número válido.",
+				"msg18": "O índice deve estar entre 1 e"
 			},
 			"cambiar": {
 				"msg1": "A tua conta principal no Mia é:",

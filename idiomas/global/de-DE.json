@@ -458,18 +458,24 @@
 				"msg19": "Externe Auths:"
 			},
 			"borrar": {
-				"msg1": "Du hast kein Konto in Mia registriert, benutze",
+				"msg1": "Du hast kein Konto bei Mia registriert, benutze",
 				"msg2": "um zu beginnen.",
 				"msg3": "Wähle ein Konto zum Löschen aus",
-				"msg4": "Unbenanntes Konto",
+				"msg4": "Konto ohne Namen",
 				"msg5": "Alle Mia-Konten löschen",
-				"msg6": "Wähle das Konto, das du löschen möchtest:",
+				"msg6": "Wähle das Konto aus, das du löschen möchtest",
 				"msg7": "Das Konto",
-				"msg8": "wurde aus Mia gelöscht.",
-				"msg9": "Alle Konten wurden aus Mia gelöscht.",
+				"msg8": "wurde von Mia gelöscht.",
+				"msg9": "Alle Konten wurden von Mia gelöscht.",
 				"msg10": "Zeitüberschreitung. Bitte führe den Befehl erneut aus, wenn du ein Konto löschen möchtest.",
 				"msg11": "**deviceAuth** des Kontos wird gelöscht...",
-				"msg12": "Alle **deviceAuth** der Konten werden gelöscht..."
+				"msg12": "Alle **deviceAuth** der Konten werden gelöscht...",
+				"msg13": "Konten in Mia",
+				"msg14": "Konto löschen",
+				"msg15": "Kontoindex",
+				"msg16": "Beispiel: 5",
+				"msg17": "Bitte gib eine gültige Zahl ein.",
+				"msg18": "Der Index muss zwischen 1 und"
 			},
 			"cambiar": {
 				"msg1": "Dein Hauptkonto in Mia ist:",
