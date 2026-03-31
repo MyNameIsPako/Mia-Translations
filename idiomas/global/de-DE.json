@@ -659,7 +659,11 @@
 				"msg63": "Fehler(n)",
 				"msg64": "Gefundene Fehler:",
 				"msg65": "und",
-				"msg66": "mehr"
+				"msg66": "mehr",
+				"msg67": "\\`Schritt 1\\` Klicke auf die Schaltfläche unten",
+				"msg68": "\\`Schritt 2\\` Lade deine Datei \\`glowlauncher.json\\` im Chat hoch",
+				"msg69": "\\`Schritt 3\\` Der Bot wird deine Konten automatisch verarbeiten",
+				"msg70": "Funktioniert nur mit Dateien, die vom Glow Launcher generiert wurden"
 			},
 			"checkBan": {
 				"msg1": "Das Konto",

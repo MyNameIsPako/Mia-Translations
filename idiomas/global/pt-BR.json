@@ -643,7 +643,11 @@
 				"msg63": "Contas importadas:",
 				"msg64": "Contas com falha:",
 				"msg65": "Tentar novamente",
-				"msg66": "mais"
+				"msg66": "mais",
+				"msg67": "`Etapa 1` Clique no botão abaixo",
+				"msg68": "`Etapa 2` Envie seu arquivo `glowlauncher.json` no chat",
+				"msg69": "`Etapa 3` O bot irá processar suas contas automaticamente",
+				"msg70": "Funciona apenas com arquivos gerados pelo Glow Launcher"
 			},
 			"checkBan": {
 				"msg1": "A conta",

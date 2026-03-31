@@ -643,7 +643,11 @@
 				"msg63": "İçe aktarılan hesaplar:",
 				"msg64": "Başarısız hesaplar:",
 				"msg65": "Tekrar dene",
-				"msg66": "daha fazla"
+				"msg66": "daha fazla",
+				"msg67": "`Adım 1` Aşağıdaki butona tıkla",
+				"msg68": "`Adım 2` `glowlauncher.json` dosyanı sohbete yükle",
+				"msg69": "`Adım 3` Bot hesaplarını otomatik olarak işleyecek",
+				"msg70": "Sadece Glow Launcher tarafından oluşturulan dosyalarla çalışır"
 			},
 			"checkBan": {
 				"msg1": "Hesap",

@@ -643,7 +643,11 @@
 				"msg63": "Account importati:",
 				"msg64": "Account non riusciti:",
 				"msg65": "Riprova",
-				"msg66": "altro"
+				"msg66": "altro",
+				"msg67": "`Passaggio 1` Clicca sul pulsante qui sotto",
+				"msg68": "`Passaggio 2` Carica il tuo file `glowlauncher.json` nella chat",
+				"msg69": "`Passaggio 3` Il bot elaborerà automaticamente i tuoi account",
+				"msg70": "Funziona solo con file generati da Glow Launcher"
 			},
 			"checkBan": {
 				"msg1": "L'account",
