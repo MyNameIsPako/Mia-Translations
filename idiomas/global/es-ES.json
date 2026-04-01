@@ -929,7 +929,12 @@
 			"files": {
 				"msg1": "No se encontraron misiones para actualizar.",
 				"msg2": "Ocurrio un error al obtener el archivo:",
-				"msg3": "se genero correctamente."
+				"msg3": "se genero correctamente.",
+				"msg4": "High Level 50",
+				"msg5": "Low Level 50",
+				"msg6": "Workers:",
+				"msg7": "Heroes:",
+				"msg8": "Modified:"
 			}
 		},
 		"partida": {

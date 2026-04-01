@@ -913,7 +913,12 @@
 			"files": {
 				"msg1": "No missions found to update.",
 				"msg2": "An error occurred while retrieving the file:",
-				"msg3": "was successfully generated."
+				"msg3": "was generated successfully.",
+				"msg4": "High Level 50",
+				"msg5": "Low Level 50",
+				"msg6": "Workers:",
+				"msg7": "Heroes:",
+				"msg8": "Modified:"
 			}
 		},
 		"partida": {
@@ -956,8 +961,8 @@
 				"msg36": "users, players reinvited",
 				"msg37": "is not registered in Mia",
 				"msg38": "(continued)",
-				"msg39": "Removed and rewards were collected",
-				"msg40": "Removed, but there were no rewards to collect",
+				"msg39": "Kicked and rewards were collected",
+				"msg40": "Kicked, but there were no rewards to collect",
 				"msg41": "Rewards:",
 				"msg42": "Rewards (continued):"
 			}

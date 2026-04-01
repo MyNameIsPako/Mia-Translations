@@ -912,8 +912,13 @@
 			},
 			"files": {
 				"msg1": "Güncellenecek görev bulunamadı.",
-				"msg2": "Dosya alınırken hata oluştu:",
-				"msg3": "başarıyla oluşturuldu."
+				"msg2": "Dosya alınırken bir hata oluştu:",
+				"msg3": "başarıyla oluşturuldu.",
+				"msg4": "Yüksek Seviye 50",
+				"msg5": "Düşük Seviye 50",
+				"msg6": "İşçiler:",
+				"msg7": "Kahramanlar:",
+				"msg8": "Değiştirildi:"
 			}
 		},
 		"partida": {

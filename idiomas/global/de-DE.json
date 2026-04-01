@@ -927,9 +927,14 @@
 				"msg7": "Verwendungen:"
 			},
 			"files": {
-				"msg1": "Keine Missionen zum Aktualisieren gefunden.",
+				"msg1": "Es wurden keine Missionen zum Aktualisieren gefunden.",
 				"msg2": "Beim Abrufen der Datei ist ein Fehler aufgetreten:",
-				"msg3": "wurde erfolgreich erstellt."
+				"msg3": "wurde erfolgreich generiert.",
+				"msg4": "Hohes Level 50",
+				"msg5": "Niedriges Level 50",
+				"msg6": "Arbeiter:",
+				"msg7": "Helden:",
+				"msg8": "Geändert:"
 			}
 		},
 		"partida": {

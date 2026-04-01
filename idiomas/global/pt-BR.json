@@ -947,7 +947,12 @@
 			"files": {
 				"msg1": "Nenhuma missão encontrada para atualizar.",
 				"msg2": "Ocorreu um erro ao obter o arquivo:",
-				"msg3": "foi gerado com sucesso."
+				"msg3": "foi gerado com sucesso.",
+				"msg4": "Nível alto 50",
+				"msg5": "Nível baixo 50",
+				"msg6": "Trabalhadores:",
+				"msg7": "Heróis:",
+				"msg8": "Modificado:"
 			}
 		},
 		"partida": {

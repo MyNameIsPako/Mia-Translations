@@ -911,9 +911,14 @@
 				"msg7": "Utilisations :"
 			},
 			"files": {
-				"msg1": "Aucune mission à mettre à jour n'a été trouvée.",
-				"msg2": "Une erreur s'est produite lors de l'obtention du fichier:",
-				"msg3": "a été généré avec succès."
+				"msg1": "Aucune mission trouvée à mettre à jour.",
+				"msg2": "Une erreur s'est produite lors de la récupération du fichier :",
+				"msg3": "a été généré avec succès.",
+				"msg4": "Niveau élevé 50",
+				"msg5": "Niveau bas 50",
+				"msg6": "Travailleurs :",
+				"msg7": "Héros :",
+				"msg8": "Modifié :"
 			}
 		},
 		"partida": {

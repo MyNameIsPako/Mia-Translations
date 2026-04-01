@@ -947,7 +947,12 @@
 			"files": {
 				"msg1": "Nessuna missione trovata da aggiornare.",
 				"msg2": "Si è verificato un errore durante il recupero del file:",
-				"msg3": "è stato generato con successo."
+				"msg3": "è stato generato correttamente.",
+				"msg4": "Livello alto 50",
+				"msg5": "Livello basso 50",
+				"msg6": "Lavoratori:",
+				"msg7": "Eroi:",
+				"msg8": "Modificato:"
 			}
 		},
 		"partida": {
