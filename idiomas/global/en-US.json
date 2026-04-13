@@ -2704,7 +2704,9 @@
 		"msg54": "Destroy The Encampments",
 		"msg55": "There are no V-Bucks alerts available at the moment.",
 		"msg56": "alerts completed",
-		"msg57": "remaining"
+		"msg57": "remaining",
+		"msg58": "There are no legendary ranged weapon alerts today.",
+		"msg59": "There are no legendary melee weapon alerts today."
 	},
 	"permisosDiscord": {
 		"msg1": "Administrator",

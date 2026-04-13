@@ -2704,7 +2704,9 @@
 		"msg54": "Détruire les campements",
 		"msg55": "Il n'y a actuellement aucune alerte V-Bucks disponible.",
 		"msg56": "alertes complétées",
-		"msg57": "restantes"
+		"msg57": "restantes",
+		"msg58": "Il n'y a pas d'alertes d'armes à distance légendaires aujourd'hui.",
+		"msg59": "Il n'y a pas d'alertes d'armes de mêlée légendaires aujourd'hui."
 	},
 	"permisosDiscord": {
 		"msg1": "Administrateur",

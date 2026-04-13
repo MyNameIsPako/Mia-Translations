@@ -2720,7 +2720,9 @@
 		"msg54": "Zerstöre die Lager",
 		"msg55": "Derzeit sind keine V-Bucks-Alerts verfügbar.",
 		"msg56": "abgeschlossene Alerts",
-		"msg57": "verbleibend"
+		"msg57": "verbleibend",
+		"msg58": "Heute gibt es keine legendären Fernkampfwaffen-Alarme.",
+		"msg59": "Heute gibt es keine legendären Nahkampfwaffen-Alarme."
 	},
 	"permisosDiscord": {
 		"msg1": "Administrator",

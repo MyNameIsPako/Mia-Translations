@@ -2738,7 +2738,9 @@
 		"msg54": "Destruir os acampamentos",
 		"msg55": "Não há alertas de V-Bucks disponíveis no momento.",
 		"msg56": "alertas concluídos",
-		"msg57": "restantes"
+		"msg57": "restantes",
+		"msg58": "Não há alertas de armas à distância lendárias hoje.",
+		"msg59": "Não há alertas de armas corpo a corpo lendárias hoje."
 	},
 	"permisosDiscord": {
 		"msg1": "Administrador",

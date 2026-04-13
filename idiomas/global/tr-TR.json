@@ -2595,7 +2595,9 @@
 		"msg54": "Kampları yok et",
 		"msg55": "Şu anda mevcut V-Bucks uyarısı yok.",
 		"msg56": "tamamlanan uyarılar",
-		"msg57": "kalan"
+		"msg57": "kalan",
+		"msg58": "Bugün efsanevi menzilli silah uyarısı yok.",
+		"msg59": "Bugün efsanevi yakın dövüş silahı uyarısı yok."
 	},
 	"permisosDiscord": {
 		"msg1": "Yönetici",

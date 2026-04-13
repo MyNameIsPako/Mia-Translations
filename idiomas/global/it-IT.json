@@ -2740,7 +2740,9 @@
 		"msg54": "Distruggi gli accampamenti",
 		"msg55": "Non ci sono attualmente avvisi V-Bucks disponibili.",
 		"msg56": "avvisi completati",
-		"msg57": "rimanenti"
+		"msg57": "rimanenti",
+		"msg58": "Non ci sono avvisi di armi a distanza leggendarie oggi.",
+		"msg59": "Non ci sono avvisi di armi da mischia leggendarie oggi."
 	},
 	"permisosDiscord": {
 		"msg1": "Amministratore",
