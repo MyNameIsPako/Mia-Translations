@@ -1470,6 +1470,26 @@
 				"msg23": "Recompensas:",
 				"msg24": "Recompensas (continuación):",
 				"msg25": "No se obtuvieron recompensas (todas las expediciones fallaron)."
+			},
+			"inventario": {
+				"msg1": "Mochila",
+				"msg2": "Almacén",
+				"msg3": "Aventuras",
+				"msg4": "Inventario de la Mochila",
+				"msg5": "Inventario del Almacén",
+				"msg6": "Inventario de Aventuras",
+				"msg7": "No tienes ningun item en este inventario",
+				"foot1": "Pág."
+			},
+			"gamepanel": {
+				"msg1": "Loadout",
+				"msg2": "Heroes",
+				"msg3": "Defenders",
+				"msg4": "Gadgets",
+				"msg5": "Expulsar",
+				"msg6": "Expulsar y recolectar",
+				"msg7": "Expulsar y recolectar a todos",
+				"msg8": "Expulsar, recolectar e invitar a todos"
 			}
 		}
 	},
@@ -2245,16 +2265,6 @@
 				"msg40": "****Unicamente mostramos los heroes mas recomendados***",
 				"msg41": "Lineas de misiones",
 				"msg42": "*Algunas fechas pueden varias dependiendo de Fortnite pero normalmente no pasa."
-			},
-			"inventario": {
-				"msg1": "Mochila",
-				"msg2": "Almacén",
-				"msg3": "Aventuras",
-				"msg4": "Inventario de la Mochila",
-				"msg5": "Inventario del Almacén",
-				"msg6": "Inventario de Aventuras",
-				"msg7": "No tienes ningun item en este inventario",
-				"foot1": "Pág."
 			}
 		},
 		"juego": {

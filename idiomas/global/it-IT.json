@@ -1486,6 +1486,16 @@
 				"msg6": "Inventario delle avventure",
 				"msg7": "Non hai nessun oggetto in questo inventario",
 				"foot1": "Pag."
+			},
+			"gamepanel": {
+				"msg1": "Loadout",
+				"msg2": "Eroi",
+				"msg3": "Difensori",
+				"msg4": "Gadget",
+				"msg5": "Espelli",
+				"msg6": "Espelli e raccogli",
+				"msg7": "Espelli e raccogli tutto",
+				"msg8": "Espelli, raccogli e invita tutti"
 			}
 		}
 	},

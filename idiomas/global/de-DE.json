@@ -1468,6 +1468,16 @@
 				"msg6": "Abenteuer-Inventar",
 				"msg7": "Du hast keine Gegenstände in diesem Inventar",
 				"foot1": "Seite"
+			},
+			"gamepanel": {
+				"msg1": "Loadout",
+				"msg2": "Heroes",
+				"msg3": "Defenders",
+				"msg4": "Gadgets",
+				"msg5": "Expulsar",
+				"msg6": "Expulsar y recolectar",
+				"msg7": "Expulsar y recolectar a todos",
+				"msg8": "Expulsar, recolectar e invitar a todos"
 			}
 		}
 	},

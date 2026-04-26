@@ -1486,6 +1486,16 @@
 				"msg6": "Inventário de Aventuras",
 				"msg7": "Você não tem nenhum item neste inventário",
 				"foot1": "Pág."
+			},
+			"gamepanel": {
+				"msg1": "Loadout",
+				"msg2": "Herói",
+				"msg3": "Defensor",
+				"msg4": "Acessório",
+				"msg5": "Expulsar",
+				"msg6": "Expulsar e coletar",
+				"msg7": "Expulsar todos e coletar",
+				"msg8": "Expulsar, coletar e convidar todos"
 			}
 		}
 	},
