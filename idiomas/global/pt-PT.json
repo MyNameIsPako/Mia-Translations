@@ -897,7 +897,7 @@
 				"msg17": "Agora você está apoiando o código do criador",
 				"msg18": "Atualmente você está apoiando",
 				"msg19": "Você não está apoiando nenhum criador atualmente.",
-				"msg20": "O código **\"MiaBOT\"** só pode ser adicionado através do jogo ou no site da Epic Games.",
+				"msg20": "O código **\"NotMia\"** só pode ser adicionado através do jogo ou no site da Epic Games.",
 				"msg21": "O código",
 				"msg22": "não existe, verifique se está correto ou tente outro."
 			},
@@ -1496,6 +1496,21 @@
 				"msg6": "Expulsar e coletar",
 				"msg7": "Expulsar todos e coletar",
 				"msg8": "Expulsar, coletar e convidar todos"
+			},
+			"fastswap": {
+				"msg1": "O formato do tempo não é válido, você precisa informar se são minutos (m) ou segundos (s). Ex: 5m, 30s, 1m",
+				"msg2": "Os segundos devem estar entre 1 e 599",
+				"msg3": "Os minutos devem estar entre 1 e 10",
+				"msg4": "Você precisa me informar um loadout válido entre 1 e",
+				"msg5": "Nenhum loadout válido foi selecionado.",
+				"msg6": "Você deve selecionar exatamente um loadout se nenhum temporizador for definido.",
+				"msg7": "O temporizador do FastSwap foi definido para trocar para o loadout **${loadout.attributes.loadout_name}** a cada **${tiempo}** segundos.",
+				"msg8": "FastSwap concluído.",
+				"msg9": "**Loadout atual:**",
+				"msg10": "Você deve selecionar exatamente dois loadouts se um temporizador for definido.",
+				"msg11": "Rotação do FastSwap",
+				"msg12": "concluída.",
+				"msg13": "**Próxima rotação:**"
 			}
 		}
 	},
@@ -1699,7 +1714,7 @@
 				"msg12": "Preço:",
 				"msg13": "Sai da loja:",
 				"msg14": "Aplicar um filtro à loja",
-				"msg15": "Ver a loja na web (SAC do MiaBOT aplicado)"
+				"msg15": "Ver a loja na web (SAC do NotMia aplicado)"
 			}
 		},
 		"config": {
@@ -1903,14 +1918,14 @@
 				"msg3": "Você desativou o alerta de DM da **Loja BR**",
 				"msg4": "Você ativou o alerta de DM dos **Alertas de V-Bucks**\n\n> Se aparecerem V-Bucks, vou te enviar o alerta por DM. Certifique-se de que seus DMs estão abertos para que eu possa te enviar a mensagem.",
 				"msg5": "Você desativou o alerta de DM dos **V-Bucks**",
-				"msg6": "Você ativou o alerta de DM de **V-Bucks x MiaBOT.**\n\n> Se aparecerem V-Bucks, vou te enviar o alerta pelo chat do Fortnite. Certifique-se de ter a Mia adicionada no Fortnite, o ID da conta é `MiaBOT.`.",
-				"msg7": "Você desativou o alerta de DM de **V-Bucks x MiaBOT.**",
+				"msg6": "Você ativou o alerta de DM de **V-Bucks x MiaDiscordBot.**\n\n> Se aparecerem V-Bucks, vou te enviar o alerta pelo chat do Fortnite. Certifique-se de ter a Mia adicionada no Fortnite, o ID da conta é `MiaDiscordBot.`.",
+				"msg7": "Você desativou o alerta de DM de **V-Bucks x MiaDiscordBot.**",
 				"msg8": "Você ativou o alerta de DM de **Novos vazamentos**\n\n> Quando a Mia detectar novos vazamentos, ela vai te enviar a imagem por DM. Certifique-se de que seus DMs estão abertos para que eu possa te enviar a mensagem.",
 				"msg9": "Você desativou o alerta de DM de **Novos vazamentos**",
 				"msg10": "Alerta de V-Bucks",
 				"msg11": "Loja BR",
 				"msg12": "Novos vazamentos",
-				"msg13": "V-Bucks x MiaBOT",
+				"msg13": "V-Bucks x MiaDiscordBot",
 				"msg14": "Sistemas premium exclusivos"
 			}
 		},
@@ -2129,18 +2144,18 @@
 			"rota": {
 				"msg1": "Rotaciones de los eventos de STW",
 				"msg2": "Esta guía contiene información detallada de las temporadas de Salvar el Mundo. Se informan temporada de aventuras, fechas referenciales, recompensas, eventos, misiones y llamas.",
-				"msg3": "Créditos y agradecimientos a Camilo Contreras & Equipo de MiaBot.",
+				"msg3": "Créditos y agradecimientos a Camilo Contreras & Equipo de Mia.",
 				"msg4": "pág inicial",
 				"msg5": "Hoja de ruta:",
 				"msg6": " | `Donde estas ahora mismo`.\n> <:uno:853070181251940362> | `Temporada de Pradera Plácida`\n> <:dos:853070182246776862> | `Temporada de Estiaje Escorbuto`\n> <:tres:853070181981880380> | `Temporada de Erial Estallado`\n> <:cuatro:853070182204571648> | `Temporada de Mansilvania`\n> <:cinco:853070182519799868> | `Temporada de Festival de Invierno`",
 				"msg7": "Rotación de Enero hasta Marzo",
 				"msg8": "Pradera Plácida:",
 				"msg9": "Esta imagen muestra en detalle la temporadas de Pradera Plácida. Se informan además, fechas referenciales, recompensas, misiones y llamas. Por favor, apreciar con cuidado.",
-				"msg10": "Créditos y agradecimientos a **Camilo Contreras** & **Equipo de MiaBot**.",
+				"msg10": "Créditos y agradecimientos a **Camilo Contreras** & **Equipo de Mia**.",
 				"msg11": "Rotación de Abril hasta Junio",
 				"msg12": "Estiaje Escorbuto:",
 				"msg13": "Esta imagen muestra en detalle la temporadas de Estiaje Escorbuto. Se informan además, fechas referenciales, recompensas, misiones y llamas. Por favor, apreciar con cuidado.",
-				"msg14": "Créditos y agradecimientos a **Camilo Contreras** & **Equipo de MiaBot**.",
+				"msg14": "Créditos y agradecimientos a **Camilo Contreras** & **Equipo de Mia**.",
 				"msg15": "Rotación de Junio hasta Agosto",
 				"msg16": "Erial Estallado:",
 				"msg17": "Esta imagen muestra en detalle la temporadas de Erial Estallado. Se informan además, fechas referenciales, recompensas, misiones y llamas. Por favor, apreciar con cuidado.",
@@ -2515,7 +2530,7 @@
 		"msg40": "`/registrar` - Regista a tua conta da EpicGames na Mia\n`/cambiar` - Alterna entre as tuas contas\n`/configuraciones` - Configura a tua conta na Mia\n`mg` - Guarda o progresso da missão",
 		"msg41": "Verifica a lista completa de comandos usando /ayuda.",
 		"msg42": "<:betatester:1304644962285256754> Este bot é exclusivo para os beta testers da Mia.\n> ${emojis.bombilla} Se você quer ser um tester da Mia, aguarde a abertura das inscrições em https://discord.com/channels/756859004965093426/1301701450157658193.",
-		"msg43": "Para usar este comando, você precisa adicionar o código **\"MiaBOT\"** no jogo ou no site da Epic Games.",
+		"msg43": "Para usar este comando, você precisa adicionar o código **\"NotMia\"** no jogo ou no site da Epic Games.",
 		"msg44": "Ocorreu um erro ao verificar o código, se o erro persistir, entre em contato com o suporte da Mia.",
 		"msg45": "Para usar este comando, você precisa possuir o modo **\"Salvar o Mundo\"** do Fortnite.",
 		"msg47": "Este comando só pode ser usado em um servidor.",
