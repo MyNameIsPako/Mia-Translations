@@ -2771,7 +2771,9 @@
 		"msg80": "Derzeit sind keine EVO x4-Materialalarme verfügbar.",
 		"msg81": "Seite",
 		"msg82": "Alle",
-		"msg83": "**Alarmbelohnungen:**"
+		"msg83": "**Alarmbelohnungen:**",
+		"msg84": "Gesamtmissionen:",
+		"msg85": "Gesamte V-Bucks"
 	},
 	"permisosDiscord": {
 		"msg1": "Administrator",

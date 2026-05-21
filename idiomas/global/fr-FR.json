@@ -2755,7 +2755,9 @@
 		"msg80": "Aucune alerte de matériau EVO x4 n'est disponible actuellement.",
 		"msg81": "Page",
 		"msg82": "Tous",
-		"msg83": "**Récompenses de l'alerte :**"
+		"msg83": "**Récompenses de l'alerte :**",
+		"msg84": "Missions totales :",
+		"msg85": "V-Bucks totaux"
 	},
 	"permisosDiscord": {
 		"msg1": "Administrateur",

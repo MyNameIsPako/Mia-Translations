@@ -2646,7 +2646,9 @@
 		"msg80": "Şu anda mevcut EVO x4 malzeme uyarısı yok.",
 		"msg81": "Sayfa",
 		"msg82": "Hepsi",
-		"msg83": "**Uyarı ödülleri:**"
+		"msg83": "**Uyarı ödülleri:**",
+		"msg84": "Toplam görevler:",
+		"msg85": "Toplam V-Bucks"
 	},
 	"permisosDiscord": {
 		"msg1": "Yönetici",

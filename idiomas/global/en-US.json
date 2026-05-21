@@ -2755,7 +2755,9 @@
 		"msg80": "There are currently no EVO x4 material alerts available.",
 		"msg81": "Page",
 		"msg82": "All",
-		"msg83": "**Alert rewards:**"
+		"msg83": "**Alert rewards:**",
+		"msg84": "Total missions:",
+		"msg85": "Total V-Bucks"
 	},
 	"permisosDiscord": {
 		"msg1": "Administrator",
