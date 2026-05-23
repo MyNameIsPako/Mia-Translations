@@ -1472,7 +1472,7 @@
         "msg44": "${emojis.uncheck} 此构建已不存在。请再次使用 `/build crear` 创建新的构建。",
         "msg45": "构建 ${page}/${total} | ${up} 👍 ${down} 👎",
         "msg46": "Mia最受投票的构建",
-        "msg47": "**${rank}.** **${presetName}** — ${author} | ${up} 👍 ${down} 👎",
+        "msg47": "**${rank}.** **${presetName}** ( ${author} ) | ${up} 👍 ${down} 👎",
         "msg48": "${emojis.uncheck} 目前还没有人发布构建。你可以使用 `/build crear` 成为第一个。",
         "msg49": "使用 /build buscar <preset> 搜索构建",
         "msg50": "显示投票数前 ${limit} 的构建",

@@ -1438,7 +1438,7 @@
         "msg44": "${emojis.uncheck} Bu yapı artık mevcut değil. Yeni bir tane oluşturmak için tekrar `/build crear` kullan.",
         "msg45": "Yapı ${page}/${total} | ${up} 👍 ${down} 👎",
         "msg46": "Mia'nın en çok oylanan yapıları",
-        "msg47": "**${rank}.** **${presetName}** — ${author} | ${up} 👍 ${down} 👎",
+        "msg47": "**${rank}.** **${presetName}** ( ${author} ) | ${up} 👍 ${down} 👎",
         "msg48": "${emojis.uncheck} Şu ana kadar kimse yapı yayınlamadı. `/build crear` kullanarak ilk sen olabilirsin.",
         "msg49": "/build buscar <preset> ile bir yapı ara",
         "msg50": "En çok oylanan ${limit} yapı gösteriliyor",

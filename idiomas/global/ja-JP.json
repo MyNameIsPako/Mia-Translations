@@ -1472,7 +1472,7 @@
         "msg44": "${emojis.uncheck} このビルドはもう存在しません。新しく作成するには `/build crear` を再度使用してください。",
         "msg45": "ビルド ${page}/${total} | ${up} 👍 ${down} 👎",
         "msg46": "Miaで最も投票されたビルド",
-        "msg47": "**${rank}.** **${presetName}** — ${author} | ${up} 👍 ${down} 👎",
+        "msg47": "**${rank}.** **${presetName}** ( ${author} ) | ${up} 👍 ${down} 👎",
         "msg48": "${emojis.uncheck} まだ誰もビルドを公開していません。`/build crear` を使って最初の一人になれます。",
         "msg49": "/build buscar <preset> でビルドを検索してください",
         "msg50": "投票数上位 ${limit} 件のビルドを表示中",

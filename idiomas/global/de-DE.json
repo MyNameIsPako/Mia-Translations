@@ -1456,7 +1456,7 @@
         "msg44": "${emojis.uncheck} Diese Build existiert nicht mehr. Verwende erneut `/build crear`, um eine neue zu erstellen.",
         "msg45": "Build ${page}/${total} | ${up} 👍 ${down} 👎",
         "msg46": "Top der am meisten gevoteten Builds von Mia",
-        "msg47": "**${rank}.** **${presetName}** — ${author} | ${up} 👍 ${down} 👎",
+        "msg47": "**${rank}.** **${presetName}** ( ${author} ) | ${up} 👍 ${down} 👎",
         "msg48": "${emojis.uncheck} Bisher hat niemand eine Build veröffentlicht. Du kannst der Erste sein mit `/build crear`.",
         "msg49": "Suche eine Build mit /build buscar <preset>",
         "msg50": "Zeige die ${limit} am meisten gevoteten Builds",
