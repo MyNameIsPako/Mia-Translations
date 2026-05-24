@@ -1774,7 +1774,10 @@
         "msg30": "Du hast keine Alarme aktiviert, bitte aktiviere einen, bevor du diesen Befehl benutzt.",
         "msg31": "Dieser Alarm ist nicht aktiviert.",
         "msg32": "Alarme erfolgreich gelöscht, es gibt keine aktiven Alarme auf dem Server.",
-        "msg33": "Du hast keine aktiven Alarme auf dem Server."
+        "msg33": "Du hast keine aktiven Alarme auf dem Server.",
+        "msg34": "Sendetyp:",
+        "msg35": "Embed",
+        "msg36": "Bild"
       }
     },
     "extras": {

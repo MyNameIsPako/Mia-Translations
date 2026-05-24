@@ -1756,7 +1756,10 @@
         "msg30": "You don't have any alerts activated, activate one before using this command",
         "msg31": "This alert is not activated",
         "msg32": "Alerts successfully purged, there are no active alerts on the server.",
-        "msg33": "You don't have any active alerts on the server."
+        "msg33": "You don't have any active alerts on the server.",
+        "msg34": "Delivery type:",
+        "msg35": "Embed",
+        "msg36": "Image"
       }
     },
     "extras": {

@@ -1755,7 +1755,10 @@
         "msg30": "Vous n'avez aucune alerte activée, activez-en une avant d'utiliser cette commande",
         "msg31": "Cette alerte n'est pas activée",
         "msg32": "Alertes purgées avec succès, il n'y a plus d'alertes actives sur le serveur.",
-        "msg33": "Vous n'avez aucune alerte active sur le serveur."
+        "msg33": "Vous n'avez aucune alerte active sur le serveur.",
+        "msg34": "Type d'envoi :",
+        "msg35": "Embed",
+        "msg36": "Image"
       }
     },
     "extras": {

@@ -1756,7 +1756,10 @@
         "msg30": "Hiçbir uyarın etkin değil, bu komutu kullanmadan önce birini etkinleştir.",
         "msg31": "Bu uyarı etkin değil.",
         "msg32": "Uyarılar başarıyla silindi, sunucuda etkin uyarı yok.",
-        "msg33": "Sunucuda etkin uyarın yok."
+        "msg33": "Sunucuda etkin uyarın yok.",
+        "msg34": "Gönderim türü:",
+        "msg35": "Embed",
+        "msg36": "Görsel"
       },
       "extras": {
         "ayuda": {

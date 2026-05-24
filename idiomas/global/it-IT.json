@@ -1789,7 +1789,10 @@
         "msg30": "Non hai nessun avviso attivato, attivane uno prima di usare questo comando",
         "msg31": "Questo avviso non è attivato",
         "msg32": "Avvisi eliminati correttamente, non ci sono più avvisi attivi sul server.",
-        "msg33": "Non hai nessun avviso attivo sul server."
+        "msg33": "Non hai nessun avviso attivo sul server.",
+        "msg34": "Tipo di invio:",
+        "msg35": "Embed",
+        "msg36": "Immagine"
       }
     },
     "extras": {
