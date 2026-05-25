@@ -1483,14 +1483,20 @@
         "msg25": "No rewards obtained (all expeditions failed)."
       },
       "inventario": {
-        "msg1": "Mochila",
-        "msg2": "Almacén",
-        "msg3": "Aventuras",
-        "msg4": "Inventario de la Mochila",
-        "msg5": "Inventario del Almacén",
-        "msg6": "Inventario de Aventuras",
-        "msg7": "No tienes ningun item en este inventario",
-        "foot1": "Pág."
+        "msg1": "Backpack",
+        "msg2": "Storage",
+        "msg3": "Ventures",
+        "msg4": "Backpack Inventory",
+        "msg5": "Storage Inventory",
+        "msg6": "Ventures Inventory",
+        "msg7": "You have no items in this inventory",
+        "foot1": "Page",
+        "msg8": "1 stack",
+        "msg9": "{n} stacks",
+        "footPrefix": "Support Mia with code ",
+        "footSuffix": " in the Fortnite Item Shop",
+        "formatTexto": "Text",
+        "formatImagen": "Image"
       },
       "gamepanel": {
         "msg1": "Loadout",

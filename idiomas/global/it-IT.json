@@ -1523,7 +1523,13 @@
         "msg5": "Inventario del magazzino",
         "msg6": "Inventario delle avventure",
         "msg7": "Non hai nessun oggetto in questo inventario",
-        "foot1": "Pag."
+        "foot1": "Pag.",
+        "msg8": "1 pila",
+        "msg9": "{n} pile",
+        "footPrefix": "Supporta Mia con il codice ",
+        "footSuffix": " nel Negozio di Fortnite",
+        "formatTexto": "Testo",
+        "formatImagen": "Immagine"
       },
       "gamepanel": {
         "msg1": "Loadout",

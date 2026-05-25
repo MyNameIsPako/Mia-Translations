@@ -1489,7 +1489,13 @@
         "msg5": "Inventaire du stockage",
         "msg6": "Inventaire des aventures",
         "msg7": "Tu n'as aucun objet dans cet inventaire",
-        "foot1": "Page"
+        "foot1": "Page",
+        "msg8": "1 pile",
+        "msg9": "{n} piles",
+        "footPrefix": "Soutiens Mia avec le code ",
+        "footSuffix": " dans la boutique Fortnite",
+        "formatTexto": "Texte",
+        "formatImagen": "Image"
       },
       "gamepanel": {
         "msg1": "Loadout",

@@ -1524,7 +1524,13 @@
         "msg5": "仓库库存",
         "msg6": "冒险库存",
         "msg7": "此库存中没有物品",
-        "foot1": "页"
+        "foot1": "页",
+        "msg8": "1组",
+        "msg9": "{n}组",
+        "footPrefix": "在 Fortnite 物品商店使用代码 ",
+        "footSuffix": " 支持 Mia",
+        "formatTexto": "文本",
+        "formatImagen": "图片"
       },
       "gamepanel": {
         "msg1": "预设",

@@ -1488,8 +1488,14 @@
         "msg4": "Inventario de la Mochila",
         "msg5": "Inventario del Almacén",
         "msg6": "Inventario de Aventuras",
-        "msg7": "No tienes ningun item en este inventario",
-        "foot1": "Pág."
+        "msg7": "No tienes ningún item en este inventario",
+        "foot1": "Pág.",
+        "msg8": "1 pila",
+        "msg9": "{n} pilas",
+        "footPrefix": "Apoya a Mia con el código ",
+        "footSuffix": " en la Tienda de Fortnite",
+        "formatTexto": "Texto",
+        "formatImagen": "Imagen"
       },
       "gamepanel": {
         "msg1": "Loadout",

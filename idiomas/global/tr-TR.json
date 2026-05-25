@@ -1490,7 +1490,13 @@
         "msg5": "Depo Envanteri",
         "msg6": "Macera Envanteri",
         "msg7": "Bu envanterde hiç eşyan yok",
-        "foot1": "Sayfa"
+        "foot1": "Sayfa",
+        "msg8": "1 yığın",
+        "msg9": "{n} yığın",
+        "footPrefix": "Fortnite Item Shop'ta ",
+        "footSuffix": " koduyla Mia'yı destekle",
+        "formatTexto": "Metin",
+        "formatImagen": "Görsel"
       },
       "gamepanel": {
         "msg1": "Yükleme düzeni",

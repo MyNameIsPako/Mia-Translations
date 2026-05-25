@@ -1508,7 +1508,13 @@
         "msg5": "Lager-Inventar",
         "msg6": "Abenteuer-Inventar",
         "msg7": "Du hast keine Gegenstände in diesem Inventar",
-        "foot1": "Seite"
+        "foot1": "Seite",
+        "msg8": "1 Stapel",
+        "msg9": "{n} Stapel",
+        "footPrefix": "Unterstütze Mia mit dem Code ",
+        "footSuffix": " im Fortnite Item Shop",
+        "formatTexto": "Text",
+        "formatImagen": "Bild"
       },
       "gamepanel": {
         "msg1": "Loadout",

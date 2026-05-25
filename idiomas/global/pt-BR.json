@@ -1523,7 +1523,13 @@
         "msg5": "Inventário do Armazém",
         "msg6": "Inventário de Aventuras",
         "msg7": "Você não tem nenhum item neste inventário",
-        "foot1": "Pág."
+        "foot1": "Pág.",
+        "msg8": "1 pilha",
+        "msg9": "{n} pilhas",
+        "footPrefix": "Apoie a Mia com o código ",
+        "footSuffix": " na Loja de Itens do Fortnite",
+        "formatTexto": "Texto",
+        "formatImagen": "Imagem"
       },
       "gamepanel": {
         "msg1": "Loadout",
