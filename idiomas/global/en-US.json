@@ -1725,7 +1725,8 @@
         "msg12": "Price:",
         "msg13": "Leaves the store:",
         "msg14": "Apply a filter to the store",
-        "msg15": "View the store on the web"
+        "msg15": "View the store on the web",
+        "msg16": "Backpacks"
       }
     },
     "config": {
