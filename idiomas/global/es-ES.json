@@ -662,21 +662,21 @@
         "msg64": "Errores:",
         "msg65": "y",
         "msg66": "más",
-        "msg67": "`Paso 1` Pulsa **Adjuntar archivo**",
-        "msg68": "`Paso 2` Adjunta tu archivo **glowlauncher.json**",
-        "msg69": "`Paso 3` Mia registrará las cuentas de tu export de Glow Launcher",
-        "msg70": "Exporta el JSON desde Glow Launcher y súbelo aquí",
+        "msg67": "\\`Paso 1\\` Pulsa **Adjuntar archivo**",
+        "msg68": "\\`Paso 2\\` Adjunta tu archivo **glowlauncher.json**",
+        "msg69": "\\`Paso 3\\` Mia registrará las cuentas de tu export de Glow Launcher",
+        "msg70": "Exporta con /glow-export en MD o desde Glow Launcher → Cuentas → Exportar JSON",
         "msg71": "Adjuntar archivo",
         "msg72": "Importar cuentas desde Mia Launcher",
         "msg73": "`Paso 2` Adjunta tu **mialauncher.json** (también acepta glowlauncher.json)",
         "msg74": "Importar cuentas (JSON)",
         "msg75": "Archivo mialauncher.json",
         "msg76": "Selecciona tu **mialauncher.json** (launcher o /mia-export en MD).",
-        "msg77": "`Paso 2` Adjunta tu archivo **mialauncher.json**",
+        "msg77": "\\`Paso 2\\` Adjunta tu archivo **mialauncher.json**",
         "msg78": "Exporta con /mia-export en MD o desde Mia Launcher → Cuentas → Exportar JSON",
         "msg79": "El archivo contiene secretos de tus cuentas. No lo compartas.",
         "msg86": "El JSON no es válido. Usa un export de Mia Launcher o /mia-export.",
-        "msg87": "`Paso 3` Mia registrará las cuentas de tu export de Mia Launcher"
+        "msg87": "\\`Paso 3\\` Mia registrará las cuentas de tu export de Mia Launcher"
       },
       "checkBan": {
         "msg1": "La cuenta",
@@ -2896,11 +2896,11 @@
   "glow": {
     "msg1": "Se exportaron",
     "msg2": "cuentas para **Glow Launcher**",
-    "msg3": "Este archivo contiene toda la información de tus cuentas, no lo compartas con nadie y elimínalo después de usarlo si alguien tiene acceso a él podria registrar tus cuentas."
+    "msg3": "Este archivo contiene toda la información de tus cuentas. No lo compartas y elimínalo después de usarlo."
   },
   "mia": {
     "msg1": "Se exportaron",
     "msg2": "cuentas para **Mia Launcher**",
-    "msg3": "Este archivo contiene toda la información de tus cuentas, no lo compartas con nadie y elimínalo después de usarlo. Si alguien tiene acceso podría registrar tus cuentas."
+    "msg3": "Este archivo contiene toda la información de tus cuentas. No lo compartas y elimínalo después de usarlo."
   }
 }
