@@ -647,9 +647,9 @@
         "msg64": "Erros:",
         "msg65": "e",
         "msg66": "mais",
-        "msg67": "\\`Passo 1\\` Clique em **Anexar arquivo**",
-        "msg68": "\\`Passo 2\\` Envie seu arquivo **glowlauncher.json**",
-        "msg69": "\\`Passo 3\\` A Mia registrará todas as contas do seu export do Glow Launcher",
+        "msg67": "`Passo 1` Clique em **Anexar arquivo**",
+        "msg68": "`Passo 2` Envie seu arquivo **glowlauncher.json**",
+        "msg69": "`Passo 3` A Mia registrará todas as contas do seu export do Glow Launcher",
         "msg70": "Exporte com /glow-export no MD ou Glow Launcher → Contas → Exportar JSON",
         "msg71": "Anexar arquivo",
         "msg72": "Importar contas do Mia Launcher",
@@ -657,11 +657,11 @@
         "msg74": "Importar contas (JSON)",
         "msg75": "Arquivo mialauncher.json",
         "msg76": "Selecione seu **mialauncher.json** (launcher ou /mia-export no MD).",
-        "msg77": "\\`Passo 2\\` Envie seu arquivo **mialauncher.json**",
+        "msg77": "`Passo 2` Envie seu arquivo **mialauncher.json**",
         "msg78": "Exporte com /mia-export no MD ou Mia Launcher → Contas → Exportar JSON",
         "msg79": "O arquivo contém segredos das contas. Não compartilhe.",
         "msg86": "JSON inválido. Use export do Mia Launcher ou /mia-export.",
-        "msg87": "\\`Passo 3\\` A Mia registrará todas as contas do seu export do Mia Launcher"
+        "msg87": "`Passo 3` A Mia registrará todas as contas do seu export do Mia Launcher"
       },
       "checkBan": {
         "msg1": "A conta",

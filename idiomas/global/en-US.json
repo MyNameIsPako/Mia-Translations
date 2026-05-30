@@ -648,9 +648,9 @@
         "msg64": "Errors:",
         "msg65": "and",
         "msg66": "more",
-        "msg67": "\\`Step 1\\` Click **Attach file**",
-        "msg68": "\\`Step 2\\` Upload your **glowlauncher.json** file",
-        "msg69": "\\`Step 3\\` Mia will register every account from your Glow Launcher export",
+        "msg67": "`Step 1` Click **Attach file**",
+        "msg68": "`Step 2` Upload your **glowlauncher.json** file",
+        "msg69": "`Step 3` Mia will register every account from your Glow Launcher export",
         "msg70": "Export with /glow-export in DMs or Glow Launcher → Accounts → Export JSON",
         "msg71": "Attach file",
         "msg72": "Import accounts from Mia Launcher",
@@ -658,11 +658,11 @@
         "msg74": "Import accounts (JSON)",
         "msg75": "mialauncher.json file",
         "msg76": "Select your **mialauncher.json** (launcher or /mia-export in DMs).",
-        "msg77": "\\`Step 2\\` Upload your **mialauncher.json** file",
+        "msg77": "`Step 2` Upload your **mialauncher.json** file",
         "msg78": "Export with /mia-export in DMs or Mia Launcher → Accounts → Export JSON",
         "msg79": "This file contains account secrets. Do not share it.",
         "msg86": "Invalid JSON. Use an export from Mia Launcher or /mia-export.",
-        "msg87": "\\`Step 3\\` Mia will register every account from your Mia Launcher export"
+        "msg87": "`Step 3` Mia will register every account from your Mia Launcher export"
       },
       "checkBan": {
         "msg1": "The account",

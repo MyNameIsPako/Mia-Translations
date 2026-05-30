@@ -648,9 +648,9 @@
         "msg64": "Hatalar:",
         "msg65": "ve",
         "msg66": "daha fazla",
-        "msg67": "\\`Adım 1\\` **Dosya ekle** düğmesine tıkla",
-        "msg68": "\\`Adım 2\\` **glowlauncher.json** dosyanı yükle",
-        "msg69": "\\`Adım 3\\` Mia, Glow Launcher dışa aktarımındaki tüm hesapları kaydeder",
+        "msg67": "`Adım 1` **Dosya ekle** düğmesine tıkla",
+        "msg68": "`Adım 2` **glowlauncher.json** dosyanı yükle",
+        "msg69": "`Adım 3` Mia, Glow Launcher dışa aktarımındaki tüm hesapları kaydeder",
         "msg70": "MD'de /glow-export veya Glow Launcher → Hesaplar → JSON dışa aktar",
         "msg71": "Dosya ekle",
         "msg72": "Mia Launcher'dan hesap içe aktar",
@@ -658,11 +658,11 @@
         "msg74": "Hesap içe aktar (JSON)",
         "msg75": "mialauncher.json dosyası",
         "msg76": "**mialauncher.json** dosyanı seç (launcher veya MD'de /mia-export).",
-        "msg77": "\\`Adım 2\\` **mialauncher.json** dosyanı yükle",
+        "msg77": "`Adım 2` **mialauncher.json** dosyanı yükle",
         "msg78": "MD'de /mia-export veya Mia Launcher → Hesaplar → JSON dışa aktar",
         "msg79": "Dosya hesap gizli bilgilerini içerir. Paylaşma.",
         "msg86": "Geçersiz JSON. Mia Launcher veya /mia-export dışa aktarımı kullan.",
-        "msg87": "\\`Adım 3\\` Mia, Mia Launcher dışa aktarımındaki tüm hesapları kaydeder"
+        "msg87": "`Adım 3` Mia, Mia Launcher dışa aktarımındaki tüm hesapları kaydeder"
       },
       "checkBan": {
         "msg1": "Hesap",
