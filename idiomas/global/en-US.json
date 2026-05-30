@@ -440,9 +440,10 @@
         "msg14": "Deleted",
         "msg15": "external auths from",
         "msg16": "Preserved",
-        "msg17": "Mia auths.",
+        "msg17": "Mia and launcher auths.",
         "msg18": "Mia Auths:",
-        "msg19": "External Auths:"
+        "msg19": "External Auths:",
+        "msg20": "This device auth belongs to [Mia Launcher](https://miadsc.xyz)"
       },
       "borrar": {
         "msg1": "You don't have any account registered in Mia, use",

@@ -458,9 +458,10 @@
         "msg14": "Gelöscht",
         "msg15": "externe Auths von",
         "msg16": "Behalten",
-        "msg17": "Mia-Auths.",
+        "msg17": "Mia- und Launcher-Auths.",
         "msg18": "Mia-Auths:",
-        "msg19": "Externe Auths:"
+        "msg19": "Externe Auths:",
+        "msg20": "Diese Geräteauthentifizierung gehört zum [Mia Launcher](https://miadsc.xyz)"
       },
       "borrar": {
         "msg1": "Du hast kein Konto bei Mia registriert, benutze",

@@ -439,9 +439,10 @@
         "msg14": "Se eliminaron",
         "msg15": "auths ajenos de",
         "msg16": "Se conservaron",
-        "msg17": "auths de Mia.",
+        "msg17": "auths de Mia y del launcher.",
         "msg18": "Auths de Mia:",
-        "msg19": "Auths ajenos:"
+        "msg19": "Auths ajenos:",
+        "msg20": "Este device Auth pertenece al [Mia Launcher](https://miadsc.xyz)"
       },
       "borrar": {
         "msg1": "No tienes ninguna cuenta registrada en Mia, usa",

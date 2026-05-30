@@ -440,9 +440,10 @@
         "msg14": "已删除",
         "msg15": "外部身份验证从",
         "msg16": "已保留",
-        "msg17": "Mia身份验证。",
+        "msg17": "Mia和Launcher身份验证。",
         "msg18": "Mia身份验证：",
-        "msg19": "外部身份验证："
+        "msg19": "外部身份验证：",
+        "msg20": "此设备身份验证属于[Mia Launcher](https://miadsc.xyz)"
       },
       "borrar": {
         "msg1": "你在Mia中没有注册任何账户，请使用",

@@ -439,9 +439,10 @@
         "msg14": "Eliminate",
         "msg15": "autenticazioni esterne da",
         "msg16": "Conservate",
-        "msg17": "autenticazioni di Mia.",
+        "msg17": "autenticazioni di Mia e del launcher.",
         "msg18": "Autenticazioni di Mia:",
-        "msg19": "Autenticazioni esterne:"
+        "msg19": "Autenticazioni esterne:",
+        "msg20": "Questa autenticazione appartiene a [Mia Launcher](https://miadsc.xyz)"
       },
       "borrar": {
         "msg1": "Non hai nessun account registrato su Mia, usa",

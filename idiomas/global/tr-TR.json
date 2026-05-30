@@ -440,9 +440,10 @@
         "msg14": "Silindi",
         "msg15": "hesabından harici kimlik doğrulamalar",
         "msg16": "Korundu",
-        "msg17": "Mia kimlik doğrulamaları.",
+        "msg17": "Mia ve launcher kimlik doğrulamaları.",
         "msg18": "Mia Kimlik Doğrulamaları:",
-        "msg19": "Harici Kimlik Doğrulamalar:"
+        "msg19": "Harici Kimlik Doğrulamalar:",
+        "msg20": "Bu cihaz kimlik doğrulaması [Mia Launcher](https://miadsc.xyz) aittir"
       },
       "borrar": {
         "msg1": "Mia'da kayıtlı bir hesabınız yok, başlamak için",
