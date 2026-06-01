@@ -1370,7 +1370,12 @@
         "msg22": "1から",
         "msg23": "までの数量を入力してください",
         "msg24": "無効な数量です。1から",
-        "msg25": "合計アイテム"
+        "msg25": "合計アイテム",
+        "msg26": "ラマショップ",
+        "msg27": "Items: ラマ",
+        "msg28": "X線チケットが足りません。不足:",
+        "msg29": "ゴールド",
+        "msg30": "X線"
       },
       "winter": {
         "msg1": "このコマンドはイベントが終了したため無効になっています。",
@@ -1543,6 +1548,52 @@
         "footSuffix": " を使ってMiaをサポート",
         "formatTexto": "テキスト",
         "formatImagen": "画像"
+      },
+      "homebase": {
+        "title": "Homebase",
+        "noZones": "このアカウントにアウトポストが見つかりませんでした。",
+        "stormShieldLevel": "シールドLv:",
+        "enduranceWave": "最大波",
+        "amplifiers": "アンプ:",
+        "placedTrapsStructures": "トラップと構造物:",
+        "scanPrompt": "**ベースをスキャン**を押して、設置したトラップと構造物を分析します。",
+        "scanning": "ベースをダウンロードして分析中…",
+        "noSaveData": "このゾーンのクラウドセーブがありません。ストームシールドを少なくとも1回構築してください。",
+        "zonesOverview": "ゾーン概要",
+        "emptyBaseWarning": "このベースにはまだ構造物データがありません（ストームシールドが未設定またはほぼ空の可能性があります）。",
+        "placedTrapsCount": "設置トラップ ({count}):",
+        "noTraps": "トラップ未設置",
+        "viewStructures": "構造物 ({count})",
+        "structuresField": "構造物",
+        "totalStructures": "構造物合計:",
+        "structuresFooter": "設置構造物の概要",
+        "scanBase": "ベースをスキャン",
+        "rescan": "再スキャン",
+        "refresh": "更新",
+        "back": "戻る",
+        "noPermissions": "編集権限なし",
+        "permissionsPage": "ページ {page}/{total}",
+        "permissionsTruncated": "他 {n} 件…",
+        "trapsTruncated": "他 {n} 種類のトラップ…",
+        "overviewTraps": " · {count} トラップ",
+        "overviewActive": " · SSD 有効",
+        "structureSummary": "**{total}** 構造物 · {structures}",
+        "tabs": {
+          "base": "ベース",
+          "permissions": "権限"
+        },
+        "structureTypes": {
+          "walls": "壁",
+          "floors": "床",
+          "stairs": "階段",
+          "cones": "コーン"
+        },
+        "zones": {
+          "stonewood": "ストーンウッド",
+          "plankerton": "プランカートン",
+          "cannyValley": "キャニー・バレー",
+          "twinePeaks": "トワイン・ピークス"
+        }
       },
       "gamepanel": {
         "msg1": "ロードアウト",

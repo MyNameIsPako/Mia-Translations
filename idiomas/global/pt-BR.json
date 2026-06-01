@@ -1369,7 +1369,12 @@
         "msg22": "Diga uma quantidade entre",
         "msg23": "A quantidade máxima para comprar é",
         "msg24": "A quantidade não é válida, deve ser entre 1 e",
-        "msg25": "itens no total"
+        "msg25": "itens no total",
+        "msg26": "LOJA DE LLAMAS",
+        "msg27": "Items: Llamas",
+        "msg28": "Você não tem tickets Raio X suficientes, faltam",
+        "msg29": "Ouro",
+        "msg30": "Raio X"
       },
       "winter": {
         "msg1": "Este comando está desativado porque o evento terminou.",
@@ -1542,6 +1547,52 @@
         "footSuffix": " na Loja de Itens do Fortnite",
         "formatTexto": "Texto",
         "formatImagen": "Imagem"
+      },
+      "homebase": {
+        "title": "Homebase",
+        "noZones": "Nenhum outpost encontrado nesta conta.",
+        "stormShieldLevel": "Nível escudo:",
+        "enduranceWave": "Onda máxima",
+        "amplifiers": "Amplificadores:",
+        "placedTrapsStructures": "Armadilhas e estruturas:",
+        "scanPrompt": "Pressione **Escanear base** para analisar armadilhas e estruturas colocadas.",
+        "scanning": "Baixando e analisando a base…",
+        "noSaveData": "Sem dados salvos na nuvem para esta zona. Construa o escudo antitempestade pelo menos uma vez.",
+        "zonesOverview": "Resumo das zonas",
+        "emptyBaseWarning": "Esta base ainda não tem dados de estruturas (o escudo pode não estar configurado ou quase vazio).",
+        "placedTrapsCount": "Armadilhas colocadas ({count}):",
+        "noTraps": "Sem armadilhas colocadas",
+        "viewStructures": "Estruturas ({count})",
+        "structuresField": "Estruturas",
+        "totalStructures": "Total de estruturas:",
+        "structuresFooter": "Visão das estruturas colocadas",
+        "scanBase": "Escanear base",
+        "rescan": "Reescanear",
+        "refresh": "Atualizar",
+        "back": "Voltar",
+        "noPermissions": "Sem permissões de edição",
+        "permissionsPage": "Página {page}/{total}",
+        "permissionsTruncated": "e mais {n}…",
+        "trapsTruncated": "e mais {n} tipos de armadilha…",
+        "overviewTraps": " · {count} armadilhas",
+        "overviewActive": " · SSD ativo",
+        "structureSummary": "**{total}** estruturas · {structures}",
+        "tabs": {
+          "base": "Base",
+          "permissions": "Permissões"
+        },
+        "structureTypes": {
+          "walls": "Paredes",
+          "floors": "Pisos",
+          "stairs": "Escadas",
+          "cones": "Cones"
+        },
+        "zones": {
+          "stonewood": "Bosque Pedregoso",
+          "plankerton": "Vila Prancha",
+          "cannyValley": "Vale Cânion",
+          "twinePeaks": "Picos Tormentosos"
+        }
       },
       "gamepanel": {
         "msg1": "Loadout",

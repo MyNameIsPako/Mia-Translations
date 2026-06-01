@@ -1369,7 +1369,12 @@
         "msg22": "Dimmi una quantità tra",
         "msg23": "La quantità massima acquistabile è",
         "msg24": "La quantità non è valida, deve essere tra 1 e",
-        "msg25": "oggetti in totale"
+        "msg25": "oggetti in totale",
+        "msg26": "NEGOZIO LLAMA",
+        "msg27": "Items: Llamas",
+        "msg28": "Non hai abbastanza ticket Raggi X, ti mancano",
+        "msg29": "Oro",
+        "msg30": "Raggi X"
       },
       "winter": {
         "msg1": "Questo comando è disattivato perché l'evento è terminato.",
@@ -1542,6 +1547,52 @@
         "footSuffix": " nel Negozio di Fortnite",
         "formatTexto": "Testo",
         "formatImagen": "Immagine"
+      },
+      "homebase": {
+        "title": "Homebase",
+        "noZones": "Nessun avamposto trovato su questo account.",
+        "stormShieldLevel": "Livello scudo:",
+        "enduranceWave": "Onda massima",
+        "amplifiers": "Amplificatori:",
+        "placedTrapsStructures": "Trappole e strutture:",
+        "scanPrompt": "Premi **Scansiona base** per analizzare trappole e strutture piazzate.",
+        "scanning": "Download e analisi della base…",
+        "noSaveData": "Nessun salvataggio cloud per questa zona. Costruisci lo scudo anti-tempesta almeno una volta.",
+        "zonesOverview": "Panoramica zone",
+        "emptyBaseWarning": "Questa base non ha ancora dati sulle strutture (lo scudo potrebbe non essere configurato o quasi vuoto).",
+        "placedTrapsCount": "Trappole piazzate ({count}):",
+        "noTraps": "Nessuna trappola piazzata",
+        "viewStructures": "Strutture ({count})",
+        "structuresField": "Strutture",
+        "totalStructures": "Strutture totali:",
+        "structuresFooter": "Panoramica strutture piazzate",
+        "scanBase": "Scansiona base",
+        "rescan": "Riscansiona",
+        "refresh": "Aggiorna",
+        "back": "Indietro",
+        "noPermissions": "Nessun permesso di modifica",
+        "permissionsPage": "Pagina {page}/{total}",
+        "permissionsTruncated": "e altri {n}…",
+        "trapsTruncated": "e altri {n} tipi di trappola…",
+        "overviewTraps": " · {count} trappole",
+        "overviewActive": " · SSD attivo",
+        "structureSummary": "**{total}** strutture · {structures}",
+        "tabs": {
+          "base": "Base",
+          "permissions": "Permessi"
+        },
+        "structureTypes": {
+          "walls": "Muri",
+          "floors": "Pavimenti",
+          "stairs": "Scale",
+          "cones": "Coni"
+        },
+        "zones": {
+          "stonewood": "Bosco Petroso",
+          "plankerton": "Plankerton",
+          "cannyValley": "Valle Canny",
+          "twinePeaks": "Picchi Avvolti"
+        }
       },
       "gamepanel": {
         "msg1": "Loadout",

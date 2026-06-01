@@ -1336,7 +1336,12 @@
         "msg22": "Bana 1 ile",
         "msg23": "arasında bir miktar söyle",
         "msg24": "Geçersiz miktar, 1 ile",
-        "msg25": "toplam öğe"
+        "msg25": "toplam öğe",
+        "msg26": "LLAMA MAĞAZASI",
+        "msg27": "Items: Llamalar",
+        "msg28": "Yeterli X-Ray biletin yok, eksik:",
+        "msg29": "Altın",
+        "msg30": "X-Ray"
       },
       "winter": {
         "msg1": "Bu komut etkinlik sona erdiği için devre dışı bırakıldı.",
@@ -1509,6 +1514,52 @@
         "footSuffix": " koduyla Mia'yı destekle",
         "formatTexto": "Metin",
         "formatImagen": "Görsel"
+      },
+      "homebase": {
+        "title": "Homebase",
+        "noZones": "Bu hesapta outpost bulunamadı.",
+        "stormShieldLevel": "Kalkan sev.:",
+        "enduranceWave": "Maksimum dalga",
+        "amplifiers": "Amplifikatörler:",
+        "placedTrapsStructures": "Tuzaklar ve yapılar:",
+        "scanPrompt": "Yerleştirilen tuzakları ve yapıları analiz etmek için **Üssü tara** düğmesine basın.",
+        "scanning": "Üs indiriliyor ve analiz ediliyor…",
+        "noSaveData": "Bu bölge için bulut kaydı yok. Fırtına kalkanını en az bir kez inşa edin.",
+        "zonesOverview": "Bölge özeti",
+        "emptyBaseWarning": "Bu üs henüz yapı verisine sahip değil (fırtına kalkanı yapılandırılmamış veya neredeyse boş olabilir).",
+        "placedTrapsCount": "Yerleştirilen tuzaklar ({count}):",
+        "noTraps": "Yerleştirilen tuzak yok",
+        "viewStructures": "Yapılar ({count})",
+        "structuresField": "Yapılar",
+        "totalStructures": "Toplam yapı:",
+        "structuresFooter": "Yerleştirilen yapılar özeti",
+        "scanBase": "Üssü tara",
+        "rescan": "Yeniden tara",
+        "refresh": "Yenile",
+        "back": "Geri",
+        "noPermissions": "Düzenleme izni yok",
+        "permissionsPage": "Sayfa {page}/{total}",
+        "permissionsTruncated": "ve {n} tane daha…",
+        "trapsTruncated": "ve {n} tuzak türü daha…",
+        "overviewTraps": " · {count} tuzak",
+        "overviewActive": " · SSD aktif",
+        "structureSummary": "**{total}** yapı · {structures}",
+        "tabs": {
+          "base": "Üs",
+          "permissions": "İzinler"
+        },
+        "structureTypes": {
+          "walls": "Duvarlar",
+          "floors": "Zeminler",
+          "stairs": "Merdivenler",
+          "cones": "Koniler"
+        },
+        "zones": {
+          "stonewood": "Taş Ormanı",
+          "plankerton": "Plankerton",
+          "cannyValley": "Canny Vadisi",
+          "twinePeaks": "Twine Tepeleri"
+        }
       },
       "gamepanel": {
         "msg1": "Yükleme düzeni",

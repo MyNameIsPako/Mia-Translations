@@ -1370,7 +1370,12 @@
         "msg22": "请输入一个介于",
         "msg23": "之间的数量",
         "msg24": "数量无效，必须在1到",
-        "msg25": "总物品数"
+        "msg25": "总物品数",
+        "msg26": "羊驼商店",
+        "msg27": "Items: 羊驼",
+        "msg28": "X光票不足，还差",
+        "msg29": "金币",
+        "msg30": "X光"
       },
       "winter": {
         "msg1": "此命令已禁用，因为活动已结束。",
@@ -1543,6 +1548,52 @@
         "footSuffix": " 支持 Mia",
         "formatTexto": "文本",
         "formatImagen": "图片"
+      },
+      "homebase": {
+        "title": "Homebase",
+        "noZones": "此账户上未找到前哨站。",
+        "stormShieldLevel": "护盾等级:",
+        "enduranceWave": "最大波次",
+        "amplifiers": "增幅器:",
+        "placedTrapsStructures": "陷阱与结构:",
+        "scanPrompt": "按 **扫描基地** 分析已放置的陷阱和结构。",
+        "scanning": "正在下载并分析基地…",
+        "noSaveData": "此区域没有云存档数据。请至少建造一次风暴盾。",
+        "zonesOverview": "区域概览",
+        "emptyBaseWarning": "此基地尚无结构数据（风暴盾可能未配置或几乎为空）。",
+        "placedTrapsCount": "已放置陷阱 ({count}):",
+        "noTraps": "未放置陷阱",
+        "viewStructures": "结构 ({count})",
+        "structuresField": "结构",
+        "totalStructures": "结构总数:",
+        "structuresFooter": "已放置结构概览",
+        "scanBase": "扫描基地",
+        "rescan": "重新扫描",
+        "refresh": "刷新",
+        "back": "返回",
+        "noPermissions": "无编辑权限",
+        "permissionsPage": "第 {page}/{total} 页",
+        "permissionsTruncated": "还有 {n} 个…",
+        "trapsTruncated": "还有 {n} 种陷阱…",
+        "overviewTraps": " · {count} 陷阱",
+        "overviewActive": " · SSD 已激活",
+        "structureSummary": "**{total}** 结构 · {structures}",
+        "tabs": {
+          "base": "基地",
+          "permissions": "权限"
+        },
+        "structureTypes": {
+          "walls": "墙壁",
+          "floors": "地板",
+          "stairs": "楼梯",
+          "cones": "锥体"
+        },
+        "zones": {
+          "stonewood": "石木",
+          "plankerton": "板岩镇",
+          "cannyValley": "坎尼谷",
+          "twinePeaks": "麻绳峰"
+        }
       },
       "gamepanel": {
         "msg1": "预设",

@@ -1336,7 +1336,12 @@
         "msg22": "Tell me a quantity between",
         "msg23": "The maximum quantity to buy is",
         "msg24": "The quantity is not valid, it must be between 1 and",
-        "msg25": "items in total"
+        "msg25": "items in total",
+        "msg26": "STW LLAMA SHOP",
+        "msg27": "Items: Llamas",
+        "msg28": "You don't have enough X-Ray tickets, you need",
+        "msg29": "Gold",
+        "msg30": "X-Ray"
       },
       "winter": {
         "msg1": "This command is disabled because the event has ended.",
@@ -1509,6 +1514,52 @@
         "footSuffix": " in the Fortnite Item Shop",
         "formatTexto": "Text",
         "formatImagen": "Image"
+      },
+      "homebase": {
+        "title": "Homebase",
+        "noZones": "No outposts were found on this account.",
+        "stormShieldLevel": "Shield level:",
+        "enduranceWave": "Maximum wave",
+        "amplifiers": "Amplifiers:",
+        "placedTrapsStructures": "Traps and structures:",
+        "scanPrompt": "Press **Scan base** to analyze placed traps and structures.",
+        "scanning": "Downloading and analyzing base…",
+        "noSaveData": "No cloud save data for this zone. Build the storm shield at least once.",
+        "zonesOverview": "Zone overview",
+        "emptyBaseWarning": "This base has no structure data yet (the storm shield may be unconfigured or nearly empty).",
+        "placedTrapsCount": "Placed traps ({count}):",
+        "noTraps": "No traps placed",
+        "viewStructures": "Structures ({count})",
+        "structuresField": "Structures",
+        "totalStructures": "Total structures:",
+        "structuresFooter": "Placed structures overview",
+        "scanBase": "Scan base",
+        "rescan": "Rescan",
+        "refresh": "Refresh",
+        "back": "Back",
+        "noPermissions": "No edit permissions",
+        "permissionsPage": "Page {page}/{total}",
+        "permissionsTruncated": "and {n} more…",
+        "trapsTruncated": "and {n} more trap types…",
+        "overviewTraps": " · {count} traps",
+        "overviewActive": " · Active SSD",
+        "structureSummary": "**{total}** structures · {structures}",
+        "tabs": {
+          "base": "Base",
+          "permissions": "Permissions"
+        },
+        "structureTypes": {
+          "walls": "Walls",
+          "floors": "Floors",
+          "stairs": "Stairs",
+          "cones": "Cones"
+        },
+        "zones": {
+          "stonewood": "Stonewood",
+          "plankerton": "Plankerton",
+          "cannyValley": "Canny Valley",
+          "twinePeaks": "Twine Peaks"
+        }
       },
       "gamepanel": {
         "msg1": "Loadout",

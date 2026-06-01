@@ -1335,7 +1335,12 @@
         "msg22": "Indique-moi une quantité entre",
         "msg23": "La quantité maximale à acheter est",
         "msg24": "La quantité n'est pas valide, elle doit être comprise entre 1 et",
-        "msg25": "objets au total"
+        "msg25": "objets au total",
+        "msg26": "BOUTIQUE DE LLAMAS",
+        "msg27": "Items : Llamas",
+        "msg28": "Il vous manque des tickets Rayons X :",
+        "msg29": "Or",
+        "msg30": "Rayons X"
       },
       "winter": {
         "msg1": "Cette commande est désactivée car l'événement est terminé.",
@@ -1508,6 +1513,52 @@
         "footSuffix": " dans la boutique Fortnite",
         "formatTexto": "Texte",
         "formatImagen": "Image"
+      },
+      "homebase": {
+        "title": "Homebase",
+        "noZones": "Aucun outpost trouvé sur ce compte.",
+        "stormShieldLevel": "Niv. bouclier :",
+        "enduranceWave": "Vague maximale",
+        "amplifiers": "Amplificateurs :",
+        "placedTrapsStructures": "Pièges et structures :",
+        "scanPrompt": "Appuyez sur **Scanner la base** pour analyser les pièges et structures placés.",
+        "scanning": "Téléchargement et analyse de la base…",
+        "noSaveData": "Aucune sauvegarde cloud pour cette zone. Construisez le bouclier anti-tempête au moins une fois.",
+        "zonesOverview": "Aperçu des zones",
+        "emptyBaseWarning": "Cette base n'a pas encore de données de structures (le bouclier peut être non configuré ou presque vide).",
+        "placedTrapsCount": "Pièges placés ({count}) :",
+        "noTraps": "Aucun piège placé",
+        "viewStructures": "Structures ({count})",
+        "structuresField": "Structures",
+        "totalStructures": "Total des structures :",
+        "structuresFooter": "Aperçu des structures placées",
+        "scanBase": "Scanner la base",
+        "rescan": "Rescanner",
+        "refresh": "Actualiser",
+        "back": "Retour",
+        "noPermissions": "Aucune permission d'édition",
+        "permissionsPage": "Page {page}/{total}",
+        "permissionsTruncated": "et {n} de plus…",
+        "trapsTruncated": "et {n} types de piège de plus…",
+        "overviewTraps": " · {count} pièges",
+        "overviewActive": " · SSD actif",
+        "structureSummary": "**{total}** structures · {structures}",
+        "tabs": {
+          "base": "Base",
+          "permissions": "Permissions"
+        },
+        "structureTypes": {
+          "walls": "Murs",
+          "floors": "Sol",
+          "stairs": "Escaliers",
+          "cones": "Cônes"
+        },
+        "zones": {
+          "stonewood": "Forêt de pierre",
+          "plankerton": "Plankerton",
+          "cannyValley": "Vallée Canny",
+          "twinePeaks": "Pics du Désordre"
+        }
       },
       "gamepanel": {
         "msg1": "Loadout",

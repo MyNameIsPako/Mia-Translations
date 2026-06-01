@@ -1354,7 +1354,12 @@
         "msg22": "Nenne mir eine Menge zwischen",
         "msg23": "Die maximale Kaufmenge ist",
         "msg24": "Die Menge ist ungültig, sie muss zwischen 1 und",
-        "msg25": "Items insgesamt"
+        "msg25": "Items insgesamt",
+        "msg26": "LLAMA-LADEN",
+        "msg27": "Items: Llamas",
+        "msg28": "Dir fehlen Röntgen-Tickets:",
+        "msg29": "Gold",
+        "msg30": "Röntgen"
       },
       "winter": {
         "msg1": "Dieser Befehl ist deaktiviert, da das Event beendet ist.",
@@ -1527,6 +1532,52 @@
         "footSuffix": " im Fortnite Item Shop",
         "formatTexto": "Text",
         "formatImagen": "Bild"
+      },
+      "homebase": {
+        "title": "Homebase",
+        "noZones": "Auf diesem Konto wurden keine Outposts gefunden.",
+        "stormShieldLevel": "Schild-Lvl:",
+        "enduranceWave": "Maximale Welle",
+        "amplifiers": "Verstärker:",
+        "placedTrapsStructures": "Fallen und Strukturen:",
+        "scanPrompt": "Drücke **Basis scannen**, um platzierte Fallen und Strukturen zu analysieren.",
+        "scanning": "Basis wird heruntergeladen und analysiert…",
+        "noSaveData": "Keine Cloud-Speicherdaten für diese Zone. Baue den Sturmschild mindestens einmal.",
+        "zonesOverview": "Zonenübersicht",
+        "emptyBaseWarning": "Diese Basis hat noch keine Strukturdaten (Sturmschild evtl. nicht eingerichtet oder fast leer).",
+        "placedTrapsCount": "Platzierte Fallen ({count}):",
+        "noTraps": "Keine Fallen platziert",
+        "viewStructures": "Strukturen ({count})",
+        "structuresField": "Strukturen",
+        "totalStructures": "Strukturen gesamt:",
+        "structuresFooter": "Übersicht platzierte Strukturen",
+        "scanBase": "Basis scannen",
+        "rescan": "Erneut scannen",
+        "refresh": "Aktualisieren",
+        "back": "Zurück",
+        "noPermissions": "Keine Bearbeitungsrechte",
+        "permissionsPage": "Seite {page}/{total}",
+        "permissionsTruncated": "und {n} weitere…",
+        "trapsTruncated": "und {n} weitere Fallentypen…",
+        "overviewTraps": " · {count} Fallen",
+        "overviewActive": " · SSD aktiv",
+        "structureSummary": "**{total}** Strukturen · {structures}",
+        "tabs": {
+          "base": "Basis",
+          "permissions": "Rechte"
+        },
+        "structureTypes": {
+          "walls": "Wände",
+          "floors": "Böden",
+          "stairs": "Treppen",
+          "cones": "Pyramiden"
+        },
+        "zones": {
+          "stonewood": "Steinerne Wildnis",
+          "plankerton": "Plankerton",
+          "cannyValley": "Canny-Tal",
+          "twinePeaks": "Spitze des Glücks"
+        }
       },
       "gamepanel": {
         "msg1": "Loadout",

@@ -1335,7 +1335,12 @@
         "msg22": "Dime una cantidad entre",
         "msg23": "La cantidad máxima para comprar es",
         "msg24": "La cantidad no es valida, debe ser entre 1 y",
-        "msg25": "items en total"
+        "msg25": "items en total",
+        "msg26": "TIENDA DE LLAMAS",
+        "msg27": "Items: Llamas",
+        "msg28": "No tienes suficientes tickets Rayos X, te falta",
+        "msg29": "Oro",
+        "msg30": "Rayos X"
       },
       "winter": {
         "msg1": "Este comando esta desactivado por que finalizo el evento.",
@@ -1508,6 +1513,52 @@
         "footSuffix": " en la Tienda de Fortnite",
         "formatTexto": "Texto",
         "formatImagen": "Imagen"
+      },
+      "homebase": {
+        "title": "Homebase",
+        "noZones": "No se encontraron outposts en esta cuenta.",
+        "stormShieldLevel": "Nivel escudo:",
+        "enduranceWave": "Oleada máxima",
+        "amplifiers": "Amplificadores:",
+        "placedTrapsStructures": "Trampas y estructuras:",
+        "scanPrompt": "Pulsa **Escanear base** para analizar trampas y estructuras colocadas.",
+        "scanning": "Descargando y analizando la base…",
+        "noSaveData": "No hay datos guardados en la nube para esta zona. Construye el escudo antitormenta al menos una vez.",
+        "zonesOverview": "Resumen de zonas",
+        "emptyBaseWarning": "Esta base aún no tiene datos de estructuras registrados (el escudo antitormentas puede no estar configurado o tener pocas piezas).",
+        "placedTrapsCount": "Trampas colocadas ({count}):",
+        "noTraps": "Sin trampas colocadas",
+        "viewStructures": "Estructuras ({count})",
+        "structuresField": "Estructuras",
+        "totalStructures": "Total de estructuras:",
+        "structuresFooter": "Vista de estructuras colocadas",
+        "scanBase": "Escanear base",
+        "rescan": "Reescanear",
+        "refresh": "Actualizar",
+        "back": "Volver",
+        "noPermissions": "Sin permisos de edición",
+        "permissionsPage": "Página {page}/{total}",
+        "permissionsTruncated": "y {n} más…",
+        "trapsTruncated": "y {n} tipos de trampa más…",
+        "overviewTraps": " · {count} trampas",
+        "overviewActive": " · SSD activo",
+        "structureSummary": "**{total}** estructuras · {structures}",
+        "tabs": {
+          "base": "Base",
+          "permissions": "Permisos"
+        },
+        "structureTypes": {
+          "walls": "Paredes",
+          "floors": "Suelos",
+          "stairs": "Escaleras",
+          "cones": "Conos"
+        },
+        "zones": {
+          "stonewood": "Bosque Pedregoso",
+          "plankerton": "Villatablón",
+          "cannyValley": "Valle Latoso",
+          "twinePeaks": "Cumbres Leñosas"
+        }
       },
       "gamepanel": {
         "msg1": "Loadout",
