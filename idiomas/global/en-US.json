@@ -475,7 +475,8 @@
         "msg7": "You haven't used any command in Mia.",
         "msg8": "You don't have any registered accounts in Mia.",
         "msg9": "You must provide a valid number between `1` and",
-        "msg10": "Account not found. Check your accounts with `/accounts`."
+        "msg10": "Account not found. Check your accounts with `/accounts`.",
+        "msg11": "This account is already selected as main, use another one."
       },
       "config": {
         "msg1": "Settings of",
@@ -2615,9 +2616,10 @@
     "msg48": "Mia doesn't have permissions to execute this command.",
     "msg49": "Required permissions:",
     "msg50": "For security reasons, this command can only be used in private messages with Mia",
-    "msg51": "Send a private message to Mia"
-  },
-  "botonesymodals": {
+    "msg51": "Send a private message to Mia",
+    "msg52": "Auth expired or revoked"
+    },
+    "botonesymodals": {
     "msg1": "You do not have permission to use this button.",
     "msg2": "You do not have permission to use this modal."
   },

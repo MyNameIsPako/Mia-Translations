@@ -493,7 +493,8 @@
         "msg7": "Du hast noch keinen Befehl in Mia verwendet.",
         "msg8": "Du hast keine registrierten Konten in Mia.",
         "msg9": "Du musst eine gültige Zahl zwischen `1` und",
-        "msg10": "Konto nicht gefunden. Überprüfe deine Konten mit `/accounts`."
+        "msg10": "Konto nicht gefunden. Überprüfe deine Konten mit `/accounts`.",
+        "msg11": "Dieses Konto ist bereits als Hauptkonto ausgewählt, wähle ein anderes."
       },
       "config": {
         "msg1": "Einstellungen von",
@@ -2633,9 +2634,10 @@
     "msg48": "Mia hat keine Berechtigung, diesen Befehl auszuführen.",
     "msg49": "Erforderliche Berechtigungen:",
     "msg50": "Aus Sicherheitsgründen kann dieser Befehl nur in privaten Nachrichten mit Mia verwendet werden",
-    "msg51": "Sende Mia eine private Nachricht"
-  },
-  "botonesymodals": {
+    "msg51": "Sende Mia eine private Nachricht",
+    "msg52": "Auth abgelaufen oder widerrufen"
+    },
+    "botonesymodals": {
     "msg1": "Du hast keine Berechtigung, diesen Button zu verwenden.",
     "msg2": "Du hast keine Berechtigung, dieses Modal zu verwenden."
   },

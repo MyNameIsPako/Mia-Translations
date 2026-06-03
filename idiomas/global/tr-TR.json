@@ -476,7 +476,8 @@
         "msg8": "Mia'da kayıtlı hiçbir hesabınız yok.",
         "msg9": "`1` ile",
         "msg10": "arasında geçerli bir numara girmeniz gerekiyor.",
-        "msg11": "Hesap bulunamadı. Hesaplarınızı `/accounts` ile kontrol edin."
+        "msg11": "Bu hesap zaten ana hesap olarak seçili, başka bir hesap kullan.",
+        "msg12": "Hesap bulunamadı. Hesaplarınızı `/accounts` ile kontrol edin."
       },
       "config": {
         "msg1": "Ayarlar",
@@ -2505,9 +2506,10 @@
       "msg48": "Mia não tem permissões para executar este comando.",
       "msg49": "Permissões necessárias:",
       "msg50": "Güvenlik nedeniyle, bu komut yalnızca Mia ile özel mesajlarda kullanılabilir",
-      "msg51": "Mia'ya özel mesaj gönder"
-    },
-    "botonesymodals": {
+      "msg51": "Mia'ya özel mesaj gönder",
+    "msg52": "Auth süresi doldu veya iptal edildi"
+      },
+      "botonesymodals": {
       "msg1": "Bu butonu kullanma yetkin yok.",
       "msg2": "Bu modalı kullanma yetkin yok."
     },

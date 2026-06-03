@@ -490,7 +490,8 @@
         "msg7": "No usaste ningun comando en Mia.",
         "msg8": "No tienes ninguna cuenta registrada en Mia.",
         "msg9": "Debes proporcionar un número válido entre `1` y",
-        "msg10": "Cuenta no encontrada. Revisa tus cuentas en `/cuentas`."
+        "msg10": "Cuenta no encontrada. Revisa tus cuentas en `/cuentas`.",
+        "msg11": "Esta cuenta ya esta selecionada como principal, usa otra."
       },
       "config": {
         "msg1": "Configuraciones de",
@@ -1486,8 +1487,9 @@
         "msg48": "${emojis.uncheck} Por el momento nadie publico ninguna build, puedes ser el primero en hacerlo usando `/build crear`.",
         "msg49": "Busca una build usando /build buscar <preset>",
         "msg50": "Mostrando las ${limit} builds más votadas",
-        "msg51": "Se muestra la más votada. Existen **${count}** builds con ese nombre."
-      },
+        "msg51": "Se muestra la más votada. Existen **${count}** builds con ese nombre.",
+    "msg52": "Auth expirado o revocado"
+        },
       "refrescar": {
         "msg1": "Se refresco tu cuenta de Fortnite.",
         "msg2": "Se refrescaron todas tus cuentas registradas en Mia",
@@ -2644,8 +2646,9 @@
     "msg48": "Mia no tiene permisos para poder ejecutar este comando.",
     "msg49": "Permisos necesarios:",
     "msg50": "Por temas de seguridad este comando solo se puede usar en mensajes privados de Mia",
-    "msg51": "Enviar mensaje privado a Mia"
-  },
+    "msg51": "Enviar mensaje privado a Mia",
+    "msg52": "Auth expirado o revocado"
+    },
   "botonesymodals": {
     "msg1": "No tienes permiso para usar este botón.",
     "msg2": "No tienes permiso para usar este modal."

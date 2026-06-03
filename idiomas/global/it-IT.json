@@ -474,7 +474,8 @@
         "msg7": "Non hai usato nessun comando in Mia.",
         "msg8": "Non hai nessun account registrato in Mia.",
         "msg9": "Devi fornire un numero valido tra `1` e",
-        "msg10": "Account non trovato. Controlla i tuoi account con `/cuentas`."
+        "msg10": "Account non trovato. Controlla i tuoi account con `/cuentas`.",
+        "msg11": "Questo account è già selezionato come principale, usane un altro."
       },
       "config": {
         "msg1": "Impostazioni di",
@@ -2650,9 +2651,10 @@
     "msg48": "Mia n'a pas les permissions pour exécuter cette commande.",
     "msg49": "Permissions requises :",
     "msg50": "Per motivi di sicurezza, questo comando può essere utilizzato solo nei messaggi privati con Mia",
-    "msg51": "Invia un messaggio privato a Mia"
-  },
-  "botonesymodals": {
+    "msg51": "Invia un messaggio privato a Mia",
+    "msg52": "Auth scaduto o revocato"
+    },
+    "botonesymodals": {
     "msg1": "Non hai il permesso per usare questo pulsante.",
     "msg2": "Non hai il permesso per usare questo modal."
   },
