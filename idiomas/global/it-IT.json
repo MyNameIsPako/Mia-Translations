@@ -855,7 +855,12 @@
         "msg55": "Devi indicarmi un'azione",
         "msg56": "Devi indicarmi un ID o displayName",
         "msg57": "aggiunto alla tua whitelist",
-        "msg58": "rimosso dalla tua whitelist"
+        "msg58": "rimosso dalla tua whitelist",
+        "msg59": "richieste in entrata accettate",
+        "msg60": "richieste in uscita annullate",
+        "msg61": "richieste in entrata rifiutate",
+        "msg62": "utenti sbloccati",
+        "msg64": "Niente da elaborare per questa azione."
       },
       "lanzar": {
         "msg1": "Copia e incolla il seguente codice in una finestra del prompt dei comandi (cmd.exe) su un sistema Windows e premi Invio. Questo codice è valido per 5 minuti e può essere utilizzato solo una volta. Per favore, non condividere questo codice con nessuno.",
@@ -875,14 +880,14 @@
         "msg10": "Non sei in nessuna partita"
       },
       "playtime": {
-        "msg1": "Deve essere un numero valido.",
-        "msg2": "Si è verificato un errore durante l'ottenimento del launcherToken del tuo account, se l'errore persiste usa `/reporte`.",
-        "msg3": "È stato aggiunto correttamente al tuo account",
+        "msg1": "Deve essere un numero valido maggiore di 0.",
+        "msg2": "Errore nell'ottenere il token dell'Epic Games Launcher. Se persiste, usa `/reporte`.",
+        "msg3": "Aggiunto al contatore PC (Epic Games Launcher):",
         "msg4": "ora/e",
-        "msg5": "Puoi controllare le ore giocate in `/playtime ver`",
-        "msg6": "Si è verificato un errore durante l'ottenimento del launcherToken del tuo account, se l'errore persiste usa `/reporte`.",
-        "msg7": "ora/e giocate",
-        "msg8": "Puoi modificare il tempo come desideri usando il comando `/playtime aggiungi`"
+        "msg5": "Controlla quel tempo con `/playtime ver`.",
+        "msg6": "Errore nell'ottenere il token dell'Epic Games Launcher. Se persiste, usa `/reporte`.",
+        "msg7": "giocati",
+        "msg8": "Sono visibili solo le ore di gioco su PC. Puoi regolare il contatore con `/playtime añadir`."
       },
       "presencia": {
         "msg1": "Il tuo stato in Fortnite è stato cambiato correttamente",

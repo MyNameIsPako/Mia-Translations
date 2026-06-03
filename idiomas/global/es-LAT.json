@@ -821,7 +821,12 @@
         "msg55": "Tienes que decirme una acción",
         "msg56": "Tienes que decirme un ID o displayName",
         "msg57": "añadido a tu whitelist",
-        "msg58": "eliminado de tu whitelist"
+        "msg58": "eliminado de tu whitelist",
+        "msg59": "peticiones entrantes aceptadas",
+        "msg60": "solicitudes salientes canceladas",
+        "msg61": "solicitudes entrantes rechazadas",
+        "msg62": "usuarios desbaneados",
+        "msg64": "No había nada que procesar para esta acción."
       },
       "lanzar": {
         "msg1": "Copie y pegue el siguiente código en una ventana del símbolo del sistema (cmd.exe) en un sistema Windows y presione Enter. Este código es válido por 5 minutos y solo puede usarse una vez. Por favor, no comparta este código con nadie.",
@@ -841,14 +846,14 @@
         "msg10": "No estas dentro de ninguna partida"
       },
       "playtime": {
-        "msg1": "Tiene que ser un numero valido.",
-        "msg2": "Ocurrio un error al obtener el launcherToken de tu cuenta, si el error persiste usa `/reporte`.",
-        "msg3": "Se añadio a tu cuenta correctamente",
-        "msg4": "hora/s",
-        "msg5": "Puedes revisar las horas jugadas en `/playtime ver`",
-        "msg6": "Ocurrio un error al obtener el launcherToken de tu cuenta, si el error persiste usa `/reporte`.",
-        "msg7": "hora/s jugadas",
-        "msg8": "Puedes moficiar el tiempo al que tu quieras usando el comando `/playtime añadir`"
+        "msg1": "Debe ser un número válido mayor que 0.",
+        "msg2": "Error al obtener el token del Epic Games Launcher. Si persiste, usa `/reporte`.",
+        "msg3": "Añadido al contador de PC (Epic Games Launcher):",
+        "msg4": "hora(s)",
+        "msg5": "Consulta ese tiempo con `/playtime ver`.",
+        "msg6": "Error al obtener el token del Epic Games Launcher. Si persiste, usa `/reporte`.",
+        "msg7": "jugados",
+        "msg8": "Solo visible las horas de juego en PC, puedes ajustar el contador con `/playtime añadir`."
       },
       "presencia": {
         "msg1": "Se cambió correctamente tu estado en Fortnite",

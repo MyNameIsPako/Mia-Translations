@@ -840,7 +840,12 @@
         "msg55": "Du musst mir eine Aktion angeben",
         "msg56": "Du musst mir eine ID oder einen Anzeigenamen angeben",
         "msg57": "zur Whitelist hinzugefügt",
-        "msg58": "aus der Whitelist entfernt"
+        "msg58": "aus der Whitelist entfernt",
+        "msg59": "eingehende Freundschaftsanfragen angenommen",
+        "msg60": "ausgehende Anfragen abgebrochen",
+        "msg61": "eingehende Anfragen abgelehnt",
+        "msg62": "Nutzer entblockt",
+        "msg64": "Für diese Aktion gab es nichts zu verarbeiten."
       },
       "lanzar": {
         "msg1": "Kopiere und füge den folgenden Code in ein Eingabeaufforderungsfenster (cmd.exe) unter Windows ein und drücke Enter. Dieser Code ist 5 Minuten lang gültig und kann nur einmal verwendet werden. Bitte teile diesen Code nicht mit anderen.",
@@ -860,14 +865,14 @@
         "msg10": "Du bist in keinem Match"
       },
       "playtime": {
-        "msg1": "Es muss eine gültige Zahl sein.",
-        "msg2": "Beim Abrufen des launcherTokens von deinem Konto ist ein Fehler aufgetreten, wenn der Fehler weiterhin besteht, verwende `/report`.",
-        "msg3": "Erfolgreich zu deinem Konto hinzugefügt",
-        "msg4": "Stunde/n",
-        "msg5": "Du kannst die gespielten Stunden mit `/playtime view` überprüfen",
-        "msg6": "Beim Abrufen des launcherTokens von deinem Konto ist ein Fehler aufgetreten, wenn der Fehler weiterhin besteht, verwende `/report`.",
-        "msg7": "gespielte Stunde/n",
-        "msg8": "Du kannst die Zeit mit dem Befehl `/playtime add` beliebig ändern"
+        "msg1": "Es muss eine gültige Zahl größer als 0 sein.",
+        "msg2": "Fehler beim Abrufen des Epic-Games-Launcher-Tokens. Wenn es weiter auftritt, nutze `/report`.",
+        "msg3": "Zum PC-Zähler hinzugefügt (Epic Games Launcher):",
+        "msg4": "Stunde(n)",
+        "msg5": "Sieh dir diese Zeit mit `/playtime ver` an.",
+        "msg6": "Fehler beim Abrufen des Epic-Games-Launcher-Tokens. Wenn es weiter auftritt, nutze `/report`.",
+        "msg7": "gespielt",
+        "msg8": "Es werden nur die PC-Spielstunden angezeigt. Passe den Zähler mit `/playtime añadir` an."
       },
       "presencia": {
         "msg1": "Dein Status in Fortnite wurde erfolgreich geändert",

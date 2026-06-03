@@ -821,7 +821,12 @@
         "msg55": "Vous devez indiquer une action",
         "msg56": "Vous devez indiquer un ID ou displayName",
         "msg57": "ajouté à votre whitelist",
-        "msg58": "supprimé de votre whitelist"
+        "msg58": "supprimé de votre whitelist",
+        "msg59": "demandes entrantes acceptées",
+        "msg60": "demandes sortantes annulées",
+        "msg61": "demandes entrantes refusées",
+        "msg62": "utilisateurs débloqués",
+        "msg64": "Rien à traiter pour cette action."
       },
       "lanzar": {
         "msg1": "Copiez et collez le code suivant dans une fenêtre de commande (cmd.exe) sur un système Windows et appuyez sur Entrée. Ce code est valable pendant 5 minutes et ne peut être utilisé qu'une seule fois. Veuillez ne pas partager ce code avec qui que ce soit.",
@@ -841,14 +846,14 @@
         "msg10": "Vous n'êtes dans aucune partie"
       },
       "playtime": {
-        "msg1": "Cela doit être un nombre valide.",
-        "msg2": "Une erreur s'est produite lors de l'obtention du launcherToken de votre compte, si l'erreur persiste, utilisez `/reporte`.",
-        "msg3": "Ajouté à votre compte avec succès",
-        "msg4": "heure/s",
-        "msg5": "Vous pouvez vérifier les heures jouées avec `/playtime ver`",
-        "msg6": "Une erreur s'est produite lors de l'obtention du launcherToken de votre compte, si l'erreur persiste, utilisez `/reporte`.",
-        "msg7": "heure/s jouées",
-        "msg8": "Vous pouvez modifier le temps que vous voulez en utilisant la commande `/playtime ajouter`"
+        "msg1": "Ce doit être un nombre valide supérieur à 0.",
+        "msg2": "Erreur lors de l'obtention du jeton Epic Games Launcher. Si cela persiste, utilisez `/reporte`.",
+        "msg3": "Ajouté au compteur PC (Epic Games Launcher) :",
+        "msg4": "heure(s)",
+        "msg5": "Consultez ce temps avec `/playtime ver`.",
+        "msg6": "Erreur lors de l'obtention du jeton Epic Games Launcher. Si cela persiste, utilisez `/reporte`.",
+        "msg7": "joués",
+        "msg8": "Seules les heures de jeu sur PC sont affichées. Ajustez le compteur avec `/playtime añadir`."
       },
       "presencia": {
         "msg1": "Votre statut dans Fortnite a été changé avec succès",

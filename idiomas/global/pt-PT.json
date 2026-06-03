@@ -855,7 +855,12 @@
         "msg55": "Você precisa me dizer uma ação",
         "msg56": "Você precisa me dizer um ID ou displayName",
         "msg57": "adicionado à sua whitelist",
-        "msg58": "removido da sua whitelist"
+        "msg58": "removido da sua whitelist",
+        "msg59": "pedidos de amizade recebidos aceites",
+        "msg60": "pedidos enviados cancelados",
+        "msg61": "pedidos recebidos recusados",
+        "msg62": "utilizadores desbanidos",
+        "msg64": "Não havia nada para processar nesta ação."
       },
       "lanzar": {
         "msg1": "Copia e cola o seguinte código numa janela do prompt de comando (cmd.exe) num sistema Windows e pressiona Enter. Este código é válido por 5 minutos e só pode ser usado uma vez. Por favor, não partilhes este código com ninguém.",
@@ -875,14 +880,14 @@
         "msg10": "Não estás em nenhuma partida"
       },
       "playtime": {
-        "msg1": "Tem de ser um número válido.",
-        "msg2": "Ocorreu um erro ao obter o launcherToken da tua conta. Se o erro persistir, usa `/reporte`.",
-        "msg3": "Foi adicionado corretamente à tua conta",
+        "msg1": "Tem de ser um número válido maior que 0.",
+        "msg2": "Erro ao obter o token do Epic Games Launcher. Se persistir, usa `/reporte`.",
+        "msg3": "Adicionado ao contador de PC (Epic Games Launcher):",
         "msg4": "hora(s)",
-        "msg5": "Podes verificar as horas jogadas em `/playtime ver`",
-        "msg6": "Ocorreu um erro ao obter o launcherToken da tua conta. Se o erro persistir, usa `/reporte`.",
-        "msg7": "hora(s) jogadas",
-        "msg8": "Podes modificar o tempo que quiseres usando o comando `/playtime adicionar`"
+        "msg5": "Consulta esse tempo com `/playtime ver`.",
+        "msg6": "Erro ao obter o token do Epic Games Launcher. Se persistir, usa `/reporte`.",
+        "msg7": "jogados",
+        "msg8": "Só são visíveis as horas de jogo no PC. Ajusta o contador com `/playtime añadir`."
       },
       "presencia": {
         "msg1": "O teu estado no Fortnite foi alterado corretamente",

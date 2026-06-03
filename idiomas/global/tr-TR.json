@@ -822,7 +822,12 @@
         "msg55": "Bana bir işlem söylemelisin",
         "msg56": "Bana bir ID veya displayName söylemelisin",
         "msg57": "whitelist'ine eklendi",
-        "msg58": "whitelist'inden silindi"
+        "msg58": "whitelist'inden silindi",
+        "msg59": "gelen arkadaşlık istekleri kabul edildi",
+        "msg60": "giden istekler iptal edildi",
+        "msg61": "gelen istekler reddedildi",
+        "msg62": "kullanıcıların engeli kaldırıldı",
+        "msg64": "Bu işlem için işlenecek bir şey yoktu."
       },
       "lanzar": {
         "msg1": "Aşağıdaki kodu bir Windows komut istemcisine (cmd.exe) yapıştırıp Enter’a basın. Bu kod 5 dakika geçerlidir ve sadece bir kez kullanılabilir. Lütfen bu kodu kimseyle paylaşmayın.",
@@ -842,14 +847,14 @@
         "msg10": "Hiçbir maçta değilsiniz"
       },
       "playtime": {
-        "msg1": "Geçerli bir sayı olmalı.",
-        "msg2": "Hesabınızdan launcherToken alınırken hata oluştu, hata devam ederse `/report` kullanın.",
-        "msg3": "Hesabınıza başarıyla eklendi",
+        "msg1": "0'dan büyük geçerli bir sayı olmalı.",
+        "msg2": "Epic Games Launcher jetonu alınamadı. Devam ederse `/report` kullanın.",
+        "msg3": "PC sayacına eklendi (Epic Games Launcher):",
         "msg4": "saat",
-        "msg5": "Oynanan saatleri `/playtime view` ile kontrol edebilirsiniz",
-        "msg6": "Hesabınızdan launcherToken alınırken hata oluştu, hata devam ederse `/report` kullanın.",
-        "msg7": "saat oynandı",
-        "msg8": "Oynama süresini istediğiniz gibi `/playtime add` komutuyla değiştirebilirsiniz"
+        "msg5": "Bu süreyi `/playtime ver` ile kontrol edin.",
+        "msg6": "Epic Games Launcher jetonu alınamadı. Devam ederse `/report` kullanın.",
+        "msg7": "oynanan",
+        "msg8": "Yalnızca PC oyun süresi görünür. Sayacı `/playtime añadir` ile ayarlayın."
       },
       "presencia": {
         "msg1": "Fortnite’daki durumunuz başarıyla değiştirildi",

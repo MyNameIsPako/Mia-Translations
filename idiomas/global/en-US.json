@@ -822,7 +822,12 @@
         "msg55": "You must tell me an action",
         "msg56": "You must tell me an ID or displayName",
         "msg57": "added to your whitelist",
-        "msg58": "removed from your whitelist"
+        "msg58": "removed from your whitelist",
+        "msg59": "incoming friend requests accepted",
+        "msg60": "outgoing requests cancelled",
+        "msg61": "incoming requests rejected",
+        "msg62": "users unblocked",
+        "msg64": "Nothing to process for this action."
       },
       "lanzar": {
         "msg1": "Copy and paste the following code into a command prompt window (cmd.exe) on a Windows system and press Enter. This code is valid for 5 minutes and can only be used once. Please do not share this code with anyone.",
@@ -842,14 +847,14 @@
         "msg10": "You are not in any match"
       },
       "playtime": {
-        "msg1": "It has to be a valid number.",
-        "msg2": "An error occurred while obtaining the launcherToken from your account, if the error persists use `/report`.",
-        "msg3": "Successfully added to your account",
-        "msg4": "hour/s",
-        "msg5": "You can check the played hours with `/playtime view`",
-        "msg6": "An error occurred while obtaining the launcherToken from your account, if the error persists use `/report`.",
-        "msg7": "hour/s played",
-        "msg8": "You can modify the time to whatever you want using the `/playtime add` command"
+        "msg1": "It must be a valid number greater than 0.",
+        "msg2": "Failed to get the Epic Games Launcher token. If it keeps happening, use `/report`.",
+        "msg3": "Added to the PC counter (Epic Games Launcher):",
+        "msg4": "hour(s)",
+        "msg5": "Check that time with `/playtime ver`.",
+        "msg6": "Failed to get the Epic Games Launcher token. If it keeps happening, use `/report`.",
+        "msg7": "played",
+        "msg8": "Only PC playtime is shown. You can adjust the counter with `/playtime añadir`."
       },
       "presencia": {
         "msg1": "Your status in Fortnite has been successfully changed",
