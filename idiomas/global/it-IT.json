@@ -557,6 +557,11 @@
         "msg77": "PERK-UP! (raro)",
         "msg78": "PERK-UP! (epico)",
         "msg79": "PERK-UP! (leggendario)",
+        "msg85": "Seleziona le rarità che Mia riciclerà automaticamente raccogliendo bottino (missioni, negozio, spedizioni, AutoKick, ecc.).",
+        "msg86": "Rarità attive",
+        "msg87": "Rarità massima da riciclare",
+        "msg88": "Rarità di riciclo globale aggiornate\n\n**Rarità attive:**\n>>> ",
+        "msg89": "Il sistema **Riciclo automatico oggetti** è stato",
         "msg80": "PERK-UP! (fuoco)",
         "msg81": "PERK-UP! (acqua)",
         "msg82": "PERK-UP! (natura)",
@@ -2787,7 +2792,8 @@
     "msg7": "Sostituzione automatica missioni giornaliere",
     "msg8": "Acquisto automatico oggetti gratuiti del negozio",
     "msg9": "Spedizioni automatiche",
-    "msg10": "Acquisto automatico di oggetti nel negozio STW"
+    "msg10": "Acquisto automatico di oggetti nel negozio STW",
+    "msg11": "Riciclo automatico oggetti"
   },
   "tiposExpediciones": {
     "Heroes": "Eroi",

@@ -558,6 +558,11 @@
         "msg77": "PERK-UP! (rare)",
         "msg78": "PERK-UP! (epic)",
         "msg79": "PERK-UP! (legendary)",
+        "msg85": "Select the rarities Mia will automatically recycle when collecting items (missions, shop, expeditions, AutoKick, etc.).",
+        "msg86": "Active rarities",
+        "msg87": "Maximum rarity to recycle",
+        "msg88": "Global recycle rarities updated\n\n**Active rarities:**\n>>> ",
+        "msg89": "The **Auto recycle items** system has been",
         "msg80": "PERK-UP! (fire)",
         "msg81": "PERK-UP! (water)",
         "msg82": "PERK-UP! (nature)",
@@ -2744,7 +2749,8 @@
     "msg7": "Auto replace daily missions",
     "msg8": "Auto buy free shop items",
     "msg9": "Auto Expeditions",
-    "msg10": "Auto purchase of STW store items"
+    "msg10": "Auto purchase of STW store items",
+    "msg11": "Auto recycle items"
   },
   "tiposExpediciones": {
     "Heroes": "Heroes",

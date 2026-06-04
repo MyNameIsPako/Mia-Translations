@@ -559,6 +559,11 @@
         "msg77": "PERK-UP! (nadir)",
         "msg78": "PERK-UP! (epik)",
         "msg79": "PERK-UP! (efsanevi)",
+        "msg85": "Ganimet toplarken (görevler, mağaza, seferler, AutoKick vb.) Mia'nın otomatik olarak geri dönüştüreceği nadirlikleri seçin.",
+        "msg86": "Aktif nadirlikler",
+        "msg87": "Geri dönüştürülecek maksimum nadirlik",
+        "msg88": "Global geri dönüşüm nadirlikleri güncellendi\n\n**Aktif nadirlikler:**\n>>> ",
+        "msg89": "**Otomatik eşya geri dönüşümü** sistemi",
         "msg80": "PERK-UP! (ateş)",
         "msg81": "PERK-UP! (su)",
         "msg82": "PERK-UP! (doğa)",
@@ -2643,7 +2648,8 @@
     "msg7": "Günlük görevleri otomatik değiştir",
     "msg8": "Ücretsiz mağaza eşyalarını otomatik satın al",
     "msg9": "Otomatik Seferler",
-    "msg10": "STW mağaza öğelerinin otomatik satın alımı"
+    "msg10": "STW mağaza öğelerinin otomatik satın alımı",
+    "msg11": "Otomatik eşya geri dönüşümü"
   },
   "tiposExpediciones": {
     "Heroes": "Kahramanlar",

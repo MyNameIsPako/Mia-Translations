@@ -557,6 +557,11 @@
         "msg77": "PERK-UP! (raro)",
         "msg78": "PERK-UP! (épico)",
         "msg79": "PERK-UP! (legendario)",
+        "msg85": "Selecciona las rarezas que Mia reciclará automáticamente al recoger items (misiones, tienda, expediciones, AutoKick, etc.).",
+        "msg86": "Rarezas activadas",
+        "msg87": "Rareza máxima a reciclar",
+        "msg88": "Rarezas de reciclaje global actualizadas\n\n**Rarezas activadas:**\n>>> ",
+        "msg89": "El sistema **Auto reciclar items** ha sido",
         "msg80": "PERK-UP! (fuego)",
         "msg81": "PERK-UP! (agua)",
         "msg82": "PERK-UP! (naturaleza)",
@@ -2752,7 +2757,9 @@
     "msg6": "Auto refrescar el codigo de creador",
     "msg7": "Auto reemplazar misiones diarias",
     "msg8": "Auto comprar items gratis de la tienda",
-    "msg9": "Auto expediciones"
+    "msg9": "Auto expediciones",
+    "msg10": "Auto compra de ítems de tienda STW",
+    "msg11": "Auto reciclar items"
   },
   "tiposExpediciones": {
     "Heroes": "Héroes",

@@ -576,6 +576,11 @@
         "msg77": "PERK-UP! (selten)",
         "msg78": "PERK-UP! (episch)",
         "msg79": "PERK-UP! (legendär)",
+        "msg85": "Wähle die Seltenheiten, die Mia beim Einsammeln von Beute automatisch recycelt (Missionen, Shop, Expeditionen, AutoKick usw.).",
+        "msg86": "Aktive Seltenheiten",
+        "msg87": "Maximale Seltenheit zum Recyceln",
+        "msg88": "Globale Recycle-Seltenheiten aktualisiert\n\n**Aktive Seltenheiten:**\n>>> ",
+        "msg89": "Das System **Items automatisch recyceln** wurde",
         "msg80": "PERK-UP! (Feuer)",
         "msg81": "PERK-UP! (Wasser)",
         "msg82": "PERK-UP! (Natur)",
@@ -2770,7 +2775,8 @@
     "msg7": "Automatisches Ersetzen der Tagesmissionen",
     "msg8": "Automatisches Kaufen kostenloser Shop-Items",
     "msg9": "Automatisches Senden von Expeditionen",
-    "msg10": "Automatischer Kauf von STW-Shop-Items"
+    "msg10": "Automatischer Kauf von STW-Shop-Items",
+    "msg11": "Items automatisch recyceln"
   },
   "tiposExpediciones": {
     "Heroes": "Helden",

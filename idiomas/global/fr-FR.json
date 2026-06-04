@@ -557,6 +557,11 @@
         "msg77": "PERK-UP! (rare)",
         "msg78": "PERK-UP! (épique)",
         "msg79": "PERK-UP! (légendaire)",
+        "msg85": "Sélectionne les raretés que Mia recyclera automatiquement lors de la collecte de butin (missions, boutique, expéditions, AutoKick, etc.).",
+        "msg86": "Raretés actives",
+        "msg87": "Rareté maximale à recycler",
+        "msg88": "Raretés de recyclage global mises à jour\n\n**Raretés actives :**\n>>> ",
+        "msg89": "Le système **Recyclage automatique d'objets** a été",
         "msg80": "PERK-UP! (feu)",
         "msg81": "PERK-UP! (eau)",
         "msg82": "PERK-UP! (nature)",
@@ -2751,7 +2756,8 @@
     "msg7": "Remplacement automatique des missions quotidiennes",
     "msg8": "Achat automatique d'objets gratuits de la boutique",
     "msg9": "Expéditions automatiques",
-    "msg10": "Achat automatique d’objets de la boutique STW"
+    "msg10": "Achat automatique d’objets de la boutique STW",
+    "msg11": "Recyclage automatique d'objets"
   },
   "tiposExpediciones": {
     "Heroes": "Héros",
