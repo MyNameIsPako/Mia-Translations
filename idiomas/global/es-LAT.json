@@ -1513,8 +1513,8 @@
         "msg49": "Busca una build usando /build buscar <preset>",
         "msg50": "Mostrando las ${limit} builds más votadas",
         "msg51": "Se muestra la más votada. Existen **${count}** builds con ese nombre.",
-    "msg52": "Auth expirado o revocado"
-        },
+        "msg52": "Auth expirado o revocado"
+      },
       "refrescar": {
         "msg1": "Se refresco tu cuenta de Fortnite.",
         "msg2": "Se refrescaron todas tus cuentas registradas en Mia",
@@ -2041,6 +2041,46 @@
         "msg10": "El tiempo para obtener el OTP expiro.",
         "msg11": "Codigo OTP encontrado",
         "msg12": "Ver OTP"
+      },
+      "trelloFeedback": {
+        "reporte": {
+          "msgEnviado": "${emojis.check} Tu **reporte** (*${titulo}*) del producto **${producto}** se envió correctamente al equipo, te avisaremos por privado cuando sea revisado.",
+          "footer": "Gracias por reportarnos este error",
+          "btnTrello": "Ver reporte en Trello",
+          "btnCanalDiscord": "Canal de Trello en Discord"
+        },
+        "sugerencia": {
+          "msgEnviado": "${emojis.check} Tu **sugerencia** (*${titulo}*) del producto **${producto}** se envió correctamente al equipo. Te avisaremos por privado cuando sea revisada.",
+          "footer": "Gracias por tu aporte, esto nos ayuda a mejorar Mia",
+          "btnTrello": "Ver sugerencia en Trello",
+          "btnCanalDiscord": "Canal de Trello en Discord"
+        },
+        "dm": {
+          "tipoReporte": "reporte",
+          "tipoSugerencia": "sugerencia",
+          "revisadoM": "revisado",
+          "revisadoF": "revisada",
+          "marcadoM": "marcado",
+          "marcadoF": "marcada",
+          "footerReporte": "Gracias por ayudarnos a mejorar Mia",
+          "footerSugerencia": "Gracias por tu aporte a Mia",
+          "msgGestion": "${emojis.check} Tu **${tipo}** (*${titulo}*) del producto **${producto}** ha sido ${revisado} por el equipo y ha sido ${marcado} como **${resultado}**",
+          "sinTitulo": "sin título",
+          "sinProducto": "sin producto",
+          "btnTrello": "Ver en Trello",
+          "btnCanalDiscord": "Canal de Trello en Discord",
+          "resultadoAceptada": "aceptada",
+          "resultadoRechazada": "rechazada",
+          "resultadoArchivada": "archivada",
+          "resultadoArreglado": "arreglado",
+          "resultadoArchivado": "archivado",
+          "resultadoActualizada": "actualizada"
+        },
+        "productos": {
+          "mia": "Mia",
+          "launcher": "Mia Launcher",
+          "checker": "Mia Checker"
+        }
       }
     },
     "paneles": {
@@ -2672,7 +2712,7 @@
     "msg50": "Por temas de seguridad este comando solo se puede usar en mensajes privados de Mia",
     "msg51": "Enviar mensaje privado a Mia",
     "msg52": "Auth expirado o revocado"
-    },
+  },
   "botonesymodals": {
     "msg1": "No tienes permiso para usar este botón.",
     "msg2": "No tienes permiso para usar este modal."

@@ -2075,6 +2075,46 @@
         "msg10": "OTPを取得する時間が切れました。",
         "msg11": "OTPコードが見つかりました",
         "msg12": "OTPを見る"
+      },
+      "trelloFeedback": {
+        "reporte": {
+          "msgEnviado": "${emojis.check} **${producto}** の **レポート**（*${titulo}*）をチームに正常に送信しました。確認が完了したらDMでお知らせします。",
+          "footer": "この不具合の報告ありがとうございます",
+          "btnTrello": "Trelloでレポートを見る",
+          "btnCanalDiscord": "DiscordのTrelloチャンネル"
+        },
+        "sugerencia": {
+          "msgEnviado": "${emojis.check} **${producto}** の **提案**（*${titulo}*）をチームに正常に送信しました。確認が完了したらDMでお知らせします。",
+          "footer": "ご協力ありがとうございます。Miaの改善に役立ちます",
+          "btnTrello": "Trelloで提案を見る",
+          "btnCanalDiscord": "DiscordのTrelloチャンネル"
+        },
+        "dm": {
+          "tipoReporte": "レポート",
+          "tipoSugerencia": "提案",
+          "revisadoM": "確認済み",
+          "revisadoF": "確認済み",
+          "marcadoM": "次の状態に",
+          "marcadoF": "次の状態に",
+          "footerReporte": "Miaの改善にご協力いただきありがとうございます",
+          "footerSugerencia": "Miaへのご協力ありがとうございます",
+          "msgGestion": "${emojis.check} **${producto}** の **${tipo}**（*${titulo}*）はチームにより${revisado}され、**${resultado}** と${marcado}されました",
+          "sinTitulo": "タイトルなし",
+          "sinProducto": "製品なし",
+          "btnTrello": "Trelloで見る",
+          "btnCanalDiscord": "DiscordのTrelloチャンネル",
+          "resultadoAceptada": "承認",
+          "resultadoRechazada": "却下",
+          "resultadoArchivada": "アーカイブ",
+          "resultadoArreglado": "修正済み",
+          "resultadoArchivado": "アーカイブ",
+          "resultadoActualizada": "更新"
+        },
+        "productos": {
+          "mia": "Mia",
+          "launcher": "Mia Launcher",
+          "checker": "Mia Checker"
+        }
       }
     },
     "paneles": {
@@ -2705,8 +2745,8 @@
     "msg50": "セキュリティ上の理由から、このコマンドはMiaとのプライベートメッセージでのみ使用できます",
     "msg51": "Miaにプライベートメッセージを送信",
     "msg52": "認証の有効期限切れまたは取り消し"
-    },
-    "botonesymodals": {
+  },
+  "botonesymodals": {
     "msg1": "このボタンを使用する権限がありません。",
     "msg2": "このモーダルを使用する権限がありません。"
   },

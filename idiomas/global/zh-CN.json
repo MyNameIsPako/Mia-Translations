@@ -2047,6 +2047,46 @@
         "msg42": "成为高级会员的好处",
         "msg43": "您没有任何活跃的高级会员资格。",
         "msg44": "当您是助推器时"
+      },
+      "trelloFeedback": {
+        "reporte": {
+          "msgEnviado": "${emojis.check} 你关于 **${producto}** 的 **报告**（*${titulo}*）已成功发送给团队，审核完成后我们会通过私信通知你。",
+          "footer": "感谢你向我们报告此问题",
+          "btnTrello": "在 Trello 上查看报告",
+          "btnCanalDiscord": "Discord 上的 Trello 频道"
+        },
+        "sugerencia": {
+          "msgEnviado": "${emojis.check} 你关于 **${producto}** 的 **建议**（*${titulo}*）已成功发送给团队，审核完成后我们会通过私信通知你。",
+          "footer": "感谢你的贡献，这有助于我们改进 Mia",
+          "btnTrello": "在 Trello 上查看建议",
+          "btnCanalDiscord": "Discord 上的 Trello 频道"
+        },
+        "dm": {
+          "tipoReporte": "报告",
+          "tipoSugerencia": "建议",
+          "revisadoM": "已审核",
+          "revisadoF": "已审核",
+          "marcadoM": "标记为",
+          "marcadoF": "标记为",
+          "footerReporte": "感谢你帮助我们改进 Mia",
+          "footerSugerencia": "感谢你对 Mia 的贡献",
+          "msgGestion": "${emojis.check} 你关于 **${producto}** 的 **${tipo}**（*${titulo}*）已由团队${revisado}，并${marcado} **${resultado}**",
+          "sinTitulo": "无标题",
+          "sinProducto": "无产品",
+          "btnTrello": "在 Trello 上查看",
+          "btnCanalDiscord": "Discord 上的 Trello 频道",
+          "resultadoAceptada": "已接受",
+          "resultadoRechazada": "已拒绝",
+          "resultadoArchivada": "已归档",
+          "resultadoArreglado": "已修复",
+          "resultadoArchivado": "已归档",
+          "resultadoActualizada": "已更新"
+        },
+        "productos": {
+          "mia": "Mia",
+          "launcher": "Mia Launcher",
+          "checker": "Mia Checker"
+        }
       }
     },
     "rep": {

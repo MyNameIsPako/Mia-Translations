@@ -2017,6 +2017,46 @@
           "msg10": "OTP almak için süren doldu.",
           "msg11": "OTP kodu bulundu",
           "msg12": "OTP'yi Gör"
+        },
+        "trelloFeedback": {
+          "reporte": {
+            "msgEnviado": "${emojis.check} **${producto}** için **raporun** (*${titulo}*) ekibe başarıyla gönderildi. İncelendiğinde seni özel mesajla bilgilendireceğiz.",
+            "footer": "Bu hatayı bildirdiğin için teşekkürler",
+            "btnTrello": "Raporu Trello'da gör",
+            "btnCanalDiscord": "Discord'daki Trello kanalı"
+          },
+          "sugerencia": {
+            "msgEnviado": "${emojis.check} **${producto}** için **önerin** (*${titulo}*) ekibe başarıyla gönderildi. İncelendiğinde seni özel mesajla bilgilendireceğiz.",
+            "footer": "Katkın için teşekkürler, Mia'yı geliştirmemize yardımcı oluyor",
+            "btnTrello": "Öneriyi Trello'da gör",
+            "btnCanalDiscord": "Discord'daki Trello kanalı"
+          },
+          "dm": {
+            "tipoReporte": "rapor",
+            "tipoSugerencia": "öneri",
+            "revisadoM": "incelendi",
+            "revisadoF": "incelendi",
+            "marcadoM": "işaretlendi",
+            "marcadoF": "işaretlendi",
+            "footerReporte": "Mia'yı geliştirmemize yardım ettiğin için teşekkürler",
+            "footerSugerencia": "Mia'ya katkın için teşekkürler",
+            "msgGestion": "${emojis.check} **${producto}** için **${tipo}** (*${titulo}*) ekibimiz tarafından ${revisado} ve **${resultado}** olarak ${marcado}",
+            "sinTitulo": "başlıksız",
+            "sinProducto": "ürün yok",
+            "btnTrello": "Trello'da gör",
+            "btnCanalDiscord": "Discord'daki Trello kanalı",
+            "resultadoAceptada": "kabul edildi",
+            "resultadoRechazada": "reddedildi",
+            "resultadoArchivada": "arşivlendi",
+            "resultadoArreglado": "düzeltildi",
+            "resultadoArchivado": "arşivlendi",
+            "resultadoActualizada": "güncellendi"
+          },
+          "productos": {
+            "mia": "Mia",
+            "launcher": "Mia Launcher",
+            "checker": "Mia Checker"
+          }
         }
       },
       "paneles": {
@@ -2560,9 +2600,9 @@
       "msg49": "Permissões necessárias:",
       "msg50": "Güvenlik nedeniyle, bu komut yalnızca Mia ile özel mesajlarda kullanılabilir",
       "msg51": "Mia'ya özel mesaj gönder",
-    "msg52": "Auth süresi doldu veya iptal edildi"
-      },
-      "botonesymodals": {
+      "msg52": "Auth süresi doldu veya iptal edildi"
+    },
+    "botonesymodals": {
       "msg1": "Bu butonu kullanma yetkin yok.",
       "msg2": "Bu modalı kullanma yetkin yok."
     },

@@ -2074,6 +2074,46 @@
         "msg10": "O tempo para obter o OTP expirou.",
         "msg11": "Código OTP encontrado",
         "msg12": "Ver OTP"
+      },
+      "trelloFeedback": {
+        "reporte": {
+          "msgEnviado": "${emojis.check} Seu **relatório** (*${titulo}*) do produto **${producto}** foi enviado à equipe com sucesso. Avisaremos você no privado quando for revisado.",
+          "footer": "Obrigado por nos reportar este erro",
+          "btnTrello": "Ver relatório no Trello",
+          "btnCanalDiscord": "Canal do Trello no Discord"
+        },
+        "sugerencia": {
+          "msgEnviado": "${emojis.check} Sua **sugestão** (*${titulo}*) do produto **${producto}** foi enviada à equipe com sucesso. Avisaremos você no privado quando for revisada.",
+          "footer": "Obrigado pela sua contribuição, isso nos ajuda a melhorar a Mia",
+          "btnTrello": "Ver sugestão no Trello",
+          "btnCanalDiscord": "Canal do Trello no Discord"
+        },
+        "dm": {
+          "tipoReporte": "relatório",
+          "tipoSugerencia": "sugestão",
+          "revisadoM": "revisado",
+          "revisadoF": "revisada",
+          "marcadoM": "marcado",
+          "marcadoF": "marcada",
+          "footerReporte": "Obrigado por nos ajudar a melhorar a Mia",
+          "footerSugerencia": "Obrigado pela sua contribuição à Mia",
+          "msgGestion": "${emojis.check} Sua **${tipo}** (*${titulo}*) do produto **${producto}** foi ${revisado} pela equipe e foi ${marcado} como **${resultado}**",
+          "sinTitulo": "sem título",
+          "sinProducto": "sem produto",
+          "btnTrello": "Ver no Trello",
+          "btnCanalDiscord": "Canal do Trello no Discord",
+          "resultadoAceptada": "aceita",
+          "resultadoRechazada": "rejeitada",
+          "resultadoArchivada": "arquivada",
+          "resultadoArreglado": "corrigido",
+          "resultadoArchivado": "arquivado",
+          "resultadoActualizada": "atualizada"
+        },
+        "productos": {
+          "mia": "Mia",
+          "launcher": "Mia Launcher",
+          "checker": "Mia Checker"
+        }
       }
     },
     "paneles": {
@@ -2704,8 +2744,8 @@
     "msg50": "Por motivos de segurança, este comando só pode ser usado em mensagens privadas com a Mia",
     "msg51": "Enviar uma mensagem privada para a Mia",
     "msg52": "Auth expirado ou revogado"
-    },
-    "botonesymodals": {
+  },
+  "botonesymodals": {
     "msg1": "Você não tem permissão para usar este botão.",
     "msg2": "Você não tem permissão para usar este modal."
   },
