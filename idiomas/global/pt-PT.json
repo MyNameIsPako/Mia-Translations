@@ -53,7 +53,35 @@
         "msg14": "com a variante",
         "msg15": "Visível apenas para os jogadores no seu lobby",
         "msg16": "Você não selecionou nenhuma variante e o tempo acabou.",
-        "msg17": "Equipado com sucesso"
+        "msg17": "Equipado com sucesso",
+        "msg18": "Seleciona um rank válido em **nome** (autocompletar).",
+        "msg19": "Rank falsificado:",
+        "msg20": "Indica o nível do passe de batalha em **valor**.",
+        "msg21": "Passe de batalha falsificado: nível",
+        "msg22": "(comprado)",
+        "msg23": "(não comprado)",
+        "msg24": "Cosmético removido com sucesso.",
+        "rangos": [
+          "Sem rank",
+          "Bronze I",
+          "Bronze II",
+          "Bronze III",
+          "Prata I",
+          "Prata II",
+          "Prata III",
+          "Ouro I",
+          "Ouro II",
+          "Ouro III",
+          "Platina I",
+          "Platina II",
+          "Platina III",
+          "Diamante I",
+          "Diamante II",
+          "Diamante III",
+          "Elite",
+          "Campeão",
+          "Unreal"
+        ]
       },
       "initmm": {
         "msg1": "A pesquisa foi iniciada para o MatchMaking."

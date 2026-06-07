@@ -54,7 +54,35 @@
         "msg14": "with the variant",
         "msg15": "Only visible to players in your lobby",
         "msg16": "You did not select any variant and the time ran out.",
-        "msg17": "Successfully equipped"
+        "msg17": "Successfully equipped",
+        "msg18": "Select a valid rank in **name** (autocomplete).",
+        "msg19": "Rank spoofed:",
+        "msg20": "Enter the battle pass level in **value**.",
+        "msg21": "Battle pass spoofed: level",
+        "msg22": "(purchased)",
+        "msg23": "(not purchased)",
+        "msg24": "Cosmetic removed successfully.",
+        "rangos": [
+          "Unranked",
+          "Bronze I",
+          "Bronze II",
+          "Bronze III",
+          "Silver I",
+          "Silver II",
+          "Silver III",
+          "Gold I",
+          "Gold II",
+          "Gold III",
+          "Platinum I",
+          "Platinum II",
+          "Platinum III",
+          "Diamond I",
+          "Diamond II",
+          "Diamond III",
+          "Elite",
+          "Champion",
+          "Unreal"
+        ]
       },
       "initmm": {
         "msg1": "The survey was initialized for MatchMaking."

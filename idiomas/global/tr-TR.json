@@ -54,7 +54,35 @@
         "msg14": "varyant ile",
         "msg15": "Yalnızca lobinizdeki oyuncular tarafından görülebilir",
         "msg16": "Herhangi bir varyant seçmediniz ve süre doldu.",
-        "msg17": "Başarıyla donatıldı"
+        "msg17": "Başarıyla donatıldı",
+        "msg18": "**isim** alanından geçerli bir rank seçin (otomatik tamamlama).",
+        "msg19": "Rank sahtelendi:",
+        "msg20": "**değer** alanına savaş geçidi seviyesini girin.",
+        "msg21": "Savaş geçidi sahtelendi: seviye",
+        "msg22": "(satın alındı)",
+        "msg23": "(satın alınmadı)",
+        "msg24": "Kozmetik başarıyla kaldırıldı.",
+        "rangos": [
+          "Ranksız",
+          "Bronz I",
+          "Bronz II",
+          "Bronz III",
+          "Gümüş I",
+          "Gümüş II",
+          "Gümüş III",
+          "Altın I",
+          "Altın II",
+          "Altın III",
+          "Platin I",
+          "Platin II",
+          "Platin III",
+          "Elmas I",
+          "Elmas II",
+          "Elmas III",
+          "Elit",
+          "Şampiyon",
+          "Unreal"
+        ]
       },
       "initmm": {
         "msg1": "Anket, Eşleştirme için başlatıldı."

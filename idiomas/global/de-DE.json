@@ -56,7 +56,35 @@
         "msg14": "mit der Variante",
         "msg15": "Nur für Spieler in deiner Lobby sichtbar",
         "msg16": "Du hast keine Variante ausgewählt und die Zeit ist abgelaufen.",
-        "msg17": "Erfolgreich ausgerüstet"
+        "msg17": "Erfolgreich ausgerüstet",
+        "msg18": "Wähle einen gültigen Rang in **name** (Autovervollständigung).",
+        "msg19": "Rang gespooft:",
+        "msg20": "Gib das Battle-Pass-Level in **wert** an.",
+        "msg21": "Battle Pass gespooft: Level",
+        "msg22": "(gekauft)",
+        "msg23": "(nicht gekauft)",
+        "msg24": "Kosmetik erfolgreich entfernt.",
+        "rangos": [
+          "Kein Rang",
+          "Bronze I",
+          "Bronze II",
+          "Bronze III",
+          "Silber I",
+          "Silber II",
+          "Silber III",
+          "Gold I",
+          "Gold II",
+          "Gold III",
+          "Platin I",
+          "Platin II",
+          "Platin III",
+          "Diamant I",
+          "Diamant II",
+          "Diamant III",
+          "Elite",
+          "Champion",
+          "Unreal"
+        ]
       },
       "initmm": {
         "msg1": "Die Umfrage wurde für MatchMaking gestartet."

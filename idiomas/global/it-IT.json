@@ -53,7 +53,35 @@
         "msg14": "con la variante",
         "msg15": "Visibile solo ai giocatori nella tua lobby",
         "msg16": "Non hai selezionato nessuna variante e il tempo è scaduto.",
-        "msg17": "Equipaggiato con successo"
+        "msg17": "Equipaggiato con successo",
+        "msg18": "Seleziona un rango valido in **nome** (autocompletamento).",
+        "msg19": "Rango falsificato:",
+        "msg20": "Inserisci il livello del pass battaglia in **valore**.",
+        "msg21": "Pass battaglia falsificato: livello",
+        "msg22": "(acquistato)",
+        "msg23": "(non acquistato)",
+        "msg24": "Cosmetico rimosso correttamente.",
+        "rangos": [
+          "Senza rango",
+          "Bronzo I",
+          "Bronzo II",
+          "Bronzo III",
+          "Argento I",
+          "Argento II",
+          "Argento III",
+          "Oro I",
+          "Oro II",
+          "Oro III",
+          "Platino I",
+          "Platino II",
+          "Platino III",
+          "Diamante I",
+          "Diamante II",
+          "Diamante III",
+          "Élite",
+          "Campione",
+          "Unreal"
+        ]
       },
       "initmm": {
         "msg1": "La coda è stata avviata per il MatchMaking."

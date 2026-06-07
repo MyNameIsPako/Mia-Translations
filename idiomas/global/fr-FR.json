@@ -53,7 +53,35 @@
         "msg14": "avec la variante",
         "msg15": "Visible uniquement pour les joueurs de votre lobby",
         "msg16": "Vous n'avez sélectionné aucune variante et le temps est écoulé.",
-        "msg17": "Équipé avec succès"
+        "msg17": "Équipé avec succès",
+        "msg18": "Sélectionnez un rang valide dans **nom** (autocomplétion).",
+        "msg19": "Rang falsifié :",
+        "msg20": "Indiquez le niveau du passe de combat dans **valeur**.",
+        "msg21": "Passe de combat falsifié : niveau",
+        "msg22": "(acheté)",
+        "msg23": "(non acheté)",
+        "msg24": "Cosmétique retiré avec succès.",
+        "rangos": [
+          "Sans rang",
+          "Bronze I",
+          "Bronze II",
+          "Bronze III",
+          "Argent I",
+          "Argent II",
+          "Argent III",
+          "Or I",
+          "Or II",
+          "Or III",
+          "Platine I",
+          "Platine II",
+          "Platine III",
+          "Diamant I",
+          "Diamant II",
+          "Diamant III",
+          "Élite",
+          "Champion",
+          "Unreal"
+        ]
       },
       "initmm": {
         "msg1": "La file d'attente a été initialisée pour le MatchMaking."
