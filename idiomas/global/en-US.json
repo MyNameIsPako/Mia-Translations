@@ -1415,7 +1415,13 @@
 				"msg77": "✅ Stats set to low",
 				"msg78": "❌ Stats are already high",
 				"msg79": "✅ Stats set to high",
-				"msg80": "👉 Usage: ?pl min | ?pl max"
+				"msg80": "👉 Usage: ?pl min | ?pl max",
+				"msg81": "sent you a join request.",
+				"msg82": "Open the social menu in Fortnite and **accept the request** so they join your party (no manual invite needed).",
+				"msg83": "Could not request a taxi, try again or invite one from `/taxibot option: Status`.",
+				"msg84": "No taxis are **available** right now, check `/taxibot option: Status` or invite manually.",
+				"msg85": "You are not friends with any available taxi, add Mia taxibots from the status list first.",
+				"msg86": "The taxi could not send the request (are you in the lobby with an open match?)."
 			},
 			"tiendastw": {
 				"msg1": "No STW shop data found",

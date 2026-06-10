@@ -1448,7 +1448,13 @@
 				"msg77": "✅ Stats impostate su basse",
 				"msg78": "❌ Le stats sono già alte",
 				"msg79": "✅ Stats impostate su alte",
-				"msg80": "👉 Uso: ?pl min | ?pl max"
+				"msg80": "👉 Uso: ?pl min | ?pl max",
+				"msg81": "ti ha inviato una richiesta di unione.",
+				"msg82": "Apri il menu sociale in Fortnite e **accetta la richiesta** per farlo entrare nel party.",
+				"msg83": "Impossibile richiedere un taxi, riprova o invita manualmente da `/taxibot opzione: Stato`.",
+				"msg84": "Nessun taxi **disponibile** al momento, controlla `/taxibot opzione: Stato` o invita manualmente.",
+				"msg85": "Non sei amico di un taxi disponibile, aggiungi i taxibots Mia dalla lista di stato.",
+				"msg86": "Il taxi non ha potuto inviare la richiesta (sei nel lobby con partita aperta?)."
 			},
 			"tiendastw": {
 				"msg1": "Nessun dato del negozio STW trovato",

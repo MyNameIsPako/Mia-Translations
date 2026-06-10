@@ -1414,7 +1414,13 @@
 				"msg77": "✅ Stats passées en basses",
 				"msg78": "❌ Les stats sont déjà hautes",
 				"msg79": "✅ Stats passées en hautes",
-				"msg80": "👉 Utilisation : ?pl min | ?pl max"
+				"msg80": "👉 Utilisation : ?pl min | ?pl max",
+				"msg81": "t'a envoyé une demande de rejoindre.",
+				"msg82": "Ouvre le menu social dans Fortnite et **accepte la demande** pour qu'il rejoigne ton groupe.",
+				"msg83": "Impossible de demander un taxi, réessaie ou invite manuellement depuis `/taxibot option : État`.",
+				"msg84": "Aucun taxi **disponible** pour le moment, consulte `/taxibot option : État` ou invite manuellement.",
+				"msg85": "Tu n'es ami avec aucun taxi disponible, ajoute les taxibots Mia depuis la liste d'état.",
+				"msg86": "Le taxi n'a pas pu envoyer la demande (tu es dans le lobby avec une partie ouverte ?)."
 			},
 			"tiendastw": {
 				"msg1": "Aucune donnée de boutique STW trouvée",

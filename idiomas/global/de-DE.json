@@ -1433,7 +1433,13 @@
 				"msg77": "✅ Stats auf niedrig geändert",
 				"msg78": "❌ Die Stats sind bereits hoch",
 				"msg79": "✅ Stats auf hoch geändert",
-				"msg80": "👉 Verwendung: ?pl min | ?pl max"
+				"msg80": "👉 Verwendung: ?pl min | ?pl max",
+				"msg81": "hat dir eine Beitrittsanfrage gesendet.",
+				"msg82": "Öffne das Sozialmenü in Fortnite und **nimm die Anfrage an**, damit er deiner Party beitritt.",
+				"msg83": "Taxi-Anfrage fehlgeschlagen, versuche es erneut oder lade einen von `/taxibot option: Status` ein.",
+				"msg84": "Derzeit sind **keine Taxis verfügbar**, prüfe `/taxibot option: Status` oder lade manuell ein.",
+				"msg85": "Du bist mit keinem verfügbaren Taxi befreundet, füge zuerst Mia-Taxibots aus der Statusliste hinzu.",
+				"msg86": "Das Taxi konnte die Anfrage nicht senden (bist du im Lobby mit offener Partie?)."
 			},
 			"tiendastw": {
 				"msg1": "Keine STW-Shop-Daten gefunden",

@@ -1415,7 +1415,13 @@
 				"msg77": "✅ İstatistikler düşüğe ayarlandı",
 				"msg78": "❌ İstatistikler zaten yüksek",
 				"msg79": "✅ İstatistikler yükseğe ayarlandı",
-				"msg80": "👉 Kullanım: ?pl min | ?pl max"
+				"msg80": "👉 Kullanım: ?pl min | ?pl max",
+				"msg81": "sana katılma isteği gönderdi.",
+				"msg82": "Fortnite sosyal menüsünden **isteği kabul et**; taksi partine katılacak.",
+				"msg83": "Taksi istenemedi, tekrar dene veya `/taxibot seçenek: Durum` üzerinden birini davet et.",
+				"msg84": "Şu anda **uygun taksi yok**, `/taxibot seçenek: Durum` kontrol et veya manuel davet et.",
+				"msg85": "Uygun taksiyle arkadaş değilsin, önce Mia taksilerini durum listesinden ekle.",
+				"msg86": "Taksi isteği gönderemedi (lobide açık maç?)."
 			},
 			"tiendastw": {
 				"msg1": "STW mağaza verisi bulunamadı",

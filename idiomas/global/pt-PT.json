@@ -1448,7 +1448,13 @@
 				"msg77": "✅ Stats alteradas para baixas",
 				"msg78": "❌ As stats já estão altas",
 				"msg79": "✅ Stats alteradas para altas",
-				"msg80": "👉 Uso: ?pl min | ?pl max"
+				"msg80": "👉 Uso: ?pl min | ?pl max",
+				"msg81": "enviou um pedido de entrada.",
+				"msg82": "Abra o menu social no Fortnite e **aceite o pedido** para entrar na sua party.",
+				"msg83": "Não foi possível solicitar um taxi, tente novamente ou convide um de `/taxibot opção: Estado`.",
+				"msg84": "Nenhum taxi **disponível** no momento, veja `/taxibot opção: Estado` ou convide manualmente.",
+				"msg85": "Não é amigo de um taxi disponível, adicione os taxibots Mia da lista de estado.",
+				"msg86": "O taxi não conseguiu enviar o pedido (está no lobby com partida aberta?)."
 			},
 			"tiendastw": {
 				"msg1": "Nenhum dado da loja STW encontrado",
