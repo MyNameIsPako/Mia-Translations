@@ -1439,7 +1439,8 @@
 				"msg83": "Taxi-Anfrage fehlgeschlagen, versuche es erneut oder lade einen von `/taxibot option: Status` ein.",
 				"msg84": "Derzeit sind **keine Taxis verfügbar**, prüfe `/taxibot option: Status` oder lade manuell ein.",
 				"msg85": "Du bist mit keinem verfügbaren Taxi befreundet, füge zuerst Mia-Taxibots aus der Statusliste hinzu.",
-				"msg86": "Das Taxi konnte die Anfrage nicht senden (bist du im Lobby mit offener Partie?)."
+				"msg86": "Das Taxi konnte die Anfrage nicht senden (bist du im Lobby mit offener Partie?).",
+				"msg87": "Auf PS5/Xbox vom Battle-Royale-Lobby einladen (nicht aus Save the World). Geh zurück ins BR-Lobby, lade den Taxi ein und betrete dann STW."
 			},
 			"tiendastw": {
 				"msg1": "Keine STW-Shop-Daten gefunden",

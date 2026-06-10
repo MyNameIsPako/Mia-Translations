@@ -1421,7 +1421,8 @@
 				"msg83": "Taksi istenemedi, tekrar dene veya `/taxibot seçenek: Durum` üzerinden birini davet et.",
 				"msg84": "Şu anda **uygun taksi yok**, `/taxibot seçenek: Durum` kontrol et veya manuel davet et.",
 				"msg85": "Uygun taksiyle arkadaş değilsin, önce Mia taksilerini durum listesinden ekle.",
-				"msg86": "Taksi isteği gönderemedi (lobide açık maç?)."
+				"msg86": "Taksi isteği gönderemedi (lobide açık maç?).",
+				"msg87": "PS5/Xbox'da Battle Royale lobisinden davet et (Save the World'den değil). BR lobisine dön, taksi davet et ve sonra STW'ye gir."
 			},
 			"tiendastw": {
 				"msg1": "STW mağaza verisi bulunamadı",
