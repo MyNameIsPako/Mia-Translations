@@ -150,7 +150,7 @@
 			"botLobbies": {
 				"msg1": "### <:activo:1265589739969577097> Compte activé",
 				"msg2": "### <:inactivo:1265589738568679436> Compte désactivé",
-				"msg3": "BotLobbies personnalisées de Mia",
+				"msg3": "TaxiBots personnalisés de Mia",
 				"msg4": "**90s**",
 				"msg5": "**<:venturas:1178884872597684356> 140 - <:poder:1150566404253294683> 160 (normal)**",
 				"msg6": "**<:venturas:1178884872597684356> 1 - <:poder:1150566404253294683> 1 (reverse)**",
@@ -217,7 +217,11 @@
 				"msg67": "ID de la bannière:",
 				"msg68": "ID de l'emote:",
 				"msg69": "**Compte banni**",
-				"msg70": "**MM connecté**"
+				"msg70": "**MM connecté**",
+				"msg72": "Sélectionne le compte que tu veux personnaliser",
+				"msg73": "Sélectionner le compte",
+				"msg74": "Supprimer du système",
+				"msg75": "Le TaxiBot personnalisé a été supprimé du compte"
 			},
 			"reembolso": {
 				"msg1": "Aucun achat éligible pour un remboursement n'a été trouvé.",
@@ -2098,7 +2102,8 @@
 				"msg9": "Le OTP est",
 				"msg10": "Le temps pour obtenir le OTP a expiré.",
 				"msg11": "Code OTP trouvé",
-				"msg12": "Voir le OTP"
+				"msg12": "Voir le OTP",
+				"msg13": "OTP généré"
 			},
 			"trelloFeedback": {
 				"reporte": {

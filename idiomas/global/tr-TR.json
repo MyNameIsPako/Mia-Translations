@@ -151,7 +151,7 @@
 			"botLobbies": {
 				"msg1": "### <:activo:1265589739969577097> Hesap etkinleştirildi",
 				"msg2": "### <:inactivo:1265589738568679436> Hesap devre dışı bırakıldı",
-				"msg3": "Mia'nın Özel BotLobbies",
+				"msg3": "Mia'nın özel TaxiBotları",
 				"msg4": "**90s**",
 				"msg5": "**<:venturas:1178884872597684356> 140 - <:poder:1150566404253294683> 160 (normal)**",
 				"msg6": "**<:venturas:1178884872597684356> 1 - <:poder:1150566404253294683> 1 (ters)**",
@@ -218,7 +218,11 @@
 				"msg67": "Afiş ID'si:",
 				"msg68": "Emote ID'si:",
 				"msg69": "**Yasaklı hesap**",
-				"msg70": "**MM bağlantılı**"
+				"msg70": "**MM bağlantılı**",
+				"msg72": "Özelleştirmek istediğin hesabı seç",
+				"msg73": "Hesap seç",
+				"msg74": "Sistemden kaldır",
+				"msg75": "Kişisel TaxiBot hesaptan kaldırıldı"
 			},
 			"reembolso": {
 				"msg1": "İade için uygun satın alma bulunamadı.",
@@ -2075,7 +2079,8 @@
 					"msg9": "OTP:",
 					"msg10": "OTP almak için süren doldu.",
 					"msg11": "OTP kodu bulundu",
-					"msg12": "OTP'yi Gör"
+					"msg12": "OTP'yi Gör",
+					"msg13": "OTP oluşturuldu"
 				},
 				"trelloFeedback": {
 					"reporte": {
