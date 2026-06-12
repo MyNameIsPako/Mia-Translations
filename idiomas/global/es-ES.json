@@ -2750,6 +2750,20 @@
 			"msg12": "Faltante:",
 			"msg13": "El sistema ha sido desactivado automáticamente por falta de oro",
 			"msg14": "No tienes oro o ya tienes el límite máximo"
+		},
+		"efg": {
+			"msg1": "Auto reclamar juegos gratis (Epic Games)",
+			"msg2": "GRATIS",
+			"msg3": "hasta el",
+			"msg4": "Desarrollado por",
+			"msg5": "Abrir en el navegador",
+			"msg6": "Abrir en Epic Games Launcher",
+			"msg7": "Comprar directamente",
+			"msg8": "¡Visita este [{link}]({url}) para completar tu compra!",
+			"msg9": "¡Compra aquí!",
+			"msg10": "Juegos gratis en Epic Games Store",
+			"msg11": "Enlace",
+			"msg12": "Hay un juego gratis disponible para la cuenta"
 		}
 	},
 	"chatImputAndMs": {
@@ -2839,7 +2853,8 @@
 		"msg8": "Auto comprar items gratis de la tienda",
 		"msg9": "Auto expediciones",
 		"msg10": "Auto compra de ítems de tienda STW",
-		"msg11": "Auto reciclar items"
+		"msg11": "Auto reciclar items",
+		"msg12": "Auto reclamar juegos gratis (Epic Games)"
 	},
 	"tiposExpediciones": {
 		"Heroes": "Héroes",

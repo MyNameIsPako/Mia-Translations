@@ -2612,6 +2612,20 @@
 			"msg12": "Eksik:",
 			"msg13": "Sistem, altın eksikliği nedeniyle otomatik olarak devre dışı bırakıldı",
 			"msg14": "Hiç altının yok veya zaten maksimum sınıra ulaştın"
+		},
+		"efg": {
+			"msg1": "Auto claim free games (Epic Games)",
+			"msg2": "FREE",
+			"msg3": "until",
+			"msg4": "Developed by",
+			"msg5": "Open in browser",
+			"msg6": "Open in Epic Games Launcher",
+			"msg7": "Buy Directly",
+			"msg8": "Visit this [{link}]({url}) to complete your purchase!",
+			"msg9": "Purchase Here!",
+			"msg10": "Free Games on Epic Games Store",
+			"msg11": "Link",
+			"msg12": "A free game is available for account"
 		}
 	},
 	"chatImputAndMs": {
@@ -2708,7 +2722,8 @@
 		"msg8": "Ücretsiz mağaza eşyalarını otomatik satın al",
 		"msg9": "Otomatik Seferler",
 		"msg10": "STW mağaza öğelerinin otomatik satın alımı",
-		"msg11": "Otomatik eşya geri dönüşümü"
+		"msg11": "Otomatik eşya geri dönüşümü",
+		"msg12": "Auto claim free games (Epic Games)"
 	},
 	"tiposExpediciones": {
 		"Heroes": "Kahramanlar",

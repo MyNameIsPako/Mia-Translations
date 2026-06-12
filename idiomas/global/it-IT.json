@@ -2756,6 +2756,20 @@
 			"msg12": "Mancante:",
 			"msg13": "Il sistema è stato disattivato automaticamente per mancanza di oro",
 			"msg14": "Non hai oro o hai già raggiunto il limite massimo"
+		},
+		"efg": {
+			"msg1": "Auto claim free games (Epic Games)",
+			"msg2": "FREE",
+			"msg3": "until",
+			"msg4": "Developed by",
+			"msg5": "Open in browser",
+			"msg6": "Open in Epic Games Launcher",
+			"msg7": "Buy Directly",
+			"msg8": "Visit this [{link}]({url}) to complete your purchase!",
+			"msg9": "Purchase Here!",
+			"msg10": "Free Games on Epic Games Store",
+			"msg11": "Link",
+			"msg12": "A free game is available for account"
 		}
 	},
 	"chatImputAndMs": {
@@ -2852,7 +2866,8 @@
 		"msg8": "Acquisto automatico oggetti gratuiti del negozio",
 		"msg9": "Spedizioni automatiche",
 		"msg10": "Acquisto automatico di oggetti nel negozio STW",
-		"msg11": "Riciclo automatico oggetti"
+		"msg11": "Riciclo automatico oggetti",
+		"msg12": "Auto claim free games (Epic Games)"
 	},
 	"tiposExpediciones": {
 		"Heroes": "Eroi",

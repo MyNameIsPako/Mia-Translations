@@ -2739,6 +2739,20 @@
 			"msg12": "Fehlend:",
 			"msg13": "Das System wurde automatisch wegen Goldmangel deaktiviert",
 			"msg14": "Du hast kein Gold oder hast bereits das maximale Limit erreicht"
+		},
+		"efg": {
+			"msg1": "Auto claim free games (Epic Games)",
+			"msg2": "FREE",
+			"msg3": "until",
+			"msg4": "Developed by",
+			"msg5": "Open in browser",
+			"msg6": "Open in Epic Games Launcher",
+			"msg7": "Buy Directly",
+			"msg8": "Visit this [{link}]({url}) to complete your purchase!",
+			"msg9": "Purchase Here!",
+			"msg10": "Free Games on Epic Games Store",
+			"msg11": "Link",
+			"msg12": "A free game is available for account"
 		}
 	},
 	"chatImputAndMs": {
@@ -2835,7 +2849,8 @@
 		"msg8": "Automatisches Kaufen kostenloser Shop-Items",
 		"msg9": "Automatisches Senden von Expeditionen",
 		"msg10": "Automatischer Kauf von STW-Shop-Items",
-		"msg11": "Items automatisch recyceln"
+		"msg11": "Items automatisch recyceln",
+		"msg12": "Auto claim free games (Epic Games)"
 	},
 	"tiposExpediciones": {
 		"Heroes": "Helden",

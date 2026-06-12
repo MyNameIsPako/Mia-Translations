@@ -2755,6 +2755,20 @@
 			"msg12": "缺少：",
 			"msg13": "由于金币不足，系统已自动停用",
 			"msg14": "你没有金币或已达到最大上限"
+		},
+		"efg": {
+			"msg1": "Auto claim free games (Epic Games)",
+			"msg2": "FREE",
+			"msg3": "until",
+			"msg4": "Developed by",
+			"msg5": "Open in browser",
+			"msg6": "Open in Epic Games Launcher",
+			"msg7": "Buy Directly",
+			"msg8": "Visit this [{link}]({url}) to complete your purchase!",
+			"msg9": "Purchase Here!",
+			"msg10": "Free Games on Epic Games Store",
+			"msg11": "Link",
+			"msg12": "A free game is available for account"
 		}
 	},
 	"chatImputAndMs": {
@@ -2851,7 +2865,8 @@
 		"msg8": "自动购买商店免费物品",
 		"msg9": "自动远征",
 		"msg10": "STW商店物品自动购买",
-		"msg11": "自动回收物品"
+		"msg11": "自动回收物品",
+		"msg12": "Auto claim free games (Epic Games)"
 	},
 	"tiposExpediciones": {
 		"Heroes": "英雄",

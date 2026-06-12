@@ -2720,6 +2720,20 @@
 			"msg12": "Manquant :",
 			"msg13": "Le système a été automatiquement désactivé par manque d'or",
 			"msg14": "Vous n'avez pas d'or ou vous avez déjà atteint la limite maximale"
+		},
+		"efg": {
+			"msg1": "Auto claim free games (Epic Games)",
+			"msg2": "FREE",
+			"msg3": "until",
+			"msg4": "Developed by",
+			"msg5": "Open in browser",
+			"msg6": "Open in Epic Games Launcher",
+			"msg7": "Buy Directly",
+			"msg8": "Visit this [{link}]({url}) to complete your purchase!",
+			"msg9": "Purchase Here!",
+			"msg10": "Free Games on Epic Games Store",
+			"msg11": "Link",
+			"msg12": "A free game is available for account"
 		}
 	},
 	"chatImputAndMs": {
@@ -2816,7 +2830,8 @@
 		"msg8": "Achat automatique d'objets gratuits de la boutique",
 		"msg9": "Expéditions automatiques",
 		"msg10": "Achat automatique d’objets de la boutique STW",
-		"msg11": "Recyclage automatique d'objets"
+		"msg11": "Recyclage automatique d'objets",
+		"msg12": "Auto claim free games (Epic Games)"
 	},
 	"tiposExpediciones": {
 		"Heroes": "Héros",
