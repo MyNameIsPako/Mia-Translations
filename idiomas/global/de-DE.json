@@ -1924,7 +1924,10 @@
 				"msg13": "Verlässt den Laden:",
 				"msg14": "Einen Filter auf den Laden anwenden",
 				"msg15": "Den Laden im Web ansehen",
-				"msg16": "Rucksäcke"
+				"msg16": "Rucksäcke",
+				"secciones": {
+					"msg1": "Keine Änderungen an den Abschnitten im Vergleich zum letzten Eintrag."
+				}
 			}
 		},
 		"config": {

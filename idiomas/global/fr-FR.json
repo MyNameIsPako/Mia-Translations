@@ -1905,7 +1905,10 @@
 				"msg13": "Quitte la boutique:",
 				"msg14": "Appliquer un filtre à la boutique",
 				"msg15": "Voir la boutique sur le web",
-				"msg16": "Sacs à dos"
+				"msg16": "Sacs à dos",
+				"secciones": {
+					"msg1": "Aucun changement de section par rapport au dernier enregistrement."
+				}
 			}
 		},
 		"config": {

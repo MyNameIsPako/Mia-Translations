@@ -1934,7 +1934,10 @@
 				"msg13": "Se va:",
 				"msg14": "Aplica un filtro a la tienda",
 				"msg15": "Ver la tienda en la web",
-				"msg16": "Mochilas"
+				"msg16": "Mochilas",
+				"secciones": {
+					"msg1": "No hay cambios de secciones respecto al último registro."
+				}
 			}
 		},
 		"config": {

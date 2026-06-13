@@ -1939,7 +1939,10 @@
 				"msg13": "Sai da loja:",
 				"msg14": "Aplicar um filtro à loja",
 				"msg15": "Ver a loja na web (SAC do NotMia aplicado)",
-				"msg16": "Mochilas"
+				"msg16": "Mochilas",
+				"secciones": {
+					"msg1": "Não há alterações nas secções em relação ao último registo."
+				}
 			}
 		},
 		"config": {

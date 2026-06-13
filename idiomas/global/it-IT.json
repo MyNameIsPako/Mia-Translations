@@ -1939,7 +1939,10 @@
 				"msg13": "Esce dal negozio:",
 				"msg14": "Applica un filtro al negozio",
 				"msg15": "Visualizza il negozio sul web",
-				"msg16": "Zaini"
+				"msg16": "Zaini",
+				"secciones": {
+					"msg1": "Nessun cambiamento nelle sezioni rispetto all'ultimo record."
+				}
 			}
 		},
 		"config": {

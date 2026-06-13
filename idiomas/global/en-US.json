@@ -1906,7 +1906,10 @@
 				"msg13": "Leaves the store:",
 				"msg14": "Apply a filter to the store",
 				"msg15": "View the store on the web",
-				"msg16": "Backpacks"
+				"msg16": "Backpacks",
+				"secciones": {
+					"msg1": "There are no section changes compared to the last record."
+				}
 			}
 		},
 		"config": {

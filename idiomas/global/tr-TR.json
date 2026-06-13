@@ -1906,7 +1906,10 @@
 				"msg13": "Mağazadan kalkma tarihi:",
 				"msg14": "Mağazaya filtre uygula",
 				"msg15": "Mağazayı web üzerinde görüntüle",
-				"msg16": "Sırt çantaları"
+				"msg16": "Sırt çantaları",
+				"secciones": {
+					"msg1": "Son kayıtla karşılaştırıldığında bölüm değişikliği yok."
+				}
 			}
 		},
 		"config": {
