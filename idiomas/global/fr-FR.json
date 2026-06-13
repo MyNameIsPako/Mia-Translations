@@ -463,6 +463,37 @@
 				"msg19": "Solde :",
 				"msg20": "Achat annulé",
 				"msg21": "acheté avec succès"
+			},
+			"sprites": {
+				"msg1": "Aucun esprit dans votre inventaire.",
+				"msg2": "Esprits de {name}",
+				"msg3": "Points d'extraction",
+				"msg4": "Variante équipée",
+				"msg5": "Relique initiale",
+				"msg6": "XP",
+				"msg7": "Niveau max",
+				"msg8": "Base",
+				"msg9": "Gummy",
+				"msg10": "Galaxy",
+				"msg11": "Gold",
+				"msg12": "Quantité",
+				"msg13": "Inconnu",
+				"msg14": "Aucune",
+				"families": {
+					"water": "Esprit d'eau",
+					"earth": "Esprit de terre",
+					"fire": "Esprit de feu",
+					"ghost": "Esprit fantôme",
+					"duck": "Esprit canard",
+					"demon": "Esprit démon",
+					"dream": "Esprit des rêves",
+					"punk": "Esprit punk",
+					"king": "Esprit roi",
+					"zeroPoint": "Esprit point zéro",
+					"burntPeanut": "Esprit Burnt Peanut"
+				},
+				"msg15": "Niv.",
+				"msg16": "Esprits de {name}"
 			}
 		},
 		"cuenta": {

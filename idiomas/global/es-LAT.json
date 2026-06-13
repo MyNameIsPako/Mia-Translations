@@ -463,6 +463,37 @@
 				"msg19": "Balance:",
 				"msg20": "Compra cancelada",
 				"msg21": "comprado correctamente"
+			},
+			"sprites": {
+				"msg1": "No tienes espíritus en tu inventario.",
+				"msg2": "Espíritus de {name}",
+				"msg3": "Puntos de extracción",
+				"msg4": "Variante equipada",
+				"msg5": "Relic inicial",
+				"msg6": "XP",
+				"msg7": "Nivel máximo",
+				"msg8": "Base",
+				"msg9": "Gomoso",
+				"msg10": "Galaxia",
+				"msg11": "Dorado",
+				"msg12": "Cantidad",
+				"msg13": "Desconocido",
+				"msg14": "Ninguna",
+				"families": {
+					"water": "Espíritu de agua",
+					"earth": "Espíritu de tierra",
+					"fire": "Espíritu de fuego",
+					"ghost": "Espíritu fantasma",
+					"duck": "Espíritu pato",
+					"demon": "Espíritu demonio",
+					"dream": "Espíritu de los sueños",
+					"punk": "Espíritu punk",
+					"king": "Espíritu rey",
+					"zeroPoint": "Espíritu punto cero",
+					"burntPeanut": "Espíritu cacahuete quemado"
+				},
+				"msg15": "Niv.",
+				"msg16": "Espíritus de {name}"
 			}
 		},
 		"cuenta": {

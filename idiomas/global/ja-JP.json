@@ -463,6 +463,37 @@
 				"msg19": "Kontostand:",
 				"msg20": "Kauf abgebrochen",
 				"msg21": "erfolgreich gekauft"
+			},
+			"sprites": {
+				"msg1": "インベントリに精霊がありません。",
+				"msg2": "{name} の精霊",
+				"msg3": "抽出ポイント",
+				"msg4": "装備中のバリアント",
+				"msg5": "スターターレリック",
+				"msg6": "XP",
+				"msg7": "最大レベル",
+				"msg8": "ベース",
+				"msg9": "グミ",
+				"msg10": "ギャラクシー",
+				"msg11": "ゴールド",
+				"msg12": "数量",
+				"msg13": "不明",
+				"msg14": "なし",
+				"families": {
+					"water": "水の精霊",
+					"earth": "大地の精霊",
+					"fire": "炎の精霊",
+					"ghost": "ゴーストの精霊",
+					"duck": "ダックの精霊",
+					"demon": "デーモンの精霊",
+					"dream": "ドリームの精霊",
+					"punk": "パンクの精霊",
+					"king": "キングの精霊",
+					"zeroPoint": "ゼロポイントの精霊",
+					"burntPeanut": "Burnt Peanut"
+				},
+				"msg15": "Lv.",
+				"msg16": "{name} の精霊"
 			}
 		},
 		"cuenta": {

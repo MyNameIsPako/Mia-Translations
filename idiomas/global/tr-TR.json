@@ -464,6 +464,37 @@
 				"msg19": "Bakiye:",
 				"msg20": "Satın alma iptal edildi",
 				"msg21": "başarıyla satın alındı"
+			},
+			"sprites": {
+				"msg1": "Envanterinde ruh yok.",
+				"msg2": "{name} Ruhları",
+				"msg3": "Çıkarma puanları",
+				"msg4": "Kuşanılan varyant",
+				"msg5": "Başlangıç relik",
+				"msg6": "XP",
+				"msg7": "Max seviye",
+				"msg8": "Base",
+				"msg9": "Gummy",
+				"msg10": "Galaxy",
+				"msg11": "Gold",
+				"msg12": "Miktar",
+				"msg13": "Bilinmiyor",
+				"msg14": "Yok",
+				"families": {
+					"water": "Su Ruhu",
+					"earth": "Toprak Ruhu",
+					"fire": "Ateş Ruhu",
+					"ghost": "Hayalet Ruhu",
+					"duck": "Ördek Ruhu",
+					"demon": "Şeytan Ruhu",
+					"dream": "Rüya Ruhu",
+					"punk": "Punk Ruhu",
+					"king": "Kral Ruhu",
+					"zeroPoint": "Sıfır Nokta Ruhu",
+					"burntPeanut": "Burnt Peanut Ruhu"
+				},
+				"msg15": "Sv.",
+				"msg16": "{name} Ruhları"
 			}
 		},
 		"cuenta": {

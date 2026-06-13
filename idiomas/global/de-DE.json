@@ -482,6 +482,37 @@
 				"msg19": "Kontostand:",
 				"msg20": "Kauf abgebrochen",
 				"msg21": "erfolgreich gekauft"
+			},
+			"sprites": {
+				"msg1": "Keine Geister im Inventar.",
+				"msg2": "Geister von {name}",
+				"msg3": "Extraktionspunkte",
+				"msg4": "Ausgerüstete Variante",
+				"msg5": "Starter-Relikt",
+				"msg6": "XP",
+				"msg7": "Max. Level",
+				"msg8": "Base",
+				"msg9": "Gummy",
+				"msg10": "Galaxy",
+				"msg11": "Gold",
+				"msg12": "Menge",
+				"msg13": "Unbekannt",
+				"msg14": "Keine",
+				"families": {
+					"water": "Wassergeist",
+					"earth": "Erdgeist",
+					"fire": "Feuergeist",
+					"ghost": "Gespenstgeist",
+					"duck": "Entengeist",
+					"demon": "Dämonengeist",
+					"dream": "Traumgeist",
+					"punk": "Punkgeist",
+					"king": "Königsgeist",
+					"zeroPoint": "Nullpunktgeist",
+					"burntPeanut": "Burnt-Peanut-Geist"
+				},
+				"msg15": "St.",
+				"msg16": "Geister von {name}"
 			}
 		},
 		"cuenta": {

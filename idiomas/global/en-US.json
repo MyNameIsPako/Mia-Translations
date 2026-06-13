@@ -464,6 +464,37 @@
 				"msg19": "Kontostand:",
 				"msg20": "Kauf abgebrochen",
 				"msg21": "erfolgreich gekauft"
+			},
+			"sprites": {
+				"msg1": "You have no spirits in your inventory.",
+				"msg2": "{name}'s Spirits",
+				"msg3": "Extraction points",
+				"msg4": "Equipped variant",
+				"msg5": "Starter relic",
+				"msg6": "XP",
+				"msg7": "Max level",
+				"msg8": "Base",
+				"msg9": "Gummy",
+				"msg10": "Galaxy",
+				"msg11": "Gold",
+				"msg12": "Quantity",
+				"msg13": "Unknown",
+				"msg14": "None",
+				"families": {
+					"water": "Water Spirit",
+					"earth": "Earth Spirit",
+					"fire": "Fire Spirit",
+					"ghost": "Ghost Spirit",
+					"duck": "Duck Spirit",
+					"demon": "Demon Spirit",
+					"dream": "Dream Spirit",
+					"punk": "Punk Spirit",
+					"king": "King Spirit",
+					"zeroPoint": "Zero Point Spirit",
+					"burntPeanut": "Burnt Peanut Spirit"
+				},
+				"msg15": "Lv.",
+				"msg16": "{name}'s Spirits"
 			}
 		},
 		"cuenta": {

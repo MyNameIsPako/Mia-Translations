@@ -463,6 +463,37 @@
 				"msg19": "Saldo:",
 				"msg20": "Acquisto annullato",
 				"msg21": "acquistato con successo"
+			},
+			"sprites": {
+				"msg1": "Nessuno spirito nell'inventario.",
+				"msg2": "Spiriti di {name}",
+				"msg3": "Punti di estrazione",
+				"msg4": "Variante equipaggiata",
+				"msg5": "Reliquia iniziale",
+				"msg6": "XP",
+				"msg7": "Livello max",
+				"msg8": "Base",
+				"msg9": "Gummy",
+				"msg10": "Galaxy",
+				"msg11": "Gold",
+				"msg12": "Quantità",
+				"msg13": "Sconosciuto",
+				"msg14": "Nessuna",
+				"families": {
+					"water": "Spirito d'acqua",
+					"earth": "Spirito di terra",
+					"fire": "Spirito di fuoco",
+					"ghost": "Spirito fantasma",
+					"duck": "Spirito papera",
+					"demon": "Spirito demone",
+					"dream": "Spirito dei sogni",
+					"punk": "Spirito punk",
+					"king": "Spirito re",
+					"zeroPoint": "Spirito punto zero",
+					"burntPeanut": "Spirito Burnt Peanut"
+				},
+				"msg15": "Liv.",
+				"msg16": "Spiriti di {name}"
 			}
 		},
 		"cuenta": {

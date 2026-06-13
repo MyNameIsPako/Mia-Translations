@@ -463,6 +463,37 @@
 				"msg19": "Saldo:",
 				"msg20": "Compra cancelada",
 				"msg21": "comprado com sucesso"
+			},
+			"sprites": {
+				"msg1": "Não tens espíritos no inventário.",
+				"msg2": "Espíritos de {name}",
+				"msg3": "Pontos de extração",
+				"msg4": "Variante equipada",
+				"msg5": "Relíquia inicial",
+				"msg6": "XP",
+				"msg7": "Nível máximo",
+				"msg8": "Base",
+				"msg9": "Gummy",
+				"msg10": "Galaxy",
+				"msg11": "Gold",
+				"msg12": "Quantidade",
+				"msg13": "Desconhecido",
+				"msg14": "Nenhuma",
+				"families": {
+					"water": "Espírito de água",
+					"earth": "Espírito de terra",
+					"fire": "Espírito de fogo",
+					"ghost": "Espírito fantasma",
+					"duck": "Espírito pato",
+					"demon": "Espírito demónio",
+					"dream": "Espírito dos sonhos",
+					"punk": "Espírito punk",
+					"king": "Espírito rei",
+					"zeroPoint": "Espírito ponto zero",
+					"burntPeanut": "Espírito Burnt Peanut"
+				},
+				"msg15": "Nív.",
+				"msg16": "Espíritos de {name}"
 			}
 		},
 		"cuenta": {
