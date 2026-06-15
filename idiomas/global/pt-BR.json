@@ -637,6 +637,15 @@
 				"msg87": "Raridade máxima para reciclar",
 				"msg88": "Raridades de reciclagem global atualizadas\n\n**Raridades ativas:**\n>>> ",
 				"msg89": "O sistema **Reciclagem automática de itens** foi",
+				"msg98": "Esta conta não tem loadouts em STW.",
+				"msg99": "Não atribuído",
+				"msg100": "Slot ",
+				"msg101": "Atribua um slot de loadout a cada tipo de missão. Mia aplicará esse loadout automaticamente ao entrar na missão.",
+				"msg102": "Página",
+				"msg103": "Atribua pelo menos um tipo de missão antes de salvar.",
+				"msg104": "**Loadouts automáticos em missões** configurados e ativados com sucesso.",
+				"msg105": "Não foi possível ler o perfil de campanha desta conta.",
+				"msg107": "Configuração de **loadouts automáticos em missões** cancelada, nenhuma alteração foi salva.",
 				"msg80": "PERK-UP! (fogo)",
 				"msg81": "PERK-UP! (água)",
 				"msg82": "PERK-UP! (natureza)",
@@ -2899,7 +2908,8 @@
 		"msg9": "Expedições automáticas",
 		"msg10": "Compra automática de itens da loja STW",
 		"msg11": "Reciclagem automática de itens",
-		"msg12": "Auto claim free games (Epic Games)"
+		"msg12": "Auto claim free games (Epic Games)",
+		"msg13": "Loadouts automáticos em missões"
 	},
 	"tiposExpediciones": {
 		"Heroes": "Heróis",

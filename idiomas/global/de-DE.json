@@ -656,6 +656,15 @@
 				"msg87": "Maximale Seltenheit zum Recyceln",
 				"msg88": "Globale Recycle-Seltenheiten aktualisiert\n\n**Aktive Seltenheiten:**\n>>> ",
 				"msg89": "Das System **Items automatisch recyceln** wurde",
+				"msg98": "Dieses Konto hat keine Loadouts in STW.",
+				"msg99": "Nicht zugewiesen",
+				"msg100": "Slot ",
+				"msg101": "Weise jedem Missionstyp einen Loadout-Slot zu. Mia wendet diesen Loadout automatisch an, wenn du die Mission betrittst.",
+				"msg102": "Seite",
+				"msg103": "Weise mindestens einen Missionstyp zu, bevor du speicherst.",
+				"msg104": "**Automatische Mission-Loadouts** erfolgreich konfiguriert und aktiviert.",
+				"msg105": "Das Kampagnenprofil dieses Kontos konnte nicht gelesen werden.",
+				"msg107": "Konfiguration der **automatischen Mission-Loadouts** abgebrochen, es wurden keine Änderungen gespeichert.",
 				"msg80": "PERK-UP! (Feuer)",
 				"msg81": "PERK-UP! (Wasser)",
 				"msg82": "PERK-UP! (Natur)",
@@ -2884,7 +2893,8 @@
 		"msg9": "Automatisches Senden von Expeditionen",
 		"msg10": "Automatischer Kauf von STW-Shop-Items",
 		"msg11": "Items automatisch recyceln",
-		"msg12": "Auto claim free games (Epic Games)"
+		"msg12": "Auto claim free games (Epic Games)",
+		"msg13": "Automatische Loadouts in Missionen"
 	},
 	"tiposExpediciones": {
 		"Heroes": "Helden",

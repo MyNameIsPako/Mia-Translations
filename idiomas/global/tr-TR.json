@@ -639,6 +639,15 @@
 				"msg87": "Geri dönüştürülecek maksimum nadirlik",
 				"msg88": "Global geri dönüşüm nadirlikleri güncellendi\n\n**Aktif nadirlikler:**\n>>> ",
 				"msg89": "**Otomatik eşya geri dönüşümü** sistemi",
+				"msg98": "Bu hesapta STW'de loadout yok.",
+				"msg99": "Atanmadı",
+				"msg100": "Slot ",
+				"msg101": "Her görev türüne bir loadout slotu ata. Mia, göreve girdiğinde bu loadout'u otomatik olarak uygulayacak.",
+				"msg102": "Sayfa",
+				"msg103": "Kaydetmeden önce en az bir görev türü ata.",
+				"msg104": "**Görevlerde otomatik loadoutlar** başarıyla yapılandırıldı ve etkinleştirildi.",
+				"msg105": "Bu hesabın kampanya profili okunamadı.",
+				"msg107": "**Görevlerde otomatik loadoutlar** yapılandırması iptal edildi, değişiklikler kaydedilmedi.",
 				"msg80": "PERK-UP! (ateş)",
 				"msg81": "PERK-UP! (su)",
 				"msg82": "PERK-UP! (doğa)",
@@ -2757,7 +2766,8 @@
 		"msg9": "Otomatik Seferler",
 		"msg10": "STW mağaza öğelerinin otomatik satın alımı",
 		"msg11": "Otomatik eşya geri dönüşümü",
-		"msg12": "Auto claim free games (Epic Games)"
+		"msg12": "Auto claim free games (Epic Games)",
+		"msg13": "Görevlerde otomatik loadoutlar"
 	},
 	"tiposExpediciones": {
 		"Heroes": "Kahramanlar",

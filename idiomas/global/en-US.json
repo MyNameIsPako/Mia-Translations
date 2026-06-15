@@ -638,6 +638,15 @@
 				"msg87": "Maximum rarity to recycle",
 				"msg88": "Global recycle rarities updated\n\n**Active rarities:**\n>>> ",
 				"msg89": "The **Auto recycle items** system has been",
+				"msg98": "This account has no loadouts in STW.",
+				"msg99": "Not assigned",
+				"msg100": "Loadout ",
+				"msg101": "Assign a loadout slot to each mission type. Mia will apply that loadout automatically when you enter the mission.",
+				"msg102": "Page",
+				"msg103": "Assign at least one mission type before saving.",
+				"msg104": "**Auto mission loadouts** configured and enabled successfully.",
+				"msg105": "Could not read this account's campaign profile.",
+				"msg107": "**Auto loadouts on missions** configuration cancelled, no changes were saved.",
 				"msg80": "PERK-UP! (fire)",
 				"msg81": "PERK-UP! (water)",
 				"msg82": "PERK-UP! (nature)",
@@ -2858,7 +2867,8 @@
 		"msg9": "Auto Expeditions",
 		"msg10": "Auto purchase of STW store items",
 		"msg11": "Auto recycle items",
-		"msg12": "Auto claim free games (Epic Games)"
+		"msg12": "Auto claim free games (Epic Games)",
+		"msg13": "Auto loadouts on missions"
 	},
 	"tiposExpediciones": {
 		"Heroes": "Heroes",
