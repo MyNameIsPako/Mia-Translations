@@ -493,7 +493,12 @@
 					"burntPeanut": "Espíritu cacahuete quemado"
 				},
 				"msg15": "Niv.",
-				"msg16": "Inventario de espíritus"
+				"msg16": "Inventario de espíritus",
+				"msg17": "obtenidos",
+				"msg18": "Obtenidos",
+				"msg19": "Faltantes",
+				"msg20": "No te falta ningún espíritu.",
+				"msg21": "faltantes"
 			}
 		},
 		"cuenta": {

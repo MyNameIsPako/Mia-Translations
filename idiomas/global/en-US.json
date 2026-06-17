@@ -494,7 +494,12 @@
 					"burntPeanut": "Burnt Peanut Spirit"
 				},
 				"msg15": "Lv.",
-				"msg16": "Spirit Inventory"
+				"msg16": "Spirit Inventory",
+				"msg17": "obtained",
+				"msg18": "Obtained",
+				"msg19": "Missing",
+				"msg20": "You have every spirit.",
+				"msg21": "missing"
 			}
 		},
 		"cuenta": {

@@ -494,7 +494,12 @@
 					"burntPeanut": "Burnt Peanut Ruhu"
 				},
 				"msg15": "Sv.",
-				"msg16": "Ruh envanteri"
+				"msg16": "Ruh envanteri",
+				"msg17": "elde edilen",
+				"msg18": "Edinilen",
+				"msg19": "Eksik",
+				"msg20": "Tüm ruhları topladın.",
+				"msg21": "eksik"
 			}
 		},
 		"cuenta": {

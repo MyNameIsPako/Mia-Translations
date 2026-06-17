@@ -512,7 +512,12 @@
 					"burntPeanut": "Burnt-Peanut-Geist"
 				},
 				"msg15": "St.",
-				"msg16": "Geister-Inventar"
+				"msg16": "Geister-Inventar",
+				"msg17": "erhalten",
+				"msg18": "Erhalten",
+				"msg19": "Fehlend",
+				"msg20": "Du hast alle Geister.",
+				"msg21": "fehlend"
 			}
 		},
 		"cuenta": {

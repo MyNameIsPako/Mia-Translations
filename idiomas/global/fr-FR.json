@@ -493,7 +493,12 @@
 					"burntPeanut": "Esprit Burnt Peanut"
 				},
 				"msg15": "Niv.",
-				"msg16": "Inventaire d'esprits"
+				"msg16": "Inventaire d'esprits",
+				"msg17": "obtenus",
+				"msg18": "Obtenus",
+				"msg19": "Manquants",
+				"msg20": "Tu as tous les esprits.",
+				"msg21": "manquants"
 			}
 		},
 		"cuenta": {

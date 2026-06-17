@@ -493,7 +493,12 @@
 					"burntPeanut": "Spirito Burnt Peanut"
 				},
 				"msg15": "Liv.",
-				"msg16": "Inventario degli spiriti"
+				"msg16": "Inventario degli spiriti",
+				"msg17": "ottenuti",
+				"msg18": "Ottenuti",
+				"msg19": "Mancanti",
+				"msg20": "Hai tutti gli spiriti.",
+				"msg21": "mancanti"
 			}
 		},
 		"cuenta": {
