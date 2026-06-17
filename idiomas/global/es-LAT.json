@@ -1625,7 +1625,7 @@
 				"msg46": "Top builds más votadas de Mia",
 				"msg47": "**${rank}.** **${presetName}** ( ${author} ) | ${up} 👍 ${down} 👎",
 				"msg48": "${emojis.uncheck} Por el momento nadie publicó ninguna build, puedes ser el primero en hacerlo usando `/build crear`.",
-				"msg49": "Busca una build usando /build buscar <preset>",
+				"msg49": "Busca una build usando /build buscar",
 				"msg50": "Mostrando las ${limit} builds más votadas",
 				"msg51": "Se muestra la más votada. Existen **${count}** builds con ese nombre.",
 				"msg52": "Auth expirado o revocado"

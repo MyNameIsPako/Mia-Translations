@@ -1659,7 +1659,7 @@
 				"msg46": "Top builds mais votadas da Mia",
 				"msg47": "**${rank}.** **${presetName}** ( ${author} ) | ${up} 👍 ${down} 👎",
 				"msg48": "${emojis.uncheck} Por enquanto ninguém publicou nenhuma build. Você pode ser o primeiro usando `/build crear`.",
-				"msg49": "Busque uma build usando /build buscar <preset>",
+				"msg49": "Busque uma build usando /build buscar",
 				"msg50": "Mostrando as ${limit} builds mais votadas",
 				"msg51": "Mostrando a mais votada. Existem **${count}** builds com esse nome."
 			},

@@ -1660,7 +1660,7 @@
 				"msg46": "Mia最受投票的构建",
 				"msg47": "**${rank}.** **${presetName}** ( ${author} ) | ${up} 👍 ${down} 👎",
 				"msg48": "${emojis.uncheck} 目前还没有人发布构建。你可以使用 `/build crear` 成为第一个。",
-				"msg49": "使用 /build buscar <preset> 搜索构建",
+				"msg49": "使用 /build buscar 搜索构建",
 				"msg50": "显示投票数前 ${limit} 的构建",
 				"msg51": "显示投票数最高的构建。有 **${count}** 个同名构建。"
 			},

@@ -1626,7 +1626,7 @@
 				"msg46": "Mia'nın en çok oylanan yapıları",
 				"msg47": "**${rank}.** **${presetName}** ( ${author} ) | ${up} 👍 ${down} 👎",
 				"msg48": "${emojis.uncheck} Şu ana kadar kimse yapı yayınlamadı. `/build crear` kullanarak ilk sen olabilirsin.",
-				"msg49": "/build buscar <preset> ile bir yapı ara",
+				"msg49": "/build buscar ile bir yapı ara",
 				"msg50": "En çok oylanan ${limit} yapı gösteriliyor",
 				"msg51": "En çok oylanan gösteriliyor. Bu isimde **${count}** yapı var."
 			},
