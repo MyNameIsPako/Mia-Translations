@@ -1478,7 +1478,7 @@
 				"msg84": "No taxis are **available** right now, check `/taxibot option: Status` or invite manually.",
 				"msg85": "You are not friends with any available taxi, add Mia taxibots from the status list first.",
 				"msg86": "The taxi could not send the request (are you in the lobby with an open match?).",
-				"msg87": "On PS5/Xbox, invite from the Battle Royale lobby (not from Save the World). Go back to the BR lobby, invite the taxi, then enter STW."
+				"msg87": "🚫 You have to invite me from the BR lobby, not from STW. Go to BR and invite me — when you do, I'll join and you can go to STW."
 			},
 			"tiendastw": {
 				"msg1": "No STW shop data found",

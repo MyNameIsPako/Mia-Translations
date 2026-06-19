@@ -1477,7 +1477,7 @@
 				"msg84": "Aucun taxi **disponible** pour le moment, consulte `/taxibot option : État` ou invite manuellement.",
 				"msg85": "Tu n'es ami avec aucun taxi disponible, ajoute les taxibots Mia depuis la liste d'état.",
 				"msg86": "Le taxi n'a pas pu envoyer la demande (tu es dans le lobby avec une partie ouverte ?).",
-				"msg87": "Sur PS5/Xbox, invite depuis le lobby Battle Royale (pas depuis Sauver le Monde). Retourne au lobby BR, invite le taxi puis entre dans STW."
+				"msg87": "🚫 Tu dois m'inviter depuis le lobby BR, pas depuis STW. Va en BR et invite-moi — quand tu le fais, je te rejoindrai et tu pourras aller en STW."
 			},
 			"tiendastw": {
 				"msg1": "Aucune donnée de boutique STW trouvée",
