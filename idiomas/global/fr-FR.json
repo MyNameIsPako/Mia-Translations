@@ -1417,7 +1417,7 @@
 				"msg24": "Qu'est-ce que c'est ?",
 				"msg25": "Les TaxiBot's de Mia sont un service gratuit avec des fonctionnalités premium. En invitant l'un des comptes, vous aurez accès aux missions suivantes :\n• <:venturas:1178884872597684356> 140\n• <:poder:1150566404253294683> 160",
 				"msg26": "Comment l'utiliser ?",
-				"msg27": "`1` Rejoins le serveur [Mia Lounge](https://discord.gg/miabot)\n`2` Utilise la commande **/register** pour ajouter ton compte à Mia\n`3` Utilise la commande **/taxibot** pour rejoindre le système TaxiBots.\n`4` Ajoute les bots.\n`5` Mets ta partie en privé et amuse-toi !",
+				"msg27": "`1` Rejoins le serveur [Mia Lounge](https://discord.gg/miabot)\n`2` Utilise la commande **/register** pour ajouter ton compte à Mia\n`3` Utilise la commande **/taxibot** pour rejoindre le système TaxiBots.\n`4` Ajoute les bots.\n`5` Invite un taxi depuis BR\n`6` Passe en mode STW\n`7` Mets ta partie en privé et amuse-toi !",
 				"msg28": "Comptes non-premium :",
 				"msg29": "`MiaTaxi [1-30]`\n> **• <:venturas:1178884872597684356> 140**\n> **• <:poder:1150566404253294683> 160**\n`MiaReverse [1]`\n> **• <:venturas:1178884872597684356> 1**\n> **• <:poder:1150566404253294683> 1**",
 				"msg30": "Comptes premium :",
