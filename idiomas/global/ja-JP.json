@@ -1716,7 +1716,12 @@
         "footPrefix": "フォートナイトアイテムショップでコード ",
         "footSuffix": " を使ってMiaをサポート",
         "formatTexto": "テキスト",
-        "formatImagen": "画像"
+        "formatImagen": "画像",
+        "msg10": "すべて",
+        "msg11": "武器",
+        "msg12": "トラップ",
+        "msg13": "弾薬",
+        "msg14": "素材"
       },
       "homebase": {
         "title": "Homebase",

@@ -1681,7 +1681,12 @@
         "footPrefix": "Soutiens Mia avec le code ",
         "footSuffix": " dans la boutique Fortnite",
         "formatTexto": "Texte",
-        "formatImagen": "Image"
+        "formatImagen": "Image",
+        "msg10": "Tous",
+        "msg11": "Armes",
+        "msg12": "Pièges",
+        "msg13": "Munitions",
+        "msg14": "Matériaux"
       },
       "homebase": {
         "title": "Homebase",

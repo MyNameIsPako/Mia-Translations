@@ -1682,7 +1682,12 @@
         "footPrefix": "Support Mia with code ",
         "footSuffix": " in the Fortnite Item Shop",
         "formatTexto": "Text",
-        "formatImagen": "Image"
+        "formatImagen": "Image",
+        "msg10": "All",
+        "msg11": "Weapons",
+        "msg12": "Traps",
+        "msg13": "Ammo",
+        "msg14": "Materials"
       },
       "homebase": {
         "title": "Homebase",

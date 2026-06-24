@@ -1700,7 +1700,12 @@
         "footPrefix": "Unterstütze Mia mit dem Code ",
         "footSuffix": " im Fortnite Item Shop",
         "formatTexto": "Text",
-        "formatImagen": "Bild"
+        "formatImagen": "Bild",
+        "msg10": "Alle",
+        "msg11": "Waffen",
+        "msg12": "Fallen",
+        "msg13": "Munition",
+        "msg14": "Materialien"
       },
       "homebase": {
         "title": "Homebase",

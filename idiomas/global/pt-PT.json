@@ -1715,7 +1715,12 @@
         "footPrefix": "Apoia a Mia com o código ",
         "footSuffix": " na Loja de Itens do Fortnite",
         "formatTexto": "Texto",
-        "formatImagen": "Imagem"
+        "formatImagen": "Imagem",
+        "msg10": "Todos",
+        "msg11": "Armas",
+        "msg12": "Armadilhas",
+        "msg13": "Munição",
+        "msg14": "Materiais"
       },
       "homebase": {
         "title": "Homebase",

@@ -1715,7 +1715,12 @@
         "footPrefix": "Supporta Mia con il codice ",
         "footSuffix": " nel Negozio di Fortnite",
         "formatTexto": "Testo",
-        "formatImagen": "Immagine"
+        "formatImagen": "Immagine",
+        "msg10": "Tutti",
+        "msg11": "Armi",
+        "msg12": "Trappole",
+        "msg13": "Munizioni",
+        "msg14": "Materiali"
       },
       "homebase": {
         "title": "Homebase",

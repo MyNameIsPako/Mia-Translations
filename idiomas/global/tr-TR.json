@@ -1682,7 +1682,12 @@
         "footPrefix": "Fortnite Item Shop'ta ",
         "footSuffix": " koduyla Mia'yı destekle",
         "formatTexto": "Metin",
-        "formatImagen": "Görsel"
+        "formatImagen": "Görsel",
+        "msg10": "Tümü",
+        "msg11": "Silahlar",
+        "msg12": "Tuzaklar",
+        "msg13": "Mühimmat",
+        "msg14": "Malzemeler"
       },
       "homebase": {
         "title": "Homebase",
