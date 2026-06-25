@@ -1776,7 +1776,8 @@
         "msg5": "Espelli",
         "msg6": "Espelli e raccogli",
         "msg7": "Espelli e raccogli tutto",
-        "msg8": "Espelli, raccogli e invita tutti"
+        "msg8": "Espelli, raccogli e invita tutti",
+        "msg9": "Lascia il gruppo"
       },
       "fastswap": {
         "msg1": "Il formato del tempo non è valido, devi indicare se sono minuti (m) o secondi (s). Es: 5m, 30s, 1m",

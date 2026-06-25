@@ -1742,7 +1742,8 @@
         "msg5": "Expulser",
         "msg6": "Expulser et collecter",
         "msg7": "Expulser et tout collecter",
-        "msg8": "Expulser, collecter et inviter tout le monde"
+        "msg8": "Expulser, collecter et inviter tout le monde",
+        "msg9": "Quitter le groupe"
       },
       "fastswap": {
         "msg1": "Le format du temps n'est pas valide, tu dois indiquer s'il s'agit de minutes (m) ou de secondes (s). Ex. : 5m, 30s, 1m",

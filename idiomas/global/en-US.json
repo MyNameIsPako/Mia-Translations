@@ -1743,7 +1743,8 @@
         "msg5": "Kick",
         "msg6": "Kick and collect",
         "msg7": "Kick and collect all",
-        "msg8": "Kick, collect and invite all"
+        "msg8": "Kick, collect and invite all",
+        "msg9": "Leave party"
       },
       "fastswap": {
         "msg1": "The time format is invalid, you must specify whether it's minutes (m) or seconds (s). Ex: 5m, 30s, 1m",

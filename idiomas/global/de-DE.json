@@ -1761,7 +1761,8 @@
         "msg5": "Expulsar",
         "msg6": "Expulsar y recolectar",
         "msg7": "Expulsar y recolectar a todos",
-        "msg8": "Expulsar, recolectar e invitar a todos"
+        "msg8": "Expulsar, recolectar e invitar a todos",
+        "msg9": "Dejar grupo"
       },
       "fastswap": {
         "msg1": "Das Zeitformat ist ungültig, du musst angeben, ob es Minuten (m) oder Sekunden (s) sind. Z. B.: 5m, 30s, 1m",

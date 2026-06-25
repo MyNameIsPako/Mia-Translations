@@ -1,10 +1,13 @@
 {
-	"idioma": "tr",
-	"fortniteAPI": "tr",
-	"idiomaDiscord": ["tr", "tr-TR"],
-	"alertas": {
-		"vbucks": {
-			"msg1": ""
-		}
-	}
+  "idioma": "tr",
+  "fortniteAPI": "tr",
+  "idiomaDiscord": [
+    "tr",
+    "tr-TR"
+  ],
+  "alertas": {
+    "vbucks": {
+      "msg1": ""
+    }
+  }
 }

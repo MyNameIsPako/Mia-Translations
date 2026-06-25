@@ -1743,7 +1743,8 @@
         "msg5": "At",
         "msg6": "At ve topla",
         "msg7": "Herkesi at ve topla",
-        "msg8": "Herkesi at, topla ve davet et"
+        "msg8": "Herkesi at, topla ve davet et",
+        "msg9": "Gruptan ayrıl"
       },
       "fastswap": {
         "msg1": "Zaman formatı geçersiz, bunun dakika (m) mı yoksa saniye (s) mi olduğunu belirtmelisin. Örn: 5m, 30s, 1m",

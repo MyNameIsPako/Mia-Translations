@@ -1,10 +1,12 @@
 {
-	"idioma": "ja",
-	"fortniteAPI": "ja",
-	"idiomaDiscord": ["ja"],
-	"alertas": {
-		"vbucks": {
-			"msg1": ""
-		}
-	}
+  "idioma": "ja",
+  "fortniteAPI": "ja",
+  "idiomaDiscord": [
+    "ja"
+  ],
+  "alertas": {
+    "vbucks": {
+      "msg1": ""
+    }
+  }
 }
