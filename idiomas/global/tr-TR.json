@@ -1,10 +1,7 @@
 {
   "idioma": "tr",
   "fortniteAPI": "tr",
-  "idiomaDiscord": [
-    "tr",
-    "tr-TR"
-  ],
+  "idiomaDiscord": ["tr", "tr-TR"],
   "comandos": {
     "br": {
       "comprar": {
@@ -985,7 +982,7 @@
         "msg17": "Şu anda şu yaratıcı kodunu destekliyorsunuz",
         "msg18": "Şu anda desteklediğiniz:",
         "msg19": "Şu anda herhangi bir yaratıcı desteklemiyorsunuz.",
-        "msg20": "**\"NotMia\"** kodu sadece oyun içinde veya Epic Games sitesinden eklenebilir.",
+        "msg20": "Kod sadece oyun içinde veya Epic Games sitesinden eklenebilir.",
         "msg21": "Kod",
         "msg22": "mevcut değil, doğruluğunu kontrol edin veya başka bir kod deneyin."
       },
@@ -2820,7 +2817,7 @@
     "qs_configuraciones": "Mia hesabını yapılandır",
     "qs_cuentas": "Bağlı hesapları yönet",
     "msg42": "<:betatester:1304644962285256754> Bu bot sadece Mia'nın beta test kullanıcılarına özeldir.\n> ${emojis.bombilla} Mia test kullanıcısı olmak istiyorsan, başvuruların açılmasını https://discord.com/channels/756859004965093426/1301701450157658193 adresinden bekle.",
-    "msg43": "Bu komutu kullanmak için oyun içinde veya Epic Games web sitesinde **\"NotMia\"** kodunu eklemelisin.",
+    "msg43": "miadsc.xyz/es/premium adresinden Premium olarak Mia'yı destekle",
     "msg44": "Kod doğrulanırken hata oluştu, hata devam ederse Mia destek ile iletişime geç.",
     "msg45": "Bu komutu kullanmak için Fortnite'ın **\"Save the World\"** moduna sahip olmalısın.",
     "msg47": "Bu komut yalnızca bir sunucuda kullanılabilir.",

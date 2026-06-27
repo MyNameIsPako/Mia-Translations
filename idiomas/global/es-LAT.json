@@ -1,9 +1,7 @@
 {
   "idioma": "es",
   "fortniteAPI": "es-419",
-  "idiomaDiscord": [
-    "es-419"
-  ],
+  "idiomaDiscord": ["es-419"],
   "comandos": {
     "br": {
       "comprar": {
@@ -984,7 +982,7 @@
         "msg17": "Ahora estas apoyando al codigo de creador",
         "msg18": "Actualemnte estas apoyando a",
         "msg19": "No estas apoyando a ningun creador actualmente.",
-        "msg20": "El codigo **\"NotMia\"** unicamente se puede añadir mediante el juego o en la web de Epic Games.",
+        "msg20": "El codigo unicamente se puede añadir mediante el juego o en la web de Epic Games.",
         "msg21": "El codigo",
         "msg22": "no existe, revisa que sea correcto o prueba con otro."
       },
@@ -2930,7 +2928,7 @@
     "qs_configuraciones": "Configura tu cuenta en Mia",
     "qs_cuentas": "Gestiona tus cuentas vinculadas",
     "msg42": "<:betatester:1304644962285256754> Este bot es exclusivo para los beta testers de Mia.\n> ${emojis.bombilla} Si quieres ser testers de Mia espera a que se abran las postulaciones en https://discord.com/channels/756859004965093426/1301701450157658193.",
-    "msg43": "Para usar este comando necesitas añadir el codigo **\"NotMia\"** en el juego o en la web de Epic Games.",
+    "msg43": "Apoya a Mia haciendote Premium en miadsc.xyz/es/premium",
     "msg44": "Ocurrio un error al verifiar el codigo, si el error persiste contacta con el soporte de Mia.",
     "msg45": "Para usar este comando requiere que tengas comprado el modo **\"Salvar El Mundo\"** de Fortnite.",
     "msg47": "Este comando solo puede ser usado en un servidor.",

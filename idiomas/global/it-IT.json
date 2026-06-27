@@ -1,9 +1,7 @@
 {
   "idioma": "it",
   "fortniteAPI": "it",
-  "idiomaDiscord": [
-    "it"
-  ],
+  "idiomaDiscord": ["it"],
   "comandos": {
     "br": {
       "comprar": {
@@ -1018,7 +1016,7 @@
         "msg17": "Ora stai supportando il codice creatore",
         "msg18": "Attualmente stai supportando",
         "msg19": "Attualmente non stai supportando alcun creatore.",
-        "msg20": "Il codice **\"NotMia\"** può essere aggiunto solo tramite il gioco o sul sito web di Epic Games.",
+        "msg20": "Il codice può essere aggiunto solo tramite il gioco o sul sito web di Epic Games.",
         "msg21": "Il codice",
         "msg22": "non esiste, controlla che sia corretto o prova con un altro."
       },
@@ -2964,7 +2962,7 @@
     "qs_configuraciones": "Configura il tuo account Mia",
     "qs_cuentas": "Gestisci i tuoi account collegati",
     "msg42": "<:betatester:1304644962285256754> Tá an bot seo eisiach do thástálaithe béite Mia.\n> ${emojis.bombilla} Má tá tú ag iarraidh a bheith i do thástálaí Mia, fan go n-osclófar na hiarratais ag https://discord.com/channels/756859004965093426/1301701450157658193.",
-    "msg43": "Per usare questo comando devi aggiungere il codice **\"NotMia\"** nel gioco o sul sito web di Epic Games.",
+    "msg43": "Supporta Mia diventando Premium su miadsc.xyz/es/premium",
     "msg44": "Si è verificato un errore durante la verifica del codice, se l'errore persiste contatta il supporto di Mia.",
     "msg45": "Per utilizzare questo comando, devi possedere la modalità **\"Salva il Mondo\"** di Fortnite.",
     "msg47": "Cette commande ne peut être utilisée que sur un serveur.",

@@ -1,10 +1,7 @@
 {
   "idioma": "zh-CN",
   "fortniteAPI": "zh-Hans",
-  "idiomaDiscord": [
-    "zh-CN",
-    "zh-TW"
-  ],
+  "idiomaDiscord": ["zh-CN", "zh-TW"],
   "comandos": {
     "br": {
       "comprar": {
@@ -1019,7 +1016,7 @@
         "msg17": "你现在正在支持创作者代码",
         "msg18": "你目前正在支持",
         "msg19": "你目前没有支持任何创作者。",
-        "msg20": "代码 **\"NotMia\"** 只能通过游戏或 Epic Games 网站添加。",
+        "msg20": "代码只能通过游戏或 Epic Games 网站添加。",
         "msg21": "代码",
         "msg22": "不存在，请检查是否正确或尝试其他代码。"
       },
@@ -2066,7 +2063,7 @@
         "msg12": "价格:",
         "msg13": "离开商店:",
         "msg14": "应用过滤器到商店",
-        "msg15": "在网页上查看商店（应用了NotMia的SAC）",
+        "msg15": "在网页上查看商店",
         "msg16": "背包",
         "secciones": {
           "msg1": "与上次记录相比，分区没有变化。"
@@ -2963,7 +2960,7 @@
     "qs_configuraciones": "配置 Mia 账号",
     "qs_cuentas": "管理已绑定账号",
     "msg42": "<:betatester:1304644962285256754> 这个机器人是Mia的测试人员专用的。\n> ${emojis.bombilla} 如果你想成为Mia的测试人员，请等待在https://discord.com/channels/756859004965093426/1301701450157658193开放申请。",
-    "msg43": "要使用此命令，您需要在游戏中或Epic Games网站上添加代码 **\"NotMia\"**。",
+    "msg43": "在 miadsc.xyz/es/premium 成为 Premium 支持 Mia",
     "msg44": "验证代码时发生错误，如果错误持续，请联系Mia的支持。",
     "msg45": "要使用此命令，您需要拥有 Fortnite 的 **“拯救世界”** 模式。",
     "msg47": "此命令只能在服务器中使用。",
