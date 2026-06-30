@@ -1,7 +1,9 @@
 {
   "idioma": "es",
   "fortniteAPI": "es",
-  "idiomaDiscord": ["es-ES"],
+  "idiomaDiscord": [
+    "es-ES"
+  ],
   "comandos": {
     "br": {
       "comprar": {
@@ -504,7 +506,12 @@
           "punk": "Espíritu punk",
           "king": "Espíritu rey",
           "zeroPoint": "Espíritu punto cero",
-          "burntPeanut": "Espíritu cacahuete quemado"
+          "burntPeanut": "Espíritu cacahuete quemado",
+          "fishy": "Espíritu fishy",
+          "striker": "Espíritu striker",
+          "aura": "Espíritu aura",
+          "boss": "Espíritu boss",
+          "grimReaper": "Espíritu grim"
         },
         "msg15": "Niv.",
         "msg16": "Inventario de espíritus",
@@ -512,7 +519,10 @@
         "msg18": "Obtenidos",
         "msg19": "Faltantes",
         "msg20": "No te falta ningún espíritu.",
-        "msg21": "faltantes"
+        "msg21": "faltantes",
+        "msg22": "COLECCIÓN DE ESPÍRITUS",
+        "msg23": "OBTENIDOS",
+        "msg24": "NIVELES"
       }
     },
     "cuenta": {
@@ -781,8 +791,24 @@
       },
       "checkBan": {
         "msg1": "La cuenta",
-        "msg2": "**NO** esta baneada de Fortnite.",
-        "msg3": "**SI** esta baneada de Fortnite."
+        "msg2": "**NO** está baneada de Fortnite.",
+        "msg3": "**SÍ** está baneada de Fortnite.",
+        "msgRestricted": "tiene **restricción de matchmaking** en Fortnite.",
+        "fieldType": "Tipo",
+        "fieldCanPlay": "Puede jugar",
+        "fieldCanDownload": "Puede descargar",
+        "fieldDetail": "Detalle",
+        "fieldAppeal": "Apelación",
+        "banTypeFull": "Ban de Fortnite",
+        "banTypeMatchmaking": "Ban de matchmaking",
+        "banTypeNone": "Sin sanciones",
+        "yes": "Sí",
+        "no": "No",
+        "appealHint": "Consulta sanciones y apela en [Sanctions & Appeals](https://safety.epicgames.com/sanctions-and-appeals/my-sanctions-and-appeals).",
+        "bulkStatusClean": "Sin sanciones",
+        "bulkStatusBanned": "Baneada de Fortnite",
+        "bulkStatusRestricted": "Restricción de matchmaking",
+        "fakeEpicMessage": "Tu cuenta está suspendida de Fortnite hasta el 15/07/2026 por violar las normas de la comunidad."
       },
       "cuentas": {
         "msg1": "No usaste ningun comando en Mia.",

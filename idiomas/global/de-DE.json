@@ -1,7 +1,12 @@
 {
   "idioma": "de",
   "fortniteAPI": "de",
-  "idiomaDiscord": ["de", "de-DE", "de-AT", "de-CH"],
+  "idiomaDiscord": [
+    "de",
+    "de-DE",
+    "de-AT",
+    "de-CH"
+  ],
   "comandos": {
     "br": {
       "comprar": {
@@ -782,7 +787,23 @@
       "checkBan": {
         "msg1": "Das Konto",
         "msg2": "**IST NICHT** von Fortnite gebannt.",
-        "msg3": "**IST** von Fortnite gebannt."
+        "msg3": "**IST** von Fortnite gebannt.",
+        "msgRestricted": "hat eine **Matchmaking-Einschränkung** in Fortnite.",
+        "fieldType": "Typ",
+        "fieldCanPlay": "Kann spielen",
+        "fieldCanDownload": "Kann herunterladen",
+        "fieldDetail": "Details",
+        "fieldAppeal": "Einspruch",
+        "banTypeFull": "Fortnite-Ban",
+        "banTypeMatchmaking": "Matchmaking-Ban",
+        "banTypeNone": "Keine Sanktionen",
+        "yes": "Ja",
+        "no": "Nein",
+        "appealHint": "Sanktionen einsehen und Einspruch einlegen unter [Sanctions & Appeals](https://safety.epicgames.com/sanctions-and-appeals/my-sanctions-and-appeals).",
+        "bulkStatusClean": "Keine Sanktionen",
+        "bulkStatusBanned": "Von Fortnite gebannt",
+        "bulkStatusRestricted": "Matchmaking-Einschränkung",
+        "fakeEpicMessage": "Dein Konto ist bis zum 15.07.2026 von Fortnite suspendiert, weil du die Community-Richtlinien verletzt hast."
       },
       "cuentas": {
         "msg1": "Du hast keinen Befehl in Mia verwendet.",

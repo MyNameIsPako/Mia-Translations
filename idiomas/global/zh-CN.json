@@ -1,7 +1,10 @@
 {
   "idioma": "zh-CN",
   "fortniteAPI": "zh-Hans",
-  "idiomaDiscord": ["zh-CN", "zh-TW"],
+  "idiomaDiscord": [
+    "zh-CN",
+    "zh-TW"
+  ],
   "comandos": {
     "br": {
       "comprar": {
@@ -765,8 +768,24 @@
       },
       "checkBan": {
         "msg1": "账户",
-        "msg2": "**没有**被封禁在Fortnite。",
-        "msg3": "**已**被封禁在Fortnite。"
+        "msg2": "**未**被 Fortnite 封禁。",
+        "msg3": "**已**被 Fortnite 封禁。",
+        "msgRestricted": "在 Fortnite 中受到**匹配限制**。",
+        "fieldType": "类型",
+        "fieldCanPlay": "可游玩",
+        "fieldCanDownload": "可下载",
+        "fieldDetail": "详情",
+        "fieldAppeal": "申诉",
+        "banTypeFull": "Fortnite 封禁",
+        "banTypeMatchmaking": "匹配封禁",
+        "banTypeNone": "无处罚",
+        "yes": "是",
+        "no": "否",
+        "appealHint": "在 [Sanctions & Appeals](https://safety.epicgames.com/sanctions-and-appeals/my-sanctions-and-appeals) 查看处罚并申诉。",
+        "bulkStatusClean": "无处罚",
+        "bulkStatusBanned": "已被 Fortnite 封禁",
+        "bulkStatusRestricted": "匹配限制",
+        "fakeEpicMessage": "由于违反社区规则，您的账户已被暂停游玩 Fortnite，直至 2026/07/15。"
       },
       "cuentas": {
         "msg1": "你还没有在Mia中使用任何命令。",

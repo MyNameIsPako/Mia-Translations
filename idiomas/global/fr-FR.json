@@ -1,7 +1,9 @@
 {
   "idioma": "fr",
   "fortniteAPI": "fr",
-  "idiomaDiscord": ["fr"],
+  "idiomaDiscord": [
+    "fr"
+  ],
   "comandos": {
     "br": {
       "comprar": {
@@ -766,7 +768,23 @@
       "checkBan": {
         "msg1": "Le compte",
         "msg2": "**N'EST PAS** banni de Fortnite.",
-        "msg3": "**EST** banni de Fortnite."
+        "msg3": "**EST** banni de Fortnite.",
+        "msgRestricted": "a une **restriction de matchmaking** sur Fortnite.",
+        "fieldType": "Type",
+        "fieldCanPlay": "Peut jouer",
+        "fieldCanDownload": "Peut télécharger",
+        "fieldDetail": "Détail",
+        "fieldAppeal": "Appel",
+        "banTypeFull": "Ban Fortnite",
+        "banTypeMatchmaking": "Ban matchmaking",
+        "banTypeNone": "Aucune sanction",
+        "yes": "Oui",
+        "no": "Non",
+        "appealHint": "Consultez les sanctions et faites appel sur [Sanctions & Appeals](https://safety.epicgames.com/sanctions-and-appeals/my-sanctions-and-appeals).",
+        "bulkStatusClean": "Aucune sanction",
+        "bulkStatusBanned": "Banni de Fortnite",
+        "bulkStatusRestricted": "Restriction de matchmaking",
+        "fakeEpicMessage": "Votre compte est suspendu de Fortnite jusqu'au 15/07/2026 pour violation des règles de la communauté."
       },
       "cuentas": {
         "msg1": "Vous n'avez utilisé aucune commande sur Mia.",

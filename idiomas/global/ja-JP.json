@@ -1,7 +1,9 @@
 {
   "idioma": "ja",
   "fortniteAPI": "ja",
-  "idiomaDiscord": ["ja"],
+  "idiomaDiscord": [
+    "ja"
+  ],
   "comandos": {
     "br": {
       "comprar": {
@@ -765,8 +767,24 @@
       },
       "checkBan": {
         "msg1": "アカウント",
-        "msg2": "**NO**はFortniteから禁止されていません。",
-        "msg3": "**YES**はFortniteから禁止されています。"
+        "msg2": "は Fortnite から**BANされていません**.",
+        "msg3": "は Fortnite から**BANされています**.",
+        "msgRestricted": "は Fortnite で**マッチメイキング制限**を受けています.",
+        "fieldType": "種類",
+        "fieldCanPlay": "プレイ可能",
+        "fieldCanDownload": "ダウンロード可能",
+        "fieldDetail": "詳細",
+        "fieldAppeal": "異議申し立て",
+        "banTypeFull": "Fortnite BAN",
+        "banTypeMatchmaking": "マッチメイキング BAN",
+        "banTypeNone": "制裁なし",
+        "yes": "はい",
+        "no": "いいえ",
+        "appealHint": "[Sanctions & Appeals](https://safety.epicgames.com/sanctions-and-appeals/my-sanctions-and-appeals) で制裁を確認し、異議申し立てができます.",
+        "bulkStatusClean": "制裁なし",
+        "bulkStatusBanned": "Fortnite から BAN",
+        "bulkStatusRestricted": "マッチメイキング制限",
+        "fakeEpicMessage": "コミュニティ規約違反のため、2026年7月15日まで Fortnite が停止されています."
       },
       "cuentas": {
         "msg1": "Miaでコマンドを一度も使用していません。",

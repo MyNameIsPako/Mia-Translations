@@ -1,7 +1,10 @@
 {
   "idioma": "en",
   "fortniteAPI": "en",
-  "idiomaDiscord": ["en-US", "en-GB"],
+  "idiomaDiscord": [
+    "en-US",
+    "en-GB"
+  ],
   "comandos": {
     "br": {
       "comprar": {
@@ -488,7 +491,12 @@
           "punk": "Punk Spirit",
           "king": "King Spirit",
           "zeroPoint": "Zero Point Spirit",
-          "burntPeanut": "Burnt Peanut Spirit"
+          "burntPeanut": "Burnt Peanut Spirit",
+          "fishy": "Fishy Sprite",
+          "striker": "Striker Sprite",
+          "aura": "Aura Sprite",
+          "boss": "Boss Sprite",
+          "grimReaper": "Grim Sprite"
         },
         "msg15": "Lv.",
         "msg16": "Spirit Inventory",
@@ -496,7 +504,10 @@
         "msg18": "Obtained",
         "msg19": "Missing",
         "msg20": "You have every spirit.",
-        "msg21": "missing"
+        "msg21": "missing",
+        "msg22": "SPRITE COLLECTION",
+        "msg23": "OWNED",
+        "msg24": "LEVELS"
       }
     },
     "cuenta": {
@@ -766,7 +777,23 @@
       "checkBan": {
         "msg1": "The account",
         "msg2": "**IS NOT** banned from Fortnite.",
-        "msg3": "**IS** banned from Fortnite."
+        "msg3": "**IS** banned from Fortnite.",
+        "msgRestricted": "has a **matchmaking restriction** on Fortnite.",
+        "fieldType": "Type",
+        "fieldCanPlay": "Can play",
+        "fieldCanDownload": "Can download",
+        "fieldDetail": "Details",
+        "fieldAppeal": "Appeal",
+        "banTypeFull": "Fortnite ban",
+        "banTypeMatchmaking": "Matchmaking ban",
+        "banTypeNone": "No sanctions",
+        "yes": "Yes",
+        "no": "No",
+        "appealHint": "Review sanctions and appeal at [Sanctions & Appeals](https://safety.epicgames.com/sanctions-and-appeals/my-sanctions-and-appeals).",
+        "bulkStatusClean": "No sanctions",
+        "bulkStatusBanned": "Banned from Fortnite",
+        "bulkStatusRestricted": "Matchmaking restriction",
+        "fakeEpicMessage": "Your account is suspended from Fortnite until 07/15/2026 for violating community rules."
       },
       "cuentas": {
         "msg1": "You haven't used any command in Mia.",

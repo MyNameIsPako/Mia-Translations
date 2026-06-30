@@ -1,7 +1,10 @@
 {
   "idioma": "tr",
   "fortniteAPI": "tr",
-  "idiomaDiscord": ["tr", "tr-TR"],
+  "idiomaDiscord": [
+    "tr",
+    "tr-TR"
+  ],
   "comandos": {
     "br": {
       "comprar": {
@@ -765,8 +768,24 @@
       },
       "checkBan": {
         "msg1": "Hesap",
-        "msg2": "Fortnite’dan **BANLANMAMIŞ**.",
-        "msg3": "Fortnite’dan **BANLANMIŞ**."
+        "msg2": "Fortnite'tan **BANLANMAMIŞ**.",
+        "msg3": "Fortnite'tan **BANLANMIŞ**.",
+        "msgRestricted": "Fortnite'ta **eşleştirme kısıtlaması** var.",
+        "fieldType": "Tür",
+        "fieldCanPlay": "Oynayabilir",
+        "fieldCanDownload": "İndirebilir",
+        "fieldDetail": "Detay",
+        "fieldAppeal": "İtiraz",
+        "banTypeFull": "Fortnite banı",
+        "banTypeMatchmaking": "Eşleştirme banı",
+        "banTypeNone": "Yaptırım yok",
+        "yes": "Evet",
+        "no": "Hayır",
+        "appealHint": "Yaptırımları inceleyin ve [Sanctions & Appeals](https://safety.epicgames.com/sanctions-and-appeals/my-sanctions-and-appeals) üzerinden itiraz edin.",
+        "bulkStatusClean": "Yaptırım yok",
+        "bulkStatusBanned": "Fortnite'tan banlı",
+        "bulkStatusRestricted": "Eşleştirme kısıtlaması",
+        "fakeEpicMessage": "Topluluk kurallarını ihlal ettiğiniz için hesabınız 15/07/2026 tarihine kadar Fortnite'tan askıya alındı."
       },
       "cuentas": {
         "msg1": "Mia'da hiç komut kullanmadınız.",
