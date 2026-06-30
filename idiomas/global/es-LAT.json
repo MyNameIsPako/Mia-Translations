@@ -490,12 +490,7 @@
           "punk": "Espíritu punk",
           "king": "Espíritu rey",
           "zeroPoint": "Espíritu punto cero",
-          "burntPeanut": "Espíritu cacahuete quemado",
-          "fishy": "Espíritu fishy",
-          "striker": "Espíritu striker",
-          "aura": "Espíritu aura",
-          "boss": "Espíritu boss",
-          "grimReaper": "Espíritu grim"
+          "burntPeanut": "Espíritu cacahuete quemado"
         },
         "msg15": "Niv.",
         "msg16": "Inventario de espíritus",
@@ -503,10 +498,7 @@
         "msg18": "Obtenidos",
         "msg19": "Faltantes",
         "msg20": "No te falta ningún espíritu.",
-        "msg21": "faltantes",
-        "msg22": "COLECCIÓN DE ESPÍRITUS",
-        "msg23": "OBTENIDOS",
-        "msg24": "NIVELES"
+        "msg21": "faltantes"
       }
     },
     "cuenta": {
@@ -3284,7 +3276,7 @@
     "timeRemaining": "Tiempo restante:",
     "sanctionTitle": "Sanción de Mia",
     "guildBanTitle": "Baneo del servidor de Mia",
-    "durationHint": "Opcional: 1min, 1h, 1d, 1m (mes), 1a (año). Vacío = permanente.",
+    "durationHint": "Opcional: 1m, 1h, 1d, 1mes, 1a (año). Vacío = permanente.",
     "durationInvalid": "Duración inválida. Usa:",
     "durationMustBePositive": "La duración debe ser mayor que 0.",
     "reasonRequired": "Debes indicar una razón para la sanción.",
@@ -3331,6 +3323,25 @@
     "selectAccountsPlaceholder": "Cuentas del usuario en Mia",
     "buttonAddGuild": "Añadir a la BlackList",
     "buttonRemoveGuild": "Eliminar de la Blacklist",
+    "durationHintMute": "1m, 1h, 1d. Máximo 28 días.",
+    "durationRequiredMute": "Debes indicar una duración para el mute.",
+    "durationMaxTimeout": "La duración máxima de un mute es de 28 días.",
+    "memberNotInGuild": "<@{user}> no está en este servidor.",
+    "muted": "<@{user}> silenciado.",
+    "mutedStaff": "Silenciaste a <@{user}>.",
+    "unmuted": "Se retiró el silencio a <@{user}>.",
+    "unmutedStaff": "Retiraste el silencio a <@{user}>.",
+    "userNotMuted": "<@{user}> no tiene un timeout activo.",
+    "softbanned": "<@{user}> expulsado (softban).",
+    "softbannedStaff": "Aplicaste softban a <@{user}>.",
+    "unbannedAndRemovedFromBlacklist": "<@{user}> desbaneado y eliminado de la BlackList.",
+    "unbannedUserAccounts": "Cuentas de <@{user}> desbaneadas y eliminadas de la BlackList.",
+    "dmMuted": "Has sido silenciado en **{guild}**.",
+    "dmUnmuted": "Se retiró tu silencio en **{guild}**.",
+    "dmKicked": "Has sido expulsado de **{guild}**.",
+    "dmSoftbanned": "Has sido expulsado de **{guild}** (softban).",
+    "dmGuildBanned": "Has sido baneado de **{guild}** y añadido a la BlackList de Mia.",
+    "dmSanction": "Has recibido una sanción de Mia relacionada con **{guild}**.",
     "guildRemovedFromBlacklist": "Servidor eliminado de la blacklist"
   }
 }

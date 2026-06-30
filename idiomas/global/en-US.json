@@ -491,12 +491,7 @@
           "punk": "Punk Spirit",
           "king": "King Spirit",
           "zeroPoint": "Zero Point Spirit",
-          "burntPeanut": "Burnt Peanut Spirit",
-          "fishy": "Fishy Sprite",
-          "striker": "Striker Sprite",
-          "aura": "Aura Sprite",
-          "boss": "Boss Sprite",
-          "grimReaper": "Grim Sprite"
+          "burntPeanut": "Burnt Peanut Spirit"
         },
         "msg15": "Lv.",
         "msg16": "Spirit Inventory",
@@ -504,10 +499,7 @@
         "msg18": "Obtained",
         "msg19": "Missing",
         "msg20": "You have every spirit.",
-        "msg21": "missing",
-        "msg22": "SPRITE COLLECTION",
-        "msg23": "OWNED",
-        "msg24": "LEVELS"
+        "msg21": "missing"
       }
     },
     "cuenta": {
@@ -3275,7 +3267,7 @@
     "timeRemaining": "Time remaining:",
     "sanctionTitle": "Mia sanction",
     "guildBanTitle": "Banned from Mia server",
-    "durationHint": "Optional: 1min, 1h, 1d, 1m (month), 1a (year). Empty = permanent.",
+    "durationHint": "Optional: 1m, 1h, 1d, 1mes, 1a (year). Empty = permanent.",
     "durationInvalid": "Invalid duration. Use:",
     "durationMustBePositive": "Duration must be greater than 0.",
     "reasonRequired": "You must provide a reason for the sanction.",
@@ -3322,6 +3314,25 @@
     "selectAccountsPlaceholder": "User accounts in Mia",
     "buttonAddGuild": "Add to BlackList",
     "buttonRemoveGuild": "Remove from Blacklist",
+    "durationHintMute": "1m, 1h, 1d. Max 28 days.",
+    "durationRequiredMute": "You must specify a duration for the mute.",
+    "durationMaxTimeout": "The maximum mute duration is 28 days.",
+    "memberNotInGuild": "<@{user}> is not in this server.",
+    "muted": "<@{user}> muted.",
+    "mutedStaff": "You muted <@{user}>.",
+    "unmuted": "Timeout removed from <@{user}>.",
+    "unmutedStaff": "You removed the timeout from <@{user}>.",
+    "userNotMuted": "<@{user}> does not have an active timeout.",
+    "softbanned": "<@{user}> softbanned.",
+    "softbannedStaff": "You softbanned <@{user}>.",
+    "unbannedAndRemovedFromBlacklist": "<@{user}> unbanned and removed from the BlackList.",
+    "unbannedUserAccounts": "<@{user}>'s accounts unbanned and removed from the BlackList.",
+    "dmMuted": "You have been muted in **{guild}**.",
+    "dmUnmuted": "Your timeout was removed in **{guild}**.",
+    "dmKicked": "You were kicked from **{guild}**.",
+    "dmSoftbanned": "You were softbanned from **{guild}**.",
+    "dmGuildBanned": "You were banned from **{guild}** and added to Mia's BlackList.",
+    "dmSanction": "You received a Mia sanction related to **{guild}**.",
     "guildRemovedFromBlacklist": "Server removed from the blacklist"
   }
 }
