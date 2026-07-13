@@ -3376,5 +3376,28 @@
     "dmGuildBanned": "You were banned from **{guild}** and added to Mia's BlackList.",
     "dmSanction": "You received a Mia sanction related to **{guild}**.",
     "guildRemovedFromBlacklist": "Server removed from the blacklist"
+  },
+  "resumenAutomatico": {
+    "titleDaily": "每日摘要",
+    "titleMonthly": "每月摘要",
+    "titleAll": "总计摘要",
+    "periodDaily": "今日的自动活动。",
+    "periodMonthly": "本月的自动活动。",
+    "periodAll": "Mia 自动活动总计",
+    "periodAllRange": "首次记录 {first} 至 {last}",
+    "empty": "目前没有数据，启用 Mia 的自动系统即可开始记录活动。",
+    "sectionExpeditions": "远征",
+    "expeditionsSent": "已发送：**{count}**",
+    "expeditionsSuccess": "成功完成：**{count}**",
+    "expeditionsFail": "失败：**{count}**",
+    "sectionAutoKick": "AutoKick",
+    "autoKickUses": "领取次数：**{count}**",
+    "sectionAutoLlamas": "免费羊驼",
+    "llamasClaims": "已领取羊驼：**{count}**",
+    "sectionRewards": "总奖励",
+    "noRewards": "此期间没有记录到奖励。",
+    "sectionAccounts": "账号",
+    "successRate": "成功率：**{rate}%**",
+    "successRateUnavailable": "成功率：—"
   }
 }

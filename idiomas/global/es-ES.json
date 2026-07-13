@@ -3364,5 +3364,28 @@
     "dmGuildBanned": "Has sido baneado de **{guild}** y añadido a la BlackList de Mia.",
     "dmSanction": "Has recibido una sanción de Mia relacionada con **{guild}**.",
     "guildRemovedFromBlacklist": "Servidor eliminado de la blacklist"
+  },
+  "resumenAutomatico": {
+    "titleDaily": "Resumen diario",
+    "titleMonthly": "Resumen mensual",
+    "titleAll": "Resumen total",
+    "periodDaily": "Actividad automática de hoy.",
+    "periodMonthly": "Actividad automática de este mes.",
+    "periodAll": "Actividad automática de Mia total",
+    "periodAllRange": "Primero registro el {first} hasta {last}",
+    "empty": "No existen datos por el momento, activa un sistema automático de Mia para empezar a registrar actividad.",
+    "sectionExpeditions": "Expediciones",
+    "expeditionsSent": "Enviadas: **{count}**",
+    "expeditionsSuccess": "Completadas con éxito: **{count}**",
+    "expeditionsFail": "Fallidas: **{count}**",
+    "sectionAutoKick": "AutoKick",
+    "autoKickUses": "Reclamaciones: **{count}**",
+    "sectionAutoLlamas": "Llamas gratis",
+    "llamasClaims": "Llamas reclamadas: **{count}**",
+    "sectionRewards": "Recompensas totales",
+    "noRewards": "Sin recompensas registradas en este periodo.",
+    "sectionAccounts": "Cuentas",
+    "successRate": "Tasa de éxito: **{rate}%**",
+    "successRateUnavailable": "Tasa de éxito: —"
   }
 }

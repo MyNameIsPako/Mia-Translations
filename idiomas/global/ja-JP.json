@@ -3376,5 +3376,28 @@
     "dmGuildBanned": "You were banned from **{guild}** and added to Mia's BlackList.",
     "dmSanction": "You received a Mia sanction related to **{guild}**.",
     "guildRemovedFromBlacklist": "Server removed from the blacklist"
+  },
+  "resumenAutomatico": {
+    "titleDaily": "日次サマリー",
+    "titleMonthly": "月次サマリー",
+    "titleAll": "合計サマリー",
+    "periodDaily": "本日の自動アクティビティ。",
+    "periodMonthly": "今月の自動アクティビティ。",
+    "periodAll": "Mia の自動アクティビティ合計",
+    "periodAllRange": "最初の記録 {first} から {last} まで",
+    "empty": "現在データがありません。Mia の自動システムを有効にしてアクティビティの記録を開始してください。",
+    "sectionExpeditions": "遠征",
+    "expeditionsSent": "送信: **{count}**",
+    "expeditionsSuccess": "成功: **{count}**",
+    "expeditionsFail": "失敗: **{count}**",
+    "sectionAutoKick": "AutoKick",
+    "autoKickUses": "受け取り: **{count}**",
+    "sectionAutoLlamas": "無料ラマ",
+    "llamasClaims": "受け取ったラマ: **{count}**",
+    "sectionRewards": "合計報酬",
+    "noRewards": "この期間に記録された報酬はありません。",
+    "sectionAccounts": "アカウント",
+    "successRate": "成功率: **{rate}%**",
+    "successRateUnavailable": "成功率: —"
   }
 }

@@ -3377,5 +3377,28 @@
     "dmGuildBanned": "You were banned from **{guild}** and added to Mia's BlackList.",
     "dmSanction": "You received a Mia sanction related to **{guild}**.",
     "guildRemovedFromBlacklist": "Server rimosso dalla blacklist"
+  },
+  "resumenAutomatico": {
+    "titleDaily": "Riepilogo giornaliero",
+    "titleMonthly": "Riepilogo mensile",
+    "titleAll": "Riepilogo totale",
+    "periodDaily": "Attività automatica di oggi.",
+    "periodMonthly": "Attività automatica di questo mese.",
+    "periodAll": "Attività automatica totale di Mia",
+    "periodAllRange": "Primo registro il {first} fino al {last}",
+    "empty": "Non ci sono dati al momento, attiva un sistema automatico di Mia per iniziare a registrare attività.",
+    "sectionExpeditions": "Spedizioni",
+    "expeditionsSent": "Inviate: **{count}**",
+    "expeditionsSuccess": "Completate con successo: **{count}**",
+    "expeditionsFail": "Fallite: **{count}**",
+    "sectionAutoKick": "AutoKick",
+    "autoKickUses": "Riscatti: **{count}**",
+    "sectionAutoLlamas": "Llamas gratuite",
+    "llamasClaims": "Llamas riscattate: **{count}**",
+    "sectionRewards": "Ricompense totali",
+    "noRewards": "Nessuna ricompensa registrata in questo periodo.",
+    "sectionAccounts": "Account",
+    "successRate": "Tasso di successo: **{rate}%**",
+    "successRateUnavailable": "Tasso di successo: —"
   }
 }

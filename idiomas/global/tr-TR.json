@@ -3233,5 +3233,28 @@
     "dmGuildBanned": "You were banned from **{guild}** and added to Mia's BlackList.",
     "dmSanction": "You received a Mia sanction related to **{guild}**.",
     "guildRemovedFromBlacklist": "Server removed from the blacklist"
+  },
+  "resumenAutomatico": {
+    "titleDaily": "Günlük özet",
+    "titleMonthly": "Aylık özet",
+    "titleAll": "Toplam özet",
+    "periodDaily": "Bugünün otomatik aktivitesi.",
+    "periodMonthly": "Bu ayın otomatik aktivitesi.",
+    "periodAll": "Toplam Mia otomatik aktivitesi",
+    "periodAllRange": "İlk kayıt {first} — son kayıt {last}",
+    "empty": "Şu anda veri yok, aktivite kaydetmeye başlamak için bir Mia otomatik sistemi etkinleştir.",
+    "sectionExpeditions": "Seferler",
+    "expeditionsSent": "Gönderilen: **{count}**",
+    "expeditionsSuccess": "Başarılı: **{count}**",
+    "expeditionsFail": "Başarısız: **{count}**",
+    "sectionAutoKick": "AutoKick",
+    "autoKickUses": "Talepler: **{count}**",
+    "sectionAutoLlamas": "Ücretsiz lamalar",
+    "llamasClaims": "Alınan lamalar: **{count}**",
+    "sectionRewards": "Toplam ödüller",
+    "noRewards": "Bu dönemde kayıtlı ödül yok.",
+    "sectionAccounts": "Hesaplar",
+    "successRate": "Başarı oranı: **{rate}%**",
+    "successRateUnavailable": "Başarı oranı: —"
   }
 }

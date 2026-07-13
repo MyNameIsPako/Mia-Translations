@@ -3334,5 +3334,28 @@
     "dmGuildBanned": "You were banned from **{guild}** and added to Mia's BlackList.",
     "dmSanction": "You received a Mia sanction related to **{guild}**.",
     "guildRemovedFromBlacklist": "Server removed from the blacklist"
+  },
+  "resumenAutomatico": {
+    "titleDaily": "Daily summary",
+    "titleMonthly": "Monthly summary",
+    "titleAll": "All-time summary",
+    "periodDaily": "Automatic activity for today.",
+    "periodMonthly": "Automatic activity for this month.",
+    "periodAll": "Total Mia automatic activity",
+    "periodAllRange": "First record on {first} until {last}",
+    "empty": "No data available yet, enable a Mia automatic system to start recording activity.",
+    "sectionExpeditions": "Expeditions",
+    "expeditionsSent": "Sent: **{count}**",
+    "expeditionsSuccess": "Completed successfully: **{count}**",
+    "expeditionsFail": "Failed: **{count}**",
+    "sectionAutoKick": "AutoKick",
+    "autoKickUses": "Claims: **{count}**",
+    "sectionAutoLlamas": "Free llamas",
+    "llamasClaims": "Llamas claimed: **{count}**",
+    "sectionRewards": "Total rewards",
+    "noRewards": "No rewards recorded in this period.",
+    "sectionAccounts": "Accounts",
+    "successRate": "Success rate: **{rate}%**",
+    "successRateUnavailable": "Success rate: —"
   }
 }
