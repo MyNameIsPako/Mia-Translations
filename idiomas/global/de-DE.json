@@ -509,7 +509,17 @@
           "punk": "Punkgeist",
           "king": "Königsgeist",
           "zeroPoint": "Nullpunktgeist",
-          "burntPeanut": "Burnt-Peanut-Geist"
+          "burntPeanut": "Burnt-Peanut-Geist",
+          "air": "Luftgeist",
+          "seven": "Seven-Geist",
+          "batman": "Batman-Geist",
+          "pollo": "Pollo-Geist",
+          "viniJr": "Vini-Jr.-Geist",
+          "striker": "Stürmer-Geist",
+          "fishy": "Fisch-Geist",
+          "aura": "Aura-Geist",
+          "boss": "Boss-Geist",
+          "grimReaper": "Sensenmann-Geist"
         },
         "msg15": "St.",
         "msg16": "Geister-Inventar",

@@ -491,7 +491,17 @@
           "punk": "Punk Spirit",
           "king": "King Spirit",
           "zeroPoint": "Zero Point Spirit",
-          "burntPeanut": "Burnt Peanut Spirit"
+          "burntPeanut": "Burnt Peanut Spirit",
+          "air": "Air Spirit",
+          "seven": "Seven Spirit",
+          "batman": "Batman Spirit",
+          "pollo": "Pollo Spirit",
+          "viniJr": "Vini Jr. Spirit",
+          "striker": "Striker Spirit",
+          "fishy": "Fishy Spirit",
+          "aura": "Aura Spirit",
+          "boss": "Boss Spirit",
+          "grimReaper": "Grim Spirit"
         },
         "msg15": "Lv.",
         "msg16": "Spirit Inventory",

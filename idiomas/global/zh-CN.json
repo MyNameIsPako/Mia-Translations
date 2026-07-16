@@ -491,7 +491,17 @@
           "punk": "朋克精灵",
           "king": "国王精灵",
           "zeroPoint": "零点精灵",
-          "burntPeanut": "Burnt Peanut"
+          "burntPeanut": "Burnt Peanut",
+          "air": "空气精灵",
+          "seven": "Seven精灵",
+          "batman": "蝙蝠侠精灵",
+          "pollo": "Pollo精灵",
+          "viniJr": "Vini Jr.精灵",
+          "striker": "前锋精灵",
+          "fishy": "小鱼精灵",
+          "aura": "光环精灵",
+          "boss": "Boss精灵",
+          "grimReaper": "死神精灵"
         },
         "msg15": "等级",
         "msg16": "精灵库存",

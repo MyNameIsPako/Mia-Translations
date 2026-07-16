@@ -490,7 +490,17 @@
           "punk": "Espírito punk",
           "king": "Espírito rei",
           "zeroPoint": "Espírito ponto zero",
-          "burntPeanut": "Espírito Burnt Peanut"
+          "burntPeanut": "Espírito Burnt Peanut",
+          "air": "Espírito de ar",
+          "seven": "Espírito dos Seven",
+          "batman": "Espírito Batman",
+          "pollo": "Espírito Pollo",
+          "viniJr": "Espírito Vini Jr.",
+          "striker": "Espírito atacante",
+          "fishy": "Espírito peixe",
+          "aura": "Espírito aura",
+          "boss": "Espírito chefe",
+          "grimReaper": "Espírito ceifador"
         },
         "msg15": "Nív.",
         "msg16": "Inventário de espíritos",

@@ -507,7 +507,17 @@
           "punk": "Espíritu punk",
           "king": "Espíritu rey",
           "zeroPoint": "Espíritu punto cero",
-          "burntPeanut": "Espíritu cacahuete quemado"
+          "burntPeanut": "Espíritu cacahuete quemado",
+          "air": "Espíritu de aire",
+          "seven": "Espíritu de The Seven",
+          "batman": "Espíritu Batman",
+          "pollo": "Espíritu Pollo",
+          "viniJr": "Espíritu Vini Jr.",
+          "striker": "Espíritu delantero",
+          "fishy": "Espíritu pez",
+          "aura": "Espíritu aura",
+          "boss": "Espíritu jefe",
+          "grimReaper": "Espíritu de la muerte"
         },
         "msg15": "Niv.",
         "msg16": "Inventario de espíritus",
@@ -515,8 +525,7 @@
         "msg18": "Obtenidos",
         "msg19": "Faltantes",
         "msg20": "No te falta ningún espíritu.",
-        "msg21": "faltantes",
-        "msg25": "Holofoil"
+        "msg21": "faltantes"
       }
     },
     "cuenta": {

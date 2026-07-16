@@ -490,7 +490,17 @@
           "punk": "パンクの精霊",
           "king": "キングの精霊",
           "zeroPoint": "ゼロポイントの精霊",
-          "burntPeanut": "Burnt Peanut"
+          "burntPeanut": "Burnt Peanut",
+          "air": "エアのスピリット",
+          "seven": "セブンのスピリット",
+          "batman": "バットマンのスピリット",
+          "pollo": "ポロのスピリット",
+          "viniJr": "ヴィニ・ジュニアのスピリット",
+          "striker": "ストライカーのスピリット",
+          "fishy": "フィッシーのスピリット",
+          "aura": "オーラのスピリット",
+          "boss": "ボスのスピリット",
+          "grimReaper": "グリムのスピリット"
         },
         "msg15": "Lv.",
         "msg16": "精霊インベントリ",

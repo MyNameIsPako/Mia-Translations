@@ -490,7 +490,17 @@
           "punk": "Spirito punk",
           "king": "Spirito re",
           "zeroPoint": "Spirito punto zero",
-          "burntPeanut": "Spirito Burnt Peanut"
+          "burntPeanut": "Spirito Burnt Peanut",
+          "air": "Spirito dell'aria",
+          "seven": "Spirito dei Seven",
+          "batman": "Spirito Batman",
+          "pollo": "Spirito Pollo",
+          "viniJr": "Spirito Vini Jr.",
+          "striker": "Spirito attaccante",
+          "fishy": "Spirito pesce",
+          "aura": "Spirito aura",
+          "boss": "Spirito boss",
+          "grimReaper": "Spirito mietitore"
         },
         "msg15": "Liv.",
         "msg16": "Inventario degli spiriti",
