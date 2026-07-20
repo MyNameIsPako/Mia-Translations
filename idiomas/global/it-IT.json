@@ -2265,7 +2265,9 @@
         "msg41": "Hai un abbonamento premium attivo.",
         "msg42": "Vantaggi di essere premium",
         "msg43": "Non hai alcun abbonamento premium attivo.",
-        "msg44": "Finché sei booster"
+        "msg44": "Finché sei booster",
+        "msg45": "Finché Freemium è attivo",
+        "msg46": "Freemium"
       },
       "rep": {
         "msg1": "Segnalazioni di Mia",

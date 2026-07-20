@@ -2232,7 +2232,9 @@
         "msg41": "You have an active premium membership.",
         "msg42": "Benefits of being premium",
         "msg43": "You do not have any active premium membership.",
-        "msg44": "While you're a booster"
+        "msg44": "While you're a booster",
+        "msg45": "While Freemium is active",
+        "msg46": "Freemium"
       },
       "rep": {
         "msg1": "Mia's Reports",

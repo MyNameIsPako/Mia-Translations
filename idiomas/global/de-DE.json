@@ -2250,7 +2250,9 @@
         "msg41": "Du hast eine aktive Premium-Mitgliedschaft.",
         "msg42": "Vorteile von Premium",
         "msg43": "Du hast keine aktive Premium-Mitgliedschaft.",
-        "msg44": "Solange du Booster bist"
+        "msg44": "Solange du Booster bist",
+        "msg45": "Solange Freemium aktiv ist",
+        "msg46": "Freemium"
       },
       "rep": {
         "msg1": "Mias Berichte",

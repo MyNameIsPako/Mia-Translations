@@ -2232,7 +2232,9 @@
         "msg41": "Tienes activa una membresia premium.",
         "msg42": "Beneficios de ser premium",
         "msg43": "No tienes ninguna membresia premium activa.",
-        "msg44": "Mientras seas booster"
+        "msg44": "Mientras seas booster",
+        "msg45": "Mientras esté activo el Freemium",
+        "msg46": "Freemium"
       },
       "rep": {
         "msg1": "Reportes de Mia",
