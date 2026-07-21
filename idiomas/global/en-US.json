@@ -2763,7 +2763,8 @@
     "msg3": "Unknown",
     "msg4": "This account does not have STW",
     "msg5": "Report error",
-    "msg6": "Official server"
+    "msg6": "Official server",
+    "msg7": "The Fortnite account **{account}** is banned or does not have access to Fortnite due to some restriction\n> Use `/cambiar` with another account or register it again when Epic unlocks it."
   },
   "sistemas": {
     "ad": {

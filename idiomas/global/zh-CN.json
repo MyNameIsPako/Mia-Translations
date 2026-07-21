@@ -2797,7 +2797,8 @@
     "msg3": "未知",
     "msg4": "此账户没有STW",
     "msg5": "报告错误",
-    "msg6": "官方服务器"
+    "msg6": "官方服务器",
+    "msg7": "Fortnite 账号 **{account}** 已被封禁，或因某种限制无法访问 Fortnite\n> 请用 `/cambiar` 切换到其他账号，或在 Epic 解除限制后重新注册。"
   },
   "sistemas": {
     "ad": {

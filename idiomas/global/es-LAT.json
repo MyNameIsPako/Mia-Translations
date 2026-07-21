@@ -2763,7 +2763,8 @@
     "msg3": "Desconocido",
     "msg4": "Esta cuenta no tiene STW",
     "msg5": "Reportar error",
-    "msg6": "Servidor oficial"
+    "msg6": "Servidor oficial",
+    "msg7": "La cuenta de Fortnite **{account}** está baneada o no tiene acceso a Fortnite por alguna restricción\n> Usa `/cambiar` con otra cuenta o vuelve a registrarla cuando Epic la desbloquee."
   },
   "sistemas": {
     "ad": {

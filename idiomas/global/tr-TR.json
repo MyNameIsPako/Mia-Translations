@@ -2654,7 +2654,8 @@
     "msg3": "Bilinmiyor",
     "msg4": "Bu hesabın STW yok",
     "msg5": "Hata bildir",
-    "msg6": "Resmi sunucu"
+    "msg6": "Resmi sunucu",
+    "msg7": "Fortnite hesabı **{account}** yasaklı veya bir kısıtlama nedeniyle Fortnite'a erişimi yok\n> Başka bir hesapla `/cambiar` kullan veya Epic kilidi açtığında yeniden kaydet."
   },
   "sistemas": {
     "ad": {

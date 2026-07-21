@@ -2781,7 +2781,8 @@
     "msg3": "Unbekannt",
     "msg4": "Dieses Konto besitzt kein STW",
     "msg5": "Fehler melden",
-    "msg6": "Offizieller Server"
+    "msg6": "Offizieller Server",
+    "msg7": "Das Fortnite-Konto **{account}** ist gebannt oder hat aufgrund einer Einschränkung keinen Zugang zu Fortnite\n> Nutze `/cambiar` mit einem anderen Konto oder registriere es erneut, wenn Epic es freigibt."
   },
   "sistemas": {
     "ad": {

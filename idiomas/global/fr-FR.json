@@ -2762,7 +2762,8 @@
     "msg3": "Inconnu",
     "msg4": "Ce compte n'a pas STW",
     "msg5": "Signaler une erreur",
-    "msg6": "Serveur officiel"
+    "msg6": "Serveur officiel",
+    "msg7": "Le compte Fortnite **{account}** est banni ou n'a pas accès à Fortnite en raison d'une restriction\n> Utilise `/cambiar` avec un autre compte ou réenregistre-le quand Epic le débloque."
   },
   "sistemas": {
     "ad": {
