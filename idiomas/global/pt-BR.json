@@ -1205,6 +1205,15 @@
         "msg5": "Você já abriu as lhamas grátis ou não há nenhuma disponível.",
         "msg6": "Lhamas grátis reivindicadas com sucesso"
       },
+      "cumpleanos": {
+        "msg1": "Não há lhamas de aniversário, volte no ano que vem!",
+        "msg2": "Lhama de aniversário reivindicada",
+        "msg3": "Lhama reivindicada",
+        "msg4": "Não foi possível reivindicar a lhama de aniversário",
+        "msg5": "Você ultrapassou o limite de hoje, volte amanhã",
+        "msg6": "Volte amanhã!",
+        "msg7": "Saque"
+      },
       "llamaRevisar": {
         "msg1": "lama",
         "msg2": "lamas",

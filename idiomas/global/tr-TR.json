@@ -1172,6 +1172,15 @@
         "msg5": "Ücretsiz llamaları zaten açtınız veya hiç yok.",
         "msg6": "Ücretsiz llamalar başarıyla alındı"
       },
+      "cumpleanos": {
+        "msg1": "Doğum günü llaması yok, gelecek yıl tekrar gel!",
+        "msg2": "Doğum günü llaması alındı",
+        "msg3": "Llama alındı",
+        "msg4": "Doğum günü llaması alınamadı",
+        "msg5": "Bugünkü limite ulaştın, yarın tekrar gel",
+        "msg6": "Yarın tekrar gel!",
+        "msg7": "Ganimet"
+      },
       "llamaRevisar": {
         "msg1": "lama",
         "msg2": "lamalar",

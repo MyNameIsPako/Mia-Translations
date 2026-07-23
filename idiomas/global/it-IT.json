@@ -1205,6 +1205,15 @@
         "msg5": "Hai già aperto i lama gratuiti o non ce ne sono disponibili.",
         "msg6": "Lama gratuiti reclamati con successo"
       },
+      "cumpleanos": {
+        "msg1": "Non ci sono lama di compleanno, torna l'anno prossimo!",
+        "msg2": "Lama di compleanno reclamato",
+        "msg3": "Lama reclamato",
+        "msg4": "Impossibile reclamare il lama di compleanno",
+        "msg5": "Hai superato il limite di oggi, torna domani",
+        "msg6": "Torna domani!",
+        "msg7": "Bottino"
+      },
       "llamaRevisar": {
         "msg1": "lama",
         "msg2": "lame",

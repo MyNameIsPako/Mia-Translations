@@ -1190,6 +1190,15 @@
         "msg5": "Du hast die kostenlosen Lamas bereits geöffnet oder es sind keine verfügbar.",
         "msg6": "Kostenlose Lamas erfolgreich beansprucht"
       },
+      "cumpleanos": {
+        "msg1": "Es gibt keine Geburtstags-Lamas, komm nächstes Jahr wieder!",
+        "msg2": "Geburtstags-Lama beansprucht",
+        "msg3": "Lama beansprucht",
+        "msg4": "Das Geburtstags-Lama konnte nicht beansprucht werden",
+        "msg5": "Du hast das heutige Limit erreicht, komm morgen wieder",
+        "msg6": "Komm morgen wieder!",
+        "msg7": "Beute"
+      },
       "llamaRevisar": {
         "msg1": "Lama",
         "msg2": "Lamas",

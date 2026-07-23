@@ -1171,6 +1171,15 @@
         "msg5": "Ya abriste las llamas gratis o no hay ninguna disponible.",
         "msg6": "llamas gratis reclamadas correctamente"
       },
+      "cumpleanos": {
+        "msg1": "No hay llamas de cumpleaños vuelve el año que viene!",
+        "msg2": "Llama de cumpleaños reclamada",
+        "msg3": "Llama reclamada",
+        "msg4": "No se pudo reclamar la llama de cumpleaños",
+        "msg5": "Superaste el limite de hoy vuelve mañana",
+        "msg6": "Vuelve mañana!",
+        "msg7": "Loot"
+      },
       "llamaRevisar": {
         "msg1": "llama",
         "msg2": "llamas",
