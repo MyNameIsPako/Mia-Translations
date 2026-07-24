@@ -1173,12 +1173,12 @@
         "msg6": "Free llamas claimed successfully"
       },
       "cumpleanos": {
-        "msg1": "There are no birthday llamas, come back next year!",
-        "msg2": "Birthday llama claimed",
+        "msg1": "No llamas to claim",
+        "msg2": "Llama claimed",
         "msg3": "Llama claimed",
-        "msg4": "Could not claim the birthday llama",
-        "msg5": "You've hit today's limit, come back tomorrow",
-        "msg6": "Come back tomorrow!",
+        "msg4": "No llamas to claim",
+        "msg5": "No llamas to claim",
+        "msg6": "No llamas to claim",
         "msg7": "Loot"
       },
       "llamaRevisar": {

@@ -1172,12 +1172,12 @@
         "msg6": "Lamas gratuits réclamés avec succès"
       },
       "cumpleanos": {
-        "msg1": "Il n'y a pas de lamas d'anniversaire, revenez l'année prochaine !",
-        "msg2": "Lama d'anniversaire réclamé",
+        "msg1": "Aucun lama à réclamer",
+        "msg2": "Lama réclamé",
         "msg3": "Lama réclamé",
-        "msg4": "Impossible de réclamer le lama d'anniversaire",
-        "msg5": "Tu as dépassé la limite d'aujourd'hui, reviens demain",
-        "msg6": "Reviens demain !",
+        "msg4": "Aucun lama à réclamer",
+        "msg5": "Aucun lama à réclamer",
+        "msg6": "Aucun lama à réclamer",
         "msg7": "Butin"
       },
       "llamaRevisar": {

@@ -1191,12 +1191,12 @@
         "msg6": "Kostenlose Lamas erfolgreich beansprucht"
       },
       "cumpleanos": {
-        "msg1": "Es gibt keine Geburtstags-Lamas, komm nächstes Jahr wieder!",
-        "msg2": "Geburtstags-Lama beansprucht",
+        "msg1": "Keine Lamas zum Beanspruchen",
+        "msg2": "Lama beansprucht",
         "msg3": "Lama beansprucht",
-        "msg4": "Das Geburtstags-Lama konnte nicht beansprucht werden",
-        "msg5": "Du hast das heutige Limit erreicht, komm morgen wieder",
-        "msg6": "Komm morgen wieder!",
+        "msg4": "Keine Lamas zum Beanspruchen",
+        "msg5": "Keine Lamas zum Beanspruchen",
+        "msg6": "Keine Lamas zum Beanspruchen",
         "msg7": "Beute"
       },
       "llamaRevisar": {
