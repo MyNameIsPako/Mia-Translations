@@ -476,6 +476,8 @@
 				"msg9": "Gummy",
 				"msg10": "Galaxy",
 				"msg11": "Gold",
+				"msg25": "Olografico",
+				"msg26": "Cubo",
 				"msg12": "Quantità",
 				"msg13": "Sconosciuto",
 				"msg14": "Nessuna",
@@ -509,7 +511,7 @@
 				"msg19": "Mancanti",
 				"msg20": "Hai tutti gli spiriti.",
 				"msg21": "mancanti",
-				"msg25": "Olografico"
+				"msg27": "Vedi sul web"
 			}
 		},
 		"cuenta": {

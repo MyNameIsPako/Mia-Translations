@@ -477,6 +477,8 @@
 				"msg9": "Gummy",
 				"msg10": "Galaxy",
 				"msg11": "Gold",
+				"msg25": "Holofoil",
+				"msg26": "Küp",
 				"msg12": "Miktar",
 				"msg13": "Bilinmiyor",
 				"msg14": "Yok",
@@ -510,7 +512,7 @@
 				"msg19": "Eksik",
 				"msg20": "Tüm ruhları topladın.",
 				"msg21": "eksik",
-				"msg25": "Holofoil"
+				"msg27": "Webde gör"
 			}
 		},
 		"cuenta": {

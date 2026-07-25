@@ -476,6 +476,8 @@
 				"msg9": "Gummy",
 				"msg10": "Galaxy",
 				"msg11": "Gold",
+				"msg25": "Holofoil",
+				"msg26": "Cubo",
 				"msg12": "Quantidade",
 				"msg13": "Desconhecido",
 				"msg14": "Nenhuma",
@@ -509,7 +511,7 @@
 				"msg19": "Faltantes",
 				"msg20": "Tens todos os espíritos.",
 				"msg21": "faltantes",
-				"msg25": "Holofoil"
+				"msg27": "Ver na web"
 			}
 		},
 		"cuenta": {

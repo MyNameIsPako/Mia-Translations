@@ -477,6 +477,8 @@
 				"msg9": "Gummy",
 				"msg10": "Galaxy",
 				"msg11": "Gold",
+				"msg25": "Holofoil",
+				"msg26": "Cube",
 				"msg12": "Quantity",
 				"msg13": "Unknown",
 				"msg14": "None",
@@ -510,7 +512,7 @@
 				"msg19": "Missing",
 				"msg20": "You have every spirit.",
 				"msg21": "missing",
-				"msg25": "Holofoil"
+				"msg27": "View on web"
 			}
 		},
 		"cuenta": {

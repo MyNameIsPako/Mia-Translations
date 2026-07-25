@@ -476,6 +476,8 @@
 				"msg9": "Gomoso",
 				"msg10": "Galaxia",
 				"msg11": "Dorado",
+				"msg25": "Holofoil",
+				"msg26": "Cubo",
 				"msg12": "Cantidad",
 				"msg13": "Desconocido",
 				"msg14": "Ninguna",
@@ -509,7 +511,7 @@
 				"msg19": "Faltantes",
 				"msg20": "No te falta ningún espíritu.",
 				"msg21": "faltantes",
-				"msg25": "Holofoil"
+				"msg27": "Ver en la web"
 			}
 		},
 		"cuenta": {
