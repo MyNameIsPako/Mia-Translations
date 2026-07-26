@@ -3372,9 +3372,9 @@
 		"sanctionedUserAccounts": "User and accounts sanctioned.",
 		"bannedAndBlacklisted": "<@{user}> banned from the server and added to Mia's BlackList.",
 		"addedGuild": "Server {id} added to the BlackList.",
-		"reviewFieldReason": "Reason",
-		"reviewFieldDuration": "Duration",
-		"reviewFieldExpires": "Expires",
+		"reviewFieldReason": "Reason:",
+		"reviewFieldDuration": "Duration:",
+		"reviewFieldExpires": "Expires:",
 		"labelReason": "Reason:",
 		"labelExpires": "Expires:",
 		"discordIdNoAccounts": "{id} is a **Discord** ID, but has no Epic accounts registered in Mia.\n> Use \blacklist-usuarios to sanction the Discord user.",
@@ -3445,5 +3445,25 @@
 		"sectionAccounts": "账号",
 		"successRate": "成功率：**{rate}%**",
 		"successRateUnavailable": "成功率：—"
+	},
+	"bienvenida": {
+		"content": "欢迎 <@{user}> 加入 **{guild}**",
+		"btnWebsite": "官方网站",
+		"btnFaq": "常见问题（FAQ）",
+		"btnRules": "服务器规则",
+		"btnTerms": "条款和条件",
+		"btnPrivacy": "隐私政策",
+		"btnPremium": "获取 Mia Premium",
+		"fieldImportant": "重要：",
+		"fieldImportantValue": "请查看[服务器规则]({rulesUrl})和 [Mia FAQ]({faqChannelUrl})，然后尽情享受服务器吧！💖",
+		"fieldUserData": "用户信息：",
+		"accountCreated": "账户创建：",
+		"userIdLabel": "用户 ID：",
+		"inviteBot": "此机器人由 **{inviter}** 邀请。",
+		"inviteVanity": "通过自定义邀请 `{code}` 加入。",
+		"inviteSelf": "自己邀请了自己。",
+		"inviteBy": "由 **{inviter}** 邀请。",
+		"inviteTemp": "通过临时邀请加入。",
+		"inviteUnknown": "无法确定是谁邀请的"
 	}
 }

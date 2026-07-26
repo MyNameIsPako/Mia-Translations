@@ -3372,9 +3372,9 @@
 		"sanctionedUserAccounts": "User and accounts sanctioned.",
 		"bannedAndBlacklisted": "<@{user}> banned from the server and added to Mia's BlackList.",
 		"addedGuild": "Server {id} added to the BlackList.",
-		"reviewFieldReason": "Reason",
-		"reviewFieldDuration": "Duration",
-		"reviewFieldExpires": "Expires",
+		"reviewFieldReason": "Reason:",
+		"reviewFieldDuration": "Duration:",
+		"reviewFieldExpires": "Expires:",
 		"labelReason": "Reason:",
 		"labelExpires": "Expires:",
 		"discordIdNoAccounts": "{id} is a **Discord** ID, but has no Epic accounts registered in Mia.\n> Use \blacklist-usuarios to sanction the Discord user.",
@@ -3445,5 +3445,25 @@
 		"sectionAccounts": "アカウント",
 		"successRate": "成功率: **{rate}%**",
 		"successRateUnavailable": "成功率: —"
+	},
+	"bienvenida": {
+		"content": "<@{user}> さん、**{guild}** へようこそ",
+		"btnWebsite": "公式サイト",
+		"btnFaq": "よくある質問（FAQ）",
+		"btnRules": "サーバーのルール",
+		"btnTerms": "利用規約",
+		"btnPrivacy": "プライバシーポリシー",
+		"btnPremium": "Mia Premium を入手",
+		"fieldImportant": "重要:",
+		"fieldImportantValue": "[サーバーのルール]({rulesUrl}) と [Mia FAQ]({faqChannelUrl}) を確認して、サーバーをお楽しみください！ 💖",
+		"fieldUserData": "ユーザー情報:",
+		"accountCreated": "アカウント作成:",
+		"userIdLabel": "ユーザーID:",
+		"inviteBot": "このボットは **{inviter}** に招待されました。",
+		"inviteVanity": "カスタム招待 `{code}` で参加しました。",
+		"inviteSelf": "自分自身を招待しました。",
+		"inviteBy": "**{inviter}** に招待されました。",
+		"inviteTemp": "一時的な招待で参加しました。",
+		"inviteUnknown": "誰が招待したか特定できませんでした"
 	}
 }

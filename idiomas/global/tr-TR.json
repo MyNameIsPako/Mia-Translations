@@ -3229,9 +3229,9 @@
 		"sanctionedUserAccounts": "User and accounts sanctioned.",
 		"bannedAndBlacklisted": "<@{user}> banned from the server and added to Mia's BlackList.",
 		"addedGuild": "Server {id} added to the BlackList.",
-		"reviewFieldReason": "Reason",
-		"reviewFieldDuration": "Duration",
-		"reviewFieldExpires": "Expires",
+		"reviewFieldReason": "Reason:",
+		"reviewFieldDuration": "Duration:",
+		"reviewFieldExpires": "Expires:",
 		"labelReason": "Reason:",
 		"labelExpires": "Expires:",
 		"discordIdNoAccounts": "{id} is a **Discord** ID, but has no Epic accounts registered in Mia.\n> Use \blacklist-usuarios to sanction the Discord user.",
@@ -3302,5 +3302,25 @@
 		"sectionAccounts": "Hesaplar",
 		"successRate": "Başarı oranı: **{rate}%**",
 		"successRateUnavailable": "Başarı oranı: —"
+	},
+	"bienvenida": {
+		"content": "Hoş geldin <@{user}>, **{guild}** sunucusuna",
+		"btnWebsite": "Resmi web sitesi",
+		"btnFaq": "Sıkça sorulan sorular (SSS)",
+		"btnRules": "Sunucu kuralları",
+		"btnTerms": "Şartlar ve koşullar",
+		"btnPrivacy": "Gizlilik politikası",
+		"btnPremium": "Mia Premium al",
+		"fieldImportant": "Önemli:",
+		"fieldImportantValue": "[Sunucu kurallarını]({rulesUrl}) ve [Mia SSS]({faqChannelUrl}) kontrol et ve sunucunun tadını çıkar! 💖",
+		"fieldUserData": "Kullanıcı bilgileri:",
+		"accountCreated": "Hesap oluşturuldu:",
+		"userIdLabel": "Kullanıcı ID:",
+		"inviteBot": "Bu botu **{inviter}** davet etti.",
+		"inviteVanity": "Özel davet `{code}` ile katıldı.",
+		"inviteSelf": "Kendini davet etti.",
+		"inviteBy": "**{inviter}** tarafından davet edildi.",
+		"inviteTemp": "Geçici bir davet ile katıldı.",
+		"inviteUnknown": "Kimin davet ettiği belirlenemedi"
 	}
 }

@@ -3337,9 +3337,9 @@
 		"sanctionedUserAccounts": "Utilisateur et comptes sanctionnés.",
 		"bannedAndBlacklisted": "<@{user}> banni du serveur et ajouté à la BlackList de Mia.",
 		"addedGuild": "Serveur {id} ajouté à la BlackList.",
-		"reviewFieldReason": "Raison",
-		"reviewFieldDuration": "Durée",
-		"reviewFieldExpires": "Expire",
+		"reviewFieldReason": "Raison:",
+		"reviewFieldDuration": "Durée:",
+		"reviewFieldExpires": "Expire:",
 		"labelReason": "Raison :",
 		"labelExpires": "Expire :",
 		"discordIdNoAccounts": "{id} est un ID **Discord**, sans comptes Epic enregistrés dans Mia.\n> Utilisez \blacklist-usuarios pour sanctionner l'utilisateur Discord.",
@@ -3410,5 +3410,25 @@
 		"sectionAccounts": "Comptes",
 		"successRate": "Taux de réussite : **{rate}%**",
 		"successRateUnavailable": "Taux de réussite : —"
+	},
+	"bienvenida": {
+		"content": "Bienvenue <@{user}> sur **{guild}**",
+		"btnWebsite": "Site web officiel",
+		"btnFaq": "Foire aux questions (FAQ)",
+		"btnRules": "Règles du serveur",
+		"btnTerms": "Conditions générales",
+		"btnPrivacy": "Politique de confidentialité",
+		"btnPremium": "Obtenir Mia Premium",
+		"fieldImportant": "Important :",
+		"fieldImportantValue": "Consulte les [règles du serveur]({rulesUrl}) et la [FAQ de Mia]({faqChannelUrl}), et profite du serveur ! 💖",
+		"fieldUserData": "Infos utilisateur :",
+		"accountCreated": "Compte créé :",
+		"userIdLabel": "ID utilisateur :",
+		"inviteBot": "Ce bot a été invité par **{inviter}**.",
+		"inviteVanity": "A rejoint avec l'invitation personnalisée `{code}`.",
+		"inviteSelf": "S'est auto-invité.",
+		"inviteBy": "Invité par **{inviter}**.",
+		"inviteTemp": "A rejoint avec une invitation temporaire.",
+		"inviteUnknown": "Impossible de savoir qui l'a invité"
 	}
 }
