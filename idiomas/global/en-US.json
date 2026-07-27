@@ -2354,6 +2354,20 @@
 				"msg12": "New Leaks",
 				"msg13": "V-Bucks x MiaDiscordBot",
 				"msg14": "Exclusive premium systems"
+			},
+			"panelSeguridad": {
+				"cmdDesc": "Configure Mia's security systems for you",
+				"msg1": "Security panel of",
+				"msg2": "-# Mia's security systems are designed to protect your accounts. Don't worry about a thing, Mia will take care of everything.",
+				"msg3": "Detect unknown Auths",
+				"msg4": "Detect unknown Auths **enabled**.",
+				"msg5": "Detect unknown Auths **disabled**.",
+				"msg6": "Detect 2FA changes",
+				"msg7": "Detect 2FA changes **enabled**.",
+				"msg8": "Detect 2FA changes **disabled**.",
+				"msg9": "Detect V-Bucks spending",
+				"msg10": "Detect V-Bucks spending **enabled**.",
+				"msg11": "Detect V-Bucks spending **disabled**."
 			}
 		},
 		"stw": {
@@ -2865,6 +2879,33 @@
 			"msg1": "# <:hola:1260375200231456819> Hello ",
 			"msg2": "Your premium membership is about to expire. Your premium membership will expire",
 			"msg3": "If you want to continue enjoying Mia's premium benefits, make sure to acquire a new key as soon as possible."
+		},
+		"sg": {
+			"msg1": "An unknown Auth was detected on your account.",
+			"msg2": "Account:",
+			"msg3": "Device ID:",
+			"msg4": "User Agent:",
+			"msg5": "Created:",
+			"msg6": "Last access:",
+			"msg7": "Unknown",
+			"msg8": "in",
+			"msg9": "?",
+			"msg10": "Delete this Auth",
+			"msg11": "Auth successfully deleted from",
+			"msg12": "Could not delete this Auth."
+		},
+		"sv": {
+			"msg1": "V-Bucks were spent on your account **{account}**: from **{from}** to **{to}**.",
+			"msg2": "If it was you, ignore this message. Otherwise, delete all unknown device auths.",
+			"msg3": "Delete unknown Auths",
+			"msg4": "Deleted **{count}** unknown Auths from `{account}`.",
+			"msg5": "Could not delete the unknown Auths.",
+			"msg6": "There were no unknown Auths to delete on `{account}`."
+		},
+		"s2": {
+			"msg1": "2FA was **enabled** on your Epic account.",
+			"msg2": "2FA was **disabled** on your Epic account.",
+			"msg3": "Account:"
 		},
 		"aw": {
 			"msg1": "Mia's AutoWinterfest system",

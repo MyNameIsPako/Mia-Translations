@@ -2329,9 +2329,23 @@
 					"msg11": "Tienda BR",
 					"msg12": "Nuevas Filtraciones",
 					"msg13": "V-Bucks x MiaDiscordBot",
-					"msg14": "Sistemas premium exclusivos"
-				}
+				"msg14": "Sistemas premium exclusivos"
 			},
+			"panelSeguridad": {
+				"cmdDesc": "Mia güvenlik sistemlerini kendin için yapılandır",
+				"msg1": "Güvenlik paneli",
+				"msg2": "-# Mia'nın güvenlik sistemleri hesaplarını korumak için tasarlandı. Endişelenme, Mia her şeyi halledecek.",
+				"msg3": "Bilinmeyen Auth'ları algıla",
+				"msg4": "Bilinmeyen Auth'ları algıla **etkin**.",
+				"msg5": "Bilinmeyen Auth'ları algıla **devre dışı**.",
+				"msg6": "2FA değişikliklerini algıla",
+				"msg7": "2FA değişikliklerini algıla **etkin**.",
+				"msg8": "2FA değişikliklerini algıla **devre dışı**.",
+				"msg9": "V-Bucks harcamalarını algıla",
+				"msg10": "V-Bucks harcamalarını algıla **etkin**.",
+				"msg11": "V-Bucks harcamalarını algıla **devre dışı**."
+			}
+		},
 			"stw": {
 				"av": {
 					"msg1": "// TANIMSIZ //",
@@ -2756,6 +2770,33 @@
 			"msg1": "# <:hola:1260375200231456819> Merhaba ",
 			"msg2": "Premium üyeliğiniz sona ermek üzere. Premium üyeliğiniz sona erecek",
 			"msg3": "Mia'nın premium avantajlarından faydalanmaya devam etmek istiyorsanız, yeni bir anahtar edinmeyi ihmal etmeyin."
+		},
+		"sg": {
+			"msg1": "Hesabında bilinmeyen yeni bir Auth algılandı.",
+			"msg2": "Hesap:",
+			"msg3": "Device ID:",
+			"msg4": "User Agent:",
+			"msg5": "Oluşturulma:",
+			"msg6": "Son erişim:",
+			"msg7": "Bilinmiyor",
+			"msg8": "içinde",
+			"msg9": "?",
+			"msg10": "Bu Auth'ı sil",
+			"msg11": "Auth başarıyla silindi:",
+			"msg12": "Bu Auth silinemedi."
+		},
+		"sv": {
+			"msg1": "**{account}** hesabında V-Bucks harcandı: **{from}** → **{to}**.",
+			"msg2": "Sensin yaptıysan bu mesajı yok say. Değilse tüm bilinmeyen device auth'ları sil.",
+			"msg3": "Bilinmeyen Auth'ları sil",
+			"msg4": "`{account}` hesabından **{count}** bilinmeyen Auth silindi.",
+			"msg5": "Bilinmeyen Auth'lar silinemedi.",
+			"msg6": "`{account}` üzerinde silinecek bilinmeyen Auth yoktu."
+		},
+		"s2": {
+			"msg1": "Epic hesabında 2FA **etkinleştirildi**.",
+			"msg2": "Epic hesabında 2FA **devre dışı bırakıldı**.",
+			"msg3": "Hesap:"
 		},
 		"aw": {
 			"msg1": "Mia'nın Otomatik Winterfest Sistemi",

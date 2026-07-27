@@ -2387,6 +2387,20 @@
 				"msg12": "Novos vazamentos",
 				"msg13": "V-Bucks x MiaDiscordBot",
 				"msg14": "Sistemas premium exclusivos"
+			},
+			"panelSeguridad": {
+				"cmdDesc": "Configure os sistemas de segurança da Mia para você",
+				"msg1": "Painel de segurança de",
+				"msg2": "-# Os sistemas de segurança da Mia foram criados para proteger suas contas. Não se preocupe, a Mia cuidará de tudo.",
+				"msg3": "Detectar Auths desconhecidos",
+				"msg4": "Detectar Auths desconhecidos **ativado**.",
+				"msg5": "Detectar Auths desconhecidos **desativado**.",
+				"msg6": "Detectar mudanças no 2FA",
+				"msg7": "Detectar mudanças no 2FA **ativado**.",
+				"msg8": "Detectar mudanças no 2FA **desativado**.",
+				"msg9": "Detectar gastos de V-Bucks",
+				"msg10": "Detectar gastos de V-Bucks **ativado**.",
+				"msg11": "Detectar gastos de V-Bucks **desativado**."
 			}
 		},
 		"stw": {
@@ -2898,6 +2912,33 @@
 			"msg1": "# <:hola:1260375200231456819> Olá ",
 			"msg2": "Sua assinatura premium está prestes a expirar. Sua assinatura premium expirará",
 			"msg3": "Se você deseja continuar aproveitando os benefícios premium da Mia, certifique-se de adquirir uma nova chave o mais rápido possível."
+		},
+		"sg": {
+			"msg1": "Um Auth desconhecido foi detectado na sua conta.",
+			"msg2": "Conta:",
+			"msg3": "Device ID:",
+			"msg4": "User Agent:",
+			"msg5": "Criado:",
+			"msg6": "Último acesso:",
+			"msg7": "Desconhecido",
+			"msg8": "em",
+			"msg9": "?",
+			"msg10": "Apagar este Auth",
+			"msg11": "Auth apagado com sucesso de",
+			"msg12": "Não foi possível apagar este Auth."
+		},
+		"sv": {
+			"msg1": "Foram gastos V-Bucks na sua conta **{account}**: de **{from}** para **{to}**.",
+			"msg2": "Se foi você, ignore esta mensagem. Caso contrário, apague todos os device auths desconhecidos.",
+			"msg3": "Apagar Auths desconhecidos",
+			"msg4": "Foram apagados **{count}** Auths desconhecidos de `{account}`.",
+			"msg5": "Não foi possível apagar os Auths desconhecidos.",
+			"msg6": "Não havia Auths desconhecidos para apagar em `{account}`."
+		},
+		"s2": {
+			"msg1": "O 2FA foi **ativado** na sua conta Epic.",
+			"msg2": "O 2FA foi **desativado** na sua conta Epic.",
+			"msg3": "Conta:"
 		},
 		"aw": {
 			"msg1": "Sistema AutoWinterfest da Mia",

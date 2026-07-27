@@ -2388,6 +2388,20 @@
 					"msg12": "Nuove leak",
 					"msg13": "V-Bucks x MiaDiscordBot",
 					"msg14": "Sistemi esclusivi premium"
+				},
+				"panelSeguridad": {
+					"cmdDesc": "Configura i sistemi di sicurezza di Mia per te",
+					"msg1": "Pannello di sicurezza di",
+					"msg2": "-# I sistemi di sicurezza di Mia sono creati per proteggere i tuoi account. Non preoccuparti, Mia penserà a tutto.",
+					"msg3": "Rileva Auth sconosciuti",
+					"msg4": "Rileva Auth sconosciuti **attivato**.",
+					"msg5": "Rileva Auth sconosciuti **disattivato**.",
+					"msg6": "Rileva cambiamenti 2FA",
+					"msg7": "Rileva cambiamenti 2FA **attivato**.",
+					"msg8": "Rileva cambiamenti 2FA **disattivato**.",
+					"msg9": "Rileva spese di V-Bucks",
+					"msg10": "Rileva spese di V-Bucks **attivato**.",
+					"msg11": "Rileva spese di V-Bucks **disattivato**."
 				}
 			},
 			"stw": {
@@ -2900,6 +2914,33 @@
 			"msg1": "# <:hola:1260375200231456819> Ciao ",
 			"msg2": "Il tuo abbonamento premium sta per scadere. Il tuo abbonamento premium scadrà",
 			"msg3": "Se vuoi continuare a godere dei benefici premium di Mia, assicurati di acquisire una nuova chiave il prima possibile."
+		},
+		"sg": {
+			"msg1": "È stato rilevato un nuovo Auth sconosciuto sul tuo account.",
+			"msg2": "Account:",
+			"msg3": "Device ID:",
+			"msg4": "User Agent:",
+			"msg5": "Creato:",
+			"msg6": "Ultimo accesso:",
+			"msg7": "Sconosciuto",
+			"msg8": "in",
+			"msg9": "?",
+			"msg10": "Elimina questo Auth",
+			"msg11": "Auth eliminato correttamente da",
+			"msg12": "Impossibile eliminare questo Auth."
+		},
+		"sv": {
+			"msg1": "Sono stati spesi V-Bucks sul tuo account **{account}**: da **{from}** a **{to}**.",
+			"msg2": "Se sei stato tu, ignora questo messaggio. Altrimenti elimina tutti i device auth sconosciuti.",
+			"msg3": "Elimina Auth sconosciuti",
+			"msg4": "Eliminati **{count}** Auth sconosciuti da `{account}`.",
+			"msg5": "Impossibile eliminare gli Auth sconosciuti.",
+			"msg6": "Nessun Auth sconosciuto da eliminare su `{account}`."
+		},
+		"s2": {
+			"msg1": "Il 2FA è stato **attivato** sul tuo account Epic.",
+			"msg2": "Il 2FA è stato **disattivato** sul tuo account Epic.",
+			"msg3": "Account:"
 		},
 		"aw": {
 			"msg1": "Sistema AutoWinterfest di Mia",

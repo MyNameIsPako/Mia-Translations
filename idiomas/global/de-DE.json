@@ -2372,6 +2372,20 @@
 				"msg12": "Neue Leaks",
 				"msg13": "V-Bucks x MiaDiscordBot",
 				"msg14": "Exklusive Premium-Systeme"
+			},
+			"panelSeguridad": {
+				"cmdDesc": "Konfiguriere Mias Sicherheitssysteme für dich",
+				"msg1": "Sicherheits-Panel von",
+				"msg2": "-# Mias Sicherheitssysteme sind dafür da, deine Konten zu schützen. Keine Sorge, Mia kümmert sich um alles.",
+				"msg3": "Unbekannte Auths erkennen",
+				"msg4": "Unbekannte Auths erkennen **aktiviert**.",
+				"msg5": "Unbekannte Auths erkennen **deaktiviert**.",
+				"msg6": "2FA-Änderungen erkennen",
+				"msg7": "2FA-Änderungen erkennen **aktiviert**.",
+				"msg8": "2FA-Änderungen erkennen **deaktiviert**.",
+				"msg9": "V-Bucks-Ausgaben erkennen",
+				"msg10": "V-Bucks-Ausgaben erkennen **aktiviert**.",
+				"msg11": "V-Bucks-Ausgaben erkennen **deaktiviert**."
 			}
 		},
 		"stw": {
@@ -2883,6 +2897,33 @@
 			"msg1": "# <:hola:1260375200231456819> Hello ",
 			"msg2": "Your premium membership is about to expire. Your premium membership will expire",
 			"msg3": "If you want to continue enjoying Mia's premium benefits, make sure to acquire a new key as soon as possible."
+		},
+		"sg": {
+			"msg1": "Ein unbekannter Auth wurde auf deinem Konto erkannt.",
+			"msg2": "Konto:",
+			"msg3": "Device ID:",
+			"msg4": "User Agent:",
+			"msg5": "Erstellt:",
+			"msg6": "Letzter Zugriff:",
+			"msg7": "Unbekannt",
+			"msg8": "in",
+			"msg9": "?",
+			"msg10": "Diesen Auth löschen",
+			"msg11": "Auth erfolgreich gelöscht von",
+			"msg12": "Dieser Auth konnte nicht gelöscht werden."
+		},
+		"sv": {
+			"msg1": "Auf deinem Konto **{account}** wurden V-Bucks ausgegeben: von **{from}** auf **{to}**.",
+			"msg2": "Wenn du es warst, ignoriere diese Nachricht. Sonst lösche alle unbekannten Device Auths.",
+			"msg3": "Unbekannte Auths löschen",
+			"msg4": "**{count}** unbekannte Auths von `{account}` gelöscht.",
+			"msg5": "Unbekannte Auths konnten nicht gelöscht werden.",
+			"msg6": "Keine unbekannten Auths zum Löschen auf `{account}`."
+		},
+		"s2": {
+			"msg1": "2FA wurde auf deinem Epic-Konto **aktiviert**.",
+			"msg2": "2FA wurde auf deinem Epic-Konto **deaktiviert**.",
+			"msg3": "Konto:"
 		},
 		"aw": {
 			"msg1": "Mia's AutoWinterfest system",
