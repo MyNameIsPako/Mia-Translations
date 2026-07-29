@@ -2401,7 +2401,10 @@
 					"msg8": "Rileva cambiamenti 2FA **disattivato**.",
 					"msg9": "Rileva spese di V-Bucks",
 					"msg10": "Rileva spese di V-Bucks **attivato**.",
-					"msg11": "Rileva spese di V-Bucks **disattivato**."
+					"msg11": "Rileva spese di V-Bucks **disattivato**.",
+					"msg12": "Rileva connessioni esterne",
+					"msg13": "Rileva connessioni esterne **attivato**.",
+					"msg14": "Rileva connessioni esterne **disattivato**."
 				}
 			},
 			"stw": {
@@ -3003,6 +3006,12 @@
 			"msg10": "Free Games on Epic Games Store",
 			"msg11": "Link",
 			"msg12": "A free game is available for account"
+		},
+		"sc": {
+			"msg1": "Una connessione esterna è stata **collegata** al tuo account Epic.",
+			"msg2": "Una connessione esterna è stata **scollegata** dal tuo account Epic.",
+			"msg3": "Account:",
+			"msg4": "Connessione:"
 		}
 	},
 	"chatImputAndMs": {

@@ -2401,7 +2401,10 @@
 				"msg8": "检测 2FA 变更 **已禁用**.",
 				"msg9": "检测 V-Bucks 消费",
 				"msg10": "检测 V-Bucks 消费 **已启用**.",
-				"msg11": "检测 V-Bucks 消费 **已禁用**."
+				"msg11": "检测 V-Bucks 消费 **已禁用**.",
+				"msg12": "检测外部连接",
+				"msg13": "检测外部连接已**启用**。",
+				"msg14": "检测外部连接已**禁用**。"
 			}
 		},
 		"stw": {
@@ -3002,6 +3005,12 @@
 			"msg10": "Free Games on Epic Games Store",
 			"msg11": "Link",
 			"msg12": "A free game is available for account"
+		},
+		"sc": {
+			"msg1": "你的 Epic 账户**关联**了一个外部连接。",
+			"msg2": "你的 Epic 账户**取消关联**了一个外部连接。",
+			"msg3": "账户：",
+			"msg4": "连接："
 		}
 	},
 	"chatImputAndMs": {

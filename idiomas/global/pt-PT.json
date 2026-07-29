@@ -2400,7 +2400,10 @@
 				"msg8": "Detetar alterações no 2FA **desativado**.",
 				"msg9": "Detetar gastos de V-Bucks",
 				"msg10": "Detetar gastos de V-Bucks **ativado**.",
-				"msg11": "Detetar gastos de V-Bucks **desativado**."
+				"msg11": "Detetar gastos de V-Bucks **desativado**.",
+				"msg12": "Detetar ligações externas",
+				"msg13": "Detetar ligações externas **ativado**.",
+				"msg14": "Detetar ligações externas **desativado**."
 			}
 		},
 		"stw": {
@@ -3001,6 +3004,12 @@
 			"msg10": "Free Games on Epic Games Store",
 			"msg11": "Link",
 			"msg12": "A free game is available for account"
+		},
+		"sc": {
+			"msg1": "Uma ligação externa foi **associada** à tua conta Epic.",
+			"msg2": "Uma ligação externa foi **desassociada** da tua conta Epic.",
+			"msg3": "Conta:",
+			"msg4": "Ligação:"
 		}
 	},
 	"chatImputAndMs": {

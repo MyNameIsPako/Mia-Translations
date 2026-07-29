@@ -2329,23 +2329,26 @@
 					"msg11": "Tienda BR",
 					"msg12": "Nuevas Filtraciones",
 					"msg13": "V-Bucks x MiaDiscordBot",
-				"msg14": "Sistemas premium exclusivos"
+					"msg14": "Sistemas premium exclusivos"
+				},
+				"panelSeguridad": {
+					"cmdDesc": "Mia güvenlik sistemlerini kendin için yapılandır",
+					"msg1": "Güvenlik paneli",
+					"msg2": "-# Mia'nın güvenlik sistemleri hesaplarını korumak için tasarlandı. Endişelenme, Mia her şeyi halledecek.",
+					"msg3": "Bilinmeyen Auth'ları algıla",
+					"msg4": "Bilinmeyen Auth'ları algıla **etkin**.",
+					"msg5": "Bilinmeyen Auth'ları algıla **devre dışı**.",
+					"msg6": "2FA değişikliklerini algıla",
+					"msg7": "2FA değişikliklerini algıla **etkin**.",
+					"msg8": "2FA değişikliklerini algıla **devre dışı**.",
+					"msg9": "V-Bucks harcamalarını algıla",
+					"msg10": "V-Bucks harcamalarını algıla **etkin**.",
+					"msg11": "V-Bucks harcamalarını algıla **devre dışı**.",
+					"msg12": "Harici bağlantıları tespit et",
+					"msg13": "Harici bağlantıları tespit et **açıldı**.",
+					"msg14": "Harici bağlantıları tespit et **kapatıldı**."
+				}
 			},
-			"panelSeguridad": {
-				"cmdDesc": "Mia güvenlik sistemlerini kendin için yapılandır",
-				"msg1": "Güvenlik paneli",
-				"msg2": "-# Mia'nın güvenlik sistemleri hesaplarını korumak için tasarlandı. Endişelenme, Mia her şeyi halledecek.",
-				"msg3": "Bilinmeyen Auth'ları algıla",
-				"msg4": "Bilinmeyen Auth'ları algıla **etkin**.",
-				"msg5": "Bilinmeyen Auth'ları algıla **devre dışı**.",
-				"msg6": "2FA değişikliklerini algıla",
-				"msg7": "2FA değişikliklerini algıla **etkin**.",
-				"msg8": "2FA değişikliklerini algıla **devre dışı**.",
-				"msg9": "V-Bucks harcamalarını algıla",
-				"msg10": "V-Bucks harcamalarını algıla **etkin**.",
-				"msg11": "V-Bucks harcamalarını algıla **devre dışı**."
-			}
-		},
 			"stw": {
 				"av": {
 					"msg1": "// TANIMSIZ //",
@@ -2859,6 +2862,12 @@
 			"msg10": "Free Games on Epic Games Store",
 			"msg11": "Link",
 			"msg12": "A free game is available for account"
+		},
+		"sc": {
+			"msg1": "Epic hesabına harici bir bağlantı **bağlandı**.",
+			"msg2": "Epic hesabından harici bir bağlantının **bağlantısı kesildi**.",
+			"msg3": "Hesap:",
+			"msg4": "Bağlantı:"
 		}
 	},
 	"chatImputAndMs": {

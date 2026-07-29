@@ -2401,7 +2401,10 @@
 				"msg8": "2FAの変更を検出 **無効**.",
 				"msg9": "V-Bucksの支出を検出",
 				"msg10": "V-Bucksの支出を検出 **有効**.",
-				"msg11": "V-Bucksの支出を検出 **無効**."
+				"msg11": "V-Bucksの支出を検出 **無効**.",
+				"msg12": "外部接続の検出",
+				"msg13": "外部接続の検出が**有効**になりました。",
+				"msg14": "外部接続の検出が**無効**になりました。"
 			}
 		},
 		"stw": {
@@ -3002,6 +3005,12 @@
 			"msg10": "Free Games on Epic Games Store",
 			"msg11": "Link",
 			"msg12": "A free game is available for account"
+		},
+		"sc": {
+			"msg1": "Epicアカウントに外部接続が**連携**されました。",
+			"msg2": "Epicアカウントから外部接続の**連携が解除**されました。",
+			"msg3": "アカウント:",
+			"msg4": "接続:"
 		}
 	},
 	"chatImputAndMs": {
