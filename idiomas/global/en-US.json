@@ -551,7 +551,11 @@
 					"fishy": "Fishy Spirit",
 					"aura": "Aura Spirit",
 					"boss": "Boss Spirit",
-					"grimReaper": "Grim Spirit"
+					"grimReaper": "Grim Spirit",
+					"ironmouse": "Ironmouse Sprite",
+					"johnWick": "John Wick Sprite",
+					"llama": "Llama Sprite",
+					"peely": "Peely Sprite"
 				},
 				"msg15": "Lv.",
 				"msg16": "Spirit Inventory",

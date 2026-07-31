@@ -569,7 +569,11 @@
 					"fishy": "Fisch-Geist",
 					"aura": "Aura-Geist",
 					"boss": "Boss-Geist",
-					"grimReaper": "Sensenmann-Geist"
+					"grimReaper": "Sensenmann-Geist",
+					"ironmouse": "Ironmouse-Geist",
+					"johnWick": "John-Wick-Geist",
+					"llama": "Lama-Geist",
+					"peely": "Peely-Geist"
 				},
 				"msg15": "St.",
 				"msg16": "Geister-Inventar",

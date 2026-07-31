@@ -551,7 +551,11 @@
 					"fishy": "小鱼精灵",
 					"aura": "光环精灵",
 					"boss": "Boss精灵",
-					"grimReaper": "死神精灵"
+					"grimReaper": "死神精灵",
+					"ironmouse": "铁鼠精灵",
+					"johnWick": "疾速追杀精灵",
+					"llama": "羊驼精灵",
+					"peely": "香蕉人精灵"
 				},
 				"msg15": "等级",
 				"msg16": "精灵库存",

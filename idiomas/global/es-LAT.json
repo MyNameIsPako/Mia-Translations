@@ -550,7 +550,11 @@
 					"fishy": "Espíritu pez",
 					"aura": "Espíritu aura",
 					"boss": "Espíritu jefe",
-					"grimReaper": "Espíritu de la muerte"
+					"grimReaper": "Espíritu de la muerte",
+					"ironmouse": "Espíritu Ironmouse",
+					"johnWick": "Espíritu John Wick",
+					"llama": "Espíritu llama",
+					"peely": "Espíritu Peely"
 				},
 				"msg15": "Niv.",
 				"msg16": "Inventario de espíritus",

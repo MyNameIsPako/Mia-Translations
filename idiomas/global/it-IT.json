@@ -550,7 +550,11 @@
 					"fishy": "Spirito pesce",
 					"aura": "Spirito aura",
 					"boss": "Spirito boss",
-					"grimReaper": "Spirito mietitore"
+					"grimReaper": "Spirito mietitore",
+					"ironmouse": "Spirito Ironmouse",
+					"johnWick": "Spirito John Wick",
+					"llama": "Spirito lama",
+					"peely": "Spirito Peely"
 				},
 				"msg15": "Liv.",
 				"msg16": "Inventario degli spiriti",

@@ -551,7 +551,11 @@
 					"fishy": "Balık Ruhu",
 					"aura": "Aura Ruhu",
 					"boss": "Boss Ruhu",
-					"grimReaper": "Azrail Ruhu"
+					"grimReaper": "Azrail Ruhu",
+					"ironmouse": "Ironmouse Ruhu",
+					"johnWick": "John Wick Ruhu",
+					"llama": "Lama Ruhu",
+					"peely": "Peely Ruhu"
 				},
 				"msg15": "Sv.",
 				"msg16": "Ruh envanteri",
