@@ -2794,6 +2794,9 @@
 				"export": {
 					"msg1": "Could not export the file because it doesn't exist or because it's an .ini file, use the `ini` parameter if you think it's an `.ini` file."
 				}
+			},
+			"eq": {
+				"msg1": "The schematic you provided could not be found."
 			}
 		},
 		"lft": {

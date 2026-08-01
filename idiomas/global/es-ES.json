@@ -2817,6 +2817,9 @@
 				"msg40": "****Unicamente mostramos los heroes mas recomendados***",
 				"msg41": "Lineas de misiones",
 				"msg42": "*Algunas fechas pueden varias dependiendo de Fortnite pero normalmente no pasa."
+			},
+			"eq": {
+				"msg1": "El esquema que proporcionaste no se pudo encontrar."
 			}
 		},
 		"juego": {

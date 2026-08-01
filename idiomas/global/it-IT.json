@@ -2898,6 +2898,11 @@
 			"msg64": "Giorni premium:",
 			"msg65": "giorni",
 			"msg66": "Scade:"
+		},
+		"stw": {
+			"eq": {
+				"msg1": "Lo schema che hai fornito non è stato trovato."
+			}
 		}
 	},
 	"errores": {

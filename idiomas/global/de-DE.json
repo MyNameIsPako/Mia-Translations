@@ -2812,6 +2812,9 @@
 				"export": {
 					"msg1": "Die Datei konnte nicht exportiert werden, weil sie nicht existiert oder eine .ini-Datei ist. Verwende den Parameter `ini`, wenn du glaubst, dass es sich um eine .ini-Datei handelt."
 				}
+			},
+			"eq": {
+				"msg1": "Das angegebene Schema konnte nicht gefunden werden."
 			}
 		},
 		"lft": {

@@ -2794,6 +2794,9 @@
 				"export": {
 					"msg1": "No se pudo exportar el archivo por que no existe o por que es un archivo .ini, usa el parametro `ini` si crees que es un archivo `.ini`."
 				}
+			},
+			"eq": {
+				"msg1": "El esquema que proporcionaste no se pudo encontrar."
 			}
 		},
 		"lft": {

@@ -2793,6 +2793,9 @@
 				"export": {
 					"msg1": "Impossible d'exporter le fichier car il n'existe pas ou parce que c'est un fichier .ini, utilisez le paramètre `ini` si vous pensez que c'est un fichier `.ini`."
 				}
+			},
+			"eq": {
+				"msg1": "Le schéma que tu as fourni n'a pas pu être trouvé."
 			}
 		},
 		"lft": {

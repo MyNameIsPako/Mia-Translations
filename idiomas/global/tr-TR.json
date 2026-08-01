@@ -2754,6 +2754,11 @@
 				"msg65": "gün",
 				"msg66": "Sona erer:"
 			}
+		},
+		"stw": {
+			"eq": {
+				"msg1": "Sağladığın şema bulunamadı."
+			}
 		}
 	},
 	"errores": {
