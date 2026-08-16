@@ -563,7 +563,14 @@
 				"msg19": "Mancanti",
 				"msg20": "Hai tutti gli spiriti.",
 				"msg21": "mancanti",
-				"msg27": "Vedi sul web"
+				"msg27": "Vedi sul web",
+				"msg30": "Collezione",
+				"msg31": "SPIRITI MANCANTI",
+				"msg32": "Dominati",
+				"msg33": "SPIRITI DOMINATI",
+				"msg34": "Non c'è niente da vedere in questa categoria...",
+				"msg35": "Incompleti",
+				"msg36": "SPIRITI INCOMPLETI"
 			}
 		},
 		"cuenta": {
@@ -3536,7 +3543,10 @@
 		"dmSoftbanned": "You were softbanned from **{guild}**.",
 		"dmGuildBanned": "You were banned from **{guild}** and added to Mia's BlackList.",
 		"dmSanction": "You received a Mia sanction related to **{guild}**.",
-		"guildRemovedFromBlacklist": "Server rimosso dalla blacklist"
+		"guildRemovedFromBlacklist": "Server rimosso dalla blacklist",
+		"notBannedAndNotBlacklisted": "L'utente (`{id}`) non è bannato in questo server e non è nella BlackList.",
+		"unbannedOnly": "<@{user}> sbannato.",
+		"unbannedOnlyStaff": "Ho sbannato <@{user}>."
 	},
 	"resumenAutomatico": {
 		"titleDaily": "Riepilogo giornaliero",

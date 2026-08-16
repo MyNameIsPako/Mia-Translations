@@ -564,7 +564,14 @@
 				"msg19": "Eksik",
 				"msg20": "Tüm ruhları topladın.",
 				"msg21": "eksik",
-				"msg27": "Webde gör"
+				"msg27": "Webde gör",
+				"msg30": "Koleksiyon",
+				"msg31": "EKSİK RUHLAR",
+				"msg32": "Ustalaşılmış",
+				"msg33": "USTALAŞILMIŞ RUHLAR",
+				"msg34": "Bu kategoride görülecek bir şey yok...",
+				"msg35": "Bekleyen",
+				"msg36": "BEKLEYEN RUHLAR"
 			}
 		},
 		"cuenta": {
@@ -3392,7 +3399,10 @@
 		"dmSoftbanned": "You were softbanned from **{guild}**.",
 		"dmGuildBanned": "You were banned from **{guild}** and added to Mia's BlackList.",
 		"dmSanction": "You received a Mia sanction related to **{guild}**.",
-		"guildRemovedFromBlacklist": "Server removed from the blacklist"
+		"guildRemovedFromBlacklist": "Server removed from the blacklist",
+		"notBannedAndNotBlacklisted": "Kullanıcı (`{id}`) bu sunucuda banlı değil ve BlackList'te yok.",
+		"unbannedOnly": "<@{user}> banı kaldırıldı.",
+		"unbannedOnlyStaff": "<@{user}> kullanıcısının banını kaldırdım."
 	},
 	"resumenAutomatico": {
 		"titleDaily": "Günlük özet",

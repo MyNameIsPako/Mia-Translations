@@ -563,7 +563,14 @@
 				"msg19": "未獲得",
 				"msg20": "すべての精霊を獲得しています。",
 				"msg21": "未獲得",
-				"msg27": "Webで見る"
+				"msg27": "Webで見る",
+				"msg30": "コレクション",
+				"msg31": "未獲得の精霊",
+				"msg32": "マスター",
+				"msg33": "マスター済みの精霊",
+				"msg34": "このカテゴリには表示するものがありません...",
+				"msg35": "未完了",
+				"msg36": "未完了の精霊"
 			}
 		},
 		"cuenta": {
@@ -3533,7 +3540,10 @@
 		"dmSoftbanned": "You were softbanned from **{guild}**.",
 		"dmGuildBanned": "You were banned from **{guild}** and added to Mia's BlackList.",
 		"dmSanction": "You received a Mia sanction related to **{guild}**.",
-		"guildRemovedFromBlacklist": "Server removed from the blacklist"
+		"guildRemovedFromBlacklist": "Server removed from the blacklist",
+		"notBannedAndNotBlacklisted": "ユーザー (`{id}`) はこのサーバーでBANされておらず、BlackListにもいません。",
+		"unbannedOnly": "<@{user}> のBANを解除しました。",
+		"unbannedOnlyStaff": "<@{user}> のBANを解除しました。"
 	},
 	"resumenAutomatico": {
 		"titleDaily": "日次サマリー",

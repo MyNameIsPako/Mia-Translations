@@ -563,7 +563,14 @@
 				"msg19": "Manquants",
 				"msg20": "Tu as tous les esprits.",
 				"msg21": "manquants",
-				"msg27": "Voir sur le web"
+				"msg27": "Voir sur le web",
+				"msg30": "Collection",
+				"msg31": "ESPRITS MANQUANTS",
+				"msg32": "Maîtrisés",
+				"msg33": "ESPRITS MAÎTRISÉS",
+				"msg34": "Il n'y a rien à voir dans cette catégorie...",
+				"msg35": "En cours",
+				"msg36": "ESPRITS EN COURS"
 			}
 		},
 		"cuenta": {
@@ -3498,7 +3505,10 @@
 		"dmSoftbanned": "You were softbanned from **{guild}**.",
 		"dmGuildBanned": "You were banned from **{guild}** and added to Mia's BlackList.",
 		"dmSanction": "You received a Mia sanction related to **{guild}**.",
-		"guildRemovedFromBlacklist": "Serveur retiré de la blacklist"
+		"guildRemovedFromBlacklist": "Serveur retiré de la blacklist",
+		"notBannedAndNotBlacklisted": "L'utilisateur (`{id}`) n'est pas banni sur ce serveur et n'est pas dans la BlackList.",
+		"unbannedOnly": "<@{user}> débanni.",
+		"unbannedOnlyStaff": "J'ai débanni <@{user}>."
 	},
 	"resumenAutomatico": {
 		"titleDaily": "Résumé quotidien",

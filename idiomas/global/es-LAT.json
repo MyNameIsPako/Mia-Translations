@@ -563,7 +563,14 @@
 				"msg19": "Faltantes",
 				"msg20": "No te falta ningún espíritu.",
 				"msg21": "faltantes",
-				"msg27": "Ver en la web"
+				"msg27": "Ver en la web",
+				"msg30": "Colección",
+				"msg31": "ESPÍRITUS FALTANTES",
+				"msg32": "Dominados",
+				"msg33": "ESPÍRITUS DOMINADOS",
+				"msg34": "No hay nada en esta categoria que ver...",
+				"msg35": "Pendientes",
+				"msg36": "ESPÍRITUS PENDIENTES"
 			}
 		},
 		"cuenta": {
@@ -3500,7 +3507,10 @@
 		"dmSoftbanned": "Has sido expulsado de **{guild}** (softban).",
 		"dmGuildBanned": "Has sido baneado de **{guild}** y añadido a la BlackList de Mia.",
 		"dmSanction": "Has recibido una sanción de Mia relacionada con **{guild}**.",
-		"guildRemovedFromBlacklist": "Servidor eliminado de la blacklist"
+		"guildRemovedFromBlacklist": "Servidor eliminado de la blacklist",
+		"notBannedAndNotBlacklisted": "El usuario (`{id}`) no está baneado en este servidor ni en la BlackList.",
+		"unbannedOnly": "<@{user}> desbaneado.",
+		"unbannedOnlyStaff": "Desbaneé a <@{user}>."
 	},
 	"resumenAutomatico": {
 		"titleDaily": "Resumen diario",

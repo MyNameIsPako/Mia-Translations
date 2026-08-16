@@ -561,10 +561,17 @@
 				"msg16": "Spirit Inventory",
 				"msg17": "obtained",
 				"msg18": "Obtained",
-				"msg19": "Missing",
+				"msg19": "Unowned",
 				"msg20": "You have every spirit.",
 				"msg21": "missing",
-				"msg27": "View on web"
+				"msg27": "View on web",
+				"msg30": "Collection",
+				"msg31": "UNOWNED SPRITES",
+				"msg32": "Mastered",
+				"msg33": "MASTERED SPRITES",
+				"msg34": "Nothing to see in this category...",
+				"msg35": "Unmastered",
+				"msg36": "UNMASTERED SPRITES"
 			}
 		},
 		"cuenta": {
@@ -3491,7 +3498,10 @@
 		"dmSoftbanned": "You were softbanned from **{guild}**.",
 		"dmGuildBanned": "You were banned from **{guild}** and added to Mia's BlackList.",
 		"dmSanction": "You received a Mia sanction related to **{guild}**.",
-		"guildRemovedFromBlacklist": "Server removed from the blacklist"
+		"guildRemovedFromBlacklist": "Server removed from the blacklist",
+		"notBannedAndNotBlacklisted": "User (`{id}`) is not banned in this server and is not on the BlackList.",
+		"unbannedOnly": "<@{user}> unbanned.",
+		"unbannedOnlyStaff": "Unbanned <@{user}>."
 	},
 	"resumenAutomatico": {
 		"titleDaily": "Daily summary",

@@ -564,7 +564,14 @@
 				"msg19": "未获得",
 				"msg20": "你已拥有全部精灵。",
 				"msg21": "未获得",
-				"msg27": "在网页查看"
+				"msg27": "在网页查看",
+				"msg30": "图鉴",
+				"msg31": "未获得的精灵",
+				"msg32": "已精通",
+				"msg33": "已精通的精灵",
+				"msg34": "该分类中没有可查看的内容...",
+				"msg35": "未精通",
+				"msg36": "未精通的精灵"
 			}
 		},
 		"cuenta": {
@@ -3533,7 +3540,10 @@
 		"dmSoftbanned": "You were softbanned from **{guild}**.",
 		"dmGuildBanned": "You were banned from **{guild}** and added to Mia's BlackList.",
 		"dmSanction": "You received a Mia sanction related to **{guild}**.",
-		"guildRemovedFromBlacklist": "Server removed from the blacklist"
+		"guildRemovedFromBlacklist": "Server removed from the blacklist",
+		"notBannedAndNotBlacklisted": "用户 (`{id}`) 未在本服务器被封禁，也不在 BlackList 中。",
+		"unbannedOnly": "已解除 <@{user}> 的封禁。",
+		"unbannedOnlyStaff": "已解除 <@{user}> 的封禁。"
 	},
 	"resumenAutomatico": {
 		"titleDaily": "每日摘要",

@@ -582,7 +582,14 @@
 				"msg19": "Fehlend",
 				"msg20": "Du hast alle Geister.",
 				"msg21": "fehlend",
-				"msg27": "Im Web ansehen"
+				"msg27": "Im Web ansehen",
+				"msg30": "Sammlung",
+				"msg31": "FEHLENDE GEISTER",
+				"msg32": "Gemeistert",
+				"msg33": "GEMEISTERTE GEISTER",
+				"msg34": "In dieser Kategorie gibt es nichts zu sehen...",
+				"msg35": "Offen",
+				"msg36": "OFFENE GEISTER"
 			}
 		},
 		"cuenta": {
@@ -3517,7 +3524,10 @@
 		"dmSoftbanned": "You were softbanned from **{guild}**.",
 		"dmGuildBanned": "You were banned from **{guild}** and added to Mia's BlackList.",
 		"dmSanction": "You received a Mia sanction related to **{guild}**.",
-		"guildRemovedFromBlacklist": "Server removed from the blacklist"
+		"guildRemovedFromBlacklist": "Server removed from the blacklist",
+		"notBannedAndNotBlacklisted": "Benutzer (`{id}`) ist auf diesem Server nicht gebannt und nicht auf der BlackList.",
+		"unbannedOnly": "<@{user}> entbannt.",
+		"unbannedOnlyStaff": "Ich habe <@{user}> entbannt."
 	},
 	"resumenAutomatico": {
 		"titleDaily": "Tägliche Zusammenfassung",
