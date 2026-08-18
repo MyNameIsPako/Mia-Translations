@@ -2887,10 +2887,11 @@
 	"sistemas": {
 		"ad": {
 			"msg1": "Sistema de Auto refrescar misiones diarias de Mia",
-			"msg2": "Se refresco la diaria de hoy en la cuenta",
+			"msg2": "Nueva mision diaria refrescada para",
 			"msg3": "Importante:",
 			"msg4": "Si ya iniciaste sesión antes de esta alerta, no se volvera a refrescar hoy, esto solo refresca 1 vez la mision de ese dia.",
-			"msg5": "El check se hace todos los dias a las 00:03h UTC (02:00h GTM)."
+			"msg5": "El check se hace todos los dias a las 00:03h UTC (02:00h GTM).",
+			"msg6": "Nueva diaria:"
 		},
 		"af": {
 			"msg1": "Sistema de Auto reclamar llamas gratis de Mia",

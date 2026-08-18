@@ -2920,10 +2920,11 @@
 	"sistemas": {
 		"ad": {
 			"msg1": "Sistema de atualização automática de missões diárias da Mia",
-			"msg2": "A missão diária de hoje foi atualizada na conta",
+			"msg2": "Nova missão diária atualizada para",
 			"msg3": "Importante:",
 			"msg4": "Se você fez login antes deste alerta, não será atualizada novamente hoje, isso atualiza a missão apenas uma vez por dia.",
-			"msg5": "A verificação é feita todos os dias às 00:03h UTC (02:00h GMT)."
+			"msg5": "A verificação é feita todos os dias às 00:03h UTC (02:00h GMT).",
+			"msg6": "Nova diária:"
 		},
 		"af": {
 			"msg1": "Sistema de Reivindicação Automática de Lhamas Grátis da Mia",

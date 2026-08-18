@@ -2886,10 +2886,11 @@
 	"sistemas": {
 		"ad": {
 			"msg1": "Système de rafraîchissement automatique des missions quotidiennes de Mia",
-			"msg2": "La mission quotidienne d'aujourd'hui a été rafraîchie dans le compte",
+			"msg2": "Nouvelle mission quotidienne actualisée pour",
 			"msg3": "Important:",
 			"msg4": "Si vous vous êtes connecté avant cette alerte, elle ne sera pas rafraîchie à nouveau aujourd'hui, cela ne rafraîchit la mission qu'une fois par jour.",
-			"msg5": "La vérification est effectuée tous les jours à 00:03h UTC (02:00h GMT)."
+			"msg5": "La vérification est effectuée tous les jours à 00:03h UTC (02:00h GMT).",
+			"msg6": "Nouvelle quotidienne :"
 		},
 		"af": {
 			"msg1": "Système de réclamation automatique des lamas gratuits de Mia",

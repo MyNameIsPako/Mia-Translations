@@ -2924,10 +2924,11 @@
 	"sistemas": {
 		"ad": {
 			"msg1": "Sistema di aggiornamento automatico delle missioni giornaliere di Mia",
-			"msg2": "La missione giornaliera di oggi è stata aggiornata nell'account",
+			"msg2": "Nuova missione giornaliera aggiornata per",
 			"msg3": "Importante:",
 			"msg4": "Se hai effettuato l'accesso prima di questo avviso, non verrà aggiornata di nuovo oggi, questo aggiorna la missione solo una volta al giorno.",
-			"msg5": "Il controllo viene effettuato ogni giorno alle 00:03h UTC (02:00h GMT)."
+			"msg5": "Il controllo viene effettuato ogni giorno alle 00:03h UTC (02:00h GMT).",
+			"msg6": "Nuova missione giornaliera:"
 		},
 		"af": {
 			"msg1": "Sistema di Reclamo Automatico dei Lama Gratuiti di Mia",

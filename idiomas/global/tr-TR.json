@@ -2780,10 +2780,11 @@
 	"sistemas": {
 		"ad": {
 			"msg1": "Mia'nın Günlük Görevleri Otomatik Yenileme Sistemi",
-			"msg2": "Bugünün günlük görevi hesabınızda yenilendi",
+			"msg2": "Yeni günlük görev yenilendi:",
 			"msg3": "Önemli:",
 			"msg4": "Eğer bu uyarıdan önce giriş yaptıysanız, bugün tekrar yenilenmeyecektir, bu sistem günde sadece bir kez görev yeniler.",
-			"msg5": "Kontrol her gün UTC 00:03'te (GMT 02:00) yapılır."
+			"msg5": "Kontrol her gün UTC 00:03'te (GMT 02:00) yapılır.",
+			"msg6": "Yeni günlük görev:"
 		},
 		"af": {
 			"msg1": "Mia'nın Ücretsiz Lama Otomatik Talep Sistemi",

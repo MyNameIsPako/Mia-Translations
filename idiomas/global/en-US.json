@@ -2887,10 +2887,11 @@
 	"sistemas": {
 		"ad": {
 			"msg1": "Mia's Auto refresh daily missions system",
-			"msg2": "Today's daily mission has been refreshed in the account",
+			"msg2": "New daily mission refreshed for",
 			"msg3": "Important:",
 			"msg4": "If you logged in before this alert, it will not refresh again today, this only refreshes the mission once a day.",
-			"msg5": "The check is done every day at 00:03h UTC (02:00h GMT)."
+			"msg5": "The check is done every day at 00:03h UTC (02:00h GMT).",
+			"msg6": "New daily:"
 		},
 		"af": {
 			"msg1": "Mia's Auto Claim Free Llamas System",
