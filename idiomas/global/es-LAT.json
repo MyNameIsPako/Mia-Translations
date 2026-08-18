@@ -1193,7 +1193,10 @@
 				"msg6": "Misión",
 				"msg7": "Acabas de hacer un reroll a la mision:",
 				"msg8": "misiones pendientes, con un total de",
-				"msg9": "No tienes ninguna misión diaria activa en ninguna cuenta"
+				"msg9": "No tienes ninguna misión diaria activa en ninguna cuenta",
+				"msg10": "Reemplazar misión",
+				"msg11": "Pin",
+				"msg12": "Unpin"
 			},
 			"dupe": {
 				"msg1": "Tienes un comando en proceso, dale al boton para ir al mensaje.",

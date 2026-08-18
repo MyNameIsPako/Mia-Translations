@@ -1193,7 +1193,10 @@
 				"msg6": "Mission",
 				"msg7": "Vous venez de faire un reroll de la mission:",
 				"msg8": "missions en attente, avec un total de",
-				"msg9": "Vous n'avez aucune mission quotidienne active sur aucun compte"
+				"msg9": "Vous n'avez aucune mission quotidienne active sur aucun compte",
+				"msg10": "Remplacer mission",
+				"msg11": "Épingler",
+				"msg12": "Désépingler"
 			},
 			"dupe": {
 				"msg1": "Vous avez une commande en cours, appuyez sur le bouton pour aller au message.",

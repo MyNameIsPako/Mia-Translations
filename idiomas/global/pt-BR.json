@@ -1227,7 +1227,10 @@
 				"msg6": "Missão",
 				"msg7": "Você acabou de fazer um reroll na missão:",
 				"msg8": "missões pendentes, com um total de",
-				"msg9": "Você não tem nenhuma missão diária ativa em nenhuma conta"
+				"msg9": "Você não tem nenhuma missão diária ativa em nenhuma conta",
+				"msg10": "Substituir missão",
+				"msg11": "Fixar",
+				"msg12": "Desafixar"
 			},
 			"dupe": {
 				"msg1": "Você tem um comando em andamento, pressione o botão para ir para a mensagem.",

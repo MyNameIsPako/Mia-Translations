@@ -1212,7 +1212,10 @@
 				"msg6": "Mission",
 				"msg7": "Du hast gerade die Mission neu gewürfelt:",
 				"msg8": "ausstehende Missionen, mit insgesamt",
-				"msg9": "Du hast auf keinem deiner Konten eine aktive tägliche Mission"
+				"msg9": "Du hast auf keinem deiner Konten eine aktive tägliche Mission",
+				"msg10": "Mission ersetzen",
+				"msg11": "Anheften",
+				"msg12": "Lösen"
 			},
 			"dupe": {
 				"msg1": "Du hast einen laufenden Befehl. Drücke den Button, um zur Nachricht zu springen.",

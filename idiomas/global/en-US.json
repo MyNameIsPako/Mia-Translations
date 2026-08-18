@@ -1194,7 +1194,10 @@
 				"msg6": "Mission",
 				"msg7": "You just rerolled the mission:",
 				"msg8": "pending missions, with a total of",
-				"msg9": "You don't have any active daily mission on any account"
+				"msg9": "You don't have any active daily mission on any account",
+				"msg10": "Replace quest",
+				"msg11": "Pin",
+				"msg12": "Unpin"
 			},
 			"dupe": {
 				"msg1": "You have a command in progress, press the button to go to the message.",

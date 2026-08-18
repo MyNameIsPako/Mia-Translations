@@ -1194,7 +1194,10 @@
 				"msg6": "Görev",
 				"msg7": "Görev yeniden denendi:",
 				"msg8": "bekleyen görevler, toplamda",
-				"msg9": "Hiçbir hesabında aktif bir günlük görevin yok"
+				"msg9": "Hiçbir hesabında aktif bir günlük görevin yok",
+				"msg10": "Görevi değiştir",
+				"msg11": "Sabitle",
+				"msg12": "Sabiti kaldır"
 			},
 			"dupe": {
 				"msg1": "Devam eden bir komutunuz var, mesaja gitmek için butona basın.",

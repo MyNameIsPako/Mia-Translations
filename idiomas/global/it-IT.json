@@ -1227,7 +1227,10 @@
 				"msg6": "Missione",
 				"msg7": "Hai appena fatto un reroll alla missione:",
 				"msg8": "missioni in sospeso, con un totale di",
-				"msg9": "Non hai nessuna missione giornaliera attiva su nessun account"
+				"msg9": "Non hai nessuna missione giornaliera attiva su nessun account",
+				"msg10": "Sostituisci missione",
+				"msg11": "Fissa",
+				"msg12": "Togli pin"
 			},
 			"dupe": {
 				"msg1": "Hai un comando in corso, premi il pulsante per andare al messaggio.",
