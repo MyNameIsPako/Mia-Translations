@@ -2204,6 +2204,43 @@
 				"msg34": "Type d'envoi :",
 				"msg35": "Embed",
 				"msg36": "Image"
+			},
+			"servidor": {
+				"msg1": "Panneau de configuration de",
+				"msg2": "Langue du serveur",
+				"msg3": "Footer des images",
+				"msg4": "Invitation Discord",
+				"msg5": "Options premium pour le serveur",
+				"msg6": "Choisis la langue de Mia sur ce serveur",
+				"msg7": "Cette commande ne peut être utilisée que sur un serveur.",
+				"msg8": "Seul le propriétaire du serveur peut utiliser cette commande.",
+				"msg9": "Seul le propriétaire du serveur peut utiliser ce panneau.",
+				"msg10": "Langue du serveur changée en",
+				"msg11": "Ensuite, choisis la langue de Mia sur ce serveur.",
+				"msg12": "Footer des images désactivé.",
+				"msg13": "Texte du pied (max. {max})",
+				"msg14": "Ex : Soutiens le serveur sur discord.gg/...",
+				"msg15": "Le footer ne peut pas être vide.",
+				"msg16": "Footer des images activé.",
+				"msg17": "Invitation Discord désactivée.",
+				"msg18": "URL Discord",
+				"msg19": "Invitation Discord",
+				"msg20": "https://discord.gg/tonserveur",
+				"msg21": "L'URL n'est pas une invitation Discord valide.",
+				"msg22": "Invitation Discord activée avec l'URL",
+				"msg23": "Cette invitation n'est pas valide ou n'existe plus.",
+				"auto": "Automatique",
+				"es-ES": "Espagnol",
+				"es-LAT": "Espagnol (latino)",
+				"en-US": "Anglais",
+				"fr-FR": "Français",
+				"it-IT": "Italien",
+				"zh-CN": "Chinois",
+				"pt-PT": "Portugais (Portugal)",
+				"pt-BR": "Portugais (Brésil)",
+				"ja-JP": "Japonais",
+				"de-DE": "Allemand",
+				"tr-TR": "Turc"
 			}
 		},
 		"extras": {
@@ -2299,7 +2336,7 @@
 				"msg8": "Serveur de support",
 				"msg9": "Vous avez réussi à échanger la clé premium pour Mia.",
 				"msg10": "Vous venez de débloquer les éléments suivants:",
-				"msg11": "• Accès à toutes les commandes premium.\n• Réduction du temps de recharge de 10s à 5s.\n• TaxiBots premium de Mia.\n• Systèmes automatiques de Mia.\n• Augmentation de 2 à 25 comptes enregistrés.\n• Utilisation des commandes restreintes partout.\n• Fonction BULK dans les commandes.\n ...et bien d'autres fonctionnalités à venir ! ♥️",
+				"msg11": "• Accès à toutes les commandes premium.\n• Réduction du temps de recharge de 10s à 5s.\n• TaxiBots premium de Mia.\n• Systèmes automatiques de Mia.\n• Augmentation de 2 à 25 comptes enregistrés.\n• Utilisation des commandes restreintes partout.\n• Fonction BULK dans les commandes.\n• Gérer tous tes serveurs (feeds, langue, pied de page et invitation).\n ...et bien d'autres fonctionnalités à venir ! ♥️",
 				"msg12": "Plan:",
 				"msg13": "Expiration:",
 				"msg14": "Vous n'avez aucun abonnement premium.",
@@ -3166,6 +3203,7 @@
 			"msg2": "Le mode BULK nécessite Premium\n\n> Si vous voulez obtenir premium, consultez les canaux joints au message",
 			"msg3": "Ce système nécessite Premium\n\n> Si vous voulez obtenir premium, consultez les canaux joints au message",
 			"msg4": "Cette fonction nécessite Premium\n> Si vous voulez obtenir premium, consultez les canaux joints au message",
+			"msg5": "Sans Premium tu ne peux gérer qu'**1 serveur** (feeds, langue, footer et invitation). Avec Premium, autant que tu veux.\n\n> Si vous voulez obtenir premium, consultez les canaux joints au message",
 			"botones": {
 				"msg1": "Mia Lounge",
 				"msg2": "Obtenir Mia Premium"
@@ -3176,6 +3214,7 @@
 			"msg2": "Le mode BULK n'est pas disponible avec votre niveau Premium actuel.\n\n> Si vous voulez améliorer votre plan premium, consultez les canaux joints au message",
 			"msg3": "Ce système n'est pas disponible avec votre niveau Premium actuel.\n\n> Si vous voulez améliorer votre plan premium, consultez les canaux joints au message",
 			"msg4": "Cette fonction n'est pas disponible avec votre niveau Premium actuel.\n\n> Si vous voulez améliorer votre plan premium, consultez les canaux joints au message",
+			"msg5": "Sans Premium tu ne peux gérer qu'**1 serveur**. Avec Premium, autant que tu veux.\n\n> Si vous voulez améliorer votre plan premium, consultez les canaux joints au message",
 			"botones": {
 				"msg1": "Mia Lounge",
 				"msg2": "Améliorer vers"

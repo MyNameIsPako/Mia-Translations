@@ -2205,6 +2205,43 @@
 				"msg34": "Tipo de envío:",
 				"msg35": "Embed",
 				"msg36": "Imagen"
+			},
+			"servidor": {
+				"msg1": "Panel de configuraciones de",
+				"msg2": "Idioma en el servidor",
+				"msg3": "Footer de imágenes",
+				"msg4": "Invitacion de Discord",
+				"msg5": "Opciones premium para el servidor",
+				"msg6": "Elige el idioma de Mia en este servidor",
+				"msg7": "Este comando solo se puede usar en un servidor.",
+				"msg8": "Solo el dueño del servidor puede usar este comando.",
+				"msg9": "Solo el dueño del servidor puede usar este panel.",
+				"msg10": "Idioma del servidor cambiado a",
+				"msg11": "A continuación, elige el idioma de Mia en este servidor.",
+				"msg12": "Footer de imágenes desactivado.",
+				"msg13": "Texto del pie (máx. {max})",
+				"msg14": "Ej: Apoya el servidor en discord.gg/...",
+				"msg15": "El footer no puede estar vacío.",
+				"msg16": "Footer de imágenes activado.",
+				"msg17": "Invitacion de Discord desactivada.",
+				"msg18": "URL de Discord",
+				"msg19": "Invitación de Discord",
+				"msg20": "https://discord.gg/tuservidor",
+				"msg21": "La URL no es una invitacion de Discord valida.",
+				"msg22": "Invitacion de Discord activada con la URL",
+				"msg23": "Esa invitación no es válida o ya no existe.",
+				"auto": "Automático",
+				"es-ES": "Español",
+				"es-LAT": "Español (latino)",
+				"en-US": "English",
+				"fr-FR": "Français",
+				"it-IT": "Italiano",
+				"zh-CN": "中文",
+				"pt-PT": "Português (Portugal)",
+				"pt-BR": "Português (Brasil)",
+				"ja-JP": "日本語",
+				"de-DE": "Deutsch",
+				"tr-TR": "Türkçe"
 			}
 		},
 		"extras": {
@@ -2300,7 +2337,7 @@
 				"msg8": "Servidor de soporte",
 				"msg9": "Canjeaste correctamente la key premium de mia.",
 				"msg10": "Acabas de desbloquear lo siguiente:",
-				"msg11": "• Acceso a todos los comandos premium.\n• Reducción de cooldowns de 10s a 5s.\n• TaxiBots premium de Mia.\n• Sistemas automaticos de Mia.\n• Aumento de 2 cuentas a 25 cuentas registradas\n• Usar comandos restringidos en todos lados.\n• Funcion BULK en los comandos.\n ...y muchas mas funciones futuras! ♥️",
+				"msg11": "• Acceso a todos los comandos premium.\n• Reducción de cooldowns de 10s a 5s.\n• TaxiBots premium de Mia.\n• Sistemas automaticos de Mia.\n• Aumento de 2 cuentas a 25 cuentas registradas\n• Usar comandos restringidos en todos lados.\n• Funcion BULK en los comandos.\n• Gestionar todos tus servidores (feeds, idioma, footer e invitación).\n ...y muchas mas funciones futuras! ♥️",
 				"msg12": "Plan:",
 				"msg13": "Finalización:",
 				"msg14": "No tienes ninguna membresía premium.",
@@ -3168,6 +3205,7 @@
 			"msg2": "El modo BULK requiere de Premium\n\n> Si quieres hacerte premium revisa los canales adjuntos al mensaje",
 			"msg3": "Este sistema requiere de Premium\n\n> Si quieres hacerte premium revisa los canales adjuntos al mensaje",
 			"msg4": "Esta funcion requiere de Premium\n> Si quieres hacerte premium revisa los canales adjuntos al mensaje",
+			"msg5": "Sin Premium solo puedes gestionar **1 servidor** (feeds, idioma, footer e invitación). Con Premium, todos los que quieras.\n\n> Si quieres hacerte premium revisa los canales adjuntos al mensaje",
 			"botones": {
 				"msg1": "Mia Lounge",
 				"msg2": "Adquirir Mia Premium"
@@ -3178,6 +3216,7 @@
 			"msg2": "El modo BULK no está disponible con tu nivel de Premium actual.\n\n> Si quieres aumentar tu plan premium revisa los canales adjuntos al mensaje",
 			"msg3": "Este sistema no está disponible con tu nivel de Premium actual.\n\n> Si quieres aumentar tu plan premium revisa los canales adjuntos al mensaje",
 			"msg4": "Esta función no está disponible con tu nivel de Premium actual.\n\n> Si quieres aumentar tu plan premium revisa los canales adjuntos al mensaje",
+			"msg5": "Sin Premium solo puedes gestionar **1 servidor**. Con Premium, todos los que quieras.\n\n> Si quieres aumentar tu plan premium revisa los canales adjuntos al mensaje",
 			"botones": {
 				"msg1": "Mia Lounge",
 				"msg2": "Ampliar a"

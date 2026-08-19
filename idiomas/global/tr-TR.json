@@ -2206,6 +2206,43 @@
 				"msg35": "Embed",
 				"msg36": "Görsel"
 			},
+			"servidor": {
+				"msg1": "Ayar paneli:",
+				"msg2": "Sunucudaki dil",
+				"msg3": "Görsel alt bilgisi",
+				"msg4": "Discord daveti",
+				"msg5": "Sunucu için premium seçenekler",
+				"msg6": "Bu sunucuda Mia'nın dilini seç",
+				"msg7": "Bu komut yalnızca bir sunucuda kullanılabilir.",
+				"msg8": "Bu komutu yalnızca sunucu sahibi kullanabilir.",
+				"msg9": "Bu paneli yalnızca sunucu sahibi kullanabilir.",
+				"msg10": "Sunucu dili şuna değiştirildi:",
+				"msg11": "Şimdi bu sunucuda Mia'nın dilini seç.",
+				"msg12": "Görsel alt bilgisi kapatıldı.",
+				"msg13": "Alt bilgi metni (en fazla {max})",
+				"msg14": "Örn: Sunucuyu discord.gg/... adresinden destekle",
+				"msg15": "Alt bilgi boş olamaz.",
+				"msg16": "Görsel alt bilgisi açıldı.",
+				"msg17": "Discord daveti kapatıldı.",
+				"msg18": "Discord URL'si",
+				"msg19": "Discord daveti",
+				"msg20": "https://discord.gg/sunucun",
+				"msg21": "URL geçerli bir Discord daveti değil.",
+				"msg22": "Discord daveti şu URL ile açıldı:",
+				"msg23": "Bu davet geçerli değil veya artık yok.",
+				"auto": "Otomatik",
+				"es-ES": "İspanyolca",
+				"es-LAT": "İspanyolca (Latin)",
+				"en-US": "İngilizce",
+				"fr-FR": "Fransızca",
+				"it-IT": "İtalyanca",
+				"zh-CN": "Çince",
+				"pt-PT": "Portekizce (Portekiz)",
+				"pt-BR": "Portekizce (Brezilya)",
+				"ja-JP": "Japonca",
+				"de-DE": "Almanca",
+				"tr-TR": "Türkçe"
+			},
 			"extras": {
 				"ayuda": {
 					"msg1": "Mia'yı davet et",
@@ -2276,7 +2313,7 @@
 					"msg8": "Destek sunucusu",
 					"msg9": "Mia için premium anahtarı başarıyla kullandın.",
 					"msg10": "Şunların kilidini açtın:",
-					"msg11": "• Tüm premium komutlara erişim.\n• Cooldown süresi 10sn'den 5sn'ye düşürüldü.\n• Mia'nın premium TaxiBot'ları.\n• Mia'nın otomatik sistemleri.\n• Kayıtlı hesap sayısı 2'den 25'e çıkarıldı.\n• Kısıtlı komutları her yerde kullanabilme.\n• Komutlarda BULK özelliği.\n ...ve daha birçok gelecek özellik! ♥️",
+					"msg11": "• Tüm premium komutlara erişim.\n• Cooldown süresi 10sn'den 5sn'ye düşürüldü.\n• Mia'nın premium TaxiBot'ları.\n• Mia'nın otomatik sistemleri.\n• Kayıtlı hesap sayısı 2'den 25'e çıkarıldı.\n• Kısıtlı komutları her yerde kullanabilme.\n• Komutlarda BULK özelliği.\n• Tüm sunucularını yönet (akışlar, dil, alt bilgi ve davet).\n ...ve daha birçok gelecek özellik! ♥️",
 					"msg12": "Plan:",
 					"msg13": "Bitiş tarihi:",
 					"msg14": "Hiçbir premium üyeliğin yok.",
@@ -3060,6 +3097,7 @@
 			"msg2": "TOPLU (BULK) modu Premium gerektirir\n\n> Premium almak istiyorsan, mesajla birlikte verilen kanallara bakabilirsin",
 			"msg3": "Bu sistem Premium gerektirir\n\n> Premium almak istiyorsan, mesajla birlikte verilen kanallara bakabilirsin",
 			"msg4": "Bu özellik Premium gerektirir\n> Premium almak istiyorsan, mesajla birlikte verilen kanallara bakabilirsin",
+			"msg5": "Premium olmadan yalnızca **1 sunucuyu** yönetebilirsin (akışlar, dil, alt bilgi ve davet). Premium ile istediğin kadar.\n\n> Premium almak istiyorsan, mesajla birlikte verilen kanallara bakabilirsin",
 			"botones": {
 				"msg1": "Mia Lounge",
 				"msg2": "Mia Premium Al"
@@ -3070,6 +3108,7 @@
 			"msg2": "TOPLU (BULK) modu mevcut Premium seviyenle kullanılamıyor.\n\n> Premium planını yükseltmek istiyorsan, mesajla birlikte verilen kanallara bakabilirsin",
 			"msg3": "Bu sistem mevcut Premium seviyenle kullanılamıyor.\n\n> Premium planını yükseltmek istiyorsan, mesajla birlikte verilen kanallara bakabilirsin",
 			"msg4": "Bu özellik mevcut Premium seviyenle kullanılamıyor.\n\n> Premium planını yükseltmek istiyorsan, mesajla birlikte verilen kanallara bakabilirsin",
+			"msg5": "Premium olmadan yalnızca **1 sunucuyu** yönetebilirsin. Premium ile istediğin kadar.\n\n> Premium planını yükseltmek istiyorsan, mesajla birlikte verilen kanallara bakabilirsin",
 			"botones": {
 				"msg1": "Mia Lounge",
 				"msg2": "Yükselt"

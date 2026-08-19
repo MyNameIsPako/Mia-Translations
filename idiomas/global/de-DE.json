@@ -2223,6 +2223,43 @@
 				"msg34": "Sendetyp:",
 				"msg35": "Embed",
 				"msg36": "Bild"
+			},
+			"servidor": {
+				"msg1": "Einstellungspanel von",
+				"msg2": "Sprache auf dem Server",
+				"msg3": "Bild-Footer",
+				"msg4": "Discord-Einladung",
+				"msg5": "Premium-Optionen für den Server",
+				"msg6": "Wähle Mias Sprache auf diesem Server",
+				"msg7": "Dieser Befehl kann nur auf einem Server verwendet werden.",
+				"msg8": "Nur der Serverbesitzer kann diesen Befehl verwenden.",
+				"msg9": "Nur der Serverbesitzer kann dieses Panel verwenden.",
+				"msg10": "Serversprache geändert zu",
+				"msg11": "Wähle als Nächstes Mias Sprache auf diesem Server.",
+				"msg12": "Bild-Footer deaktiviert.",
+				"msg13": "Footer-Text (max. {max})",
+				"msg14": "z. B.: Unterstütze den Server auf discord.gg/...",
+				"msg15": "Der Footer darf nicht leer sein.",
+				"msg16": "Bild-Footer aktiviert.",
+				"msg17": "Discord-Einladung deaktiviert.",
+				"msg18": "Discord-URL",
+				"msg19": "Discord-Einladung",
+				"msg20": "https://discord.gg/deinerserver",
+				"msg21": "Die URL ist keine gültige Discord-Einladung.",
+				"msg22": "Discord-Einladung aktiviert mit der URL",
+				"msg23": "Diese Einladung ist ungültig oder existiert nicht mehr.",
+				"auto": "Automatisch",
+				"es-ES": "Spanisch",
+				"es-LAT": "Spanisch (Latino)",
+				"en-US": "Englisch",
+				"fr-FR": "Französisch",
+				"it-IT": "Italienisch",
+				"zh-CN": "Chinesisch",
+				"pt-PT": "Portugiesisch (Portugal)",
+				"pt-BR": "Portugiesisch (Brasilien)",
+				"ja-JP": "Japanisch",
+				"de-DE": "Deutsch",
+				"tr-TR": "Türkisch"
 			}
 		},
 		"extras": {
@@ -2318,7 +2355,7 @@
 				"msg8": "Support-Server",
 				"msg9": "Du hast den Premium-Schlüssel für Mia erfolgreich eingelöst.",
 				"msg10": "Du hast Folgendes freigeschaltet:",
-				"msg11": "• Zugriff auf alle Premium-Befehle.\n• Reduzierte Abklingzeit von 10s auf 5s.\n• Mias Premium-TaxiBots.\n• Mias automatische Systeme.\n• Erhöhung von 2 auf 25 registrierte Konten.\n• Nutzung eingeschränkter Befehle überall.\n• BULK-Funktion in Befehlen.\n ...und viele weitere zukünftige Funktionen! ♥️",
+				"msg11": "• Zugriff auf alle Premium-Befehle.\n• Reduzierte Abklingzeit von 10s auf 5s.\n• Mias Premium-TaxiBots.\n• Mias automatische Systeme.\n• Erhöhung von 2 auf 25 registrierte Konten.\n• Nutzung eingeschränkter Befehle überall.\n• BULK-Funktion in Befehlen.\n• Verwalte alle deine Server (Feeds, Sprache, Fußzeile und Einladung).\n ...und viele weitere zukünftige Funktionen! ♥️",
 				"msg12": "Plan:",
 				"msg13": "Ablaufdatum:",
 				"msg14": "Du hast keine Premium-Mitgliedschaft.",
@@ -3185,6 +3222,7 @@
 			"msg2": "BULK-Modus erfordert Premium\n\n> Wenn du Premium erhalten möchtest, schau dir die Kanäle an, die an die Nachricht angehängt sind",
 			"msg3": "Dieses System erfordert Premium\n\n> Wenn du Premium erhalten möchtest, schau dir die Kanäle an, die an die Nachricht angehängt sind",
 			"msg4": "Diese Funktion erfordert Premium\n> Wenn du Premium erhalten möchtest, schau dir die Kanäle an, die an die Nachricht angehängt sind",
+			"msg5": "Ohne Premium kannst du nur **1 Server** verwalten (Feeds, Sprache, Footer und Einladung). Mit Premium so viele du willst.\n\n> Wenn du Premium erhalten möchtest, schau dir die Kanäle an, die an die Nachricht angehängt sind",
 			"botones": {
 				"msg1": "Mia Lounge",
 				"msg2": "Mia Premium erhalten"
@@ -3195,6 +3233,7 @@
 			"msg2": "BULK-Modus ist mit deinem aktuellen Premium-Level nicht verfügbar.\n\n> Wenn du dein Premium-Plan upgraden möchtest, schau dir die Kanäle an, die an die Nachricht angehängt sind",
 			"msg3": "Dieses System ist mit deinem aktuellen Premium-Level nicht verfügbar.\n\n> Wenn du dein Premium-Plan upgraden möchtest, schau dir die Kanäle an, die an die Nachricht angehängt sind",
 			"msg4": "Diese Funktion ist mit deinem aktuellen Premium-Level nicht verfügbar.\n\n> Wenn du dein Premium-Plan upgraden möchtest, schau dir die Kanäle an, die an die Nachricht angehängt sind",
+			"msg5": "Ohne Premium kannst du nur **1 Server** verwalten. Mit Premium so viele du willst.\n\n> Wenn du dein Premium-Plan upgraden möchtest, schau dir die Kanäle an, die an die Nachricht angehängt sind",
 			"botones": {
 				"msg1": "Mia Lounge",
 				"msg2": "Upgrade zu"
