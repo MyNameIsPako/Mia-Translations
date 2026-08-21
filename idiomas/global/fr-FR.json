@@ -1155,6 +1155,22 @@
 				"msg6": "Travailleurs :",
 				"msg7": "Héros :",
 				"msg8": "Modifié :"
+			},
+			"root": {
+				"cmdDesc": "Entre un code du panneau administrateur.",
+				"optCodigo": "Code du panneau administrateur.",
+				"optBulk": "Exécuter le code sur tous tes comptes.",
+				"msg1": "Tu n'as saisi aucun code.",
+				"msg2": "Code `${codigo}` appliqué correctement.",
+				"msg3": "Code `${codigo}` inconnu.",
+				"msg4": "Code `${codigo}` indisponible actuellement, déjà utilisé ou temporairement indisponible.",
+				"msg5": "Code `${codigo}` invalide ou incomplet.",
+				"msg6": "Erreur lors de l'application de `${codigo}`.",
+				"msg7": "Code appliqué",
+				"msg8": "Code inconnu",
+				"msg9": "Indisponible / déjà utilisé",
+				"msg10": "Code invalide",
+				"msg11": "Erreur"
 			}
 		},
 		"partida": {

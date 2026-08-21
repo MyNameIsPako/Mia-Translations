@@ -1171,6 +1171,22 @@
 				"msg6": "Workers:",
 				"msg7": "Heroes:",
 				"msg8": "Modified:"
+			},
+			"root": {
+				"cmdDesc": "Introduce un codigo del panel de administrador.",
+				"optCodigo": "Codigo del panel administrador.",
+				"optBulk": "Ejecutar el codigo en todas tus cuentas.",
+				"msg1": "No has introducido ningun codigo.",
+				"msg2": "Codigo `${codigo}` aplicado correctamente.",
+				"msg3": "Codigo `${codigo}` desconocido.",
+				"msg4": "Codigo `${codigo}` no disponible actualmente, ya canjeado o no disponible temporalmente.",
+				"msg5": "Codigo `${codigo}` no valido o incompleto.",
+				"msg6": "Error al aplicar `${codigo}`.",
+				"msg7": "Codigo aplicado",
+				"msg8": "Codigo desconocido",
+				"msg9": "No disponible / ya canjeado",
+				"msg10": "Codigo invalido",
+				"msg11": "Error"
 			}
 		},
 		"partida": {

@@ -1156,6 +1156,22 @@
 				"msg6": "Workers:",
 				"msg7": "Heroes:",
 				"msg8": "Modified:"
+			},
+			"root": {
+				"cmdDesc": "Enter an admin panel code.",
+				"optCodigo": "Admin panel code.",
+				"optBulk": "Run the code on all your accounts.",
+				"msg1": "You have not entered any code.",
+				"msg2": "Code `${codigo}` applied successfully.",
+				"msg3": "Unknown code `${codigo}`.",
+				"msg4": "Code `${codigo}` is not available right now, already redeemed, or temporarily unavailable.",
+				"msg5": "Code `${codigo}` is invalid or incomplete.",
+				"msg6": "Error applying `${codigo}`.",
+				"msg7": "Code applied",
+				"msg8": "Unknown code",
+				"msg9": "Unavailable / already redeemed",
+				"msg10": "Invalid code",
+				"msg11": "Error"
 			}
 		},
 		"partida": {

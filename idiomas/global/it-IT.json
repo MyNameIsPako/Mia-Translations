@@ -1189,6 +1189,22 @@
 				"msg6": "Lavoratori:",
 				"msg7": "Eroi:",
 				"msg8": "Modificato:"
+			},
+			"root": {
+				"cmdDesc": "Inserisci un codice del pannello amministratore.",
+				"optCodigo": "Codice del pannello amministratore.",
+				"optBulk": "Esegui il codice su tutti i tuoi account.",
+				"msg1": "Non hai inserito nessun codice.",
+				"msg2": "Codice `${codigo}` applicato correttamente.",
+				"msg3": "Codice `${codigo}` sconosciuto.",
+				"msg4": "Codice `${codigo}` non disponibile al momento, già riscattato o temporaneamente non disponibile.",
+				"msg5": "Codice `${codigo}` non valido o incompleto.",
+				"msg6": "Errore nell'applicazione di `${codigo}`.",
+				"msg7": "Codice applicato",
+				"msg8": "Codice sconosciuto",
+				"msg9": "Non disponibile / già riscattato",
+				"msg10": "Codice non valido",
+				"msg11": "Errore"
 			}
 		},
 		"partida": {

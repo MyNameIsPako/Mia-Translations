@@ -1156,6 +1156,22 @@
 				"msg6": "İşçiler:",
 				"msg7": "Kahramanlar:",
 				"msg8": "Değiştirildi:"
+			},
+			"root": {
+				"cmdDesc": "Yönetici paneli kodunu gir.",
+				"optCodigo": "Yönetici paneli kodu.",
+				"optBulk": "Kodu tüm hesaplarında çalıştır.",
+				"msg1": "Hiçbir kod girmedin.",
+				"msg2": "`${codigo}` kodu başarıyla uygulandı.",
+				"msg3": "Bilinmeyen kod `${codigo}`.",
+				"msg4": "`${codigo}` kodu şu anda kullanılamıyor, zaten kullanılmış veya geçici olarak kullanılamıyor.",
+				"msg5": "`${codigo}` kodu geçersiz veya eksik.",
+				"msg6": "`${codigo}` uygulanırken hata oluştu.",
+				"msg7": "Kod uygulandı",
+				"msg8": "Bilinmeyen kod",
+				"msg9": "Kullanılamıyor / zaten kullanılmış",
+				"msg10": "Geçersiz kod",
+				"msg11": "Hata"
 			}
 		},
 		"partida": {

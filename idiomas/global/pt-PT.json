@@ -1189,6 +1189,22 @@
 				"msg6": "Trabalhadores:",
 				"msg7": "Heróis:",
 				"msg8": "Modificado:"
+			},
+			"root": {
+				"cmdDesc": "Introduz um código do painel de administrador.",
+				"optCodigo": "Código do painel administrador.",
+				"optBulk": "Executar o código em todas as tuas contas.",
+				"msg1": "Não introduziste nenhum código.",
+				"msg2": "Código `${codigo}` aplicado corretamente.",
+				"msg3": "Código `${codigo}` desconhecido.",
+				"msg4": "Código `${codigo}` indisponível de momento, já resgatado ou temporariamente indisponível.",
+				"msg5": "Código `${codigo}` inválido ou incompleto.",
+				"msg6": "Erro ao aplicar `${codigo}`.",
+				"msg7": "Código aplicado",
+				"msg8": "Código desconhecido",
+				"msg9": "Indisponível / já resgatado",
+				"msg10": "Código inválido",
+				"msg11": "Erro"
 			}
 		},
 		"partida": {
