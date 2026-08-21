@@ -554,7 +554,20 @@
 					"ironmouse": "Esprit Ironmouse",
 					"johnWick": "Esprit John Wick",
 					"llama": "Esprit lama",
-					"peely": "Esprit Peely"
+					"peely": "Esprit Peely",
+					"adventure": "Esprit Aventure",
+					"bush": "Esprit Buisson",
+					"crown": "Esprit Couronne",
+					"eightBit": "Esprit 8-Bit",
+					"jazzJackrabbit": "Esprit Jackrabbit",
+					"jonesy": "Esprit Jonesy",
+					"killswitch": "Esprit Killswitch",
+					"klombo": "Esprit Klombo",
+					"shadow": "Esprit Shadow",
+					"sonic": "Esprit Sonic",
+					"stormScout": "Esprit Storm Scout",
+					"tails": "Esprit Tails",
+					"jackrabbit": "Esprit Jackrabbit"
 				},
 				"msg15": "Niv.",
 				"msg16": "Inventaire d'esprits",
@@ -570,7 +583,14 @@
 				"msg33": "ESPRITS MAÎTRISÉS",
 				"msg34": "Il n'y a rien à voir dans cette catégorie...",
 				"msg35": "En cours",
-				"msg36": "ESPRITS EN COURS"
+				"msg36": "ESPRITS EN COURS",
+				"msg22": "COLLECTION D'ESPRITS",
+				"msg28": "Gemme",
+				"msg29": "Quack",
+				"msg37": "Saisons passees",
+				"msg38": "Saison actuelle",
+				"msg39": "Cheat Master",
+				"msg40": "Poussière d'esprits"
 			}
 		},
 		"cuenta": {

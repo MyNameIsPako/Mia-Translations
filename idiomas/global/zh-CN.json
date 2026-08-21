@@ -555,7 +555,20 @@
 					"ironmouse": "铁鼠精灵",
 					"johnWick": "疾速追杀精灵",
 					"llama": "羊驼精灵",
-					"peely": "香蕉人精灵"
+					"peely": "香蕉人精灵",
+					"adventure": "冒险精灵",
+					"bush": "灌木精灵",
+					"crown": "王冠精灵",
+					"eightBit": "8位精灵",
+					"jazzJackrabbit": "Jackrabbit精灵",
+					"jonesy": "琼斯精灵",
+					"killswitch": "Killswitch精灵",
+					"klombo": "克伦博精灵",
+					"shadow": "暗影精灵",
+					"sonic": "索尼克精灵",
+					"stormScout": "风暴侦察精灵",
+					"tails": "塔尔斯精灵",
+					"jackrabbit": "爵士兔精灵"
 				},
 				"msg15": "等级",
 				"msg16": "精灵库存",
@@ -571,7 +584,14 @@
 				"msg33": "已精通的精灵",
 				"msg34": "该分类中没有可查看的内容...",
 				"msg35": "未精通",
-				"msg36": "未精通的精灵"
+				"msg36": "未精通的精灵",
+				"msg22": "精灵收藏",
+				"msg28": "宝石",
+				"msg29": "Quack",
+				"msg37": "往期赛季",
+				"msg38": "当前赛季",
+				"msg39": "Cheat Master",
+				"msg40": "精灵尘"
 			}
 		},
 		"cuenta": {

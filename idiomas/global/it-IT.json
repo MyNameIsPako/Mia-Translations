@@ -554,7 +554,20 @@
 					"ironmouse": "Spirito Ironmouse",
 					"johnWick": "Spirito John Wick",
 					"llama": "Spirito lama",
-					"peely": "Spirito Peely"
+					"peely": "Spirito Peely",
+					"adventure": "Spirito Avventura",
+					"bush": "Spirito Cespuglio",
+					"crown": "Spirito Corona",
+					"eightBit": "Spirito 8-Bit",
+					"jazzJackrabbit": "Spirito Jackrabbit",
+					"jonesy": "Spirito Jonesy",
+					"killswitch": "Spirito Killswitch",
+					"klombo": "Spirito Klombo",
+					"shadow": "Spirito Shadow",
+					"sonic": "Spirito Sonic",
+					"stormScout": "Spirito Storm Scout",
+					"tails": "Spirito Tails",
+					"jackrabbit": "Spirito Jackrabbit"
 				},
 				"msg15": "Liv.",
 				"msg16": "Inventario degli spiriti",
@@ -570,7 +583,14 @@
 				"msg33": "SPIRITI DOMINATI",
 				"msg34": "Non c'è niente da vedere in questa categoria...",
 				"msg35": "Incompleti",
-				"msg36": "SPIRITI INCOMPLETI"
+				"msg36": "SPIRITI INCOMPLETI",
+				"msg22": "COLLEZIONE DI SPIRITI",
+				"msg28": "Gemma",
+				"msg29": "Quack",
+				"msg37": "Stagioni passate",
+				"msg38": "Stagione attuale",
+				"msg39": "Cheat Master",
+				"msg40": "Polvere di spiriti"
 			}
 		},
 		"cuenta": {

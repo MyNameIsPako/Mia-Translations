@@ -555,7 +555,20 @@
 					"ironmouse": "Ironmouse Ruhu",
 					"johnWick": "John Wick Ruhu",
 					"llama": "Lama Ruhu",
-					"peely": "Peely Ruhu"
+					"peely": "Peely Ruhu",
+					"adventure": "Macera Ruhu",
+					"bush": "Çalı Ruhu",
+					"crown": "Taç Ruhu",
+					"eightBit": "8-Bit Ruhu",
+					"jazzJackrabbit": "Jackrabbit Ruhu",
+					"jonesy": "Jonesy Ruhu",
+					"killswitch": "Killswitch Ruhu",
+					"klombo": "Klombo Ruhu",
+					"shadow": "Shadow Ruhu",
+					"sonic": "Sonic Ruhu",
+					"stormScout": "Storm Scout Ruhu",
+					"tails": "Tails Ruhu",
+					"jackrabbit": "Jackrabbit Ruhu"
 				},
 				"msg15": "Sv.",
 				"msg16": "Ruh envanteri",
@@ -571,7 +584,14 @@
 				"msg33": "USTALAŞILMIŞ RUHLAR",
 				"msg34": "Bu kategoride görülecek bir şey yok...",
 				"msg35": "Bekleyen",
-				"msg36": "BEKLEYEN RUHLAR"
+				"msg36": "BEKLEYEN RUHLAR",
+				"msg22": "RUH KOLEKSİYONU",
+				"msg28": "Mücevher",
+				"msg29": "Quack",
+				"msg37": "Geçmiş sezonlar",
+				"msg38": "Güncel sezon",
+				"msg39": "Cheat Master",
+				"msg40": "Ruh Tozu"
 			}
 		},
 		"cuenta": {

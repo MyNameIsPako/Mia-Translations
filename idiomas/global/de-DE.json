@@ -573,7 +573,20 @@
 					"ironmouse": "Ironmouse-Geist",
 					"johnWick": "John-Wick-Geist",
 					"llama": "Lama-Geist",
-					"peely": "Peely-Geist"
+					"peely": "Peely-Geist",
+					"adventure": "Abenteuer-Geist",
+					"bush": "Busch-Geist",
+					"crown": "Kronen-Geist",
+					"eightBit": "8-Bit-Geist",
+					"jazzJackrabbit": "Jackrabbit-Geist",
+					"jonesy": "Jonesy-Geist",
+					"killswitch": "Killswitch-Geist",
+					"klombo": "Klombo-Geist",
+					"shadow": "Shadow-Geist",
+					"sonic": "Sonic-Geist",
+					"stormScout": "Storm-Scout-Geist",
+					"tails": "Tails-Geist",
+					"jackrabbit": "Jackrabbit-Geist"
 				},
 				"msg15": "St.",
 				"msg16": "Geister-Inventar",
@@ -589,7 +602,14 @@
 				"msg33": "GEMEISTERTE GEISTER",
 				"msg34": "In dieser Kategorie gibt es nichts zu sehen...",
 				"msg35": "Offen",
-				"msg36": "OFFENE GEISTER"
+				"msg36": "OFFENE GEISTER",
+				"msg22": "GEISTER-SAMMLUNG",
+				"msg28": "Juwel",
+				"msg29": "Quack",
+				"msg37": "Vergangene Seasons",
+				"msg38": "Aktuelle Season",
+				"msg39": "Cheat Master",
+				"msg40": "Geisterstaub"
 			}
 		},
 		"cuenta": {

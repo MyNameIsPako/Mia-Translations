@@ -554,7 +554,20 @@
 					"ironmouse": "Espíritu Ironmouse",
 					"johnWick": "Espíritu John Wick",
 					"llama": "Espíritu llama",
-					"peely": "Espíritu Peely"
+					"peely": "Espíritu Peely",
+					"adventure": "Espíritu Aventura",
+					"bush": "Espíritu Arbusto",
+					"crown": "Espíritu Corona",
+					"eightBit": "Espíritu 8-Bit",
+					"jazzJackrabbit": "Espíritu Jackrabbit",
+					"jonesy": "Espíritu Jonesy",
+					"killswitch": "Espíritu Killswitch",
+					"klombo": "Espíritu Klombo",
+					"shadow": "Espíritu Shadow",
+					"sonic": "Espíritu Sonic",
+					"stormScout": "Espíritu Storm Scout",
+					"tails": "Espíritu Tails",
+					"jackrabbit": "Espíritu Jackrabbit"
 				},
 				"msg15": "Niv.",
 				"msg16": "Inventario de espíritus",
@@ -570,7 +583,14 @@
 				"msg33": "ESPÍRITUS DOMINADOS",
 				"msg34": "No hay nada en esta categoria que ver...",
 				"msg35": "Pendientes",
-				"msg36": "ESPÍRITUS PENDIENTES"
+				"msg36": "ESPÍRITUS PENDIENTES",
+				"msg22": "COLECCIÓN DE ESPÍRITUS",
+				"msg28": "Gema",
+				"msg29": "Quack",
+				"msg37": "Sesiones pasadas",
+				"msg38": "Temporada actual",
+				"msg39": "Cheat Master",
+				"msg40": "Polvo de espíritus"
 			}
 		},
 		"cuenta": {

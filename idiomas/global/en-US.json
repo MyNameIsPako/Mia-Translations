@@ -555,7 +555,20 @@
 					"ironmouse": "Ironmouse Sprite",
 					"johnWick": "John Wick Sprite",
 					"llama": "Llama Sprite",
-					"peely": "Peely Sprite"
+					"peely": "Peely Sprite",
+					"adventure": "Adventure Sprite",
+					"bush": "Bush Sprite",
+					"crown": "Crown Sprite",
+					"eightBit": "8-Bit Sprite",
+					"jazzJackrabbit": "Jackrabbit Sprite",
+					"jonesy": "Jonesy Sprite",
+					"killswitch": "Killswitch Sprite",
+					"klombo": "Klombo Sprite",
+					"shadow": "Shadow Sprite",
+					"sonic": "Sonic Sprite",
+					"stormScout": "Storm Scout Sprite",
+					"tails": "Tails Sprite",
+					"jackrabbit": "Jackrabbit Sprite"
 				},
 				"msg15": "Lv.",
 				"msg16": "Spirit Inventory",
@@ -571,7 +584,14 @@
 				"msg33": "MASTERED SPRITES",
 				"msg34": "Nothing to see in this category...",
 				"msg35": "Unmastered",
-				"msg36": "UNMASTERED SPRITES"
+				"msg36": "UNMASTERED SPRITES",
+				"msg22": "SPRITE COLLECTION",
+				"msg28": "Gem",
+				"msg29": "Quack",
+				"msg37": "Past seasons",
+				"msg38": "Current season",
+				"msg39": "Cheat Master",
+				"msg40": "Sprite Dust"
 			}
 		},
 		"cuenta": {
