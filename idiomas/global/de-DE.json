@@ -1179,7 +1179,7 @@
 				"cmdDesc": "Gib einen Admin-Panel-Code ein.",
 				"optCodigo": "Admin-Panel-Code.",
 				"optBulk": "Code auf allen deinen Konten ausführen.",
-				"msg1": "Du hast keinen Code eingegeben.",
+				"msg1": "Gib einen Code an oder aktiviere die Option alle.",
 				"msg2": "Code `${codigo}` erfolgreich angewendet.",
 				"msg3": "Unbekannter Code `${codigo}`.",
 				"msg4": "Code `${codigo}` derzeit nicht verfügbar, bereits eingelöst oder vorübergehend nicht verfügbar.",
@@ -1189,7 +1189,12 @@
 				"msg8": "Unbekannter Code",
 				"msg9": "Nicht verfügbar / bereits eingelöst",
 				"msg10": "Ungültiger Code",
-				"msg11": "Fehler"
+				"msg11": "Fehler",
+				"optTodos": "Alle Panel-Codes einlösen (bestätigt und nicht).",
+				"msg12": "Nur in der Lobby einlösbar",
+				"msg13": "Derzeit keine Panel-Codes verfügbar.",
+				"msg14": "Löse alle Panel-Codes ein...",
+				"msg15": "**${ok}** Eingelöst, **${lobby}** Lobby, **${fail}** Fehlgeschlagen"
 			}
 		},
 		"partida": {

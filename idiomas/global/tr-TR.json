@@ -1161,7 +1161,7 @@
 				"cmdDesc": "Yönetici paneli kodunu gir.",
 				"optCodigo": "Yönetici paneli kodu.",
 				"optBulk": "Kodu tüm hesaplarında çalıştır.",
-				"msg1": "Hiçbir kod girmedin.",
+				"msg1": "Bir kod gir veya tümü seçeneğini aç.",
 				"msg2": "`${codigo}` kodu başarıyla uygulandı.",
 				"msg3": "Bilinmeyen kod `${codigo}`.",
 				"msg4": "`${codigo}` kodu şu anda kullanılamıyor, zaten kullanılmış veya geçici olarak kullanılamıyor.",
@@ -1171,7 +1171,12 @@
 				"msg8": "Bilinmeyen kod",
 				"msg9": "Kullanılamıyor / zaten kullanılmış",
 				"msg10": "Geçersiz kod",
-				"msg11": "Hata"
+				"msg11": "Hata",
+				"optTodos": "Tüm panel kodlarını kullan (onaylı ve onaylı değil).",
+				"msg12": "Yalnızca lobide kullanılabilir",
+				"msg13": "Şu an kullanılabilir panel kodu yok.",
+				"msg14": "Tüm panel kodları kullanılıyor...",
+				"msg15": "**${ok}** Kullanıldı, **${lobby}** Lobi, **${fail}** Başarısız"
 			}
 		},
 		"partida": {

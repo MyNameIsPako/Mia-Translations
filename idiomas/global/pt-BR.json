@@ -1194,7 +1194,7 @@
 				"cmdDesc": "Insira um código do painel de administrador.",
 				"optCodigo": "Código do painel administrador.",
 				"optBulk": "Executar o código em todas as suas contas.",
-				"msg1": "Você não inseriu nenhum código.",
+				"msg1": "Indique um código ou ative a opção todos.",
 				"msg2": "Código `${codigo}` aplicado corretamente.",
 				"msg3": "Código `${codigo}` desconhecido.",
 				"msg4": "Código `${codigo}` indisponível no momento, já resgatado ou temporariamente indisponível.",
@@ -1204,7 +1204,12 @@
 				"msg8": "Código desconhecido",
 				"msg9": "Indisponível / já resgatado",
 				"msg10": "Código inválido",
-				"msg11": "Erro"
+				"msg11": "Erro",
+				"optTodos": "Resgatar todos os códigos do painel (confirmados e não).",
+				"msg12": "Resgatável apenas no lobby",
+				"msg13": "Não há códigos do painel disponíveis agora.",
+				"msg14": "Resgatando todos os códigos do painel...",
+				"msg15": "**${ok}** Resgatados, **${lobby}** Sala, **${fail}** Falhados"
 			}
 		},
 		"partida": {
