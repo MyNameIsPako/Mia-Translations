@@ -1160,7 +1160,7 @@
 				"cmdDesc": "Introduce un codigo del panel de administrador.",
 				"optCodigo": "Codigo del panel administrador.",
 				"optBulk": "Ejecutar el codigo en todas tus cuentas.",
-				"msg1": "Indica un codigo o activa la opcion disponibles.",
+				"msg1": "Indica un codigo, activa disponibles o ver.",
 				"msg2": "Codigo `${codigo}` aplicado correctamente.",
 				"msg3": "Codigo `${codigo}` desconocido.",
 				"msg4": "Codigo `${codigo}` no disponible actualmente, ya canjeado o no disponible temporalmente.",
@@ -1175,7 +1175,10 @@
 				"msg12": "Canjeable solo en sala",
 				"msg13": "No hay codigos del panel disponibles ahora mismo.",
 				"msg14": "Canjeando todos los codigos del panel...",
-				"msg15": "**${ok}** Canjeados, **${lobby}** Sala, **${fail}** Fallidos"
+				"msg15": "**${ok}** Canjeados, **${lobby}** Sala, **${fail}** Fallidos",
+				"optVer": "Mostrar la imagen de los codigos del panel.",
+				"imgTitle": "CODIGOS PANEL ADMIN",
+				"msg16": "Sin codigos para mostrar."
 			}
 		},
 		"partida": {

@@ -1160,7 +1160,7 @@
 				"cmdDesc": "Entre un code du panneau administrateur.",
 				"optCodigo": "Code du panneau administrateur.",
 				"optBulk": "Exécuter le code sur tous tes comptes.",
-				"msg1": "Indique un code ou active l option disponibles.",
+				"msg1": "Indique un code, active disponibles ou voir.",
 				"msg2": "Code `${codigo}` appliqué correctement.",
 				"msg3": "Code `${codigo}` inconnu.",
 				"msg4": "Code `${codigo}` indisponible actuellement, déjà utilisé ou temporairement indisponible.",
@@ -1175,7 +1175,10 @@
 				"msg12": "Échangeable uniquement en salle",
 				"msg13": "Aucun code du panneau disponible pour le moment.",
 				"msg14": "Échange de tous les codes du panneau...",
-				"msg15": "**${ok}** Échangés, **${lobby}** Salle, **${fail}** Échoués"
+				"msg15": "**${ok}** Échangés, **${lobby}** Salle, **${fail}** Échoués",
+				"optVer": "Afficher l'image des codes du panneau admin.",
+				"imgTitle": "CODES PANNEAU ADMIN",
+				"msg16": "Aucun code a afficher."
 			}
 		},
 		"partida": {

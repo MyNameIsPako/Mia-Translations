@@ -1194,7 +1194,7 @@
 				"cmdDesc": "Inserisci un codice del pannello amministratore.",
 				"optCodigo": "Codice del pannello amministratore.",
 				"optBulk": "Esegui il codice su tutti i tuoi account.",
-				"msg1": "Indica un codice o attiva l opzione disponibili.",
+				"msg1": "Indica un codice oppure attiva disponibili o vedi.",
 				"msg2": "Codice `${codigo}` applicato correttamente.",
 				"msg3": "Codice `${codigo}` sconosciuto.",
 				"msg4": "Codice `${codigo}` non disponibile al momento, già riscattato o temporaneamente non disponibile.",
@@ -1209,7 +1209,10 @@
 				"msg12": "Riscattabile solo in lobby",
 				"msg13": "Nessun codice del pannello disponibile al momento.",
 				"msg14": "Riscatto di tutti i codici del pannello...",
-				"msg15": "**${ok}** Riscattati, **${lobby}** Lobby, **${fail}** Falliti"
+				"msg15": "**${ok}** Riscattati, **${lobby}** Lobby, **${fail}** Falliti",
+				"optVer": "Mostra l'immagine dei codici del pannello admin.",
+				"imgTitle": "CODICI PANNELLO ADMIN",
+				"msg16": "Nessun codice da mostrare."
 			}
 		},
 		"partida": {

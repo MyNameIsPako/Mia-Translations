@@ -1161,7 +1161,7 @@
 				"cmdDesc": "Enter an admin panel code.",
 				"optCodigo": "Admin panel code.",
 				"optBulk": "Run the code on all your accounts.",
-				"msg1": "Enter a code or enable the available option.",
+				"msg1": "Enter a code, or enable available or view.",
 				"msg2": "Code `${codigo}` applied successfully.",
 				"msg3": "Unknown code `${codigo}`.",
 				"msg4": "Code `${codigo}` is not available right now, already redeemed, or temporarily unavailable.",
@@ -1176,7 +1176,10 @@
 				"msg12": "Redeemable only in lobby",
 				"msg13": "No panel codes available right now.",
 				"msg14": "Redeeming all panel codes...",
-				"msg15": "**${ok}** Redeemed, **${lobby}** Lobby, **${fail}** Failed"
+				"msg15": "**${ok}** Redeemed, **${lobby}** Lobby, **${fail}** Failed",
+				"optVer": "Show the admin panel codes image.",
+				"imgTitle": "ADMIN PANEL CODES",
+				"msg16": "No codes to display."
 			}
 		},
 		"partida": {
