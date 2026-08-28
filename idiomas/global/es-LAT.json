@@ -1891,7 +1891,13 @@
 				"count": "{n} esquemas",
 				"statTotal": "{n} esquemas",
 				"statMax": "{n} al nivel máximo (130)",
-				"statSuper": "{n} supercargados (144)"
+				"statSuper": "{n} supercargados (144)",
+				"catSmg": "Subfusiles",
+				"sectionSmg": "Subfusiles",
+				"trapTodas": "Todas",
+				"trapSuelo": "Suelo",
+				"trapPared": "Pared",
+				"trapTecho": "Techo"
 			},
 			"heroes": {
 				"title": "Héroes",

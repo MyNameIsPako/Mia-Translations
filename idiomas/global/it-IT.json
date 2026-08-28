@@ -1924,7 +1924,13 @@
 				"count": "{n} schemi",
 				"statTotal": "{n} schemi",
 				"statMax": "{n} al livello max (130)",
-				"statSuper": "{n} sovraccarichi (144)"
+				"statSuper": "{n} sovraccarichi (144)",
+				"catSmg": "Mitragliette",
+				"sectionSmg": "Mitragliette",
+				"trapTodas": "Tutte",
+				"trapSuelo": "Pavimento",
+				"trapPared": "Muro",
+				"trapTecho": "Soffitto"
 			},
 			"heroes": {
 				"title": "Eroi",

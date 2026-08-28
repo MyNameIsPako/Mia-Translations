@@ -1891,7 +1891,13 @@
 				"count": "{n} şema",
 				"statTotal": "{n} şema",
 				"statMax": "{n} maks seviye (130)",
-				"statSuper": "{n} süperşarj (144)"
+				"statSuper": "{n} süperşarj (144)",
+				"catSmg": "SMG",
+				"sectionSmg": "SMG",
+				"trapTodas": "Tümü",
+				"trapSuelo": "Zemin",
+				"trapPared": "Duvar",
+				"trapTecho": "Tavan"
 			},
 			"heroes": {
 				"title": "Kahramanlar",

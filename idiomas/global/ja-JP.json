@@ -1925,7 +1925,13 @@
 				"count": "{n} 設計図",
 				"statTotal": "{n} 設計図",
 				"statMax": "{n} 最大レベル (130)",
-				"statSuper": "{n} スーパーチャージ (144)"
+				"statSuper": "{n} スーパーチャージ (144)",
+				"catSmg": "SMG",
+				"sectionSmg": "SMG",
+				"trapTodas": "すべて",
+				"trapSuelo": "床",
+				"trapPared": "壁",
+				"trapTecho": "天井"
 			},
 			"heroes": {
 				"title": "ヒーロー",

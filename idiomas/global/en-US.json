@@ -1891,7 +1891,13 @@
 				"count": "{n} schematics",
 				"statTotal": "{n} schematics",
 				"statMax": "{n} at max level (130)",
-				"statSuper": "{n} supercharged (144)"
+				"statSuper": "{n} supercharged (144)",
+				"catSmg": "SMGs",
+				"sectionSmg": "SMGs",
+				"trapTodas": "All",
+				"trapSuelo": "Floor",
+				"trapPared": "Wall",
+				"trapTecho": "Ceiling"
 			},
 			"heroes": {
 				"title": "Heroes",

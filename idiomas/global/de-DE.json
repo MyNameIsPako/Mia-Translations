@@ -1909,7 +1909,13 @@
 				"count": "{n} Baupläne",
 				"statTotal": "{n} Baupläne",
 				"statMax": "{n} auf Max-Level (130)",
-				"statSuper": "{n} aufgeladen (144)"
+				"statSuper": "{n} aufgeladen (144)",
+				"catSmg": "MPs",
+				"sectionSmg": "MPs",
+				"trapTodas": "Alle",
+				"trapSuelo": "Boden",
+				"trapPared": "Wand",
+				"trapTecho": "Decke"
 			},
 			"heroes": {
 				"title": "Helden",

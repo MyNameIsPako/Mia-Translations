@@ -1890,7 +1890,13 @@
 				"count": "{n} schémas",
 				"statTotal": "{n} schémas",
 				"statMax": "{n} au niveau max (130)",
-				"statSuper": "{n} surchargés (144)"
+				"statSuper": "{n} surchargés (144)",
+				"catSmg": "Mitraillettes",
+				"sectionSmg": "Mitraillettes",
+				"trapTodas": "Toutes",
+				"trapSuelo": "Sol",
+				"trapPared": "Mur",
+				"trapTecho": "Plafond"
 			},
 			"heroes": {
 				"title": "Héros",

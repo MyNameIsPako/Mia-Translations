@@ -1924,7 +1924,13 @@
 				"count": "{n} esquemas",
 				"statTotal": "{n} esquemas",
 				"statMax": "{n} no nível máximo (130)",
-				"statSuper": "{n} supercarregados (144)"
+				"statSuper": "{n} supercarregados (144)",
+				"catSmg": "Submetralhadoras",
+				"sectionSmg": "Submetralhadoras",
+				"trapTodas": "Todas",
+				"trapSuelo": "Chão",
+				"trapPared": "Parede",
+				"trapTecho": "Teto"
 			},
 			"heroes": {
 				"title": "Heróis",
