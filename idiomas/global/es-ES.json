@@ -1609,7 +1609,7 @@
 				"msg24": "¿Que es?",
 				"msg25": "TaxiBot's de Mia es un servicio gratuito con funciones premium. Al invitar a una de las cuentas, tendrás acceso a las siguientes misiones:\n• <:venturas:1178884872597684356> 140\n• <:poder:1150566404253294683> 160",
 				"msg26": "¿Como lo uso?",
-				"msg27": "`1` Unete al servidor de [Mia Lounge](https://discord.gg/miabot)\n`2` Utiliza el comando **/registrar** para añadir tu cuenta a Mia\n`3` Utiliza el comando **/taxibot** para añadirte al sistema de TaxiBots.\n`4` Agrega a los bots.\n`5` Invita a un taxi desde BR\n`6` Cambia el modo a STW\n`7` Pon tu partida en privado y ¡a jugar!",
+				"msg27": "`1` Unete al servidor de [Mia Lounge](https://discord.gg/miabot)\n`2` Registra tu cuenta en Mia con **/registrar**\n`3` Agrega tu cuenta a los taxis con **/taxibot (activar)**\n`4` Agrega a algun bot.\n`5` Invita a un taxi.\n`6` Pon tu partida en no llenar y ¡a jugar!",
 				"msg28": "Cuentas no premium:",
 				"msg29": "`MiaTaxi [1-30]`\n> **• <:venturas:1178884872597684356> 140**\n> **• <:poder:1150566404253294683> 160**\n`MiaReverse [1]`\n> **• <:venturas:1178884872597684356> 1**\n> **• <:poder:1150566404253294683> 1**",
 				"msg30": "Cuentas premium:",
@@ -1669,7 +1669,7 @@
 				"msg84": "No hay taxis **disponibles** ahora, mira `/taxibot opción: Estado` o invita uno manualmente.",
 				"msg85": "No eres amigo de ningún taxi disponible, añade los taxibots de Mia desde la lista de estado.",
 				"msg86": "El taxi no pudo enviar la solicitud (¿estás en lobby con partida abierta?).",
-				"msg87": "🚫 Tienes que invitarme desde el lobby de BR no desde STW, ve a BR y invitame cuando lo hagas me uniré y podras ir a STW."
+				"msg87": "🚫 No pude unirme a tu party. Vuelve a invitarme cuando esté disponible."
 			},
 			"tiendastw": {
 				"msg1": "No se encontraron datos de las tiendas de STW",
