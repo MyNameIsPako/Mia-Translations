@@ -1188,7 +1188,8 @@
 				"msg5": "Nível baixo 50",
 				"msg6": "Trabalhadores:",
 				"msg7": "Heróis:",
-				"msg8": "Modificado:"
+				"msg8": "Modificado:",
+				"msg9": "Qual o poder da missao que queres?"
 			},
 			"root": {
 				"cmdDesc": "Introduz um código do painel de administrador.",

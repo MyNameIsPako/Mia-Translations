@@ -1154,7 +1154,8 @@
 				"msg5": "Low Level 50",
 				"msg6": "Workers:",
 				"msg7": "Heroes:",
-				"msg8": "Modified:"
+				"msg8": "Modified:",
+				"msg9": "Dime el poder de la mision que quieres?"
 			},
 			"root": {
 				"cmdDesc": "Introduce un codigo del panel de administrador.",

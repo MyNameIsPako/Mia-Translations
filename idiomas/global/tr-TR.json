@@ -1155,7 +1155,8 @@
 				"msg5": "Düşük Seviye 50",
 				"msg6": "İşçiler:",
 				"msg7": "Kahramanlar:",
-				"msg8": "Değiştirildi:"
+				"msg8": "Değiştirildi:",
+				"msg9": "Hangi gorev gucunu istiyorsun?"
 			},
 			"root": {
 				"cmdDesc": "Yönetici paneli kodunu gir.",

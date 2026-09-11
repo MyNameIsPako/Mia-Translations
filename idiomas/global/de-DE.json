@@ -1173,7 +1173,8 @@
 				"msg5": "Niedriges Level 50",
 				"msg6": "Arbeiter:",
 				"msg7": "Helden:",
-				"msg8": "Geändert:"
+				"msg8": "Geändert:",
+				"msg9": "Welche Missionsstaerke moechtest du?"
 			},
 			"root": {
 				"cmdDesc": "Gib einen Admin-Panel-Code ein.",

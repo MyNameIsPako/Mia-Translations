@@ -1188,7 +1188,8 @@
 				"msg5": "Livello basso 50",
 				"msg6": "Lavoratori:",
 				"msg7": "Eroi:",
-				"msg8": "Modificato:"
+				"msg8": "Modificato:",
+				"msg9": "Quale potere della missione vuoi?"
 			},
 			"root": {
 				"cmdDesc": "Inserisci un codice del pannello amministratore.",
