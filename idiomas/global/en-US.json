@@ -3013,7 +3013,45 @@
 				}
 			},
 			"eq": {
-				"msg1": "The schematic you provided could not be found."
+				"msg1": "The schematic you provided could not be found.",
+				"missing": "Missing {label}",
+				"incompleteTitle": "Incomplete data:",
+				"incompleteHint": "If you spot an error in the data, report it with `/reporte`.",
+				"passiveDesc": "passive description",
+				"build": "Build {n}:",
+				"buildWithNote": "Build {n} ({note}):",
+				"page": "Page {current}/{total}",
+				"nameLabel": "name",
+				"categoryLabel": "category",
+				"missingCategory": "Missing category",
+				"ammoLabel": "ammo",
+				"missingAmmo": "Missing ammo",
+				"ranged": "Ranged",
+				"melee": "Melee",
+				"trap": "Trap",
+				"missingPerk": "Missing perk",
+				"thumbnailLabel": "thumbnail",
+				"missingBuild": "Missing build {n} data",
+				"passive": "Passive:",
+				"passives": "Passives:",
+				"observation": "Note:",
+				"categories": {
+					"fusil de tirador": "Sniper rifle",
+					"fusil de asalto": "Assault rifle",
+					"arma explosiva": "Explosive weapon",
+					"pistola": "Pistol",
+					"subfusil": "SMG",
+					"escopeta": "Shotgun",
+					"hacha": "Axe",
+					"espada": "Sword",
+					"palo": "Club",
+					"guadaña": "Scythe",
+					"lanza": "Spear",
+					"herramienta": "Hardware",
+					"trampa de techo": "Ceiling trap",
+					"trampa de suelo": "Floor trap",
+					"trampa de pared": "Wall trap"
+				}
 			}
 		},
 		"lft": {

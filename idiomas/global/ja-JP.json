@@ -3047,7 +3047,45 @@
 				}
 			},
 			"eq": {
-				"msg1": "指定された図面は見つかりませんでした。"
+				"msg1": "指定した設計図が見つかりませんでした。",
+				"missing": "{label}がありません",
+				"incompleteTitle": "データが不完全です:",
+				"incompleteHint": "データに誤りがあれば `/reporte` で報告してください。",
+				"passiveDesc": "パッシブの説明",
+				"build": "Build {n}:",
+				"buildWithNote": "Build {n} ({note}):",
+				"page": "{current}/{total} ページ",
+				"nameLabel": "名前",
+				"categoryLabel": "カテゴリ",
+				"missingCategory": "カテゴリがありません",
+				"ammoLabel": "弾薬",
+				"missingAmmo": "弾薬がありません",
+				"ranged": "遠距離",
+				"melee": "近接",
+				"trap": "トラップ",
+				"missingPerk": "パークがありません",
+				"thumbnailLabel": "サムネイル",
+				"missingBuild": "Build {n} のデータがありません",
+				"passive": "パッシブ:",
+				"passives": "パッシブ:",
+				"observation": "メモ:",
+				"categories": {
+					"fusil de tirador": "スナイパーライフル",
+					"fusil de asalto": "アサルトライフル",
+					"arma explosiva": "爆発武器",
+					"pistola": "ピストル",
+					"subfusil": "SMG",
+					"escopeta": "ショットガン",
+					"hacha": "斧",
+					"espada": "剣",
+					"palo": "棍棒",
+					"guadaña": "鎌",
+					"lanza": "槍",
+					"herramienta": "ツール",
+					"trampa de techo": "天井トラップ",
+					"trampa de suelo": "床トラップ",
+					"trampa de pared": "壁トラップ"
+				}
 			}
 		},
 		"lft": {

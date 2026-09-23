@@ -3013,7 +3013,45 @@
 				}
 			},
 			"eq": {
-				"msg1": "El esquema que proporcionaste no se pudo encontrar."
+				"msg1": "El esquema que proporcionaste no se pudo encontrar.",
+				"missing": "Falta {label}",
+				"incompleteTitle": "Datos incompletos:",
+				"incompleteHint": "Si ves un error en los datos, repórtalo con `/reporte`.",
+				"passiveDesc": "descripción de pasiva",
+				"build": "Build {n}:",
+				"buildWithNote": "Build {n} ({note}):",
+				"page": "Pág. {current}/{total}",
+				"nameLabel": "nombre",
+				"categoryLabel": "categoría",
+				"missingCategory": "Falta categoría",
+				"ammoLabel": "munición",
+				"missingAmmo": "Falta munición",
+				"ranged": "A distancia",
+				"melee": "Cuerpo a cuerpo",
+				"trap": "Trampa",
+				"missingPerk": "Falta perk",
+				"thumbnailLabel": "miniatura",
+				"missingBuild": "Falta datos de build {n}",
+				"passive": "Pasiva:",
+				"passives": "Pasivas:",
+				"observation": "Observación:",
+				"categories": {
+					"fusil de tirador": "Fusil de tirador",
+					"fusil de asalto": "Fusil de asalto",
+					"arma explosiva": "Arma explosiva",
+					"pistola": "Pistola",
+					"subfusil": "Subfusil",
+					"escopeta": "Escopeta",
+					"hacha": "Hacha",
+					"espada": "Espada",
+					"palo": "Palo",
+					"guadaña": "Guadaña",
+					"lanza": "Lanza",
+					"herramienta": "Herramienta",
+					"trampa de techo": "Trampa de techo",
+					"trampa de suelo": "Trampa de suelo",
+					"trampa de pared": "Trampa de pared"
+				}
 			}
 		},
 		"lft": {

@@ -3031,7 +3031,45 @@
 				}
 			},
 			"eq": {
-				"msg1": "Das angegebene Schema konnte nicht gefunden werden."
+				"msg1": "Der angegebene Bauplan wurde nicht gefunden.",
+				"missing": "Fehlt {label}",
+				"incompleteTitle": "Unvollständige Daten:",
+				"incompleteHint": "Wenn du einen Fehler in den Daten siehst, melde ihn mit `/reporte`.",
+				"passiveDesc": "Passivbeschreibung",
+				"build": "Build {n}:",
+				"buildWithNote": "Build {n} ({note}):",
+				"page": "S. {current}/{total}",
+				"nameLabel": "Name",
+				"categoryLabel": "Kategorie",
+				"missingCategory": "Kategorie fehlt",
+				"ammoLabel": "Munition",
+				"missingAmmo": "Munition fehlt",
+				"ranged": "Fernkampf",
+				"melee": "Nahkampf",
+				"trap": "Falle",
+				"missingPerk": "Perk fehlt",
+				"thumbnailLabel": "Vorschaubild",
+				"missingBuild": "Build-{n}-Daten fehlen",
+				"passive": "Passiv:",
+				"passives": "Passive:",
+				"observation": "Hinweis:",
+				"categories": {
+					"fusil de tirador": "Scharfschützengewehr",
+					"fusil de asalto": "Sturmgewehr",
+					"arma explosiva": "Explosivwaffe",
+					"pistola": "Pistole",
+					"subfusil": "MP",
+					"escopeta": "Schrotflinte",
+					"hacha": "Axt",
+					"espada": "Schwert",
+					"palo": "Knüppel",
+					"guadaña": "Sense",
+					"lanza": "Speer",
+					"herramienta": "Werkzeug",
+					"trampa de techo": "Deckenfalle",
+					"trampa de suelo": "Bodenfalle",
+					"trampa de pared": "Wandfalle"
+				}
 			}
 		},
 		"lft": {

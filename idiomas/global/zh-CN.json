@@ -3047,7 +3047,45 @@
 				}
 			},
 			"eq": {
-				"msg1": "找不到你提供的图表。"
+				"msg1": "找不到你提供的图纸。",
+				"missing": "缺少{label}",
+				"incompleteTitle": "数据不完整：",
+				"incompleteHint": "如果发现数据错误，请使用 `/reporte` 报告。",
+				"passiveDesc": "被动说明",
+				"build": "Build {n}：",
+				"buildWithNote": "Build {n}（{note}）：",
+				"page": "第 {current}/{total} 页",
+				"nameLabel": "名称",
+				"categoryLabel": "类别",
+				"missingCategory": "缺少类别",
+				"ammoLabel": "弹药",
+				"missingAmmo": "缺少弹药",
+				"ranged": "远程",
+				"melee": "近战",
+				"trap": "陷阱",
+				"missingPerk": "缺少词条",
+				"thumbnailLabel": "缩略图",
+				"missingBuild": "缺少 Build {n} 数据",
+				"passive": "被动：",
+				"passives": "被动：",
+				"observation": "备注：",
+				"categories": {
+					"fusil de tirador": "狙击步枪",
+					"fusil de asalto": "突击步枪",
+					"arma explosiva": "爆炸武器",
+					"pistola": "手枪",
+					"subfusil": "冲锋枪",
+					"escopeta": "霰弹枪",
+					"hacha": "斧头",
+					"espada": "剑",
+					"palo": "棍棒",
+					"guadaña": "镰刀",
+					"lanza": "长矛",
+					"herramienta": "工具",
+					"trampa de techo": "天花板陷阱",
+					"trampa de suelo": "地板陷阱",
+					"trampa de pared": "墙壁陷阱"
+				}
 			}
 		},
 		"lft": {

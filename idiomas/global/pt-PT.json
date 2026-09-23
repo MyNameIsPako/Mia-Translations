@@ -3046,7 +3046,45 @@
 				}
 			},
 			"eq": {
-				"msg1": "O esquema que forneceste não foi encontrado."
+				"msg1": "O esquema que indicaste não foi encontrado.",
+				"missing": "Falta {label}",
+				"incompleteTitle": "Dados incompletos:",
+				"incompleteHint": "Se vires um erro nos dados, reporta com `/reporte`.",
+				"passiveDesc": "descrição da passiva",
+				"build": "Build {n}:",
+				"buildWithNote": "Build {n} ({note}):",
+				"page": "Pág. {current}/{total}",
+				"nameLabel": "nome",
+				"categoryLabel": "categoria",
+				"missingCategory": "Falta categoria",
+				"ammoLabel": "munição",
+				"missingAmmo": "Falta munição",
+				"ranged": "À distância",
+				"melee": "Corpo a corpo",
+				"trap": "Armadilha",
+				"missingPerk": "Falta perk",
+				"thumbnailLabel": "miniatura",
+				"missingBuild": "Faltam dados da build {n}",
+				"passive": "Passiva:",
+				"passives": "Passivas:",
+				"observation": "Observação:",
+				"categories": {
+					"fusil de tirador": "Espingarda de precisão",
+					"fusil de asalto": "Espingarda de assalto",
+					"arma explosiva": "Arma explosiva",
+					"pistola": "Pistola",
+					"subfusil": "Metralhadora",
+					"escopeta": "Caçadeira",
+					"hacha": "Machado",
+					"espada": "Espada",
+					"palo": "Porrete",
+					"guadaña": "Foice",
+					"lanza": "Lança",
+					"herramienta": "Ferramenta",
+					"trampa de techo": "Armadilha de teto",
+					"trampa de suelo": "Armadilha de chão",
+					"trampa de pared": "Armadilha de parede"
+				}
 			}
 		},
 		"lft": {

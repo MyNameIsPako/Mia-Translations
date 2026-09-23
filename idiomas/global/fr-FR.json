@@ -3012,7 +3012,45 @@
 				}
 			},
 			"eq": {
-				"msg1": "Le schéma que tu as fourni n'a pas pu être trouvé."
+				"msg1": "Le schéma fourni est introuvable.",
+				"missing": "Manque {label}",
+				"incompleteTitle": "Données incomplètes :",
+				"incompleteHint": "Si tu vois une erreur dans les données, signale-la avec `/reporte`.",
+				"passiveDesc": "description de passive",
+				"build": "Build {n} :",
+				"buildWithNote": "Build {n} ({note}) :",
+				"page": "Page {current}/{total}",
+				"nameLabel": "nom",
+				"categoryLabel": "catégorie",
+				"missingCategory": "Catégorie manquante",
+				"ammoLabel": "munitions",
+				"missingAmmo": "Munitions manquantes",
+				"ranged": "À distance",
+				"melee": "Corps à corps",
+				"trap": "Piège",
+				"missingPerk": "Perk manquant",
+				"thumbnailLabel": "miniature",
+				"missingBuild": "Données de build {n} manquantes",
+				"passive": "Passive :",
+				"passives": "Passives :",
+				"observation": "Observation :",
+				"categories": {
+					"fusil de tirador": "Fusil de précision",
+					"fusil de asalto": "Fusil d'assaut",
+					"arma explosiva": "Arme explosive",
+					"pistola": "Pistolet",
+					"subfusil": "Mitraillette",
+					"escopeta": "Fusil à pompe",
+					"hacha": "Hache",
+					"espada": "Épée",
+					"palo": "Massue",
+					"guadaña": "Faux",
+					"lanza": "Lance",
+					"herramienta": "Outil",
+					"trampa de techo": "Piège de plafond",
+					"trampa de suelo": "Piège de sol",
+					"trampa de pared": "Piège mural"
+				}
 			}
 		},
 		"lft": {
