@@ -3474,9 +3474,9 @@
 		"msg20": "Du hast keinen Zahlungsbeleg gesendet. Bitte versuche es erneut.",
 		"msg21": "Dein Kauf wird bearbeitet...",
 		"msg22": "Danke, dass du Mia Premium-Mitglied geworden bist. Deine Unterstützung bedeutet uns viel ♥️",
-		"msg23": "Hier ist dein Schlüssel",
+		"msg23": "Dein Premium ist jetzt auf deinem Konto aktiv.",
 		"msg24": "Viel Spaß damit!",
-		"msg25": "Der Schlüssel gilt für",
+		"msg25": "Das Abo gilt für",
 		"msg26": "30 Tage (Monatlich)",
 		"msg27": "365 Tage (Jährlich)",
 		"msg28": "Dein Kauf wurde erfolgreich verarbeitet.",
@@ -3523,7 +3523,8 @@
 		"msg69": "Du hast das Ticket erfolgreich abgebrochen",
 		"msg70": "Ticket abbrechen",
 		"msg71": "Preise:",
-		"msg72": "Monatliches Premium: **5€/Monat**\nJahresplan: **40€/Jahr**"
+		"msg72": "Monatliches Premium: **5€/Monat**\nJahresplan: **40€/Jahr**",
+		"msg73": "Dein Mia-Premium wurde widerrufen: der Zahlungsnachweis ist ungültig."
 	},
 	"api": {
 		"msg1": "Du hast bereits einen API-Schlüssel generiert.",

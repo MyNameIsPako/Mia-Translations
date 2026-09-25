@@ -3448,9 +3448,9 @@
 		"msg20": "You did not send a payment receipt. Please try again.",
 		"msg21": "Processing your purchase...",
 		"msg22": "Thank you for becoming a Mia premium member. Your support is very valuable to us ♥️",
-		"msg23": "Here is your key",
+		"msg23": "Your premium is now active on your account.",
 		"msg24": "Enjoy it!",
-		"msg25": "The key is for",
+		"msg25": "Your subscription is for",
 		"msg26": "30 days (Monthly)",
 		"msg27": "365 days (Annual)",
 		"msg28": "Your purchase has been successfully processed.",
@@ -3497,7 +3497,8 @@
 		"msg69": "You successfully canceled the ticket",
 		"msg70": "Cancel the ticket",
 		"msg71": "Prices:",
-		"msg72": "Monthly Premium: **5€/month**\nAnnual Plan: **40€/year**"
+		"msg72": "Monthly Premium: **5€/month**\nAnnual Plan: **40€/year**",
+		"msg73": "Your Mia premium has been revoked: the payment proof is not valid."
 	},
 	"api": {
 		"msg1": "You already have an API key generated.",

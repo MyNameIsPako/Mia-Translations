@@ -3457,9 +3457,9 @@
 		"msg20": "No enviaste un comprobante de pago. Por favor, intenta nuevamente.",
 		"msg21": "Procesando tu compra...",
 		"msg22": "Gracias por convertirte en premium de Mia. Tu apoyo es muy valioso para nosotros ♥️",
-		"msg23": "Aquí tienes tu key",
-		"msg24": "¡Disfrútala!",
-		"msg25": "La key es de",
+		"msg23": "Tu premium ya está activo en tu cuenta.",
+		"msg24": "¡Disfrútalo!",
+		"msg25": "La suscripción es de",
 		"msg26": "30 días (Mensual)",
 		"msg27": "365 días (Anual)",
 		"msg28": "Tu compra ha sido procesada correctamente.",
@@ -3506,7 +3506,8 @@
 		"msg69": "Cancelaste correctamente el ticket",
 		"msg70": "Cancelar el ticket",
 		"msg71": "Precios:",
-		"msg72": "Premium mensual: **5€/mes**\nPlan anual: **40€/año**"
+		"msg72": "Premium mensual: **5€/mes**\nPlan anual: **40€/año**",
+		"msg73": "Tu premium de Mia ha sido revocado: el comprobante de pago no es válido."
 	},
 	"api": {
 		"msg1": "Ya tienes una API key generada.",

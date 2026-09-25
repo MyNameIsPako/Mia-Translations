@@ -3523,9 +3523,9 @@
 		"msg20": "Non hai inviato una ricevuta di pagamento. Per favore, riprova.",
 		"msg21": "Elaborazione del tuo acquisto...",
 		"msg22": "Grazie per essere diventato un membro premium di Mia. Il tuo supporto è molto prezioso per noi ♥️",
-		"msg23": "Ecco la tua chiave",
-		"msg24": "Goditela!",
-		"msg25": "La chiave è valida per",
+		"msg23": "Il tuo premium è già attivo sul tuo account.",
+		"msg24": "Goditelo!",
+		"msg25": "L'abbonamento è di",
 		"msg26": "30 giorni (Mensile)",
 		"msg27": "365 giorni (Annuale)",
 		"msg28": "Il tuo acquisto è stato elaborato con successo.",
@@ -3572,7 +3572,8 @@
 		"msg69": "Hai annullato correttamente il ticket",
 		"msg70": "Annulla il ticket",
 		"msg71": "Prezzi:",
-		"msg72": "Premium mensile: **5€/mese**\nPiano annuale: **40€/anno**"
+		"msg72": "Premium mensile: **5€/mese**\nPiano annuale: **40€/anno**",
+		"msg73": "Il tuo premium di Mia è stato revocato: la prova di pagamento non è valida."
 	},
 	"api": {
 		"msg1": "Hai già una chiave API generata.",

@@ -3489,9 +3489,9 @@
 		"msg20": "Você não enviou um comprovante de pagamento. Por favor, tente novamente.",
 		"msg21": "Processando sua compra...",
 		"msg22": "Obrigado por se tornar um membro premium da Mia. Seu apoio é muito valioso para nós ♥️",
-		"msg23": "Aqui está sua chave",
-		"msg24": "Aproveite!",
-		"msg25": "A chave é válida por",
+		"msg23": "O teu premium já está ativo na tua conta.",
+		"msg24": "Desfruta!",
+		"msg25": "A assinatura é de",
 		"msg26": "30 dias (Mensal)",
 		"msg27": "365 dias (Anual)",
 		"msg28": "Sua compra foi processada com sucesso.",
@@ -3538,7 +3538,8 @@
 		"msg69": "Você cancelou o ticket com sucesso",
 		"msg70": "Cancelar o ticket",
 		"msg71": "Preços:",
-		"msg72": "Premium mensal: **5€/mês**\nPlano anual: **40€/ano**"
+		"msg72": "Premium mensal: **5€/mês**\nPlano anual: **40€/ano**",
+		"msg73": "O teu premium da Mia foi revogado: o comprovativo de pagamento não é válido."
 	},
 	"api": {
 		"msg1": "Você já tem uma chave API gerada.",

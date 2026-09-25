@@ -3455,9 +3455,9 @@
 		"msg20": "Vous n'avez pas envoyé de reçu de paiement. Veuillez réessayer.",
 		"msg21": "Traitement de votre achat...",
 		"msg22": "Merci de devenir membre premium de Mia. Votre soutien est très précieux pour nous ♥️",
-		"msg23": "Voici votre clé",
-		"msg24": "Profitez-en !",
-		"msg25": "La clé est valable pour",
+		"msg23": "Ton premium est maintenant actif sur ton compte.",
+		"msg24": "Profites-en !",
+		"msg25": "L'abonnement est de",
 		"msg26": "30 jours (Mensuel)",
 		"msg27": "365 jours (Annuel)",
 		"msg28": "Votre achat a été traité avec succès.",
@@ -3504,7 +3504,8 @@
 		"msg69": "Vous avez annulé le ticket avec succès",
 		"msg70": "Annuler le ticket",
 		"msg71": "Prix :",
-		"msg72": "Premium mensuel : **5€/mois**\nPlan annuel : **40€/an**"
+		"msg72": "Premium mensuel : **5€/mois**\nPlan annuel : **40€/an**",
+		"msg73": "Ton premium Mia a été révoqué : le justificatif de paiement n'est pas valide."
 	},
 	"api": {
 		"msg1": "Vous avez déjà une clé API générée.",

@@ -3421,9 +3421,9 @@
 		"msg20": "Ödeme makbuzu göndermediniz. Lütfen tekrar deneyin.",
 		"msg21": "Satın almanız işleniyor...",
 		"msg22": "Mia premium üyesi olduğunuz için teşekkürler. Desteğiniz bizim için çok değerli ♥️",
-		"msg23": "İşte anahtarınız",
-		"msg24": "Keyfini çıkarın!",
-		"msg25": "Anahtar süresi:",
+		"msg23": "Premium hesabında artık aktif.",
+		"msg24": "Keyfini çıkar!",
+		"msg25": "Abonelik süresi",
 		"msg26": "30 gün (Aylık)",
 		"msg27": "365 gün (Yıllık)",
 		"msg28": "Satın alma işleminiz başarıyla tamamlandı.",
@@ -3470,7 +3470,8 @@
 		"msg69": "Talebi başarıyla iptal ettiniz",
 		"msg70": "Talebi iptal et",
 		"msg71": "Fiyatlar:",
-		"msg72": "Aylık Premium: **5€/ay**\nYıllık Plan: **40€/yıl**"
+		"msg72": "Aylık Premium: **5€/ay**\nYıllık Plan: **40€/yıl**",
+		"msg73": "Mia premium'un iptal edildi: ödeme kanıtı geçerli değil."
 	},
 	"api": {
 		"msg1": "Zaten oluşturulmuş bir API anahtarınız var.",
