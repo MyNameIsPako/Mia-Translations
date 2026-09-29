@@ -1179,7 +1179,9 @@
 				"msg15": "**${ok}** Échangés, **${lobby}** Salle, **${fail}** Échoués",
 				"optVer": "Afficher l'image des codes du panneau admin.",
 				"imgTitle": "CODES PANNEAU ADMIN",
-				"msg16": "Aucun code a afficher."
+				"msg16": "Aucun code a afficher.",
+				"msg17": "Tu as déjà tous les codes actifs échangeables sur ce compte.",
+				"msg18": "${skipped} ignorés car tu les as déjà."
 			}
 		},
 		"partida": {
@@ -2605,6 +2607,21 @@
 					"launcher": "Mia Launcher",
 					"checker": "Mia Checker"
 				}
+			},
+			"enlaces": {
+				"title": "Liens utiles",
+				"web": "Site officiel",
+				"premium": "Premium",
+				"taxibots": "Taxi Bots",
+				"faq": "FAQ",
+				"api": "API",
+				"comandos": "Commandes",
+				"checker": "Mia Checker",
+				"checkerAnuncios": "Annonces Checker",
+				"kiosko": "El Kiosko",
+				"launcher": "Mia Launcher",
+				"terminos": "Conditions",
+				"privacidad": "Confidentialité"
 			}
 		},
 		"paneles": {

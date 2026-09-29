@@ -1213,7 +1213,9 @@
 				"msg15": "**${ok}** Riscattati, **${lobby}** Lobby, **${fail}** Falliti",
 				"optVer": "Mostra l'immagine dei codici del pannello admin.",
 				"imgTitle": "CODICI PANNELLO ADMIN",
-				"msg16": "Nessun codice da mostrare."
+				"msg16": "Nessun codice da mostrare.",
+				"msg17": "Hai già tutti i codici attivi riscattabili su questo account.",
+				"msg18": "${skipped} saltati perché li possiedi già."
 			}
 		},
 		"partida": {
@@ -2639,6 +2641,21 @@
 					"launcher": "Mia Launcher",
 					"checker": "Mia Checker"
 				}
+			},
+			"enlaces": {
+				"title": "Link utili",
+				"web": "Sito ufficiale",
+				"premium": "Premium",
+				"taxibots": "Taxi Bots",
+				"faq": "FAQ",
+				"api": "API",
+				"comandos": "Comandi",
+				"checker": "Mia Checker",
+				"checkerAnuncios": "Annunci Checker",
+				"kiosko": "El Kiosko",
+				"launcher": "Mia Launcher",
+				"terminos": "Termini",
+				"privacidad": "Privacy"
 			}
 		},
 		"paneles": {

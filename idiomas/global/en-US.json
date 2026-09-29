@@ -1180,7 +1180,9 @@
 				"msg15": "**${ok}** Redeemed, **${lobby}** Lobby, **${fail}** Failed",
 				"optVer": "Show the admin panel codes image.",
 				"imgTitle": "ADMIN PANEL CODES",
-				"msg16": "No codes to display."
+				"msg16": "No codes to display.",
+				"msg17": "You already have all redeemable active codes on this account.",
+				"msg18": "${skipped} skipped because you already own them."
 			}
 		},
 		"partida": {
@@ -2606,6 +2608,21 @@
 					"launcher": "Mia Launcher",
 					"checker": "Mia Checker"
 				}
+			},
+			"enlaces": {
+				"title": "Useful links",
+				"web": "Official website",
+				"premium": "Premium",
+				"taxibots": "Taxi Bots",
+				"faq": "FAQ",
+				"api": "API",
+				"comandos": "Commands",
+				"checker": "Mia Checker",
+				"checkerAnuncios": "Checker announcements",
+				"kiosko": "El Kiosko",
+				"launcher": "Mia Launcher",
+				"terminos": "Terms",
+				"privacidad": "Privacy"
 			}
 		},
 		"paneles": {

@@ -1214,7 +1214,9 @@
 				"msg15": "**${ok}** 引き換え, **${lobby}** ロビー, **${fail}** 失敗",
 				"optVer": "管理パネルコードの画像を表示します。",
 				"imgTitle": "管理パネルコード",
-				"msg16": "表示するコードがありません。"
+				"msg16": "表示するコードがありません。",
+				"msg17": "このアカウントでは引き換え可能な有効コードをすべて所持しています。",
+				"msg18": "すでに所持しているため ${skipped} 件をスキップしました。"
 			}
 		},
 		"partida": {
@@ -2640,6 +2642,21 @@
 					"launcher": "Mia Launcher",
 					"checker": "Mia Checker"
 				}
+			},
+			"enlaces": {
+				"title": "便利なリンク",
+				"web": "公式サイト",
+				"premium": "Premium",
+				"taxibots": "Taxi Bots",
+				"faq": "FAQ",
+				"api": "API",
+				"comandos": "コマンド",
+				"checker": "Mia Checker",
+				"checkerAnuncios": "Checker お知らせ",
+				"kiosko": "El Kiosko",
+				"launcher": "Mia Launcher",
+				"terminos": "利用規約",
+				"privacidad": "プライバシー"
 			}
 		},
 		"paneles": {

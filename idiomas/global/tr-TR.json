@@ -1180,7 +1180,9 @@
 				"msg15": "**${ok}** Kullanıldı, **${lobby}** Lobi, **${fail}** Başarısız",
 				"optVer": "Yonetici paneli kodlari goruntusunu goster.",
 				"imgTitle": "YONETICI PANELI KODLARI",
-				"msg16": "Gosterilecek kod yok."
+				"msg16": "Gosterilecek kod yok.",
+				"msg17": "Bu hesapta kullanılabilir tüm aktif kodlara zaten sahipsin.",
+				"msg18": "Zaten sahip olduğun için ${skipped} atlandı."
 			}
 		},
 		"partida": {
@@ -3012,6 +3014,21 @@
 				"unexpected": "Beklenmeyen bir hata oluştu, tekrar dene.",
 				"blacklisted": "kodun kara listede",
 				"btnAppeal": "Cezaya itiraz et"
+			},
+			"enlaces": {
+				"title": "Faydalı bağlantılar",
+				"web": "Resmi site",
+				"premium": "Premium",
+				"taxibots": "Taxi Bots",
+				"faq": "SSS",
+				"api": "API",
+				"comandos": "Komutlar",
+				"checker": "Mia Checker",
+				"checkerAnuncios": "Checker duyuruları",
+				"kiosko": "El Kiosko",
+				"launcher": "Mia Launcher",
+				"terminos": "Şartlar",
+				"privacidad": "Gizlilik"
 			}
 		},
 		"stw": {

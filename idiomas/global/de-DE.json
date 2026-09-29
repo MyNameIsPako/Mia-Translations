@@ -1198,7 +1198,9 @@
 				"msg15": "**${ok}** Eingelöst, **${lobby}** Lobby, **${fail}** Fehlgeschlagen",
 				"optVer": "Zeigt das Bild der Admin-Panel-Codes.",
 				"imgTitle": "ADMIN-PANEL-CODES",
-				"msg16": "Keine Codes zum Anzeigen."
+				"msg16": "Keine Codes zum Anzeigen.",
+				"msg17": "Du hast bereits alle einlösbaren aktiven Codes auf diesem Konto.",
+				"msg18": "${skipped} übersprungen, weil du sie bereits besitzt."
 			}
 		},
 		"partida": {
@@ -2624,6 +2626,21 @@
 					"launcher": "Mia Launcher",
 					"checker": "Mia Checker"
 				}
+			},
+			"enlaces": {
+				"title": "Nützliche Links",
+				"web": "Offizielle Website",
+				"premium": "Premium",
+				"taxibots": "Taxi Bots",
+				"faq": "FAQ",
+				"api": "API",
+				"comandos": "Befehle",
+				"checker": "Mia Checker",
+				"checkerAnuncios": "Checker-Ankündigungen",
+				"kiosko": "El Kiosko",
+				"launcher": "Mia Launcher",
+				"terminos": "Bedingungen",
+				"privacidad": "Datenschutz"
 			}
 		},
 		"paneles": {

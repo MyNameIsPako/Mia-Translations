@@ -1213,7 +1213,9 @@
 				"msg15": "**${ok}** Resgatados, **${lobby}** Sala, **${fail}** Falhados",
 				"optVer": "Mostrar a imagem dos codigos do painel admin.",
 				"imgTitle": "CODIGOS PAINEL ADMIN",
-				"msg16": "Sem codigos para mostrar."
+				"msg16": "Sem codigos para mostrar.",
+				"msg17": "Já tens todos os códigos ativos resgatáveis nesta conta.",
+				"msg18": "${skipped} omitidos porque já os tens."
 			}
 		},
 		"partida": {
@@ -2639,6 +2641,21 @@
 					"launcher": "Mia Launcher",
 					"checker": "Mia Checker"
 				}
+			},
+			"enlaces": {
+				"title": "Links úteis",
+				"web": "Site oficial",
+				"premium": "Premium",
+				"taxibots": "Taxi Bots",
+				"faq": "FAQ",
+				"api": "API",
+				"comandos": "Comandos",
+				"checker": "Mia Checker",
+				"checkerAnuncios": "Anúncios Checker",
+				"kiosko": "El Kiosko",
+				"launcher": "Mia Launcher",
+				"terminos": "Termos",
+				"privacidad": "Privacidade"
 			}
 		},
 		"paneles": {

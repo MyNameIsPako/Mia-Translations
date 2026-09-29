@@ -1214,7 +1214,9 @@
 				"msg15": "**${ok}** 已兑换, **${lobby}** 大厅, **${fail}** 失败",
 				"optVer": "显示管理面板代码图片。",
 				"imgTitle": "管理面板代码",
-				"msg16": "没有可显示的代码。"
+				"msg16": "没有可显示的代码。",
+				"msg17": "此账号已拥有全部可兑换的有效代码。",
+				"msg18": "已跳过 ${skipped} 个（你已拥有）。"
 			}
 		},
 		"partida": {
@@ -2611,6 +2613,21 @@
 					"launcher": "Mia Launcher",
 					"checker": "Mia Checker"
 				}
+			},
+			"enlaces": {
+				"title": "常用链接",
+				"web": "官方网站",
+				"premium": "Premium",
+				"taxibots": "Taxi Bots",
+				"faq": "FAQ",
+				"api": "API",
+				"comandos": "命令列表",
+				"checker": "Mia Checker",
+				"checkerAnuncios": "Checker 公告",
+				"kiosko": "El Kiosko",
+				"launcher": "Mia Launcher",
+				"terminos": "条款",
+				"privacidad": "隐私政策"
 			}
 		},
 		"rep": {

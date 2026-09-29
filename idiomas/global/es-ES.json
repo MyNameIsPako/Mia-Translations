@@ -1195,7 +1195,9 @@
 				"msg15": "**${ok}** Canjeados, **${lobby}** Sala, **${fail}** Fallidos",
 				"optVer": "Mostrar la imagen de los codigos del panel.",
 				"imgTitle": "CODIGOS PANEL ADMIN",
-				"msg16": "Sin codigos para mostrar."
+				"msg16": "Sin codigos para mostrar.",
+				"msg17": "Ya tienes todos los codigos activos canjeables en esta cuenta.",
+				"msg18": "${skipped} omitidos porque ya los tienes."
 			}
 		},
 		"partida": {
@@ -2634,6 +2636,21 @@
 					"launcher": "Mia Launcher",
 					"checker": "Mia Checker"
 				}
+			},
+			"enlaces": {
+				"title": "Enlaces de interés",
+				"web": "Web oficial",
+				"premium": "Premium",
+				"taxibots": "Taxi Bots",
+				"faq": "FAQ",
+				"api": "API",
+				"comandos": "Comandos",
+				"checker": "Mia Checker",
+				"checkerAnuncios": "Anuncios Checker",
+				"kiosko": "El Kiosko",
+				"launcher": "Mia Launcher",
+				"terminos": "Términos",
+				"privacidad": "Privacidad"
 			}
 		},
 		"paneles": {
