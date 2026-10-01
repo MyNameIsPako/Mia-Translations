@@ -2656,7 +2656,8 @@
 					"resultadoArchivada": "アーカイブ",
 					"resultadoArreglado": "修正済み",
 					"resultadoArchivado": "アーカイブ",
-					"resultadoActualizada": "更新"
+					"resultadoActualizada": "更新",
+					"nota": "> **チームからのメモ：** ${texto}"
 				},
 				"productos": {
 					"mia": "Mia",

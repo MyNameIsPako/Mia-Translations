@@ -2598,7 +2598,8 @@
 						"resultadoArchivada": "arşivlendi",
 						"resultadoArreglado": "düzeltildi",
 						"resultadoArchivado": "arşivlendi",
-						"resultadoActualizada": "güncellendi"
+						"resultadoActualizada": "güncellendi",
+						"nota": "> **Ekip notu:** ${texto}"
 					},
 					"productos": {
 						"mia": "Mia",

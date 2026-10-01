@@ -2640,7 +2640,8 @@
 					"resultadoArchivada": "archiviert",
 					"resultadoArreglado": "behoben",
 					"resultadoArchivado": "archiviert",
-					"resultadoActualizada": "aktualisiert"
+					"resultadoActualizada": "aktualisiert",
+					"nota": "> **Hinweis vom Team:** ${texto}"
 				},
 				"productos": {
 					"mia": "Mia",

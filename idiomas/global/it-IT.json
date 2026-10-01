@@ -2655,7 +2655,8 @@
 					"resultadoArchivada": "archiviata",
 					"resultadoArreglado": "risolto",
 					"resultadoArchivado": "archiviato",
-					"resultadoActualizada": "aggiornata"
+					"resultadoActualizada": "aggiornata",
+					"nota": "> **Nota del team:** ${texto}"
 				},
 				"productos": {
 					"mia": "Mia",

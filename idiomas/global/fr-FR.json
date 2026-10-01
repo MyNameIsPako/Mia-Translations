@@ -2621,7 +2621,8 @@
 					"resultadoArchivada": "archivée",
 					"resultadoArreglado": "corrigé",
 					"resultadoArchivado": "archivé",
-					"resultadoActualizada": "mise à jour"
+					"resultadoActualizada": "mise à jour",
+					"nota": "> **Note de l'équipe :** ${texto}"
 				},
 				"productos": {
 					"mia": "Mia",

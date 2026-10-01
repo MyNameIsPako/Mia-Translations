@@ -2627,7 +2627,8 @@
 					"resultadoArchivada": "已归档",
 					"resultadoArreglado": "已修复",
 					"resultadoArchivado": "已归档",
-					"resultadoActualizada": "已更新"
+					"resultadoActualizada": "已更新",
+					"nota": "> **团队备注：** ${texto}"
 				},
 				"productos": {
 					"mia": "Mia",
