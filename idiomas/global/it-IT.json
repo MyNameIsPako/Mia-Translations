@@ -2468,6 +2468,13 @@
 				"msg20": "Rete:",
 				"msg21": "Host:"
 			},
+			"aes": {
+				"title": "Chiavi AES",
+				"description": "Queste sono tutte le chiavi AES caricate in v${version}.",
+				"mainKey": "Chiave AES principale",
+				"empty": "Nessuna chiave AES disponibile al momento.",
+				"page": "Pag."
+			},
 			"fnestado": {
 				"msg1": "Operativo",
 				"msg2": "Prestazioni degradate",

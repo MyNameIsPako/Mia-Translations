@@ -2463,6 +2463,13 @@
 				"msg20": "Red:",
 				"msg21": "Host:"
 			},
+			"aes": {
+				"title": "Claves AES",
+				"description": "Estas son todas las claves AES cargadas en v${version}.",
+				"mainKey": "Clave AES principal",
+				"empty": "No hay claves AES disponibles ahora mismo.",
+				"page": "Pág."
+			},
 			"fnestado": {
 				"msg1": "Operativo",
 				"msg2": "Bajo rendimiento",

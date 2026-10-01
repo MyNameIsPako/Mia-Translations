@@ -2435,6 +2435,13 @@
 				"msg20": "Network:",
 				"msg21": "Host:"
 			},
+			"aes": {
+				"title": "AES keys",
+				"description": "These are all loaded AES keys in v${version}.",
+				"mainKey": "Main AES key",
+				"empty": "No AES keys available right now.",
+				"page": "Page"
+			},
 			"fnestado": {
 				"msg1": "Operational",
 				"msg2": "Degraded Performance",

@@ -2453,6 +2453,13 @@
 				"msg20": "Netzwerk:",
 				"msg21": "Host:"
 			},
+			"aes": {
+				"title": "AES-Schlüssel",
+				"description": "Das sind alle geladenen AES-Schlüssel in v${version}.",
+				"mainKey": "Haupt-AES-Schlüssel",
+				"empty": "Derzeit sind keine AES-Schlüssel verfügbar.",
+				"page": "Seite"
+			},
 			"fnestado": {
 				"msg1": "Betriebsbereit",
 				"msg2": "Eingeschränkte Leistung",

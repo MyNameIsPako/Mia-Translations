@@ -2469,6 +2469,13 @@
 				"msg20": "Ağ:",
 				"msg21": "Host:"
 			},
+			"aes": {
+				"title": "AES 密钥",
+				"description": "这些是 v${version} 中已加载的所有 AES 密钥。",
+				"mainKey": "主 AES 密钥",
+				"empty": "当前没有可用的 AES 密钥。",
+				"page": "页"
+			},
 			"fnestado": {
 				"msg1": "正常运行",
 				"msg2": "性能下降",

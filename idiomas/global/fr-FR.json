@@ -2434,6 +2434,13 @@
 				"msg20": "Réseau :",
 				"msg21": "Hôte :"
 			},
+			"aes": {
+				"title": "Clés AES",
+				"description": "Voici toutes les clés AES chargées en v${version}.",
+				"mainKey": "Clé AES principale",
+				"empty": "Aucune clé AES disponible pour le moment.",
+				"page": "Page"
+			},
 			"fnestado": {
 				"msg1": "Opérationnel",
 				"msg2": "Performance dégradée",

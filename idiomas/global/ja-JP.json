@@ -2469,6 +2469,13 @@
 				"msg20": "ネットワーク：",
 				"msg21": "ホスト："
 			},
+			"aes": {
+				"title": "AESキー",
+				"description": "v${version} で読み込まれているすべての AES キーです。",
+				"mainKey": "メインAESキー",
+				"empty": "現在利用可能な AES キーはありません。",
+				"page": "ページ"
+			},
 			"fnestado": {
 				"msg1": "稼働中",
 				"msg2": "パフォーマンス低下",
