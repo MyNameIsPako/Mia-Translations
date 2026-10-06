@@ -1,0 +1,115 @@
+{
+  "meta": {
+    "title": "Mia · API",
+    "description": "Fortnite ve Discord için Mia genel API belgeler: BR mağazası, STW uyarıları, varlıklar, Yönetim Paneli kodları ve daha fazlası. JavaScript, TypeScript, Python ve Java örnekleriyle net kimlik doğrulama ve limitler.",
+    "ogTitle": "Mia · API",
+    "ogDescription": "Fortnite ve Discord için Mia genel API belgeler: BR mağazası, STW uyarıları, varlıklar, Yönetim Paneli kodları ve daha fazlası. JavaScript, TypeScript, Python ve Java örnekleriyle net kimlik doğrulama ve limitler."
+  },
+  "hero": {
+    "title": "API belgeler",
+    "lead": "Fortnite ve Save the World’ü botuna entegre et. Tüm rotalar Mia API anahtarını ister. Desteklenen diller · varsayılan es-ES .",
+    "links": [
+      "Desteklenen diller"
+    ],
+    "copyBaseUrl": "Temel URL’yi kopyala",
+    "stats": [
+      "19 genel rota"
+    ]
+  },
+  "nav": {
+    "mobile": [
+      "Erişim",
+      "Diller",
+      "Planlar",
+      "Hesap",
+      "BR",
+      "STW"
+    ],
+    "sidebar": {
+      "title": "Bu sayfada",
+      "groups": [
+        {
+          "label": "Genel",
+          "links": [
+            "Kimlik doğrulama",
+            "Diller",
+            "Planlar ve limitler"
+          ],
+          "subLabels": []
+        },
+        {
+          "label": "API rotaları",
+          "links": [
+            "Rotaları gör"
+          ],
+          "subLabels": []
+        },
+        {
+          "label": "Epic hesabı",
+          "links": [
+            "Bölümü gör",
+            "Çevrimiçi oyuncu",
+            "Kalan hediyeler"
+          ],
+          "subLabels": []
+        },
+        {
+          "label": "Battle Royale",
+          "links": [
+            "Bölümü gör",
+            "BR mağazası",
+            "BR görseli",
+            "AES anahtarları",
+            "Kodlar"
+          ],
+          "subLabels": [
+            "Mağaza",
+            "AES",
+            "Admin Panel"
+          ]
+        },
+        {
+          "label": "Save the World",
+          "links": [
+            "Bölümü gör",
+            "STW varlığı",
+            "Kahraman",
+            "Şema",
+            "Hayatta kalan",
+            "Katalog",
+            "Tüm uyarılar",
+            "V-Bucks",
+            "Kategoriye göre",
+            "STW mağazası",
+            "STW görseli"
+          ],
+          "subLabels": [
+            "Varlıklar",
+            "Uyarılar",
+            "Mağaza"
+          ]
+        }
+      ]
+    }
+  },
+  "sections": {
+    "sec-auth": "Kimlik doğrulama",
+    "sec-locales": "Diller",
+    "sec-pricing": "Planlar ve limitler",
+    "sec-cuenta": "Epic hesabı",
+    "sec-br": "Battle Royale mağazası",
+    "sec-br-aes": "AES anahtarları",
+    "sec-br-admin": "Admin Panel",
+    "sec-stw-assets": "STW varlıkları",
+    "sec-stw-alertas": "STW uyarıları",
+    "sec-stw-tienda": "STW mağazası"
+  },
+  "bodyInclude": "api",
+  "ui": {
+    "localeTitle": "Diller",
+    "localeQuery": "İsteğe bağlı sorgu: <code>locale</code>, <code>lang</code> veya <code>idioma</code> · varsayılan <strong>es-ES</strong>",
+    "localeSeeAll": "Tüm dilleri gör",
+    "routesCount": "{count} rota",
+    "routesFiltered": "{total} rotadan {visible}"
+  }
+}

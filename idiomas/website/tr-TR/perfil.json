@@ -1,0 +1,179 @@
+{
+  "meta": {
+    "title": "Mia · STW Profili",
+    "description": "Mia ile oluşturulan genel Save the World profili: seviye, başarılar, MSK, kaynaklar, loadout, maceralar ve Fortnite hesap ilerlemesini paylaş veya incele.",
+    "ogTitle": "Mia · STW Profili",
+    "ogDescription": "Mia ile oluşturulan genel Save the World profili: seviye, başarılar, MSK, kaynaklar, loadout, maceralar ve Fortnite hesap ilerlemesini paylaş veya incele."
+  },
+  "hero": {
+    "title": "Oyuncu ara",
+    "subtitle": "Profilini görmek için yukarıya bir Epic adı yaz."
+  },
+  "badges": {
+    "aria": "Mia rozetleri",
+    "registered": "Mia’da kayıtlı",
+    "premium": "Mia Premium",
+    "booster": "Booster",
+    "founder": "Kurucu"
+  },
+  "tabs": {
+    "aria": "Profil bölümleri",
+    "resumen": "Özet",
+    "logros": "Başarılar",
+    "msk": "Efsanevi Fırtına Kralı",
+    "investigacion": "Araştırma",
+    "recursos": "Kaynaklar",
+    "equipamiento": "Ekipman",
+    "aventuras": "Maceralar"
+  },
+  "resumen": {
+    "research": "Araştırma",
+    "book": "Kitap ve ekstralar",
+    "achievements": "Başarı öne çıkanları"
+  },
+  "logros": {
+    "banners": "Banner görevleri"
+  },
+  "msk": {
+    "weekly": "Haftalık görev",
+    "mythics": "Efsanevi silahlar"
+  },
+  "recursos": {
+    "perks": "Perk’ler:",
+    "elementals": "Elemental perk’ler:",
+    "flux": "Flux ve efsanevi flux:",
+    "evolution": "Evrim malzemeleri:",
+    "xp": "Deneyim:",
+    "manuals": "Kılavuzlar:",
+    "superchargers": "Süper şarjlar:",
+    "tickets": "Biletler/Ticket’lar:",
+    "misc": "Diğer:",
+    "boosts": "Boost’lar:"
+  },
+  "loadout": {
+    "empty": "Bu profilde görünen genel bir loadout yok."
+  },
+  "aventuras": {
+    "empty": "Henüz macera oynamadı",
+    "title": "Maceralar"
+  },
+  "runtime": {
+    "loading": "Yükleniyor",
+    "capturing": "Yakalanıyor",
+    "captureError": "Ekran görüntüsü oluşturulamadı. Tekrar dene.",
+    "loadFailedTitle": "Yüklenemedi",
+    "updatedAt": "Güncellendi {date}",
+    "yes": "Evet",
+    "no": "Hayır",
+    "errors": {
+      "generic": "Herkese açık profil alınamadı. Tekrar dene.",
+      "private": "Bu profil gizli. Oyuncudan Fortnite’ta herkese açık yapmasını iste: Ayarlar → Hesap ve Gizlilik → Herkese Açık Profil.",
+      "notFound": "Bu Epic Games hesabı bulunamadı.",
+      "apiDown": "Mia API’sine bağlanılamadı. Yereldeysen botun API açık şekilde çalıştığından emin ol (port 25665).",
+      "loadFailed": "Profil yüklenemedi",
+      "miaApiMissing": "MiaApi kullanılamıyor"
+    },
+    "stats": {
+      "commanderLevel": "Komutan seviyesi",
+      "daysLoggedIn": "Giriş yapılan günler",
+      "msk": "MSK",
+      "notPlayed": "Oynanmadı"
+    },
+    "loadout": {
+      "equipments": "Ekipmanlar",
+      "active": "Aktif",
+      "heroesCount": "{count} kahraman",
+      "teamPerk": "Takım avantajı",
+      "supportTeam": "Destek ekibi",
+      "gadgets": "Gadgetler",
+      "hero": "Kahraman",
+      "player": "Oyuncu",
+      "common": "Yaygın",
+      "download": "Kartı indir"
+    },
+    "achievements": {
+      "gnomes": "Cüceleri yok et",
+      "survivors": "Koruyucu melek",
+      "chests": "Açılan sandıklar",
+      "playWithOthers": "Başkalarıyla oyna",
+      "builds": "Yetenekli inşaatçı",
+      "mistMonsters": "Sis canavarları yok edildi",
+      "zones": "Tamamlanan bölgeler"
+    },
+    "research": {
+      "offense": "Hücum",
+      "fortitude": "Dayanıklılık",
+      "resistance": "Direnç",
+      "technology": "Teknoloji",
+      "points": "Araştırma puanları"
+    },
+    "book": {
+      "level": "Koleksiyon kitabı seviyesi",
+      "mtxSpent": "Kitaba harcanan",
+      "revisions": "Revizyonlar",
+      "matches": "Maçlar"
+    },
+    "msk": {
+      "completions": "MSK tamamlamaları",
+      "weeklyNone": "Haftalık görevin yok.",
+      "scHero": "Kahraman Süperşarjörü",
+      "scTrap": "Tuzak Süperşarjörü",
+      "scWeapon": "Silah Süperşarjörü",
+      "scSurvivor": "Kurtulan Süperşarjörü"
+    },
+    "ventures": {
+      "ends": "Biter: {date}",
+      "levelXp": "Seviye {level} · {xp} XP",
+      "nextLevel": "Sonraki seviye ({level}) — {progress}/{span} ({pct}%)",
+      "xpToMax": "50. seviyeye {xp} ({pct}%) {icon} kaldı",
+      "nextZone": "Sonraki bölge: {power}",
+      "nextReward": "Sonraki ödül ({level}): {text}",
+      "nextTopReward": "Sonraki üst ödül ({level}): {text}",
+      "maxLevel": "Maksimum macera seviyesine ulaşıldı",
+      "emptyMissions": "Herkese açık profilde görünür aktif görev yok."
+    },
+    "resources": {
+      "mythicFury": "Fırtına Kralı’nın Öfkesi",
+      "mythicOnslaught": "Fırtına Kralı’nın Taarruzu",
+      "mythicRavager": "Fırtına Kralı’nın Tahripçisi",
+      "mythicScourge": "Fırtına Kralı’nın Belası",
+      "mythicWrath": "Fırtına Kralı’nın Gazabı",
+      "perkLegendary": "Efsanevi AVANTAJ!",
+      "perkEpic": "Epik AVANTAJ!",
+      "perkRare": "Nadir AVANTAJ!",
+      "perkUncommon": "Sıra dışı AVANTAJ!",
+      "fire": "Ateş",
+      "water": "Su",
+      "nature": "Doğa",
+      "fluxLegendary": "Efsanevi Akış",
+      "fluxEpic": "Epik Akış",
+      "fluxRare": "Nadir Akış",
+      "generic": "AVANTAJ",
+      "rain": "Saf yağmur damlaları",
+      "lightning": "Şişede şimşek",
+      "eye": "Fırtınanın gözü",
+      "shard": "Fırtına parçası",
+      "schematicXp": "Şema XP",
+      "survivorXp": "Kurtulan XP",
+      "heroXp": "Kahraman XP",
+      "ventureXp": "Macera XP",
+      "manualSurvivor": "Kurtulan kılavuzları",
+      "manualSchematic": "Şema kılavuzları",
+      "manualTraps": "Tuzak kılavuzları",
+      "scSurvivors": "Kurtulan süperşarjörleri",
+      "scHeroes": "Kahraman süperşarjörleri",
+      "scWeapons": "Silah süperşarjörleri",
+      "scTraps": "Tuzak süperşarjörleri",
+      "evolutionChip": "Evrim çipi",
+      "voucherWeapon": "Silah kuponu",
+      "voucherHero": "Kahraman kuponu",
+      "eventTickets": "Etkinlik biletleri",
+      "gold": "Altın",
+      "llamas": "Mini lamalar",
+      "legendaryLlamas": "Efsanevi lamalar",
+      "xray": "X-ışını biletleri",
+      "boostPersonal": "XP güçlendirici",
+      "boostTeam": "Takım arkadaşı XP güçlendirici"
+    }
+  }
+}

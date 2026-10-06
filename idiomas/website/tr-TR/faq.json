@@ -1,0 +1,340 @@
+{
+  "meta": {
+    "title": "Mia · FAQ",
+    "description": "Discord ve Fortnite için resmi Mia Bot SSS: Premium alma, Epic hesabı kaydetmenin güvenliği, TaxiBots, genel API, Mia Launcher, Mia Checker, STW profil yenileme ve destek.",
+    "ogTitle": "Mia · FAQ",
+    "ogDescription": "Resmi Mia Bot SSS: Premium, güvenlik, TaxiBots, API, Launcher, Checker ve Discord desteği."
+  },
+  "hero": {
+    "kicker": "Yardım merkezi",
+    "title": "Sık sorulan sorular",
+    "lead": "Mia güvenilir ve şeffaf bir topluluk botudur. Veri satmıyoruz ve gizli bir şey yok: yalnızca bot ve launcher için gerekli olan saklanır; /borrar ile (Auth dahil) istediğin zaman silebilirsin. Aşağıda ara veya kategori seç."
+  },
+  "search": {
+    "placeholder": "Soru veya anahtar kelime ara…",
+    "aria": "SSS'de ara",
+    "empty": "Sonuç yok. Başka kelimeler dene veya kategori değiştir.",
+    "resultsOne": "1 sonuç",
+    "resultsMany": "{n} sonuç"
+  },
+  "categories": [
+    "Genel",
+    "Hesaplar",
+    "Premium",
+    "API",
+    "TaxiBots",
+    "Araçlar"
+  ],
+  "categoriesAria": "SSS kategorileri",
+  "panels": {
+    "General": "Mia nedir, nasıl davet edilir ve temel destek.",
+    "Cuentas": "Kayıt, güvenlik ve Mia'nın Epic hesabın hakkında sakladığı veriler.",
+    "Premium": "Discord planları, ödemeler ve Mia Premium özel avantajları.",
+    "API": "Anahtarlar, kullanım limitleri ve geliştiriciler için API Premium planı.",
+    "Herramientas": "Launcher, Checker, STW uyarıları, profil, Admin Panel ve web'de daha fazlası.",
+    "TaxiBots": "STW görevleri ve Battle Royale bot lobby erişimi."
+  },
+  "cta": {
+    "title": "Hâlâ soruların mı var?",
+    "lead": "Cevabı bulamazsan ekip ve topluluk Discord'da yardımcı olur.",
+    "button": "Destek sunucusuna katıl"
+  },
+  "bodyInclude": "faq",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Mia nedir?",
+      "answer": "Mia, Fortnite odaklı bir Discord botudur: hesabını yönet, envanterini gör, sunucun için otomatik feed kur ve daha fazlası — doğrudan Discord'dan."
+    },
+    {
+      "id": 2,
+      "question": "Mia'yı sunucuma nasıl eklerim?",
+      "answer": "Ana sayfadaki \"Mia'yı Kur!\" veya buraya  tıkla. Sunucuda yönetici izni gerekir."
+    },
+    {
+      "id": 3,
+      "question": "Hangi komutları kullanabilirim?",
+      "answer": "Fortnite hesabı ve sunucu için birçok komut. Tam liste komutlar sayfasında veya Discord'da /ayuda ."
+    },
+    {
+      "id": 4,
+      "question": "Bug nasıl bildirilir?",
+      "answer": "Mia Lounge'a katıl, destek  kanalında ticket aç veya #💬〕general yaz. Geliştiriciler inceler."
+    },
+    {
+      "id": 5,
+      "question": "Mia dilini değiştirebilir miyim?",
+      "answer": "Evet, /idiomas ile gör. Eksikse Mia Lounge #💬〕general öner."
+    },
+    {
+      "id": 6,
+      "question": "Mia ücretsiz mi?",
+      "answer": "Evet, birçok özellik ücretsiz. Mia Premium otomasyon ve daha fazla hesap açar; başlamak için şart değil. Premium ."
+    },
+    {
+      "id": 7,
+      "question": "Destek Discord nerede?",
+      "answer": "Resmi sunucu discord.gg/miabot (Mia Lounge). #💬〕general — topluluk Destek — ticket Eğitimler — rehberler"
+    },
+    {
+      "id": 8,
+      "question": "Mia Launcher nedir?",
+      "answer": "Resmi masaüstü uygulama: çoklu hesap, STW uyarıları, mağaza. Discord Premium varsa launcher'da Discord giriş — tekrar ödeme yok."
+    },
+    {
+      "id": 9,
+      "question": "Mia Checker nedir?",
+      "answer": "Telegram Fortnite hesap checker'ı. Kendi şartları  var. Discord botunun yerini tutmaz."
+    },
+    {
+      "id": 10,
+      "question": "Admin Panel / Lobby Hack kodları?",
+      "answer": "Web: Admin Panel . API rotası API (API anahtarı gerekir)."
+    },
+    {
+      "id": 11,
+      "question": "Ruhlar izleyici nedir?",
+      "answer": "Fortnite ruhlarını (Sprites) işaretle/filtrele: Ruhlar ."
+    },
+    {
+      "id": 12,
+      "question": "Mia DM'de mi sadece sunucuda mı?",
+      "answer": "Birçok komut DM ve davetli sunucularda. Bazıları (/dupe, TaxiBots) resmi Mia Lounge ister."
+    },
+    {
+      "id": 13,
+      "question": "Slash komutlar neden görünmüyor?",
+      "answer": "/ yaz, Discord'un Mia komutlarını yüklemesini bekle. Bot sunucuda ve uygulama komut izni var mı kontrol et. Yeni davetten sonra bekle veya Discord'u yeniden başlat. Komutlar veya /ayuda ."
+    },
+    {
+      "id": 14,
+      "question": "Konsolda (PS, Xbox, Switch) kullanılır mı?",
+      "answer": "Mia Discord'da çalışır, konsol içinde değil. Konsol Fortnite hesabını /registrar ile bağla — Epic API."
+    },
+    {
+      "id": 15,
+      "question": "Mia'ya neden güvenmeliyim?",
+      "answer": "Güvenilir ve şeffaf bot; Save the World topluluğu için. Veri satışı yok. /borrar (Auth dahil) ile sil. Hassas özelliklerde uyarı ve onay."
+    },
+    {
+      "id": 16,
+      "question": "Mia verimi satar mı?",
+      "answer": "Hayır. #💬〕general veya destek ."
+    },
+    {
+      "id": 17,
+      "question": "Hesabımı nasıl kaydederim?",
+      "answer": "Discord'da /registrar . Mia yönlendirir."
+    },
+    {
+      "id": 18,
+      "question": "Kayıt güvenli mi?",
+      "answer": "Evet: Epic şifresi istenmez/saklanmaz . Resmi device auth; AccountID, DeviceID, Secret özel DB'de. /borrar ile sil."
+    },
+    {
+      "id": 19,
+      "question": "Bağlantıyı nasıl kaldırırım?",
+      "answer": "/borrar kimlik bilgilerini ve Auth'u siler."
+    },
+    {
+      "id": 20,
+      "question": "Hesabım ban yer mi?",
+      "answer": "Risk var ama çok nadir. Epic TOS üçüncü taraf uygulamaları yasaklar; 8 yılda Discord bot banı yok. 100.000+ kullanıcı."
+    },
+    {
+      "id": 21,
+      "question": "Mia hangi verileri saklar?",
+      "answer": "AccountID , DeviceID , Secret ile Auth; accessToken ve Fortnite API için gerekli."
+    },
+    {
+      "id": 22,
+      "question": "Epic şifresi saklanır mı?",
+      "answer": "Hayır. Sadece device auth."
+    },
+    {
+      "id": 23,
+      "question": "Birden fazla Fortnite hesabı?",
+      "answer": "Evet. Ücretsizde limit; Premium'da çok daha fazla. /cuentas veya /cambiar ."
+    },
+    {
+      "id": 24,
+      "question": "/registrar başarısız veya Auth bitti?",
+      "answer": "/borrar sonra /registrar . /refrescar bağlantıyı düzeltmez. Tekrar olursa destek  ticket."
+    },
+    {
+      "id": 25,
+      "question": "Kayıt olmadan kullanılır mı?",
+      "answer": "Herkese açık şeyler için evet. Epic hesabı yönetimi için /registrar ."
+    },
+    {
+      "id": 26,
+      "question": "/refrescar nedir?",
+      "answer": "Auth yenilemez. STW/BR görev/profil yeniler. Auth bozuksa /borrar ve /registrar ."
+    },
+    {
+      "id": 27,
+      "question": "Epic şifre değişti veya oturum kapandı?",
+      "answer": "Auth geçersiz. /borrar ve /registrar . /refrescar işe yaramaz."
+    },
+    {
+      "id": 28,
+      "question": "Mia Premium avantajları?",
+      "answer": "Otomasyonlar: ücretsiz lamalar, günlük değiştirme. Mia Launcher ile paylaşımlı . Premium ."
+    },
+    {
+      "id": 29,
+      "question": "Premium Launcher'da da mı?",
+      "answer": "Evet, aynı abonelik. Discord giriş otomatik aktive eder."
+    },
+    {
+      "id": 30,
+      "question": "Premium nasıl alınır?",
+      "answer": "Premium sayfası veya Mia Lounge. Boost = booster avantajları. 5€/ay'dan ."
+    },
+    {
+      "id": 31,
+      "question": "Ödeme yöntemleri?",
+      "answer": "PayPal, Revolut, Bitcoin, Litecoin, USDT."
+    },
+    {
+      "id": 32,
+      "question": "İade?",
+      "answer": "Satın alma sonrası iade yok. PayPal itiraz = kalıcı ban."
+    },
+    {
+      "id": 33,
+      "question": "Premium nerede?",
+      "answer": "miadsc.xyz/tr-TR/premium veya Mia Lounge ."
+    },
+    {
+      "id": 34,
+      "question": "Premium fiyatı?",
+      "answer": "5€/ay'dan . Premium ."
+    },
+    {
+      "id": 35,
+      "question": "Premium bitince?",
+      "answer": "Ücretsiz plana dönersin; otomasyonlar gider. Kayıtlı hesaplar silinmez."
+    },
+    {
+      "id": 36,
+      "question": "Discord Boost = ücretli Premium?",
+      "answer": "Tam değil. Premium ."
+    },
+    {
+      "id": 37,
+      "question": "Premium kullanıcı mı sunucu mu?",
+      "answer": "Discord kullanıcısı. Sunucu ayarları /config servidor ."
+    },
+    {
+      "id": 38,
+      "question": "Discord'da feed kurulur mu?",
+      "answer": "Sahip /config servidor kullanır. Premium ile daha fazla özelleştirme."
+    },
+    {
+      "id": 39,
+      "question": "Vitalicio veya uzun planlar?",
+      "answer": "Premium ; sorular destek ."
+    },
+    {
+      "id": 40,
+      "question": "Mia genel API nedir?",
+      "answer": "Fortnite REST API: BR mağaza, STW uyarıları… API ."
+    },
+    {
+      "id": 41,
+      "question": "API anahtarı?",
+      "answer": "Discord /api crear . Authorization . Paylaşma."
+    },
+    {
+      "id": 42,
+      "question": "API hata bildirimi?",
+      "answer": "Mia Lounge, destek , #💬〕general . Endpoint ve kod (tam anahtar yok)."
+    },
+    {
+      "id": 43,
+      "question": "API anahtarı gerekli mi?",
+      "answer": "Evet ( Authorization: Bearer mia_… ). /api crear ."
+    },
+    {
+      "id": 44,
+      "question": "API dokümantasyonu?",
+      "answer": "miadsc.xyz/tr-TR/api ."
+    },
+    {
+      "id": 45,
+      "question": "API anahtarı paylaşılır mı?",
+      "answer": "Hayır. Şifre gibi."
+    },
+    {
+      "id": 46,
+      "question": "Anahtar çalındı/iptal?",
+      "answer": "/api revisar . Yeni /api crear ."
+    },
+    {
+      "id": 47,
+      "question": "Mia Launcher indir? Güncelleme zorunlu mu?",
+      "answer": "Mia Launcher (GitHub Releases) Windows kurulum. Prod'da giriş sonrası güncelleme genelde zorunlu."
+    },
+    {
+      "id": 48,
+      "question": "Checker = Discord bot?",
+      "answer": "Hayır. Ayrı Telegram ürünü."
+    },
+    {
+      "id": 49,
+      "question": "Checker ile al-sat güvenli mi?",
+      "answer": "Epic kuralları riski var. Checker şartları, kendi sorumluluğun."
+    },
+    {
+      "id": 50,
+      "question": "Bugünkü STW uyarıları?",
+      "answer": "Web: Alertas . Discord feed de olabilir."
+    },
+    {
+      "id": 51,
+      "question": "Herkese açık STW profili?",
+      "answer": "İsim/accountId ile public profil. Oyunda gizliyse görünmez."
+    },
+    {
+      "id": 52,
+      "question": "Admin Panel kodları Epic resmi mi?",
+      "answer": "Mia listesi. Epic ile bağlantılı değil . Resmi akışta kullan. Admin Panel ."
+    },
+    {
+      "id": 53,
+      "question": "En güvenli İspanyolca checker?",
+      "answer": "\"Dünyanın en güvenlisi\" denemez. Şeffaf süreç, kimlik bilgisi silinir."
+    },
+    {
+      "id": 54,
+      "question": "Checker Auth saklar mı?",
+      "answer": "Check Auth saklanmaz. Discord bot /borrar ."
+    },
+    {
+      "id": 55,
+      "question": "TaxiBots nedir?",
+      "answer": "STW yüksek PL görevleri ve BR bot lobby için otomatik hesaplar."
+    },
+    {
+      "id": 56,
+      "question": "TaxiBot kullanımı?",
+      "answer": "Mia Lounge . /registrar . /taxibot (activar). Bot ekle. Taxi davet. Doldurma kapalı oyna. taxibots ."
+    },
+    {
+      "id": 57,
+      "question": "TaxiBots güvenli mi?",
+      "answer": "Evet, meşru istemciye bağlı gerçek hesaplar."
+    },
+    {
+      "id": 58,
+      "question": "Premium gerekli mi?",
+      "answer": "Temel akış Mia Lounge'da; Premium genişletir. TaxiBots ."
+    },
+    {
+      "id": 59,
+      "question": "TaxiBots = botlobbies?",
+      "answer": "Hayır. STW vs BR ayrı. taxibots ."
+    }
+  ]
+}

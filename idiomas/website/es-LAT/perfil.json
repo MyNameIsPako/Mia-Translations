@@ -1,0 +1,179 @@
+{
+  "meta": {
+    "title": "Mia · Perfil STW",
+    "description": "Perfil público de Save the World generado con Mia: nivel, logros, MSK, recursos, loadout, aventuras y progreso de tu cuenta de Fortnite para compartir o consultar.",
+    "ogTitle": "Mia · Perfil STW",
+    "ogDescription": "Perfil público de Save the World generado con Mia: nivel, logros, MSK, recursos, loadout, aventuras y progreso de tu cuenta de Fortnite para compartir o consultar."
+  },
+  "hero": {
+    "title": "Busca un jugador",
+    "subtitle": "Escribe un nombre de Epic arriba para ver su perfil."
+  },
+  "badges": {
+    "aria": "Insignias Mia",
+    "registered": "Registrado en Mia",
+    "premium": "Mia Premium",
+    "booster": "Booster",
+    "founder": "Fundador"
+  },
+  "tabs": {
+    "aria": "Secciones del perfil",
+    "resumen": "Resumen",
+    "logros": "Logros",
+    "msk": "Rey mítico",
+    "investigacion": "Investigación",
+    "recursos": "Recursos",
+    "equipamiento": "Equipamiento",
+    "aventuras": "Aventuras"
+  },
+  "resumen": {
+    "research": "Investigación",
+    "book": "Libro y extras",
+    "achievements": "Destacados de logros"
+  },
+  "logros": {
+    "banners": "Desafíos de banners"
+  },
+  "msk": {
+    "weekly": "Misión semanal",
+    "mythics": "Armas míticas"
+  },
+  "recursos": {
+    "perks": "Perks:",
+    "elementals": "Perks Elementales:",
+    "flux": "Flujos & Ventajistas:",
+    "evolution": "Mats. Evolución:",
+    "xp": "Experiencia:",
+    "manuals": "Manuales:",
+    "superchargers": "Supercargadores:",
+    "tickets": "Billetes/Tickets:",
+    "misc": "Varios:",
+    "boosts": "Boost's:"
+  },
+  "loadout": {
+    "empty": "Este perfil no tiene loadout público visible."
+  },
+  "aventuras": {
+    "empty": "Aún no ha jugado aventuras",
+    "title": "Aventuras"
+  },
+  "runtime": {
+    "loading": "Cargando",
+    "capturing": "Capturando",
+    "captureError": "No se pudo crear la captura. Inténtalo de nuevo.",
+    "loadFailedTitle": "No se pudo cargar",
+    "updatedAt": "Actualizado {date}",
+    "yes": "Sí",
+    "no": "No",
+    "errors": {
+      "generic": "No se pudo obtener el perfil público. Inténtalo de nuevo.",
+      "private": "Este perfil es privado. Pedile al jugador que lo ponga público en Fortnite: Ajustes → Cuenta y privacidad → Perfil público.",
+      "notFound": "No se encontró esa cuenta de Epic Games.",
+      "apiDown": "No se pudo conectar con la API de Mia. Si estás en local, asegúrate de que el bot esté en marcha con la API activa (puerto 25665).",
+      "loadFailed": "No se pudo cargar el perfil",
+      "miaApiMissing": "MiaApi no está disponible"
+    },
+    "stats": {
+      "commanderLevel": "Nivel de comandante",
+      "daysLoggedIn": "Días logueados",
+      "msk": "MSK",
+      "notPlayed": "Sin jugar"
+    },
+    "loadout": {
+      "equipments": "Equipamientos",
+      "active": "Activo",
+      "heroesCount": "{count} héroes",
+      "teamPerk": "Ventaja de equipo",
+      "supportTeam": "Equipo de soporte",
+      "gadgets": "Gadgets",
+      "hero": "Héroe",
+      "player": "Jugador",
+      "common": "Común",
+      "download": "Descargar card"
+    },
+    "achievements": {
+      "gnomes": "Destruye gnomos",
+      "survivors": "Ángel guardián",
+      "chests": "Cofres abiertos",
+      "playWithOthers": "Juega con otros",
+      "builds": "Constructor talentoso",
+      "mistMonsters": "Brumas eliminados",
+      "zones": "Zonas completadas"
+    },
+    "research": {
+      "offense": "Ofensiva",
+      "fortitude": "Fortaleza",
+      "resistance": "Resistencia",
+      "technology": "Tecnología",
+      "points": "Puntos de investigación"
+    },
+    "book": {
+      "level": "Nivel del libro",
+      "mtxSpent": "Gastado en el libro",
+      "revisions": "Revisiones",
+      "matches": "Partidas"
+    },
+    "msk": {
+      "completions": "MSK completados",
+      "weeklyNone": "No tienes ninguna semanal.",
+      "scHero": "Supercargador de Héroe",
+      "scTrap": "Supercargador de Trampas",
+      "scWeapon": "Supercargador de Armas",
+      "scSurvivor": "Supercargador de Supervivientes"
+    },
+    "ventures": {
+      "ends": "Termina: {date}",
+      "levelXp": "Nivel {level} · {xp} XP",
+      "nextLevel": "Siguiente nivel ({level}) — {progress}/{span} ({pct}%)",
+      "xpToMax": "Faltan {xp} ({pct}%) {icon} para el nivel 50",
+      "nextZone": "Próxima zona: {power}",
+      "nextReward": "Siguiente recompensa ({level}): {text}",
+      "nextTopReward": "Próxima recompensa top ({level}): {text}",
+      "maxLevel": "Nivel máximo de aventuras alcanzado",
+      "emptyMissions": "No hay misiones activas visibles en el perfil público."
+    },
+    "resources": {
+      "mythicFury": "Furia del Rey de la Tormenta",
+      "mythicOnslaught": "Embate del Rey de la Tormenta",
+      "mythicRavager": "Devastador del Rey de la Tormenta",
+      "mythicScourge": "Azote del Rey de la Tormenta",
+      "mythicWrath": "Ira del Rey de la Tormenta",
+      "perkLegendary": "¡AVENTAJADO! legendario",
+      "perkEpic": "¡AVENTAJADO! épico",
+      "perkRare": "¡AVENTAJADO! raro",
+      "perkUncommon": "¡AVENTAJADO! poco común",
+      "fire": "Fuego",
+      "water": "Agua",
+      "nature": "Naturaleza",
+      "fluxLegendary": "Flujo legendario",
+      "fluxEpic": "Flujo épico",
+      "fluxRare": "Flujo raro",
+      "generic": "Ventajista",
+      "rain": "Gotas puras de lluvia",
+      "lightning": "Rayo en una botella",
+      "eye": "Ojo de la tormenta",
+      "shard": "Fragmento de tormenta",
+      "schematicXp": "XP de esquemas",
+      "survivorXp": "XP de supervivientes",
+      "heroXp": "XP de héroes",
+      "ventureXp": "XP de aventuras",
+      "manualSurvivor": "Manuales de supervivientes",
+      "manualSchematic": "Manuales de esquemas",
+      "manualTraps": "Manuales de trampas",
+      "scSurvivors": "Supercargadores de supervivientes",
+      "scHeroes": "Supercargadores de héroes",
+      "scWeapons": "Supercargadores de armas",
+      "scTraps": "Supercargadores de trampas",
+      "evolutionChip": "Chip de evolución",
+      "voucherWeapon": "Vale de arma",
+      "voucherHero": "Vale de héroe",
+      "eventTickets": "Tickets de evento",
+      "gold": "Oro",
+      "llamas": "Mini llamas",
+      "legendaryLlamas": "Llamas legendarias",
+      "xray": "Tickets de rayos X",
+      "boostPersonal": "Potenciador de PE",
+      "boostTeam": "Potenciador de PE de compañero"
+    }
+  }
+}

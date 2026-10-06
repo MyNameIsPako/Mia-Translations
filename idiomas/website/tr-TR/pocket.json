@@ -1,0 +1,133 @@
+{
+  "meta": {
+    "description": "Mia Pocket — yerel oturum açmayla telefonlar için optimize edilmiş Mia."
+  },
+  "auth": {
+    "loginDiscord": "Discord ile giriş yap",
+    "unavailable": "Mia Pocket kullanılamıyor. Mia API yanıt vermiyor.",
+    "loginTitle": "Giriş yap",
+    "loginEpic": "Giriş yap",
+    "signingIn": "Giriş yapılıyor",
+    "restoring": "Oturum geri yükleniyor",
+    "cancel": "İptal",
+    "backHome": "Başa dön"
+  },
+  "nav": {
+    "alertas": "Uyarılar",
+    "alertasDesc": "Günün STW görevleri",
+    "dupe": "Dupe",
+    "dupeDesc": "STW kaynaklarını çoğalt",
+    "party": "Parti",
+    "partyDesc": "Ayrıl ve sandıkları topla",
+    "menu": "Menü",
+    "menuAria": "Ana menü",
+    "homeLead": "Ne yapmak istiyorsun?",
+    "changeAccount": "Değiştir",
+    "logout": "Çıkış",
+    "language": "Dil"
+  },
+  "party": {
+    "hubTitle": "Parti",
+    "hubDesc": "Bir parti eylemi seç",
+    "kick": "Ayrıl",
+    "kickDesc": "Ödülleri almadan partiden ayrıl.",
+    "kickClaim": "Ayrıl ve topla",
+    "kickClaimDesc": "Partiden ayrıl ve görev sandıklarını al.",
+    "kickAllClaimTransfer": "Herkesi at + topla + devret",
+    "kickAllClaimTransferDesc": "Herkesi at, ödülleri al ve liderliği devret.",
+    "kickAllClaimInvite": "Herkesi at + topla + davet et",
+    "kickAllClaimInviteDesc": "Herkesi at, ödülleri al ve tekrar davet et.",
+    "running": "Devam ediyor…",
+    "processing": "İşleniyor",
+    "connectionError": "Bağlantı hatası."
+  },
+  "dupe": {
+    "title": "Dupe",
+    "desc": "STW kaynaklarını çoğalt",
+    "force": "Dupe'u zorla",
+    "start": "Dupe'u başlat",
+    "cancel": "İptal",
+    "retry": "Tekrar dene",
+    "running": "Devam ediyor…",
+    "status": {
+      "checking": "STW profili kontrol ediliyor…",
+      "countdown": "Dupe penceresi bekleniyor",
+      "applying": "Dupe uygulanıyor…",
+      "success": "Dupe başarıyla uygulandı",
+      "timedFailed": "Dupe uygulanamadı",
+      "forceFailed": "Zorlanan dupe başarısız oldu",
+      "noLockOrExpired": "Etkin profile lock yok veya süresi doldu",
+      "profileUnavailable": "theater0 profili okunamadı",
+      "alreadyRunning": "Zaten devam eden bir dupe var"
+    }
+  },
+  "epic": {
+    "expired": "Giriş süresi doldu. Tekrar dene.",
+    "blacklisted": "Bu hesap Mia Pocket kara listesinde.",
+    "invalidCode": "Epic geçersiz bir kod döndürdü. Tekrar dene.",
+    "deviceAuthFailed": "Device auth oluşturulamadı. Tekrar dene.",
+    "loginFailed": "Giriş tamamlanamadı. Tekrar dene.",
+    "connectionError": "Bağlantı hatası. Tekrar dene.",
+    "startFailed": "Epic akışı başlatılamadı."
+  },
+  "flash": {
+    "account_connected": "Giriş başarılı.",
+    "account_changed": "Başka bir Epic hesabı bağlayabilirsin.",
+    "logged_out": "Oturum kapatıldı."
+  },
+  "errors": {
+    "invalid_account": "Seçilen hesap geçerli değil.",
+    "csrf": "İstek geçerli değil. Tekrar dene.",
+    "oauth_state": "Discord girişinin süresi doldu. Tekrar dene.",
+    "oauth_failed": "Discord girişi tamamlanamadı.",
+    "blacklisted": "Kullanıcın Mia Pocket kara listesinde.",
+    "epic_login_failed": "Epic ile giriş yapılamadı. Tekrar dene.",
+    "invalid_exchange_code": "Exchange code 32 karakter olmalıdır.",
+    "invalid_authorization_code": "Yetkilendirme kodu geçerli değil.",
+    "device_code_expired": "Epic girişinin süresi doldu. Tekrar dene.",
+    "account_blacklisted": "Bu Epic hesabı Mia Pocket kara listesinde.",
+    "oauthStateTitle": "Geçersiz OAuth oturumu",
+    "oauthCodeTitle": "Geçersiz OAuth kodu",
+    "accessDeniedTitle": "Erişim reddedildi",
+    "loginErrorTitle": "Giriş hatası"
+  },
+  "titles": {
+    "home": "Mia Pocket",
+    "dupe": "Dupe",
+    "party": "Parti",
+    "alertas": "STW Uyarıları",
+    "kick": "Ayrıl",
+    "kickClaim": "Ayrıl ve topla",
+    "kickAllClaimTransfer": "Herkesi at ve topla",
+    "kickAllClaimInvite": "At, topla ve davet et"
+  },
+  "gate": {
+    "title": "Yalnızca mobil",
+    "desc": "Mia Pocket bilgisayarda kullanılamaz. Android veya iOS telefondan açıp ana ekrana ekle.",
+    "close": "Anladım",
+    "installTitle": "Mia Pocket’i yükle",
+    "installDesc": "Paneli kullanmak için Mia Pocket’i ana ekrana ekle ve simgeden aç (PC Mia Launcher değil).",
+    "installCta": "Uygulamayı yükle",
+    "goHome": "miadsc.xyz’e git"
+  },
+  "home": {
+    "title": "Ana sayfa"
+  },
+  "loading": "Yükleniyor",
+  "error": {
+    "retry": "Tekrar dene",
+    "alerts": "Uyarılar yüklenemedi. Tekrar dene."
+  },
+  "installSteps": {
+    "iosSafari": "<p><strong>iPhone / iPad (Safari):</strong></p><ol><li><strong>Paylaş</strong> düğmesine (oklu kare) dokun.</li><li><strong>Ana Ekrana Ekle</strong> seçeneğini seç.</li><li><strong>Mia Pocket</strong>’i yeni simgeden aç.</li></ol>",
+    "iosChrome": "<p><strong>iPhone / iPad ({browser}):</strong></p><ol><li>Tarayıcı çubuğunda <strong>Paylaş</strong> düğmesine dokun.</li><li><strong>Ana Ekrana Ekle</strong> seçeneğini seç.</li><li><strong>Mia Pocket</strong>’i simgeden aç (tarayıcı sekmesinden değil).</li></ol><p>Çalışmazsa bu sayfayı <strong>Safari</strong>’de aç ve adımları tekrarla.</p>",
+    "iosFirefox": "<p><strong>iPhone / iPad (Firefox):</strong></p><ol><li>Menü (≡) → <strong>Paylaş</strong> veya <strong>Ana Ekrana Ekle</strong>.</li><li><strong>Mia Pocket</strong> simgesini onayla.</li><li>Uygulamayı ana ekrandaki simgeden aç.</li></ol><p>Çalışmazsa <strong>Safari</strong>’yi dene.</p>",
+    "iosDefault": "<p><strong>iPhone / iPad:</strong></p><ol><li><strong>Paylaş</strong> → <strong>Ana Ekrana Ekle</strong> yolunu kullan.</li><li><strong>Mia Pocket</strong>’i yeni simgeden aç.</li></ol><p>Önerilen: <strong>Safari</strong>, Chrome veya Brave.</p>",
+    "androidFirefox": "<p><strong>Android (Firefox):</strong></p><ol><li>Menü (⋮) → <strong>Yükle</strong> veya <strong>Ana ekrana ekle</strong>.</li><li><strong>Mia Pocket</strong>’i tarayıcıdan değil, simgeden aç.</li></ol>",
+    "androidSamsung": "<p><strong>Android (Samsung Internet):</strong></p><ol><li>Menü → <strong>Sayfayı şuraya ekle</strong> → <strong>Ana ekran</strong> veya <strong>Uygulamayı yükle</strong>.</li><li><strong>Mia Pocket</strong>’i yeni simgeden aç.</li></ol>",
+    "androidBrave": "<p><strong>Android (Brave):</strong></p><ol><li>Düğme görünürse <strong>Uygulamayı yükle</strong>’ye dokun.</li><li>Veya menü → <strong>Uygulamayı yükle</strong> / <strong>Ana ekrana ekle</strong>.</li><li><strong>Mia Pocket</strong>’i Brave’den değil, simgeden aç.</li></ol>",
+    "androidEdge": "<p><strong>Android (Edge):</strong></p><ol><li>Menü (⋯) → <strong>Uygulamayı yükle</strong> veya <strong>Ana ekrana ekle</strong>.</li><li><strong>Mia Pocket</strong>’i yeni simgeden aç.</li></ol>",
+    "androidOpera": "<p><strong>Android (Opera):</strong></p><ol><li>Menü → <strong>Ana ekrana ekle</strong> veya <strong>Uygulamayı yükle</strong>.</li><li><strong>Mia Pocket</strong>’i yeni simgeden aç.</li></ol>",
+    "androidDefault": "<p><strong>Android (Chrome ve diğerleri):</strong></p><ol><li>Düğme görünürse <strong>Uygulamayı yükle</strong>’ye dokun.</li><li>Veya menü (⋮) → <strong>Uygulamayı yükle</strong>.</li><li><strong>Mia Pocket</strong>’i tarayıcıdan değil, simgeden aç.</li></ol>"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "meta": {
+    "title": "Mia · 管理パネル",
+    "description": "FortniteのAdmin Panel / Lobby Hackコードの最新リスト。カテゴリや状態で絞り込み、引き換え済みをマーク、ワンクリックでコピー、報酬（スプライト、XP、ダストなど）を確認。",
+    "ogTitle": "Mia · 管理パネル",
+    "ogDescription": "FortniteのAdmin Panel / Lobby Hackコードの最新リスト。カテゴリや状態で絞り込み、引き換え済みをマーク、ワンクリックでコピー、報酬（スプライト、XP、ダストなど）を確認。"
+  },
+  "hero": {
+    "title": "管理パネル"
+  },
+  "summary": {
+    "aria": "概要",
+    "codes": "コード"
+  },
+  "progress": {
+    "aria": "引き換え進捗",
+    "redeemed": "引き換え済み",
+    "reset": "リセット",
+    "resetConfirm": "このブラウザで引き換え済みのコードをすべてリセットしますか？"
+  },
+  "filters": {
+    "statusLabel": "状態",
+    "redeemAria": "引き換え",
+    "all": "すべて",
+    "pending": "未交換",
+    "redeemed": "引き換え済み",
+    "categoryLabel": "カテゴリ",
+    "categoriesAria": "カテゴリ"
+  },
+  "ui": {
+    "all": "すべて",
+    "loading": "コードを読み込み中",
+    "empty": "この条件に一致するコードはありません。",
+    "loadError": "コードを読み込めませんでした。",
+    "networkError": "ネットワークエラー",
+    "copy": "コピー",
+    "copied": "完了",
+    "redeemed": "引き換え済み",
+    "markRedeemed": "引き換え済みにする",
+    "new": "新規",
+    "reusable": "再利用可",
+    "noReward": "報酬なし"
+  }
+}

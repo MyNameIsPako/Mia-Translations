@@ -1,0 +1,44 @@
+{
+  "meta": {
+    "title": "Mia · Panneau Admin",
+    "description": "Codes Fortnite Admin Panel / Lobby Hack à jour. Filtre par catégorie ou statut, marque ceux que tu as échangés, copie chaque code en un clic et consulte les récompenses (sprites, XP, poussière et plus).",
+    "ogTitle": "Mia · Panneau Admin",
+    "ogDescription": "Codes Fortnite Admin Panel / Lobby Hack à jour. Filtre par catégorie ou statut, marque ceux que tu as échangés, copie chaque code en un clic et consulte les récompenses (sprites, XP, poussière et plus)."
+  },
+  "hero": {
+    "title": "Panneau Admin"
+  },
+  "summary": {
+    "aria": "Résumé",
+    "codes": "codes"
+  },
+  "progress": {
+    "aria": "Progression des échanges",
+    "redeemed": "échangés",
+    "reset": "Réinitialiser",
+    "resetConfirm": "Réinitialiser tous les codes échangés dans ce navigateur ?"
+  },
+  "filters": {
+    "statusLabel": "État",
+    "redeemAria": "Échange",
+    "all": "Toutes",
+    "pending": "En attente",
+    "redeemed": "Échangés",
+    "categoryLabel": "Catégorie",
+    "categoriesAria": "Catégories"
+  },
+  "ui": {
+    "all": "Toutes",
+    "loading": "Chargement des codes",
+    "empty": "Aucun code ne correspond à ces filtres.",
+    "loadError": "Impossible de charger les codes.",
+    "networkError": "Erreur réseau",
+    "copy": "Copier",
+    "copied": "OK",
+    "redeemed": "Échangé",
+    "markRedeemed": "Marquer échangé",
+    "new": "Nouveau",
+    "reusable": "Réutilisable",
+    "noReward": "Sans récompense"
+  }
+}

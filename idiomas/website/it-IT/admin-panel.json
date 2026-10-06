@@ -1,0 +1,44 @@
+{
+  "meta": {
+    "title": "Mia · Panel Admin",
+    "description": "Elenco aggiornato dei codici Admin Panel / Lobby Hack di Fortnite. Filtra per categoria o stato, segna quelli già riscattati, copia ogni codice con un clic e consulta le ricompense (sprite, XP, polvere e altro).",
+    "ogTitle": "Mia · Panel Admin",
+    "ogDescription": "Elenco aggiornato dei codici Admin Panel / Lobby Hack di Fortnite. Filtra per categoria o stato, segna quelli già riscattati, copia ogni codice con un clic e consulta le ricompense (sprite, XP, polvere e altro)."
+  },
+  "hero": {
+    "title": "Pannello Admin"
+  },
+  "summary": {
+    "aria": "Riepilogo",
+    "codes": "codici"
+  },
+  "progress": {
+    "aria": "Progresso riscatti",
+    "redeemed": "riscattati",
+    "reset": "Reimposta",
+    "resetConfirm": "Reimpostare tutti i codici riscattati in questo browser?"
+  },
+  "filters": {
+    "statusLabel": "Stato",
+    "redeemAria": "Riscatto",
+    "all": "Tutte",
+    "pending": "In sospeso",
+    "redeemed": "Riscattati",
+    "categoryLabel": "Categoria",
+    "categoriesAria": "Categorie"
+  },
+  "ui": {
+    "all": "Tutte",
+    "loading": "Caricamento codici",
+    "empty": "Nessun codice corrisponde a questi filtri.",
+    "loadError": "Impossibile caricare i codici.",
+    "networkError": "Errore di rete",
+    "copy": "Copia",
+    "copied": "Fatto",
+    "redeemed": "Riscattato",
+    "markRedeemed": "Segna riscattato",
+    "new": "Nuovo",
+    "reusable": "Riutilizzabile",
+    "noReward": "Nessuna ricompensa"
+  }
+}

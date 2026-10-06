@@ -1,0 +1,206 @@
+{
+  "meta": {
+    "title": "Mia · TaxiBots",
+    "description": "Save the World 向け Mia TaxiBots：未解放のミッションやゾーンにも参加可能。ファーム、目標達成、bot lobby アクセスをサポートするボット。",
+    "ogTitle": "Mia · TaxiBots",
+    "ogDescription": "Save the World 向け Mia TaxiBots：未解放のミッションやゾーンにも参加可能。ファーム、目標達成、bot lobby アクセスをサポートするボット。"
+  },
+  "hero": {
+    "title": "Mia TaxiBots",
+    "subtitle": "必要なときに STW ミッションと bot マッチ",
+    "lead": "Fortnite クライアントに接続された自動化アカウント。パワーレベルを超える Save the World ミッション参加や、Battle Royale の bot lobby プレイに使用できます。",
+    "liveBadge": "稼働中フリート",
+    "altAvatar": "Mia TaxiBot アバター",
+    "stats": {
+      "online": "Online",
+      "available": "利用可能",
+      "free": "無料",
+      "premium": "Premium"
+    },
+    "actions": {
+      "fleet": "ライブフリートを見る",
+      "start": "始め方",
+      "support": "サポート"
+    }
+  },
+  "jump": {
+    "aria": "ページ内セクション",
+    "howTo": "使い方",
+    "features": "メリット",
+    "commands": "コマンド",
+    "fleet": "ライブフリート",
+    "premium": "Premium"
+  },
+  "howTo": {
+    "title": "TaxiBots の使い方",
+    "lead": "Discord と Fortnite で次の手順に従ってください。タクシーを招待し、埋めない設定にしてプレイします。",
+    "steps": [
+      {
+        "title": "Mia Lounge に参加",
+        "text": "<a href=\"https://discord.gg/miabot\" target=\"_blank\" rel=\"noopener noreferrer\">Mia Lounge</a> サーバーに入ります。"
+      },
+      {
+        "title": "アカウントを登録",
+        "text": "<code>/registrar</code> で Mia にアカウントを登録します。"
+      },
+      {
+        "title": "タクシーにアカウントを追加",
+        "text": "<code>/taxibot (activar)</code> でアカウントをシステムに追加します。"
+      },
+      {
+        "title": "ボットを追加",
+        "text": "Fortnite で TaxiBot をフレンド追加します。名前は <code>/taxibot opción:Información</code> または下のフリートで確認できます。"
+      },
+      {
+        "title": "タクシーを招待",
+        "text": "利用可能なタクシーをパーティーに招待します。"
+      },
+      {
+        "title": "埋めないでプレイ",
+        "text": "マッチを<strong>埋めない</strong>設定にし、時間内に開始します（無料 6 分 · Premium 8 分）。"
+      }
+    ]
+  },
+  "features": {
+    "title": "用途",
+    "lead": "進行状況だけに頼らず STW コンテンツやゆったりマッチにアクセス。",
+    "items": [
+      {
+        "title": "上級 STW ミッション",
+        "text": "ゾーン未解放でも、自分より高い PL のミッションに入れます。"
+      },
+      {
+        "title": "BR の bot lobby",
+        "text": "Premium ユーザーは bot とのマッチメイキングで落ち着いた試合ができます。"
+      },
+      {
+        "title": "実在アカウントの自動化",
+        "text": "TaxiBots は正当なクライアントに接続されたアカウントで、Mia が管理しています。"
+      },
+      {
+        "title": "秩序ある利用",
+        "text": "非 Premium は同時 1 台、招待間 10 秒クールダウン。時間内に開始しないとボットは退出します。"
+      }
+    ]
+  },
+  "commands": {
+    "title": "Discord コマンド",
+    "lead": "<code>/taxibot</code> コマンドは <strong>opción</strong> オプションで Activar、Desactivar、Información、Estado の 4 値を使います。",
+    "items": [
+      {
+        "code": "/taxibot opción:Activar",
+        "text": "アカウントをシステムに追加し、ボットがフレンド申請を承認できるようにします。"
+      },
+      {
+        "code": "/taxibot opción:Desactivar",
+        "text": "不要になったら TaxiBots システムからアカウントを外します。"
+      },
+      {
+        "code": "/taxibot opción:Información",
+        "text": "サービスガイド：概要、利用手順、利用可能アカウントの確認場所。"
+      },
+      {
+        "code": "/taxibot opción:Estado",
+        "text": "ボットのライブ一覧：online/offline、フレンド、空き/使用中。"
+      }
+    ]
+  },
+  "compare": {
+    "title": "無料 vs Premium",
+    "lead": "無料ボットと Mia Premium で得られる内容を比較。",
+    "columns": {
+      "benefit": "特典",
+      "free": "無料",
+      "premium": "Premium"
+    },
+    "yes": "はい",
+    "rows": [
+      {
+        "feature": "STW TaxiBots アクセス",
+        "free": "はい",
+        "premium": "はい"
+      },
+      {
+        "feature": "Battle Royale bot lobby",
+        "free": "—",
+        "premium": "はい"
+      },
+      {
+        "feature": "マッチ開始までの時間",
+        "free": "6 min",
+        "premium": "8 min"
+      },
+      {
+        "feature": "複数タクシー同時利用",
+        "free": "—",
+        "premium": "はい"
+      },
+      {
+        "feature": "Premium ボット（高 PL）",
+        "free": "—",
+        "premium": "はい"
+      }
+    ]
+  },
+  "fleet": {
+    "title": "ライブフリート",
+    "lead": "Mia API から更新されるステータス。名前・種類・空き状況でフィルター。",
+    "panelTitle": "ボットパネル",
+    "live": "リアルタイム",
+    "searchPlaceholder": "名前で検索…",
+    "filterAria": "ボットをフィルター",
+    "filters": {
+      "all": "すべてのボット",
+      "online": "Online のみ",
+      "offline": "Offline のみ",
+      "available": "利用可能",
+      "premium": "Premium",
+      "free": "無料"
+    },
+    "chips": {
+      "all": "すべて",
+      "available": "利用可能",
+      "online": "Online",
+      "free": "無料",
+      "premium": "Premium"
+    },
+    "chipsAria": "クイックフィルター",
+    "meta": {
+      "online": "online",
+      "free": "無料",
+      "premium": "premium",
+      "total": "合計"
+    },
+    "updated": "最終更新：",
+    "loading": "読み込み中",
+    "card": {
+      "free": "無料",
+      "premium": "Premium",
+      "online": "オンライン",
+      "offline": "オフライン",
+      "available": "利用可能",
+      "inMatch": "マッチ中",
+      "friends": "フレンド",
+      "party": "パーティ",
+      "type": "種類",
+      "empty": "現在のフィルターに一致するボットはありません。",
+      "loading": "TaxiBots を読み込み中",
+      "powerLow": "低PL",
+      "error": "フリートを読み込めませんでした。ボット API がオンラインか確認してください。"
+    }
+  },
+  "notice": "別ボットへの招待は <strong>10 秒</strong>空けてください。スパムはブロックされ、<strong>BAN</strong> される可能性があります。",
+  "cta": {
+    "title": "TaxiBots でお困りですか？",
+    "text": "FAQ ガイドを確認するか Discord で質問、または Mia Premium で bot lobby を解放。",
+    "faq": "FAQ を見る",
+    "discord": "Mia Discord",
+    "premium": "Mia Premium",
+    "tags": [
+      "Premium で bot lobby",
+      "開始まで 6–8 分",
+      "高 PL ボット"
+    ]
+  },
+  "menuOpen": "メニューを開く"
+}

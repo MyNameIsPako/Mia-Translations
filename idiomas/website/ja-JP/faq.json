@@ -1,0 +1,340 @@
+{
+  "meta": {
+    "title": "Mia · FAQ",
+    "description": "Discord と Fortnite 向け Mia Bot 公式 FAQ：Premium の取得、Epic アカウント登録の安全性、TaxiBots、公開 API、Mia Launcher、Mia Checker、STW プロフィール更新、サポート。",
+    "ogTitle": "Mia · FAQ",
+    "ogDescription": "Mia Bot 公式 FAQ：Premium、セキュリティ、TaxiBots、API、Launcher、Checker、Discord サポート。"
+  },
+  "hero": {
+    "kicker": "ヘルプセンター",
+    "title": "よくある質問",
+    "lead": "Mia は信頼でき透明なコミュニティ向けボットです。データ販売や隠し機能はありません。ボットとランチャーに必要な情報のみ保存し、/borrar（Auth 含む）でいつでも削除できます。下で検索するかカテゴリを選んでください。"
+  },
+  "search": {
+    "placeholder": "質問やキーワードを検索…",
+    "aria": "FAQ を検索",
+    "empty": "結果がありません。別の語句を試すかカテゴリを変更してください。",
+    "resultsOne": "1件",
+    "resultsMany": "{n}件"
+  },
+  "categories": [
+    "一般",
+    "アカウント",
+    "Premium",
+    "API",
+    "TaxiBots",
+    "ツール"
+  ],
+  "categoriesAria": "FAQ カテゴリ",
+  "panels": {
+    "General": "Mia とは、招待方法、基本的なサポート。",
+    "Cuentas": "登録、セキュリティ、Epic アカウントに関して Mia が保存するデータ。",
+    "Premium": "Discord プラン、支払い、Mia Premium 独占特典。",
+    "API": "キー、利用制限、開発者向け API Premium プラン。",
+    "Herramientas": "Launcher、Checker、STW アラート、プロフィール、Admin Panel など Web 機能。",
+    "TaxiBots": "STW ミッションと Battle Royale bot lobby へのアクセス。"
+  },
+  "cta": {
+    "title": "まだ疑問がありますか？",
+    "lead": "答えが見つからない場合、Discord でチームとコミュニティが助けます。",
+    "button": "サポートサーバーに参加"
+  },
+  "bodyInclude": "faq",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Mia とは？",
+      "answer": "Mia は Fortnite 専門の Discord ボットです。アカウント管理、インベントリ表示、サーバー向け自動フィード設定など、Discord から Fortnite 体験を簡単にします。"
+    },
+    {
+      "id": 2,
+      "question": "Mia をサーバーに追加するには？",
+      "answer": "ホームページの「Mia をインストール！」またはこちら をクリック。追加先サーバーで管理者権限が必要です。"
+    },
+    {
+      "id": 3,
+      "question": "どんなコマンドが使えますか？",
+      "answer": "Fortnite アカウント管理やサーバー改善のコマンドが豊富です。コマンド一覧ページまたは Discord の /ayuda で確認できます。"
+    },
+    {
+      "id": 4,
+      "question": "バグの報告方法は？",
+      "answer": "Mia Lounge に参加し、サポート でチケットを開いてください。#💬〕general に書いても構いません。開発者が確認します。"
+    },
+    {
+      "id": 5,
+      "question": "言語を変更できますか？",
+      "answer": "はい、複数言語に対応しています。/idiomas で確認。なければ Mia Lounge の #💬〕general に提案してください。"
+    },
+    {
+      "id": 6,
+      "question": "Mia は無料ですか？",
+      "answer": "はい、多くの機能が無料です。Mia Premium で自動化・より多くのアカウントなどが解放されますが、開始に必須ではありません。Premium でプランを確認。"
+    },
+    {
+      "id": 7,
+      "question": "サポート Discord は？",
+      "answer": "公式サーバー discord.gg/miabot（Mia Lounge）。#💬〕general — コミュニティ Support — チケット Tutorials — ガイド"
+    },
+    {
+      "id": 8,
+      "question": "Mia Launcher とは？",
+      "answer": "公式デスクトップアプリ：マルチアカウント、STW アラート、ショップなど。Discord で Premium なら Launcher でも Discord ログインで追加課金なし。"
+    },
+    {
+      "id": 9,
+      "question": "Mia Checker とは？",
+      "answer": "Telegram の Fortnite アカウントチェッカー。独自の利用規約 あり。Discord ボットの代替ではありません。"
+    },
+    {
+      "id": 10,
+      "question": "Admin Panel / Lobby Hack コードは？",
+      "answer": "Web：Admin Panel 。API ルートも API（API キー必要）。"
+    },
+    {
+      "id": 11,
+      "question": "スピリットトラッカーとは？",
+      "answer": "Fortnite スピリット（Sprites）のマーク・フィルター：スピリット ."
+    },
+    {
+      "id": 12,
+      "question": "DM でも使えますか？",
+      "answer": "多くのコマンドは DM と招待サーバーで使用可能。/dupe や TaxiBots などは公式 Mia Lounge が必要。"
+    },
+    {
+      "id": 13,
+      "question": "スラッシュコマンドが出ない？",
+      "answer": "/ を入力して Mia コマンドの読み込みを待つ。Bot がサーバーにありアプリコマンド権限があるか確認。招待直後は数分待つか Discord 再起動。モバイルは時間がかかることも。コマンド または /ayuda ."
+    },
+    {
+      "id": 14,
+      "question": "コンソール（PS/Xbox/Switch）で使える？",
+      "answer": "Mia は Discord（PC/モバイル/Web）上で動作。コンソール用 Fortnite アカウントは /registrar でリンクし Epic API 経由で操作。"
+    },
+    {
+      "id": 15,
+      "question": "Mia を信頼する理由？",
+      "answer": "Save the World コミュニティ向けに信頼・透明性を重視。データ販売なし。/borrar（Auth 含む）で削除可能。敏感機能（botlobbies 等）は警告と同意が必要。"
+    },
+    {
+      "id": 16,
+      "question": "データ販売や裏の操作は？",
+      "answer": "いいえ。#💬〕general または support で質問できます。"
+    },
+    {
+      "id": 17,
+      "question": "アカウント登録方法？",
+      "answer": "Discord で /registrar。Mia が案内します。"
+    },
+    {
+      "id": 18,
+      "question": "登録は安全？",
+      "answer": "はい。Epic パスワードは要求・保存しません 。公式 device auth のみ。AccountID、DeviceID、Secret を私有 DB に保存。/borrar で削除。"
+    },
+    {
+      "id": 19,
+      "question": "リンク解除？",
+      "answer": "/borrar で資格情報と Auth を削除。"
+    },
+    {
+      "id": 20,
+      "question": "BAN リスクは？",
+      "answer": "リスクはありますが非常に稀。Epic TOS は第三者アプリ禁止。8 年間 Discord ボット使用による BAN 報告なし。10 万人以上が利用。"
+    },
+    {
+      "id": 21,
+      "question": "保存データは？",
+      "answer": "AccountID 、DeviceID 、Secret から Auth を生成し accessToken で Fortnite API にアクセス。"
+    },
+    {
+      "id": 22,
+      "question": "Epic パスワード保存？",
+      "answer": "いいえ。device auth のみ。"
+    },
+    {
+      "id": 23,
+      "question": "複数 Fortnite アカウント？",
+      "answer": "はい。無料は上限あり。Premium で大幅増。/cuentas または /cambiar で切替。"
+    },
+    {
+      "id": 24,
+      "question": "/registrar 失敗や Auth 期限切れ？",
+      "answer": "/borrar 後 /registrar 。/refrescar はミッション更新のみでリンク修復不可。再失敗は support へ。"
+    },
+    {
+      "id": 25,
+      "question": "登録なしで使える？",
+      "answer": "公開機能（情報コマンド、Web 等）は可。Epic アカウント管理には /registrar 。"
+    },
+    {
+      "id": 26,
+      "question": "/refrescar とは？",
+      "answer": "Auth 更新ではありません。STW/BR のミッション・クエストプロフィール更新。Auth 無効なら /borrar と /registrar 。"
+    },
+    {
+      "id": 27,
+      "question": "Epic パスワード変更やセッション切断？",
+      "answer": "/borrar して /registrar で再リンク。/refrescar では直りません。"
+    },
+    {
+      "id": 28,
+      "question": "Mia Premium の特典？",
+      "answer": "無料ラマ自動受取、デイリー入替など。Mia Launcher と共有 。Premium ページ参照。"
+    },
+    {
+      "id": 29,
+      "question": "Launcher でも Premium？",
+      "answer": "はい、同一サブスク。Discord ログインで自動有効化。"
+    },
+    {
+      "id": 30,
+      "question": "Premium の取得？",
+      "answer": "Premium ページまたは Mia Lounge。Boost は Booster 特典のみ。5€/月〜 。"
+    },
+    {
+      "id": 31,
+      "question": "支払い方法？",
+      "answer": "PayPal、Revolut、Bitcoin、Litecoin、USDT。"
+    },
+    {
+      "id": 32,
+      "question": "返金？",
+      "answer": "購入後返金不可。PayPal 紛争は永久 BAN。"
+    },
+    {
+      "id": 33,
+      "question": "Premium はどこで？",
+      "answer": "miadsc.xyz/ja-JP/premium または Mia Lounge 。"
+    },
+    {
+      "id": 34,
+      "question": "Premium 料金？",
+      "answer": "5€/月〜 。Premium 参照。"
+    },
+    {
+      "id": 35,
+      "question": "Premium 終了後？",
+      "answer": "無料プランに戻り自動化等を失う。登録アカウントは自動削除されません。"
+    },
+    {
+      "id": 36,
+      "question": "Discord Boost = 有料 Premium？",
+      "answer": "完全な置き換えではありません。Premium 参照。"
+    },
+    {
+      "id": 37,
+      "question": "Premium はユーザー単位？",
+      "answer": "Discord ユーザー単位。サーバー設定は /config servidor 。"
+    },
+    {
+      "id": 38,
+      "question": "Discord でフィード設定？",
+      "answer": "オーナーが /config servidor。Premium でよりカスタム。"
+    },
+    {
+      "id": 39,
+      "question": "Vitalicio 等の長期プラン？",
+      "answer": "Premium 参照。support も可。"
+    },
+    {
+      "id": 40,
+      "question": "公開 API とは？",
+      "answer": "Fortnite データ REST API：BR ショップ、STW アラート等。API ページ。"
+    },
+    {
+      "id": 41,
+      "question": "API キー取得？",
+      "answer": "Discord /api crear 。Authorization ヘッダー。公開リポジトリに上げない。"
+    },
+    {
+      "id": 42,
+      "question": "API エラー報告？",
+      "answer": "Mia Lounge、support 、#💬〕general 。エンドポイントとステータス（キー全文なし）。"
+    },
+    {
+      "id": 43,
+      "question": "API キー必須？",
+      "answer": "はい（ Authorization: Bearer mia_… ）。/api crear 。"
+    },
+    {
+      "id": 44,
+      "question": "API ドキュメント？",
+      "answer": "miadsc.xyz/ja-JP/api 。"
+    },
+    {
+      "id": 45,
+      "question": "API キー共有？",
+      "answer": "不可。パスワード同様。"
+    },
+    {
+      "id": 46,
+      "question": "キー漏洩・失効？",
+      "answer": "/api revisar 。新規 /api crear 。"
+    },
+    {
+      "id": 47,
+      "question": "Launcher ダウンロード？更新必須？",
+      "answer": "Mia Launcher（GitHub Releases）から Windows インストーラー。本番はログイン後更新が必須のことが多い。"
+    },
+    {
+      "id": 48,
+      "question": "Checker = Discord ボット？",
+      "answer": "いいえ。Telegram 別製品。"
+    },
+    {
+      "id": 49,
+      "question": "Checker で売買安全？",
+      "answer": "Epic 規約違反リスクあり。Checker 規約を読み自己責任で。"
+    },
+    {
+      "id": 50,
+      "question": "今日の STW アラート？",
+      "answer": "Web：Alertas 。Discord フィードも可。"
+    },
+    {
+      "id": 51,
+      "question": "公開 STW プロフィール？",
+      "answer": "名前/accountId で公開プロフィール参照。ゲーム内非公開なら表示不可。"
+    },
+    {
+      "id": 52,
+      "question": "Admin Panel コードは Epic 公式？",
+      "answer": "Mia 掲載のシーズンコード。Epic 非提携 。公式フローのみ。Admin Panel ."
+    },
+    {
+      "id": 53,
+      "question": "最も安全なスペイン語 Checker？",
+      "answer": "「世界一安全」とは言えません。透明なプロセスで Mia Checker を提供。"
+    },
+    {
+      "id": 54,
+      "question": "Checker は Auth 保存？",
+      "answer": "チェック Auth は保存しません。Discord ボットは /borrar 可。"
+    },
+    {
+      "id": 55,
+      "question": "TaxiBots とは？",
+      "answer": "STW 高 PL ミッションや BR bot lobby 用の自動アカウント。"
+    },
+    {
+      "id": 56,
+      "question": "TaxiBot の使い方？",
+      "answer": "Mia Lounge → /registrar → /taxibot (activar) → bot 追加 → taxi 招待 → 埋めないで開始。taxibots ."
+    },
+    {
+      "id": 57,
+      "question": "TaxiBots 安全？",
+      "answer": "はい、正当クライアント接続の実アカウント。"
+    },
+    {
+      "id": 58,
+      "question": "Premium 必要？",
+      "answer": "基本フローは無料可。Premium で拡張。TaxiBots ."
+    },
+    {
+      "id": 59,
+      "question": "TaxiBots = botlobbies？",
+      "answer": "いいえ。STW 向けと BR bot lobby は別。taxibots ."
+    }
+  ]
+}

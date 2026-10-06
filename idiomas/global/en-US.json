@@ -2328,7 +2328,7 @@
 				"msg10": "The alert for has been successfully deactivated",
 				"msg11": "`No channel`",
 				"msg12": "`No role`",
-				"msg13": "Feeds for:",
+				"msg13": "Mia feeds for:",
 				"msg14": "You can activate one of the feeds using `/config feed activate` or deactivate a feed using `/config feed deactivate`.",
 				"msg15": "Sends any status changes from FN servers to the channel.",
 				"msg16": "Sends new leaks detected by Mia, it will send them as an image with rarity and more.",

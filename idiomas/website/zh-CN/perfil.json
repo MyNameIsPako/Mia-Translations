@@ -1,0 +1,179 @@
+{
+  "meta": {
+    "title": "Mia · STW 资料",
+    "description": "由 Mia 生成的 Save the World 公开资料：等级、成就、MSK、资源、配装、冒险与 Fortnite 账号进度，可分享或查阅。",
+    "ogTitle": "Mia · STW 资料",
+    "ogDescription": "由 Mia 生成的 Save the World 公开资料：等级、成就、MSK、资源、配装、冒险与 Fortnite 账号进度，可分享或查阅。"
+  },
+  "hero": {
+    "title": "查找玩家",
+    "subtitle": "在上方输入 Epic 显示名称以查看资料。"
+  },
+  "badges": {
+    "aria": "Mia 徽章",
+    "registered": "已在 Mia 注册",
+    "premium": "Mia Premium",
+    "booster": "Booster",
+    "founder": "创始人"
+  },
+  "tabs": {
+    "aria": "资料分区",
+    "resumen": "概览",
+    "logros": "成就",
+    "msk": "神话风暴之王",
+    "investigacion": "研究",
+    "recursos": "资源",
+    "equipamiento": "装备",
+    "aventuras": "冒险"
+  },
+  "resumen": {
+    "research": "研究",
+    "book": "收藏书与额外",
+    "achievements": "成就亮点"
+  },
+  "logros": {
+    "banners": "横幅挑战"
+  },
+  "msk": {
+    "weekly": "每周任务",
+    "mythics": "神话武器"
+  },
+  "recursos": {
+    "perks": "特性：",
+    "elementals": "元素特性：",
+    "flux": "通量与传奇通量：",
+    "evolution": "进化材料：",
+    "xp": "经验：",
+    "manuals": "手册：",
+    "superchargers": "超级充能：",
+    "tickets": "票券：",
+    "misc": "其他：",
+    "boosts": "增益："
+  },
+  "loadout": {
+    "empty": "此资料没有可见的公开配装。"
+  },
+  "aventuras": {
+    "empty": "尚未游玩冒险",
+    "title": "冒险"
+  },
+  "runtime": {
+    "loading": "加载中",
+    "capturing": "截取中",
+    "captureError": "无法创建截图。请重试。",
+    "loadFailedTitle": "无法加载",
+    "updatedAt": "更新于 {date}",
+    "yes": "是",
+    "no": "否",
+    "errors": {
+      "generic": "无法获取公开资料。请重试。",
+      "private": "此资料为私密。请让玩家在 Fortnite 中公开：设置 → 账户与隐私 → 公开资料。",
+      "notFound": "未找到该 Epic Games 账户。",
+      "apiDown": "无法连接 Mia API。若在本地，请确认机器人已启动且 API 可用（端口 25665）。",
+      "loadFailed": "无法加载资料",
+      "miaApiMissing": "MiaApi 不可用"
+    },
+    "stats": {
+      "commanderLevel": "指挥官等级",
+      "daysLoggedIn": "登录天数",
+      "msk": "MSK",
+      "notPlayed": "未游玩"
+    },
+    "loadout": {
+      "equipments": "装备",
+      "active": "使用中",
+      "heroesCount": "{count} 名英雄",
+      "teamPerk": "队伍特长",
+      "supportTeam": "支援队伍",
+      "gadgets": "装置",
+      "hero": "英雄",
+      "player": "玩家",
+      "common": "普通",
+      "download": "下载卡片"
+    },
+    "achievements": {
+      "gnomes": "摧毁侏儒",
+      "survivors": "守护天使",
+      "chests": "打开的宝箱",
+      "playWithOthers": "与他人游玩",
+      "builds": "天才建造者",
+      "mistMonsters": "消灭迷雾怪物",
+      "zones": "完成的区域"
+    },
+    "research": {
+      "offense": "攻击",
+      "fortitude": "体质",
+      "resistance": "抗性",
+      "technology": "科技",
+      "points": "研究点数"
+    },
+    "book": {
+      "level": "收藏书等级",
+      "mtxSpent": "收藏书花费",
+      "revisions": "修订",
+      "matches": "对局"
+    },
+    "msk": {
+      "completions": "MSK 完成次数",
+      "weeklyNone": "你没有每周任务。",
+      "scHero": "英雄增压器",
+      "scTrap": "陷阱增压器",
+      "scWeapon": "武器增压器",
+      "scSurvivor": "幸存者增压器"
+    },
+    "ventures": {
+      "ends": "结束：{date}",
+      "levelXp": "等级 {level} · {xp} XP",
+      "nextLevel": "下一级（{level}）— {progress}/{span}（{pct}%）",
+      "xpToMax": "距离 50 级还差 {xp}（{pct}%）{icon}",
+      "nextZone": "下一区域：{power}",
+      "nextReward": "下一奖励（{level}）：{text}",
+      "nextTopReward": "下一顶级奖励（{level}）：{text}",
+      "maxLevel": "已达到冒险最高等级",
+      "emptyMissions": "公开资料中没有可见的进行中任务。"
+    },
+    "resources": {
+      "mythicFury": "风暴之王的愤怒",
+      "mythicOnslaught": "风暴之王的猛攻",
+      "mythicRavager": "风暴之王的蹂躏者",
+      "mythicScourge": "风暴之王的灾殃",
+      "mythicWrath": "风暴之王的怒火",
+      "perkLegendary": "传奇增益！",
+      "perkEpic": "史诗增益！",
+      "perkRare": "稀有增益！",
+      "perkUncommon": "优秀增益！",
+      "fire": "火焰",
+      "water": "水系",
+      "nature": "自然",
+      "fluxLegendary": "传奇通量",
+      "fluxEpic": "史诗通量",
+      "fluxRare": "稀有通量",
+      "generic": "增益",
+      "rain": "纯净雨滴",
+      "lightning": "瓶中闪电",
+      "eye": "风暴之眼",
+      "shard": "风暴碎片",
+      "schematicXp": "图纸 XP",
+      "survivorXp": "幸存者 XP",
+      "heroXp": "英雄 XP",
+      "ventureXp": "冒险 XP",
+      "manualSurvivor": "幸存者手册",
+      "manualSchematic": "图纸手册",
+      "manualTraps": "陷阱手册",
+      "scSurvivors": "幸存者增压器",
+      "scHeroes": "英雄增压器",
+      "scWeapons": "武器增压器",
+      "scTraps": "陷阱增压器",
+      "evolutionChip": "进化芯片",
+      "voucherWeapon": "武器兑换券",
+      "voucherHero": "英雄兑换券",
+      "eventTickets": "活动票",
+      "gold": "黄金",
+      "llamas": "迷你羊驼",
+      "legendaryLlamas": "传奇羊驼",
+      "xray": "透视票",
+      "boostPersonal": "经验加成",
+      "boostTeam": "队友经验加成"
+    }
+  }
+}

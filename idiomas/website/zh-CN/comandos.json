@@ -1,0 +1,66 @@
+{
+  "meta": {
+    "title": "Mia · 命令",
+    "description": "Mia Discord 命令完整目录：Battle Royale、Save the World、Epic 账号、礼物、商店、远征、安全与实用工具。按名称或分类搜索并了解用法。",
+    "ogTitle": "Mia · 命令",
+    "ogDescription": "Mia Discord 命令完整目录：Battle Royale、Save the World、Epic 账号、礼物、商店、远征、安全与实用工具。按名称或分类搜索并了解用法。"
+  },
+  "hero": {
+    "title": "Mia 命令",
+    "subtitle": "完整列表集中一处",
+    "lead": "浏览斜杠命令与前缀命令，管理你的 Fortnite 账号、Save the World、Battle Royale、Premium 与机器人工具。"
+  },
+  "stats": {
+    "total": "总计",
+    "slash": "斜杠",
+    "prefix": "前缀",
+    "premium": "Premium"
+  },
+  "legend": {
+    "aria": "标签说明",
+    "label": "标签：",
+    "tags": {
+      "slash": "斜杠",
+      "prefix": "前缀",
+      "auth": "账号",
+      "premium": "Premium",
+      "ephemeral": "仅自己可见",
+      "mia": "Mia Lounge",
+      "server": "服务器"
+    }
+  },
+  "toolbar": {
+    "searchPlaceholder": "按名称、描述或子命令搜索…",
+    "filterAria": "筛选命令",
+    "chips": {
+      "all": "全部",
+      "slash": "斜杠",
+      "prefix": "前缀",
+      "premium": "Premium",
+      "auth": "账号",
+      "ephemeral": "仅自己可见",
+      "mia": "Mia Lounge",
+      "server": "服务器"
+    }
+  },
+  "metaLine": "显示 {n} 个命令",
+  "loading": "加载中",
+  "notice": "带 Mia Lounge 标签的命令仅在官方服务器 discord.gg/miabot 可用。",
+  "cta": {
+    "title": "找不到想要的内容？",
+    "text": "查看常见问题、加入支持 Discord，或解锁 Premium 命令。",
+    "faq": "查看常见问题",
+    "discord": "Mia Discord",
+    "premium": "Mia Premium"
+  },
+  "metaShown": "条命令已显示",
+  "ui": {
+    "loading": "正在加载命令",
+    "empty": "没有符合搜索或筛选条件的命令。",
+    "loadError": "无法加载命令，请稍后再试。",
+    "loadErrorShort": "无法加载命令。",
+    "showSubs": "查看子命令",
+    "hideSubs": "隐藏子命令",
+    "subs": "{n} 个子命令"
+  }
+}

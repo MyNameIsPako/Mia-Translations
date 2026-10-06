@@ -1,0 +1,289 @@
+{
+  "meta": {
+    "title": "Mia · Mia Premium",
+    "description": "Mia Premium 方案：在 Discord、Fortnite 和 Mia Launcher 中享受更多账号、Feed 与图片自定义、扩展 TaxiBots 及独家功能，一次订阅即可。",
+    "ogTitle": "Mia · Mia Premium",
+    "ogDescription": "Mia Premium 方案：在 Discord、Fortnite 和 Mia Launcher 中享受更多账号、Feed 与图片自定义、扩展 TaxiBots 及独家功能，一次订阅即可。"
+  },
+  "hero": {
+    "title": "释放 Mia 的全部潜力",
+    "lead": "自动化、专属命令、更多账号和 Discord 特权。同一 Discord 账号还可解锁 <strong>Mia Launcher</strong> 的 Premium 功能。",
+    "stats": {
+      "price": "<strong>5€</strong>/月·用户",
+      "accounts": "<strong>25</strong> 个账号",
+      "booster": "免费 <strong>Booster</strong>",
+      "launcher": "含 <strong>Mia Launcher</strong>"
+    }
+  },
+  "shareBanner": {
+    "aria": "与 Mia Launcher 共享 Premium",
+    "title": "与 Mia Launcher 共享 Premium",
+    "text": "<strong>重要：</strong>Mia Premium 在 Discord 机器人和 Mia Launcher 中是同一订阅。若你已在 Mia 拥有 Premium，在启动器中用 Discord 登录即可自动激活，无需重复付费。",
+    "link": "了解 Mia Launcher",
+    "altMia": "Mia 标志",
+    "altLauncher": "Mia Launcher 截图"
+  },
+  "jump": {
+    "aria": "页面分区",
+    "plans": "方案",
+    "api": "API",
+    "compare": "对比",
+    "howToBuy": "如何购买",
+    "payment": "付款"
+  },
+  "plans": {
+    "sectionTitle": "Discord 方案",
+    "sectionLead": "选择适合你的方案。所有付款均在 Mia Lounge 处理。",
+    "monthly": {
+      "badge": "月付",
+      "title": "月付 Premium",
+      "price": "5€",
+      "period": "/月",
+      "note": "与年付相同权益，按月订阅。",
+      "cta": "立即购买",
+      "features": [
+        "Premium 命令",
+        "Mia 自动系统",
+        "XMPP",
+        "25 个注册账号",
+        "管理所有服务器",
+        "图片页脚（服务器）",
+        "Discord 邀请（服务器）",
+        "与 Mia Launcher 共享 Premium"
+      ]
+    },
+    "yearly": {
+      "badge": "最受欢迎",
+      "title": "年付 Premium",
+      "price": "40€",
+      "period": "/年",
+      "strikethrough": "60€/年",
+      "vitalicio": "年度终身",
+      "saving": "省 17%",
+      "cta": "立即购买",
+      "features": [
+        "Premium 命令",
+        "Mia 自动系统",
+        "XMPP",
+        "25 个注册账号",
+        "管理所有服务器",
+        "图片页脚（服务器）",
+        "Discord 邀请（服务器）",
+        "与 Mia Launcher 共享 Premium"
+      ]
+    },
+    "booster": {
+      "badge": "免费",
+      "title": "Booster Premium",
+      "price": "0€",
+      "period": "/月",
+      "note": "为 Mia Lounge 助力并解锁额外特权。",
+      "cta": "助力 Mia Lounge",
+      "features": [
+        "Premium 命令",
+        "5 个注册账号",
+        "命令 BULK 模式",
+        "与 Mia Launcher 共享 Premium"
+      ]
+    }
+  },
+  "apiBanner": {
+    "title": "API Premium",
+    "text": "<strong>独立方案</strong>，与 Mia Premium 分开。面向开发者：更高每分钟请求数，以及 STW 和 Battle Royale 商店自定义 PNG 图片（含你的标志和文字）。",
+    "chips": [
+      "360 req/min",
+      "STW 商店图片",
+      "BR 商店图片",
+      "自定义标志 + 文字"
+    ],
+    "price": "5€",
+    "priceNote": "每月 · API 方案",
+    "docs": "查看文档",
+    "cta": "获取 API Premium"
+  },
+  "keys": {
+    "note": "Mia 密钥使用以下格式：",
+    "format": "XXXXX-XXXXX-XXXXX"
+  },
+  "compare": {
+    "title": "功能对比",
+    "lead": "各方案的机器人功能。移动端若表格过宽可左右滑动。<strong>API 方案</strong>为独立产品，不包含在 Mia Premium 中。",
+    "columns": {
+      "feature": "功能",
+      "free": "免费",
+      "booster": "Booster",
+      "premium": "Premium"
+    },
+    "yes": "是",
+    "no": "否",
+    "rows": [
+      {
+        "feature": "账号上限",
+        "free": "2",
+        "booster": "5",
+        "premium": "25"
+      },
+      {
+        "feature": "自动领取免费羊驼",
+        "free": "否",
+        "booster": "否",
+        "premium": "是"
+      },
+      {
+        "feature": "自动刷新每日任务",
+        "free": "是",
+        "booster": "是",
+        "premium": "是"
+      },
+      {
+        "feature": "AutoKick",
+        "free": "否",
+        "booster": "否",
+        "premium": "是"
+      },
+      {
+        "feature": "自动收集研究点数",
+        "free": "否",
+        "booster": "否",
+        "premium": "是"
+      },
+      {
+        "feature": "自动刷新创作者代码",
+        "free": "是",
+        "booster": "是",
+        "premium": "是"
+      },
+      {
+        "feature": "自动远征",
+        "free": "否",
+        "booster": "否",
+        "premium": "是"
+      },
+      {
+        "feature": "自动替换每日任务",
+        "free": "否",
+        "booster": "否",
+        "premium": "是"
+      },
+      {
+        "feature": "BULK 模式",
+        "free": "否",
+        "booster": "是",
+        "premium": "是"
+      },
+      {
+        "feature": "XMPP",
+        "free": "否",
+        "booster": "否",
+        "premium": "是"
+      },
+      {
+        "feature": "Premium 命令",
+        "free": "否",
+        "booster": "是",
+        "premium": "是"
+      },
+      {
+        "feature": "TaxiBots",
+        "free": "普通",
+        "booster": "Premium",
+        "premium": "Premium"
+      },
+      {
+        "feature": "冷却时间",
+        "free": "15 s",
+        "booster": "10 s",
+        "premium": "5 s"
+      },
+      {
+        "feature": "服务器管理",
+        "free": "1",
+        "booster": "1",
+        "premium": "无限制"
+      },
+      {
+        "feature": "图片页脚（服务器）",
+        "free": "否",
+        "booster": "否",
+        "premium": "是"
+      },
+      {
+        "feature": "Discord 邀请（服务器）",
+        "free": "否",
+        "booster": "否",
+        "premium": "是"
+      },
+      {
+        "feature": "自定义 Bot Lobbies",
+        "free": "否",
+        "booster": "否",
+        "premium": "是"
+      },
+      {
+        "feature": "自动购买商店免费物品",
+        "free": "否",
+        "booster": "否",
+        "premium": "是"
+      },
+      {
+        "feature": "自动领取免费游戏（Epic Games）",
+        "free": "是",
+        "booster": "是",
+        "premium": "是"
+      },
+      {
+        "feature": "Mia Launcher（共享 Premium）",
+        "free": "否",
+        "booster": "是",
+        "premium": "是"
+      }
+    ]
+  },
+  "howToBuy": {
+    "title": "如何购买",
+    "lead": "在 Mia Lounge 简单三步",
+    "steps": [
+      {
+        "title": "进入支持",
+        "text": "加入 <a href=\"https://discord.com/invite/miabot\" class=\"text-yellow-400 hover:underline\" target=\"_blank\" rel=\"noopener\">Mia Lounge</a>，在 Premium 频道开具工单。"
+      },
+      {
+        "title": "选择方案与付款",
+        "text": "告知你需要用户 Premium、Booster 还是 API Premium，以及首选付款方式。"
+      },
+      {
+        "title": "接收密钥",
+        "text": "付款确认后我们会激活方案，并以 <code>XXXXX-XXXXX-XXXXX</code> 格式发送密钥。"
+      }
+    ]
+  },
+  "payment": {
+    "title": "付款方式",
+    "lead": "在我们的<a href=\"https://discord.com/channels/756859004965093426/1302832897061027940\" class=\"text-yellow-400 hover:underline\" target=\"_blank\" rel=\"noopener\">支持频道</a>开具工单以处理付款。",
+    "supportLink": "支持频道",
+    "paypal": {
+      "name": "PayPal",
+      "popular": "热门",
+      "note": "Friends & Family",
+      "surcharge": "非 F&F 额外 +1,50€"
+    },
+    "revolut": {
+      "name": "Revolut",
+      "note": "通过链接卡付",
+      "noClient": "无需 Revolut 账户",
+      "recommended": "推荐方式"
+    },
+    "crypto": {
+      "title": "加密货币",
+      "bitcoin": "Bitcoin",
+      "litecoin": "Litecoin",
+      "usdt": "USDT",
+      "usdtSub": "Tether"
+    }
+  },
+  "cta": {
+    "title": "准备好升级了吗？",
+    "text": "在 Mia Lounge 开具工单，我们可在几分钟内帮你激活方案。",
+    "button": "前往 Premium 频道"
+  }
+}

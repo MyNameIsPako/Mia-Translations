@@ -2328,7 +2328,7 @@
         "msg10": "Uyarı başarıyla devre dışı bırakıldı",
         "msg11": "`Kanal yok`",
         "msg12": "`Rol yok`",
-        "msg13": "Feedler:",
+        "msg13": "Mia feedleri:",
         "msg14": "Bir feed'i `/config feed activate` ile etkinleştirebilir veya `/config feed deactivate` ile devre dışı bırakabilirsin.",
         "msg15": "FN sunucularındaki herhangi bir durum değişikliğini kanala gönderir.",
         "msg16": "Mia tarafından tespit edilen yeni sızıntıları gönderir, nadirlik ve daha fazlasıyla resim olarak gönderir.",

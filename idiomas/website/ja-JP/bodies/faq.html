@@ -1,0 +1,1041 @@
+<section class="mia-page-hero faq-hero">
+        <p class="faq-hero-kicker"><i class="fa-solid fa-circle-question" aria-hidden="true"></i> ヘルプセンター</p>
+        <h1>よくある質問</h1>
+        <p class="faq-hero-lead">
+          Miaは<strong>信頼でき、透明で、多言語対応</strong>のボットです。データを売ったり怪しい隠し機能を入れたりしません。ボットとランチャーに必要なものだけを保存し、<code>/borrar</code>で<strong>いつでも削除できます</strong>（Authを含む）。下で検索するかカテゴリを選んでください。
+        </p>
+      </section>
+
+      <div class="faq-controls">
+      <div class="faq-toolbar">
+        <input
+          type="search"
+          id="faq-search"
+          class="faq-search"
+          placeholder="質問やキーワードで検索…"
+          aria-label="FAQを検索"
+          autocomplete="off"
+        />
+        <div class="faq-search-meta">
+          <span id="faq-search-count"></span>
+        </div>
+      </div>
+
+      <div
+        class="faq-categories"
+        role="tablist"
+        aria-label="FAQカテゴリ"
+      >
+        <button
+          type="button"
+          class="category-btn active"
+          data-category="general"
+        >
+          <i class="fa-solid fa-house"></i> 一般
+        </button>
+        <button type="button" class="category-btn" data-category="cuenta">
+          <i class="fa-solid fa-user"></i> アカウント
+        </button>
+        <button type="button" class="category-btn" data-category="premium">
+          <i class="fa-solid fa-crown"></i> Premium
+        </button>
+        <button type="button" class="category-btn" data-category="api">
+          <i class="fa-solid fa-code"></i> API
+        </button>
+        <button type="button" class="category-btn" data-category="taxibots">
+          <i class="fa-solid fa-taxi"></i> TaxiBots
+        </button>
+        <button type="button" class="category-btn" data-category="herramientas">
+          <i class="fa-solid fa-wrench"></i> ツール
+        </button>
+      </div>
+
+      <p id="faq-search-empty" class="faq-empty">
+        結果がありません。別の語句を試すか、カテゴリを切り替えてください。
+      </p>
+      </div>
+
+      <div class="faq-content">
+        <!-- General FAQ -->
+        <div class="faq-category" id="general-faq">
+          <div class="faq-panel-head">
+            <h2>一般</h2>
+            <p>Miaとは、招待方法、基本サポート。</p>
+          </div>
+          <div class="mb-6 faq-list">
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>Mia とは？</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>
+                  Mia は Fortnite 専門の Discord ボットです。アカウント管理、インベントリ表示、サーバー向け自動フィードの設定などができます。Discord から直接 Fortnite の体験を楽にするために作られています。
+                </p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>Mia をサーバーに追加するには？</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>
+                  ホームページの「Mia をインストール！」ボタン、または
+                  <a
+                    href="https://discord.com/oauth2/authorize?client_id=903396041401978900"
+                    class="text-blue-400 hover:underline"
+                    >こちらをクリック</a
+                  >して Mia をサーバーに追加できます。追加先のサーバーで管理者権限が必要です。
+                </p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>どんなコマンドが使えますか？</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>
+                  Mia には、Fortnite アカウントの管理やサーバーの改善に使えるコマンドがたくさんあります。コマンドの一覧は
+                  <a
+                    href="/ja-JP/comandos.html"
+                    class="text-blue-400 hover:underline"
+                    >コマンドページ</a
+                  >
+                  、または Discord の /ayuda コマンドで確認できます。
+                </p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>バグの報告方法は？</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>
+                  Mia のバグや不具合を報告するには、
+                  <a
+                    href="https://discord.gg/miabot"
+                    class="text-blue-400 hover:underline"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    >Mia Lounge</a
+                  >
+                  に参加し、
+                  <a
+                    href="https://discord.com/channels/756859004965093426/1302832897061027940"
+                    class="text-blue-400 hover:underline"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    >サポート</a
+                  >
+                  でチケットを開いてください。
+                  <strong>#💬〕general</strong> に書いても構いません。開発者ができるだけ早く確認します。
+                </p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>言語を変更できますか？</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>
+                  はい、Mia は現在いくつかの言語に対応しています。
+                  <code>/idiomas</code> コマンドで確認できます。あなたの言語が
+                  ない場合は、
+                  <a
+                    href="https://discord.gg/miabot"
+                    class="text-blue-400 hover:underline"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    >Mia Lounge</a
+                  >
+                  内の <strong>#💬〕general</strong> に提案を残してください。
+                </p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>Mia は無料ですか？</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>はい。ボットは多くの機能を無料で使えます。<strong>Mia Premium</strong> で自動化・アカウント数の増加・追加機能が解放されますが、始めるのに必須ではありません。プランは <a href="/ja-JP/premium.html" class="text-blue-400 hover:underline">Premium</a> で確認できます。</p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>サポート Discord は？</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>
+                  公式サーバーは
+                  <a
+                    href="https://discord.gg/miabot"
+                    class="text-blue-400 hover:underline"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    >discord.gg/miabot</a
+                  >
+                  （Mia Lounge）です。便利なチャンネル：
+                </p>
+                <ul class="mt-2 list-disc space-y-1 pl-5 text-sm">
+                  <li>
+                    <strong>#💬〕general</strong> — コミュニティチャット
+                  </li>
+                  <li>
+                    <a
+                      href="https://discord.com/channels/756859004965093426/1302832897061027940"
+                      class="text-blue-400 hover:underline"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      >サポート</a
+                    >
+                    — チケットとヘルプ
+                  </li>
+                  <li>
+                    <a
+                      href="https://discord.com/channels/756859004965093426/1302838662328750121"
+                      class="text-blue-400 hover:underline"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      >チュートリアル</a
+                    >
+                    — コミュニティガイド
+                  </li>
+                </ul>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>Mia Launcher とは？</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p><a href="/ja-JP/mia-launcher.html" class="text-blue-400 hover:underline">Mia Launcher</a> は公式デスクトップアプリです：マルチアカウント、STW アラート、ショップなど。Discord で Premium があれば、ランチャーで Discord ログインするだけで再課金なしで有効になります。</p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>Mia Checker とは？</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p><a href="/ja-JP/checker.html" class="text-blue-400 hover:underline">Mia Checker</a> は Telegram 上の Fortnite アカウントチェッカーです。独自の <a href="/ja-JP/terminos-checker.html" class="text-blue-400 hover:underline">利用規約</a> があります。Discord ボットの代わりではありません。</p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>Admin Panel / Lobby Hack コードは？</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>ウェブ：<a href="/ja-JP/admin-panel.html" class="text-blue-400 hover:underline">Admin Panel</a>。<a href="/ja-JP/api.html" class="text-blue-400 hover:underline">API</a> にもルートがあります（API key が必要）。</p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>スピリットトラッカーとは？</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>Fortnite のスピリット（Sprites）をマーク・フィルタするウェブツール：<a href="/ja-JP/espiritus.html" class="text-blue-400 hover:underline">スピリッツ</a>。</p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>DM でも使えますか？</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>多くのコマンドは <strong>Mia との DM</strong> と招待されたサーバーで使えます。一部（<code>/dupe</code> や TaxiBots など）は公式サーバー <a href="https://discord.gg/miabot" class="text-blue-400 hover:underline" target="_blank" rel="noopener noreferrer">Mia Lounge</a> が必要です。</p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>スラッシュコマンドが出ない？</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>次を試してください：</p>
+      <ol class="mt-2 list-decimal space-y-1 pl-5 text-sm">
+        <li><code>/</code> を入力し、Discord が Mia のコマンドを読み込むまで待ちます。</li>
+        <li>Mia がサーバーにいて、アプリケーションコマンドの権限があるか確認します。</li>
+        <li>招待したばかりなら、数分待つか Discord を再起動します。</li>
+        <li>モバイルでは遅いことがあります：アプリを閉じて開き直します。</li>
+      </ol>
+      <p class="mt-2">一覧は <a href="/ja-JP/comandos.html" class="text-blue-400 hover:underline">コマンド</a> または <code>/ayuda</code> で。</p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>コンソール（PS/Xbox/Switch）で使える？</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>Mia は <strong>Discord</strong>（PC、モバイル、Web）上で動作し、コンソール内では動きません。コンソールでプレイする Fortnite アカウントも管理できます：Discord から <code>/registrar</code> でリンクし、Mia は Epic の API 経由で操作します。</p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>Mia を信頼する理由？</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>
+      Mia は <strong>信頼でき、透明で、スペイン語を軸にした</strong> ボットとして生まれました。
+      とくに Save the World コミュニティ向けです。Discord で何年も活動しており、奇妙なリスクや BAN がなく収まる範囲で、
+      要望はできるだけ追加しています。敏感な機能（例：botlobbies）がある場合は警告し、使う前に同意が必要です。
+    </p>
+    <p>
+      データ販売や隠し機能はありません。保存するのはボットとランチャーに必要なものだけで、
+      <strong>いつでも削除できます</strong>（<code>/borrar</code>、Auth 含む）。削除すると Mia 内に存在しなくなります。
+    </p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>データ販売や裏の操作は？</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>
+      <strong>いいえ。</strong> データ販売も隠しチートもありません。目的はコミュニティ（とくに STW）を
+      明確なボットとランチャーで助けることです。Discord では仕組みについてかなりオープンです。疑問があれば
+      <strong>#💬〕general</strong> または
+      <a href="https://discord.com/channels/756859004965093426/1302832897061027940" class="text-blue-400 hover:underline" target="_blank" rel="noopener noreferrer">サポート</a>
+      で聞いてください。
+    </p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Accounts FAQ -->
+        <div class="faq-category hidden" id="cuenta-faq">
+          <div class="faq-panel-head">
+            <h2>アカウント</h2>
+            <p>
+              登録、セキュリティ、Epicアカウントに関してMiaが保存するデータ。
+            </p>
+          </div>
+          <div class="mb-6 faq-list">
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>アカウント登録方法？</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>
+                  Fortnite アカウントを Mia に登録するには、Discord で /registrar コマンドを使います。残りは Mia が案内します。
+                </p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>登録は安全？</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>
+                  はい：Mia は <strong>Epic のパスワードを要求も保存もしません</strong>。
+                  登録は公式の認可フロー（device auth）を使い、必要な技術クレデンシャル
+                  （AccountID、DeviceID、Secret）だけをプライベートなデータベースに保存します。
+                  データの販売や共有はありません。Mia の利用をやめたい場合は
+                  <code>/borrar</code> で削除してください。
+                </p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>リンク解除？</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>
+                  Mia からアカウントを外すには /borrar コマンドを使います。選択したオプションに応じてアカウントの認証情報と生成された Auth が削除されます。
+                </p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>BAN リスクは？</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>
+                  リスクはありますが、非常にまれです。Mia はアカウントを危険にさらすコマンドは使いません。Epic の利用規約は第三者アプリを明確に禁止していますが、このプロジェクトの 8 年間で Discord ボット利用による BAN はありません。開発者・管理者も 10 万人以上と同様に Mia を使っています。
+                </p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>保存データは？</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>
+                  Mia が正しく動作し Fortnite アカウントのデータにアクセスするため、
+                  あなたの <strong>AccountID</strong>、<strong>DeviceID</strong>、
+                  <strong>Secret</strong> から Auth が生成されます。これらのクレデンシャルで
+                  <strong>accessToken</strong> を作り、Fortnite API とやり取りします。
+                  Mia の運用に不可欠なデータです。
+                </p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>Epic パスワード保存？</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p><strong>いいえ。</strong> Epic のパスワードを求めることはありません。デバイス認可フローのみを使い、Mia は device auth のクレデンシャルを保存します（メール/パスワードではありません）。</p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>複数 Fortnite アカウント？</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>はい。無料プランには上限があります。<a href="/ja-JP/premium.html" class="text-blue-400 hover:underline">Premium</a> ならもっと多く管理できます。<code>/cuentas</code> または <code>/cambiar</code> で切り替えます。</p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>/registrar 失敗や Auth 期限切れ？</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>
+                  Auth が無効になった場合（パスワード変更、Epic のセッション終了など）は
+                  <code>/borrar</code> のあと <code>/registrar</code> し直してください。
+                  <strong>その目的で <code>/refrescar</code> は使わないでください</strong>：
+                  そのコマンドは Fortnite のミッション/プロフィールを更新するだけで、リンクは修復しません。
+                </p>
+                <p>
+                  登録がまた失敗する場合は
+                  <a href="https://discord.com/channels/756859004965093426/1302832897061027940" class="text-blue-400 hover:underline" target="_blank" rel="noopener noreferrer">サポート</a>
+                  でチケットを開いてください。
+                </p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>登録なしで使える？</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>はい、公開機能（情報コマンド、Web など）はそのまま使えます。<em>あなたの</em> Epic アカウント（インベントリ、デイリー、ギフトなど）を管理するには <code>/registrar</code> が必要です。</p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>/refrescar とは？</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>
+                  <code>/refrescar</code> は <strong>Auth を更新したり Discord/Epic のセッションを「修理」したりしません</strong>。
+                  <strong>Fortnite プロフィール</strong>（ミッション / クエスト）を Save the World と Battle Royale で更新します。
+                </p>
+                <p>
+                  Mia 上のミッションやゲーム状態が古いときに使ってください。任意で <code>initmm</code> はマッチメイキング用プロフィールを初期化します。
+                  Auth が無効なら <code>/borrar</code> のあと <code>/registrar</code> です。
+                </p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>Epic パスワード変更やセッション切断？</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>
+                  Mia の Auth は無効になります。Mia でアカウントを
+                  <code>/borrar</code> し、<code>/registrar</code> で再リンクしてください。
+                  <code>/refrescar</code> では<strong>直りません</strong>：ゲーム内ミッションの更新だけです。
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Premium FAQ -->
+        <div class="faq-category hidden" id="premium-faq">
+          <div class="faq-panel-head">
+            <h2>Premium</h2>
+            <p>
+              Discordプラン、支払い、Mia Premiumの特典。
+            </p>
+          </div>
+          <div class="mb-6 faq-list">
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>Mia Premium の特典？</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>
+                  Mia Premium には独自の特典があります。Fortnite の面倒な作業を自動化するシステム（無料ラマの受け取り、気に入らないデイリークエストの入れ替えなど）、Mia だけの TOP 機能などです。さらに
+                  <strong>Premium は Mia Launcher と共有</strong>されます：ランチャーで Discord ログインすれば再課金なしで有効になります。特典の一覧は
+                  <a
+                    href="/ja-JP/premium.html"
+                    class="text-blue-400 hover:underline"
+                    >Premium ページ</a
+                  >
+                  で確認できます。
+                </p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>Launcher でも Premium？</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>
+                  <strong>はい。</strong> Mia Premium は Discord ボットと Mia Launcher で共有されます。同じサブスクリプションです：すでに Mia で Premium があれば、ランチャーで Discord アカウントにログインするだけで自動有効化され、二重支払いは不要です。
+                  <a
+                    href="/ja-JP/mia-launcher.html"
+                    class="text-blue-400 hover:underline"
+                    >Mia Launcher</a
+                  >
+                  と
+                  <a
+                    href="/ja-JP/premium.html"
+                    class="text-blue-400 hover:underline"
+                    >Premium プラン</a
+                  >
+                  を確認してください。
+                </p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>Premium の取得？</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>いちばん分かりやすい方法：</p>
+                <ol class="mt-2 list-decimal space-y-1 pl-5 text-sm">
+                  <li>
+                    <a
+                    href="/ja-JP/premium.html"
+                    class="text-blue-400 hover:underline"
+                      >Premium ページ</a
+                    >
+                    に行き、プランを選びます。
+                  </li>
+                  <li>
+                    または
+                    <a
+                      href="https://discord.gg/miabot"
+                      class="text-blue-400 hover:underline"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      >Mia Lounge</a
+                    >
+                    に参加し、そこから Premium を購入 / 有効化します。
+                  </li>
+                  <li>
+                    Discord サーバーをブーストすると、ブースター特典の一部が得られます（有料のフルプランではありません）。
+                  </li>
+                </ol>
+                <p class="mt-2">
+                  プランは <strong>5€/月</strong> から。Premium は
+                  <a
+                    href="/ja-JP/mia-launcher.html"
+                    class="text-blue-400 hover:underline"
+                    >Mia Launcher</a
+                  >
+                  とも共有されます。
+                </p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span
+                  >Premiumサブスクを別のユーザーに譲渡できますか？</span
+                >
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>
+                  いいえ。Premiumは購入者のDiscordアカウントに紐づき、通常は譲渡できません。アカウントにアクセスできなくなった場合は、Premiumの移管をリクエストできます。
+                </p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>支払い方法？</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>
+                  現在は PayPal、Revolut、および暗号資産（Bitcoin、Litecoin、USDT）に対応しています。
+                </p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>返金？</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>
+                  いいえ。Premium 購入後の返金はできません。PayPal で紛争や返金申請をすると、Mia とサーバーから永久 BAN されます。
+                </p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>Premium はどこで？</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p><a href="/ja-JP/premium.html" class="text-blue-400 hover:underline">miadsc.xyz/ja-JP/premium</a>、または <a href="https://discord.gg/miabot" class="text-blue-400 hover:underline" target="_blank" rel="noopener noreferrer">Mia Lounge</a> から。プランを選んで支払い、Premium が Discord に紐づきます（Mia Launcher でも使えます）。</p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>Premium 料金？</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>ユーザープランは <strong>5€/月</strong> から。<a href="/ja-JP/premium.html" class="text-blue-400 hover:underline">Premium ページ</a> に他のオプションもあります。</p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>Premium 終了後？</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>無料プランに戻ります：自動化と拡大された上限がなくなります。サーバーのフィードやカスタム画像は Mia のデフォルトに戻ることがあります。登録済みアカウントは自動では削除されません。</p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>Discord Boost = 有料 Premium？</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>厳密には違います。Mia Lounge をブーストするとブースター特典は得られますが、有料のフル <strong>Premium プランの代わりにはなりません</strong>。詳細は <a href="/ja-JP/premium.html" class="text-blue-400 hover:underline">Premium</a>。</p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>Premium はユーザー単位？</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p><strong>Discord ユーザー単位</strong>（個人の Premium）。一部のサーバー特典（フィード、カスタム画像）は <code>/config servidor</code>（サーバー所有者）で guild に設定し、設定者が現行ルールでユーザー Premium を持っている必要があります。詳細は <a href="/ja-JP/premium.html" class="text-blue-400 hover:underline">Premium</a>。</p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>Discord でフィード設定？</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>はい。サーバーのオーナーは <code>/config servidor</code> でフィードチャンネル（ショップ、アラートなど）を設定できます。Premium ならさらにカスタム（例：フッター/画像）できます。Premium なしでは Mia のデフォルトを使います。</p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>Vitalicio 等の長期プラン？</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>月額以外にも長期プランがあります（例：年間の lifetime など、オファーによる）。価格と内容は <a href="/ja-JP/premium.html" class="text-blue-400 hover:underline">Premium</a> で確認；わからないときは <a href="https://discord.com/channels/756859004965093426/1302832897061027940" class="text-blue-400 hover:underline" target="_blank" rel="noopener noreferrer">サポート</a> で聞いてください。</p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- API FAQ -->
+        <div class="faq-category hidden" id="api-faq">
+          <div class="faq-panel-head">
+            <h2>API</h2>
+            <p>
+              キー、レート制限、開発者向けAPI Premium。
+            </p>
+          </div>
+          <div class="mb-6 faq-list">
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>公開 API とは？</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>
+                  Mia が管理する Fortnite データを公開する REST API です：Battle Royale ショップ、Save the World のリソースとアラート、Epic アカウントの状態など。完全なドキュメントは
+                  <a href="/ja-JP/api.html">API ページ</a> にあります。
+                </p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>API キー取得？</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>
+                  Discord で <code>/api crear</code> コマンドを使います。Mia が
+                  プライベートキーを発行し、<code>Authorization</code> ヘッダーでの使い方を案内します。
+                  安全な場所に保管し、共有したり公開リポジトリに上げたりしないでください。
+                </p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span
+                  >無料APIとAPI Premiumの違いは？</span
+                >
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>
+                  無料APIには個人利用やテスト向けの毎分リクエスト上限があります。
+                  <strong>API Premium</strong>（月5€）は上限を
+                  <strong>360 req/min</strong> に上げ、BR/STWのカスタムショップ画像も含みます。詳細と比較は
+                  <a href="/ja-JP/premium.html">Premium</a> へ。
+                </p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span
+                  >APIを使うのにFortniteアカウントの登録は必要ですか？</span
+                >
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>
+                  エンドポイントによります。BRショップやSTWアラートなどはアカウント連携不要です。Epicアカウント系（ギフトやオンラインなど）は <code>/registrar</code> でMiaに登録する必要があります。
+                </p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>API エラー報告？</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>
+                  <a
+                    href="https://discord.gg/miabot"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    class="text-blue-400 hover:underline"
+                    >Mia Lounge</a
+                  >
+                  に参加し、
+                  <a
+                    href="https://discord.com/channels/756859004965093426/1302832897061027940"
+                    class="text-blue-400 hover:underline"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    >サポート</a
+                  >
+                  でチケットを開くか、<strong>#💬〕general</strong> に書いてください。
+                  エンドポイント、応答コード、可能ならリクエスト例（キー全文は含めない）を添えてください。
+                </p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>API キー必須？</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p><strong>はい。</strong> 公開 API ルートには API key が必要です（<code>Authorization: Bearer mia_…</code> またはヘッダー <code>api-key</code>）。<code>/api crear</code> で作成してください。Premium が必須なのは Premium と明記されたルートのみです（例：カスタムショップ画像）。</p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>API ドキュメント？</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p><a href="/ja-JP/api.html" class="text-blue-400 hover:underline">miadsc.xyz/ja-JP/api</a> で：ルート、例、認証。</p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>API キー共有？</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p><strong>いいえ。</strong> パスワードと同じく非公開です。持っている人はあなたの枠を使い、プランで許可されたものにアクセスできます。GitHub、公開スクショ、チャットに上げないでください。</p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>キー漏洩・失効？</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>
+                  <code>/api revisar</code> でキーを確認してください。古いキーを無効にするには
+                  <code>/api crear</code> で新しいキーを作り（古いものは使わないでください）。
+                  スタッフの助けが必要なら
+                  <a href="https://discord.com/channels/756859004965093426/1302832897061027940" class="text-blue-400 hover:underline" target="_blank" rel="noopener noreferrer">サポート</a>
+                  でチケットを開いてください。
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+
+        <div class="faq-category hidden" id="herramientas-faq">
+          <div class="faq-panel-head">
+            <h2>ツール</h2>
+            <p>Launcher、Checker、STWアラート、プロフィール、管理パネルなど。</p>
+          </div>
+          <div class="mb-6 faq-list">
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>Launcher ダウンロード？更新必須？</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>Windows インストーラーは <a href="/ja-JP/mia-launcher.html#descargar" class="text-blue-400 hover:underline">Mia Launcher</a>（GitHub Releases）からダウンロード。本番ビルドではログイン後の更新は通常<strong>必須</strong>です：アプリを使い続けるにはインストールしてください。</p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>Checker = Discord ボット？</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p><strong>いいえ。</strong> <a href="/ja-JP/checker.html" class="text-blue-400 hover:underline">Mia Checker</a> は Telegram 上の別製品（アカウント報告）です。Mia ボットは Discord にあります。ブランドとエコシステムは共有しますが、同じサービスでも同じ利用規約でもありません。</p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>Checker で売買安全？</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>Checker はパスワードを無闇に共有するより安全にアカウントを確認できますが、<strong>アカウントの売買は Epic の規約に違反する可能性</strong>がありリスクがあります。<a href="/ja-JP/terminos-checker.html" class="text-blue-400 hover:underline">Mia Checker の利用規約</a>を読み、自己責任で使ってください。</p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>今日の STW アラート？</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>ウェブ：<a href="/ja-JP/alertas.html" class="text-blue-400 hover:underline">アラート</a>。設定に応じて Discord のフィードや Mia 内のコマンド/アラートも使えます。</p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>公開 STW プロフィール？</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p><a href="/ja-JP/perfil.html" class="text-blue-400 hover:underline">STW プロフィール</a> ページは、名前または accountId で Fortnite の公開プロフィール（レベル、実績など）を照会します。プレイヤーが Fortnite でプロフィールを非公開にしている場合は表示できません。</p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>Admin Panel コードは Epic 公式？</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>シーズンの <strong>Admin Panel / Lobby Hack</strong> コードで、Mia が一覧化して調べやすくしています。<strong>Mia は Epic Games と提携していません</strong>。ゲーム内 / Fortnite が示す公式フローでのみ交換してください。一覧は <a href="/ja-JP/admin-panel.html" class="text-blue-400 hover:underline">Admin Panel</a>。</p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>最も安全なスペイン語 Checker？</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>
+      「世界一安全」と断言はできません。英語のチェッカーもあり、評判の悪いものも多いです。だから
+      <strong>Mia Checker</strong> があります：スペイン語コミュニティ（英語圏にも）へ信頼できる選択肢を提供するためです。
+    </p>
+    <p>
+      プロセスは透明です：クレデンシャルを生成し、アカウントを確認したあと、
+      Epic API 経由で作った <strong>クレデンシャルと auth を削除</strong>し、何も残しません。
+      Mia Checker はデータ販売も裏での隠し機能もありません。
+    </p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>Checker は Auth 保存？</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>
+      <strong>チェックの Auth は保存されません。</strong> アカウント確認後、生成されたクレデンシャルと Auth は削除されます。Discord の Mia ボットとは異なり、そちらでは動作に必要なデータがあり、いつでも
+      <code>/borrar</code> で削除できます。あわせて
+      <a href="/ja-JP/terminos-checker.html" class="text-blue-400 hover:underline">Mia Checker の利用規約</a>
+      も読んでください。
+    </p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- TaxiBots FAQ -->
+        <div class="faq-category hidden" id="taxibots-faq">
+          <div class="faq-panel-head">
+            <h2>TaxiBots</h2>
+            <p>STWミッションとBattle Royaleボットロビーへのアクセス。</p>
+          </div>
+          <div class="mb-6 faq-list">
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>TaxiBots とは？</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>
+                  TaxiBots は、あなたより高いパワーレベルで Save the World（STW）ミッションに
+                  入れる自動アカウントです。Battle Royale（BR）の botlobbies に入って
+                  ボットと遊ぶのにも使えます。
+                </p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>TaxiBot の使い方？</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>
+                  TaxiBots システムの使い方：
+                </p>
+                <ol class="mt-2 list-decimal space-y-1 pl-5 text-sm">
+                  <li><a href="https://discord.gg/miabot" class="text-blue-400 hover:underline" target="_blank" rel="noopener noreferrer">Mia Lounge</a> サーバーに参加します。</li>
+                  <li><code>/registrar</code> で Mia にアカウントを登録します。</li>
+                  <li><code>/taxibot (activar)</code> でアカウントをタクシーに追加します。</li>
+                  <li>ボットを追加します。</li>
+                  <li>タクシーを招待します。</li>
+                  <li>試合を「埋まらない」にしてプレイ！</li>
+                </ol>
+                <p class="mt-2">
+                  詳しいガイドは
+                  <a
+                    href="/ja-JP/taxibots.html"
+                    class="text-blue-400 hover:underline"
+                    >taxibots</a
+                  >。
+                </p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>TaxiBots 安全？</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>
+                  はい。TaxiBots は自動クライアントに接続された本物のアカウントです。実在の人と遊ぶのと同じなので、問題なく使えるはずです。
+                </p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>Premium 必要？</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>Mia Lounge の基本フローから始められます；Premium で特典と空きが増えます。ガイドは <a href="/ja-JP/taxibots.html" class="text-blue-400 hover:underline">TaxiBots</a>。</p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>TaxiBots = botlobbies？</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p><strong>いいえ。</strong> TaxiBots は主に Save the World ミッション向けです。Battle Royale の botlobbies は別システムです。詳細は <a href="/ja-JP/taxibots.html" class="text-blue-400 hover:underline">taxibots</a>。</p>
+              </div>
+            </div>
+
+          </div>
+        </div>
+      </div>
+
+      <section class="faq-cta">
+        <h2>まだ質問がありますか？</h2>
+        <p>
+          答えが見つからない場合は、Discordでスタッフとコミュニティがサポートします。
+        </p>
+        <a
+          href="https://discord.gg/miabot"
+          class="faq-cta-btn"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <i class="fa-brands fa-discord"></i> Join the support server
+        </a>
+      </section>

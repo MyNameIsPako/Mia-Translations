@@ -2346,7 +2346,7 @@
 				"msg10": "Der Alarm für wurde erfolgreich deaktiviert",
 				"msg11": "`Kein Kanal`",
 				"msg12": "`Keine Rolle`",
-				"msg13": "Feeds für:",
+				"msg13": "Mia-Feeds für:",
 				"msg14": "Du kannst einen der Feeds mit `/config feed activate` aktivieren oder mit `/config feed deactivate` deaktivieren.",
 				"msg15": "Sendet alle Statusänderungen der FN-Server an den Kanal.",
 				"msg16": "Sendet neue Leaks, die von Mia entdeckt wurden, als Bild mit Seltenheit und mehr.",

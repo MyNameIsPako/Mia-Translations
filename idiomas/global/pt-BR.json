@@ -2361,7 +2361,7 @@
 				"msg10": "O alerta para foi desativado com sucesso",
 				"msg11": "`Sem canal`",
 				"msg12": "`Sem papel`",
-				"msg13": "Feeds para:",
+				"msg13": "Feeds da Mia para:",
 				"msg14": "Você pode ativar um dos feeds usando `/config feed ativar` ou desativar um feed usando `/config feed desativar`.",
 				"msg15": "Envia qualquer alteração de status dos servidores FN para o canal.",
 				"msg16": "Envia novos vazamentos detectados por Mia, eles serão enviados como uma imagem com raridade e mais.",

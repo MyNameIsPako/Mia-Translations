@@ -1,0 +1,141 @@
+{
+  "meta": {
+    "title": "@mynameispako",
+    "description": "Pako — フルスタック開発者。Discordボット、API、デスクトップアプリ。MiaとFortniteエコシステムのリード開発者。",
+    "ogTitle": "@mynameispako",
+    "ogDescription": "Discordボット、REST API、デスクトップアプリに特化したフルスタック開発者。Miaのリード開発者。"
+  },
+  "gate": {
+    "enter": "クリックして入る...",
+    "aria": "入る"
+  },
+  "hero": {
+    "badge": "機会を受付中",
+    "badgeAria": "就労可否",
+    "name": "Pako",
+    "role": "Full-Stack Developer",
+    "handle": "@mynameispako",
+    "bio": "本番運用のDiscordボット、REST API、デスクトップアプリ。Miaのリード開発者 — Fortniteエコシステム。",
+    "audioMute": "音楽をミュート",
+    "audioUnmute": "音楽をオン",
+    "musicTitle": "音楽",
+    "viewsTitle": "プロフィール閲覧数",
+    "metricsAria": "プロフィール概要",
+    "metrics": {
+      "repos": "公開リポジトリ",
+      "followers": "GitHubフォロワー",
+      "location": "UTC+2 · リモート",
+      "roleLabel": "Miaエコシステム",
+      "locationValue": "スペイン",
+      "roleValue": "Lead Dev"
+    },
+    "socialsAria": "ソーシャルリンク"
+  },
+  "presence": {
+    "offline": "最終オンライン：1日前",
+    "aria": "Discordステータス",
+    "badgesAria": "Discordバッジ"
+  },
+  "sections": {
+    "titles": {
+      "Proyecto principal": "メインプロジェクト",
+      "Ecosistema Mia": "Miaエコシステム",
+      "Stack": "Stack"
+    },
+    "hints": {
+      "hint_1": "Miaのその他のプロジェクト。タップして詳細カードを表示。"
+    },
+    "section-title": "メインプロジェクト",
+    "project-card": "Mia",
+    "h2_2": "Miaエコシステム",
+    "h2_3": "Stack"
+  },
+  "projectUi": {
+    "private": "非公開",
+    "language": "言語",
+    "stack": "Stack",
+    "open": "開く",
+    "code": "コード",
+    "download": "ダウンロード",
+    "periodAria": "プロジェクト期間",
+    "sublabels": [
+      "言語",
+      "Stack",
+      "開く",
+      "コード",
+      "ダウンロード"
+    ]
+  },
+  "status": {
+    "active": "稼働中",
+    "discontinued": "終了"
+  },
+  "projects": [
+    {
+      "title": "Mia",
+      "description": "Epic Games APIでFortniteアカウントを管理するDiscordボット：BR、STW、ショップ、パーティ、taxibots、報酬、リアルタイムプレゼンス。",
+      "badge": "Private",
+      "status": "active"
+    },
+    {
+      "title": "Mia Launcher",
+      "description": "TauriとSvelteのデスクトップランチャー：Epicログイン、Discord OAuth、自動アップデータ、Mia API連携。",
+      "status": "active"
+    },
+    {
+      "title": "mia-web",
+      "description": "Mia公式サイト（miadsc.xyz）：ランディング、taxibots、統計、ドキュメント、法的ページ。",
+      "badge": "Private",
+      "status": "active"
+    },
+    {
+      "title": "Mia-Checker",
+      "description": "Fortniteアカウントとロッカーを確認するTelegramボット。12言語、PDF、premium、Webログインなしの検証。",
+      "badge": "Private",
+      "status": "active"
+    },
+    {
+      "title": "Mia-Translations",
+      "description": "Miaボットのコミュニティ言語リポジトリ。翻訳の追加・編集・改善が可能。",
+      "status": "active"
+    },
+    {
+      "title": "miaclient",
+      "description": "FortniteのHTTP/XMPPサービス向けプライベートライブラリ。",
+      "badge": "Private",
+      "status": "discontinued"
+    },
+    {
+      "title": "Mia-Client",
+      "description": "他ボットのトークンでインスタンスをホスト・管理するDiscordボット：パネル、起動、プレフィックス、シャーディング、Fortniteユーティリティ。",
+      "badge": "Private",
+      "status": "discontinued"
+    },
+    {
+      "title": "miabotdiscord",
+      "description": "MiaのTwitter向けFortniteイベント自動ボット。",
+      "badge": "Private",
+      "status": "discontinued"
+    }
+  ],
+  "stackAria": "技術スタック",
+  "search": {
+    "placeholder": ""
+  },
+  "filters": [],
+  "aria": {
+    "Entrar": "入る",
+    "Disponibilidad laboral": "就労可否",
+    "Silenciar música": "音楽をミュート",
+    "Enlaces sociales": "ソーシャルリンク",
+    "Discord": "Discord",
+    "X": "X",
+    "GitHub": "GitHub",
+    "Mia web": "Mia web",
+    "Estado de Discord": "Discordステータス",
+    "Insignias de Discord": "Discordバッジ",
+    "Resumen profesional": "プロフィール概要",
+    "Periodo del proyecto": "プロジェクト期間",
+    "Tecnologías": "技術スタック"
+  }
+}

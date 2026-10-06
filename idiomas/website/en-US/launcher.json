@@ -1,0 +1,97 @@
+{
+  "meta": {
+    "title": "Mia · Mia Launcher",
+    "description": "Mia Launcher is the official desktop app for Fortnite: multi-account, STW alerts, shop, boosters, Mia Checker, and Premium benefits shared with the Discord bot.",
+    "ogTitle": "Mia · Mia Launcher",
+    "ogDescription": "Mia Launcher is the official desktop app for Fortnite: multi-account, STW alerts, shop, boosters, Mia Checker, and Premium benefits shared with the Discord bot."
+  },
+  "hero": {
+    "kicker": "Official launcher · Windows",
+    "title": "Mia Launcher",
+    "subtitle": "STW alerts, accounts, and the Mia community",
+    "lead": "Manage Fortnite from your PC with Mia’s official launcher: STW mission alerts like on miadsc.xyz, multiple Epic accounts, Mia Checker with PDF export, boosters, STW shop, AutoKick, lookup, and quick access to the web and Discord. Your Discord Mia Premium is shared with the launcher when you sign in with Discord.",
+    "altVisual": "Mia Launcher UI with STW alerts, sidebar, and mission panel",
+    "stats": {
+      "version": "Version",
+      "multiAccount": "Epic multi-account",
+      "languages": "6 languages",
+      "alerts": "Real-time STW alerts"
+    },
+    "actions": {
+      "download": "Download …",
+      "support": "Support"
+    }
+  },
+  "shareBanner": {
+    "aria": "Premium shared with Mia",
+    "title": "Premium shared with Mia",
+    "text": "Important: if you have Mia Premium on Discord, the same subscription activates in Mia Launcher. Sign in with your Mia account and enjoy the launcher’s premium features without paying again.",
+    "link": "View Mia Premium plans",
+    "altLauncher": "Mia Launcher",
+    "altMia": "Mia bot"
+  },
+  "jump": {
+    "aria": "Page sections",
+    "features": "Features",
+    "changelog": "What’s new",
+    "download": "Download"
+  },
+  "features": {
+    "title": "Everything included",
+    "lead": "Sidebar organized by area, Discord login, and Mia API access built into the app.",
+    "items": [
+      {
+        "title": "STW Alerts",
+        "text": "Filter missions by V-Bucks, survivors, PL 160, heroes, and more—just like miadsc.xyz. Download the day’s image."
+      },
+      {
+        "title": "Mia Checker",
+        "text": "Full account report with profile, purchases, locker, STW, Epic friends, and PDF export by section or full report."
+      },
+      {
+        "title": "STW boosters",
+        "text": "Check inventory, redeem personal boosters, and send friend boosters with autocomplete and recipient profile."
+      },
+      {
+        "title": "STW and Battle Royale shop",
+        "text": "Buy the full STW rotation at max quantity, weekly countdown, plus BR shop and locker access."
+      },
+      {
+        "title": "Parties and AutoKick",
+        "text": "Kick, claim, transfer materials, and invite per account. Daily reward history in the header."
+      },
+      {
+        "title": "Lookup and multi-account",
+        "text": "Search players by name or ID with STW profile and public loadouts. Switch Epic accounts from the sidebar."
+      }
+    ]
+  },
+  "changelog": {
+    "title": "Latest updates",
+    "lead": "Recent launcher changes. The currently published version is ….",
+    "loading": "Loading"
+  },
+  "cta": {
+    "title": "Download Mia Launcher",
+    "text": "Windows installer with automatic updates. Sign in with Discord (official Mia app) and connect your Epic accounts to get started.",
+    "github": "GitHub Releases",
+    "home": "Back to home",
+    "tags": [
+      "Windows",
+      "ES · EN · DE · FR · PT-BR · TR",
+      "Automatic updates"
+    ]
+  },
+  "overlay": {
+    "close": "Close",
+    "altFullscreen": "Mia Launcher fullscreen"
+  },
+  "disclaimer": "Not affiliated with Epic Games · Official launcher of the Mia ecosystem",
+  "ui": {
+    "downloadWithVersion": "Download {version}",
+    "changelogEmpty": "No changelog entries published yet.",
+    "changelogError": "Could not load the launcher version.",
+    "changelogLoading": "Loading updates",
+    "recent": "Latest"
+  }
+}

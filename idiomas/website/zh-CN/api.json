@@ -1,0 +1,115 @@
+{
+  "meta": {
+    "title": "Mia · API",
+    "description": "Mia 面向 Fortnite 与 Discord 的公开 API 文档：BR 商店、STW 警报、资源、管理面板代码等。含 JavaScript、TypeScript、Python 与 Java 示例，以及清晰的认证与限额。",
+    "ogTitle": "Mia · API",
+    "ogDescription": "Mia 面向 Fortnite 与 Discord 的公开 API 文档：BR 商店、STW 警报、资源、管理面板代码等。含 JavaScript、TypeScript、Python 与 Java 示例，以及清晰的认证与限额。"
+  },
+  "hero": {
+    "title": "API 文档",
+    "lead": "将 Fortnite 与 Save the World 接入你的机器人。所有路由都需要 Mia API 密钥。支持的语言 · 默认 es-ES 。",
+    "links": [
+      "支持的语言"
+    ],
+    "copyBaseUrl": "复制基础 URL",
+    "stats": [
+      "19 条公开路由"
+    ]
+  },
+  "nav": {
+    "mobile": [
+      "访问",
+      "语言",
+      "套餐",
+      "账号",
+      "BR",
+      "STW"
+    ],
+    "sidebar": {
+      "title": "本页内容",
+      "groups": [
+        {
+          "label": "常规",
+          "links": [
+            "认证",
+            "语言",
+            "套餐与限额"
+          ],
+          "subLabels": []
+        },
+        {
+          "label": "API 路由",
+          "links": [
+            "查看路由"
+          ],
+          "subLabels": []
+        },
+        {
+          "label": "Epic 账号",
+          "links": [
+            "查看分区",
+            "在线玩家",
+            "剩余礼物"
+          ],
+          "subLabels": []
+        },
+        {
+          "label": "Battle Royale",
+          "links": [
+            "查看分区",
+            "BR 商店",
+            "BR 图片",
+            "AES 密钥",
+            "代码"
+          ],
+          "subLabels": [
+            "商店",
+            "AES",
+            "Admin Panel"
+          ]
+        },
+        {
+          "label": "Save the World",
+          "links": [
+            "查看分区",
+            "STW 资源",
+            "英雄",
+            "图纸",
+            "幸存者",
+            "目录",
+            "全部警报",
+            "V-Bucks",
+            "按分类",
+            "STW 商店",
+            "STW 图片"
+          ],
+          "subLabels": [
+            "资源",
+            "警报",
+            "商店"
+          ]
+        }
+      ]
+    }
+  },
+  "sections": {
+    "sec-auth": "认证",
+    "sec-locales": "语言",
+    "sec-pricing": "套餐与限额",
+    "sec-cuenta": "Epic 账号",
+    "sec-br": "Battle Royale 商店",
+    "sec-br-aes": "AES 密钥",
+    "sec-br-admin": "Admin Panel",
+    "sec-stw-assets": "STW 资源",
+    "sec-stw-alertas": "STW 警报",
+    "sec-stw-tienda": "STW 商店"
+  },
+  "bodyInclude": "api",
+  "ui": {
+    "localeTitle": "语言",
+    "localeQuery": "可选查询：<code>locale</code>、<code>lang</code> 或 <code>idioma</code> · 默认 <strong>es-ES</strong>",
+    "localeSeeAll": "查看所有语言",
+    "routesCount": "{count} 条路由",
+    "routesFiltered": "{total} 条中的 {visible} 条"
+  }
+}

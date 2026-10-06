@@ -1,0 +1,179 @@
+{
+  "meta": {
+    "title": "Mia · STW-Profil",
+    "description": "Öffentliches Save-the-World-Profil mit Mia: Level, Erfolge, MSK, Ressourcen, Loadout, Abenteuer und Fortnite-Fortschritt zum Teilen oder Ansehen.",
+    "ogTitle": "Mia · STW-Profil",
+    "ogDescription": "Öffentliches Save-the-World-Profil mit Mia: Level, Erfolge, MSK, Ressourcen, Loadout, Abenteuer und Fortnite-Fortschritt zum Teilen oder Ansehen."
+  },
+  "hero": {
+    "title": "Spieler suchen",
+    "subtitle": "Gib oben einen Epic-Namen ein, um das Profil zu sehen."
+  },
+  "badges": {
+    "aria": "Mia-Abzeichen",
+    "registered": "In Mia registriert",
+    "premium": "Mia Premium",
+    "booster": "Booster",
+    "founder": "Gründer"
+  },
+  "tabs": {
+    "aria": "Profilbereiche",
+    "resumen": "Übersicht",
+    "logros": "Erfolge",
+    "msk": "Mythischer Sturmkönig",
+    "investigacion": "Forschung",
+    "recursos": "Ressourcen",
+    "equipamiento": "Ausrüstung",
+    "aventuras": "Abenteuer"
+  },
+  "resumen": {
+    "research": "Forschung",
+    "book": "Buch & Extras",
+    "achievements": "Erfolgs-Highlights"
+  },
+  "logros": {
+    "banners": "Banner-Herausforderungen"
+  },
+  "msk": {
+    "weekly": "Wöchentliche Mission",
+    "mythics": "Mythische Waffen"
+  },
+  "recursos": {
+    "perks": "Perks:",
+    "elementals": "Elementare Perks:",
+    "flux": "Flux & Legendärer Flux:",
+    "evolution": "Evolutionsmats:",
+    "xp": "Erfahrung:",
+    "manuals": "Handbücher:",
+    "superchargers": "Supercharger:",
+    "tickets": "Tickets:",
+    "misc": "Sonstiges:",
+    "boosts": "Boosts:"
+  },
+  "loadout": {
+    "empty": "Dieses Profil hat kein öffentliches Loadout."
+  },
+  "aventuras": {
+    "empty": "Noch keine Abenteuer gespielt",
+    "title": "Abenteuer"
+  },
+  "runtime": {
+    "loading": "Laden",
+    "capturing": "Aufnahme",
+    "captureError": "Screenshot konnte nicht erstellt werden. Bitte erneut versuchen.",
+    "loadFailedTitle": "Laden fehlgeschlagen",
+    "updatedAt": "Aktualisiert {date}",
+    "yes": "Ja",
+    "no": "Nein",
+    "errors": {
+      "generic": "Öffentliches Profil konnte nicht geladen werden. Bitte erneut versuchen.",
+      "private": "Dieses Profil ist privat. Bitte den Spieler, es in Fortnite öffentlich zu machen: Einstellungen → Konto und Datenschutz → Öffentliches Profil.",
+      "notFound": "Dieses Epic-Games-Konto wurde nicht gefunden.",
+      "apiDown": "Verbindung zur Mia-API fehlgeschlagen. Lokal muss der Bot mit aktiver API laufen (Port 25665).",
+      "loadFailed": "Profil konnte nicht geladen werden",
+      "miaApiMissing": "MiaApi ist nicht verfügbar"
+    },
+    "stats": {
+      "commanderLevel": "Kommandantenstufe",
+      "daysLoggedIn": "Eingeloggte Tage",
+      "msk": "MSK",
+      "notPlayed": "Nicht gespielt"
+    },
+    "loadout": {
+      "equipments": "Ausrüstungen",
+      "active": "Aktiv",
+      "heroesCount": "{count} Helden",
+      "teamPerk": "Teamvorteil",
+      "supportTeam": "Support-Team",
+      "gadgets": "Gadgets",
+      "hero": "Held",
+      "player": "Spieler",
+      "common": "Gewöhnlich",
+      "download": "Karte herunterladen"
+    },
+    "achievements": {
+      "gnomes": "Gnome zerstören",
+      "survivors": "Schutzengel",
+      "chests": "Geöffnete Truhen",
+      "playWithOthers": "Mit anderen spielen",
+      "builds": "Talentierter Baumeister",
+      "mistMonsters": "Nebelfeinde eliminiert",
+      "zones": "Abgeschlossene Zonen"
+    },
+    "research": {
+      "offense": "Offensive",
+      "fortitude": "Stärke",
+      "resistance": "Widerstand",
+      "technology": "Technologie",
+      "points": "Forschungspunkte"
+    },
+    "book": {
+      "level": "Sammelbuch-Stufe",
+      "mtxSpent": "Im Sammelbuch ausgegeben",
+      "revisions": "Überarbeitungen",
+      "matches": "Spiele"
+    },
+    "msk": {
+      "completions": "MSK abgeschlossen",
+      "weeklyNone": "Du hast keine Wochenmission.",
+      "scHero": "Helden-Supercharger",
+      "scTrap": "Fallen-Supercharger",
+      "scWeapon": "Waffen-Supercharger",
+      "scSurvivor": "Überlebenden-Supercharger"
+    },
+    "ventures": {
+      "ends": "Endet: {date}",
+      "levelXp": "Stufe {level} · {xp} XP",
+      "nextLevel": "Nächste Stufe ({level}) — {progress}/{span} ({pct}%)",
+      "xpToMax": "Noch {xp} ({pct}%) {icon} bis Stufe 50",
+      "nextZone": "Nächste Zone: {power}",
+      "nextReward": "Nächste Belohnung ({level}): {text}",
+      "nextTopReward": "Nächste Top-Belohnung ({level}): {text}",
+      "maxLevel": "Maximale Abenteuer-Stufe erreicht",
+      "emptyMissions": "Keine aktiven Missionen im öffentlichen Profil sichtbar."
+    },
+    "resources": {
+      "mythicFury": "Zorn des Sturmkönigs",
+      "mythicOnslaught": "Ansturm des Sturmkönigs",
+      "mythicRavager": "Verwüster des Sturmkönigs",
+      "mythicScourge": "Geißel des Sturmkönigs",
+      "mythicWrath": "Zorneswaffe des Sturmkönigs",
+      "perkLegendary": "Legendäres PERK-UP!",
+      "perkEpic": "Episches PERK-UP!",
+      "perkRare": "Seltenes PERK-UP!",
+      "perkUncommon": "Ungewöhnliches PERK-UP!",
+      "fire": "Feuer",
+      "water": "Wasser",
+      "nature": "Natur",
+      "fluxLegendary": "Legendärer Flux",
+      "fluxEpic": "Epischer Flux",
+      "fluxRare": "Seltener Flux",
+      "generic": "PERK-UP",
+      "rain": "Reine Regentropfen",
+      "lightning": "Blitz in der Flasche",
+      "eye": "Auge des Sturms",
+      "shard": "Sturmsplitter",
+      "schematicXp": "Schema-XP",
+      "survivorXp": "Überlebenden-XP",
+      "heroXp": "Helden-XP",
+      "ventureXp": "Abenteuer-XP",
+      "manualSurvivor": "Überlebenden-Handbücher",
+      "manualSchematic": "Schema-Handbücher",
+      "manualTraps": "Fallen-Handbücher",
+      "scSurvivors": "Überlebenden-Supercharger",
+      "scHeroes": "Helden-Supercharger",
+      "scWeapons": "Waffen-Supercharger",
+      "scTraps": "Fallen-Supercharger",
+      "evolutionChip": "Evolutionschip",
+      "voucherWeapon": "Waffen-Gutschein",
+      "voucherHero": "Helden-Gutschein",
+      "eventTickets": "Event-Tickets",
+      "gold": "Gold",
+      "llamas": "Mini-Lamas",
+      "legendaryLlamas": "Legendäre Lamas",
+      "xray": "Röntgen-Tickets",
+      "boostPersonal": "XP-Boost",
+      "boostTeam": "Team-XP-Boost"
+    }
+  }
+}

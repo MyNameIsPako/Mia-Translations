@@ -1,0 +1,115 @@
+{
+  "meta": {
+    "title": "Mia · API",
+    "description": "Documentação da API pública da Mia para Fortnite e Discord: loja BR, alertas STW, recursos, códigos do Painel Admin e mais. Exemplos em JavaScript, TypeScript, Python e Java, com autenticação e limites claros.",
+    "ogTitle": "Mia · API",
+    "ogDescription": "Documentação da API pública da Mia para Fortnite e Discord: loja BR, alertas STW, recursos, códigos do Painel Admin e mais. Exemplos em JavaScript, TypeScript, Python e Java, com autenticação e limites claros."
+  },
+  "hero": {
+    "title": "Documentação da API",
+    "lead": "Integre Fortnite e Save the World no seu bot. Todas as rotas exigem sua API key da Mia. Idiomas suportados · padrão es-ES .",
+    "links": [
+      "Idiomas suportados"
+    ],
+    "copyBaseUrl": "Copiar base URL",
+    "stats": [
+      "19 rotas públicas"
+    ]
+  },
+  "nav": {
+    "mobile": [
+      "Acesso",
+      "Idiomas",
+      "Planos",
+      "Conta",
+      "BR",
+      "STW"
+    ],
+    "sidebar": {
+      "title": "Nesta página",
+      "groups": [
+        {
+          "label": "Geral",
+          "links": [
+            "Autenticação",
+            "Idiomas",
+            "Planos e limites"
+          ],
+          "subLabels": []
+        },
+        {
+          "label": "Rotas da API",
+          "links": [
+            "Ver rotas"
+          ],
+          "subLabels": []
+        },
+        {
+          "label": "Conta Epic",
+          "links": [
+            "Ver seção",
+            "Jogador online",
+            "Presentes restantes"
+          ],
+          "subLabels": []
+        },
+        {
+          "label": "Battle Royale",
+          "links": [
+            "Ver seção",
+            "Loja BR",
+            "Imagem BR",
+            "Chaves AES",
+            "Códigos"
+          ],
+          "subLabels": [
+            "Loja",
+            "AES",
+            "Admin Panel"
+          ]
+        },
+        {
+          "label": "Save the World",
+          "links": [
+            "Ver seção",
+            "Recurso STW",
+            "Herói",
+            "Esquema",
+            "Sobrevivente",
+            "Catálogo",
+            "Todas as alertas",
+            "V-Bucks",
+            "Por categoria",
+            "Loja STW",
+            "Imagem STW"
+          ],
+          "subLabels": [
+            "Recursos",
+            "Alertas",
+            "Loja"
+          ]
+        }
+      ]
+    }
+  },
+  "sections": {
+    "sec-auth": "Autenticação",
+    "sec-locales": "Idiomas",
+    "sec-pricing": "Planos e limites",
+    "sec-cuenta": "Conta Epic",
+    "sec-br": "Loja Battle Royale",
+    "sec-br-aes": "Chaves AES",
+    "sec-br-admin": "Admin Panel",
+    "sec-stw-assets": "Recursos STW",
+    "sec-stw-alertas": "Alertas STW",
+    "sec-stw-tienda": "Loja STW"
+  },
+  "bodyInclude": "api",
+  "ui": {
+    "localeTitle": "Idiomas",
+    "localeQuery": "Query opcional: <code>locale</code>, <code>lang</code> ou <code>idioma</code> · padrão <strong>es-ES</strong>",
+    "localeSeeAll": "Ver todos os idiomas",
+    "routesCount": "{count} rotas",
+    "routesFiltered": "{visible} de {total} rotas"
+  }
+}

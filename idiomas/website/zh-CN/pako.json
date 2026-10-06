@@ -1,0 +1,141 @@
+{
+  "meta": {
+    "title": "@mynameispako",
+    "description": "Pako — 全栈开发者。Discord 机器人、API 与桌面应用。Mia 与 Fortnite 生态的首席开发者。",
+    "ogTitle": "@mynameispako",
+    "ogDescription": "专注 Discord 机器人、REST API 与桌面应用的全栈开发者。Mia 首席开发者。"
+  },
+  "gate": {
+    "enter": "点击进入...",
+    "aria": "进入"
+  },
+  "hero": {
+    "badge": "开放机会",
+    "badgeAria": "工作状态",
+    "name": "Pako",
+    "role": "Full-Stack Developer",
+    "handle": "@mynameispako",
+    "bio": "生产环境中的 Discord 机器人、REST API 与桌面应用。Mia 首席开发者 — Fortnite 生态。",
+    "audioMute": "静音",
+    "audioUnmute": "开启音乐",
+    "musicTitle": "音乐",
+    "viewsTitle": "主页浏览量",
+    "metricsAria": "职业概览",
+    "metrics": {
+      "repos": "公开仓库",
+      "followers": "GitHub 关注者",
+      "location": "UTC+2 · 远程",
+      "roleLabel": "Mia 生态",
+      "locationValue": "西班牙",
+      "roleValue": "Lead Dev"
+    },
+    "socialsAria": "社交链接"
+  },
+  "presence": {
+    "offline": "上次在线 1 天前",
+    "aria": "Discord 状态",
+    "badgesAria": "Discord 徽章"
+  },
+  "sections": {
+    "titles": {
+      "Proyecto principal": "主要项目",
+      "Ecosistema Mia": "Mia 生态",
+      "Stack": "技术栈"
+    },
+    "hints": {
+      "hint_1": "Mia 的其余项目。点按查看完整卡片。"
+    },
+    "section-title": "主要项目",
+    "project-card": "Mia",
+    "h2_2": "Mia 生态",
+    "h2_3": "技术栈"
+  },
+  "projectUi": {
+    "private": "私有",
+    "language": "语言",
+    "stack": "Stack",
+    "open": "打开",
+    "code": "代码",
+    "download": "下载",
+    "periodAria": "项目周期",
+    "sublabels": [
+      "语言",
+      "技术栈",
+      "打开",
+      "代码",
+      "下载"
+    ]
+  },
+  "status": {
+    "active": "活跃",
+    "discontinued": "已停用"
+  },
+  "projects": [
+    {
+      "title": "Mia",
+      "description": "用 Epic Games API 管理 Fortnite 账号的 Discord 机器人：BR、STW、商店、派对、taxibots、奖励与实时状态。",
+      "badge": "Private",
+      "status": "active"
+    },
+    {
+      "title": "Mia Launcher",
+      "description": "基于 Tauri 与 Svelte 的桌面启动器：Epic 登录、Discord OAuth、自动更新与 Mia API 集成。",
+      "status": "active"
+    },
+    {
+      "title": "mia-web",
+      "description": "Mia 官方网站（miadsc.xyz）：落地页、taxibots、统计、文档与法律页面。",
+      "badge": "Private",
+      "status": "active"
+    },
+    {
+      "title": "Mia-Checker",
+      "description": "用于检查 Fortnite 账号与储物柜的 Telegram 机器人。12 种语言、PDF、premium，无需网页登录即可验证。",
+      "badge": "Private",
+      "status": "active"
+    },
+    {
+      "title": "Mia-Translations",
+      "description": "Mia 机器人的社区语言仓库。可添加、编辑或改进翻译。",
+      "status": "active"
+    },
+    {
+      "title": "miaclient",
+      "description": "用于对接 Fortnite HTTP 与 XMPP 服务的私有库。",
+      "badge": "Private",
+      "status": "discontinued"
+    },
+    {
+      "title": "Mia-Client",
+      "description": "用其他机器人的 token 托管与管理实例的 Discord 机器人：面板、启动、前缀、分片与 Fortnite 工具。",
+      "badge": "Private",
+      "status": "discontinued"
+    },
+    {
+      "title": "miabotdiscord",
+      "description": "面向 Mia Twitter 的 Fortnite 活动自动化机器人。",
+      "badge": "Private",
+      "status": "discontinued"
+    }
+  ],
+  "stackAria": "技术",
+  "search": {
+    "placeholder": ""
+  },
+  "filters": [],
+  "aria": {
+    "Entrar": "进入",
+    "Disponibilidad laboral": "工作状态",
+    "Silenciar música": "静音",
+    "Enlaces sociales": "社交链接",
+    "Discord": "Discord",
+    "X": "X",
+    "GitHub": "GitHub",
+    "Mia web": "Mia web",
+    "Estado de Discord": "Discord 状态",
+    "Insignias de Discord": "Discord 徽章",
+    "Resumen profesional": "职业概览",
+    "Periodo del proyecto": "项目周期",
+    "Tecnologías": "技术"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "meta": {
+    "title": "Mia · Comandos",
+    "description": "Catálogo completo de comandos da Mia no Discord: Battle Royale, Save the World, contas Epic, presentes, loja, expedições, segurança e utilidades. Busque por nome ou categoria e aprenda a usar cada um.",
+    "ogTitle": "Mia · Comandos",
+    "ogDescription": "Catálogo completo de comandos da Mia no Discord: Battle Royale, Save the World, contas Epic, presentes, loja, expedições, segurança e utilidades. Busque por nome ou categoria e aprenda a usar cada um."
+  },
+  "hero": {
+    "title": "Comandos da Mia",
+    "subtitle": "A lista completa em um só lugar",
+    "lead": "Explore slash commands e comandos com prefixo para gerenciar sua conta de Fortnite, Save the World, Battle Royale, Premium e utilidades do bot."
+  },
+  "stats": {
+    "total": "Totais",
+    "slash": "Slash",
+    "prefix": "Prefixo",
+    "premium": "Premium"
+  },
+  "legend": {
+    "aria": "Legenda de etiquetas",
+    "label": "Etiquetas:",
+    "tags": {
+      "slash": "Slash",
+      "prefix": "Prefixo",
+      "auth": "Conta",
+      "premium": "Premium",
+      "ephemeral": "Efêmero",
+      "mia": "Mia Lounge",
+      "server": "Servidor"
+    }
+  },
+  "toolbar": {
+    "searchPlaceholder": "Buscar por nome, descrição ou subcomando…",
+    "filterAria": "Filtrar comandos",
+    "chips": {
+      "all": "Todos",
+      "slash": "Slash",
+      "prefix": "Prefixo",
+      "premium": "Premium",
+      "auth": "Conta",
+      "ephemeral": "Efêmero",
+      "mia": "Mia Lounge",
+      "server": "Servidor"
+    }
+  },
+  "metaLine": "{n} comandos exibidos",
+  "loading": "Carregando",
+  "notice": "Comandos com a tag Mia Lounge só funcionam no servidor oficial discord.gg/miabot.",
+  "cta": {
+    "title": "Não achou o que precisa?",
+    "text": "Veja o FAQ, entre no Discord de suporte ou desbloqueie comandos Premium.",
+    "faq": "Ver FAQ",
+    "discord": "Discord da Mia",
+    "premium": "Mia Premium"
+  },
+  "metaShown": "comandos mostrados",
+  "ui": {
+    "loading": "Carregando comandos",
+    "empty": "Nenhum comando corresponde à sua busca ou filtro.",
+    "loadError": "Não foi possível carregar os comandos. Tente novamente mais tarde.",
+    "loadErrorShort": "Não foi possível carregar os comandos.",
+    "showSubs": "Ver subcomandos",
+    "hideSubs": "Ocultar subcomandos",
+    "subs": "{n} subcomandos"
+  }
+}

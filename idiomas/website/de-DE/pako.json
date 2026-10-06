@@ -1,0 +1,141 @@
+{
+  "meta": {
+    "title": "@mynameispako",
+    "description": "Pako — Full-Stack-Entwickler. Discord-Bots, APIs und Desktop-Apps. Lead Developer von Mia und dem Fortnite-Ökosystem.",
+    "ogTitle": "@mynameispako",
+    "ogDescription": "Full-Stack-Entwickler mit Fokus auf Discord-Bots, REST-APIs und Desktop-Apps. Lead Developer von Mia."
+  },
+  "gate": {
+    "enter": "klicken zum Öffnen...",
+    "aria": "Eintreten"
+  },
+  "hero": {
+    "badge": "Offen für Möglichkeiten",
+    "badgeAria": "Berufliche Verfügbarkeit",
+    "name": "Pako",
+    "role": "Full-Stack Developer",
+    "handle": "@mynameispako",
+    "bio": "Discord-Bots, REST-APIs und Desktop-Apps in Produktion. Lead Developer von Mia — Fortnite-Ökosystem.",
+    "audioMute": "Musik stummschalten",
+    "audioUnmute": "Musik aktivieren",
+    "musicTitle": "Musik",
+    "viewsTitle": "Profilaufrufe",
+    "metricsAria": "Berufliche Übersicht",
+    "metrics": {
+      "repos": "öffentliche Repos",
+      "followers": "GitHub-Follower",
+      "location": "UTC+2 · remote",
+      "roleLabel": "Mia-Ökosystem",
+      "locationValue": "Spanien",
+      "roleValue": "Lead Dev"
+    },
+    "socialsAria": "Social-Links"
+  },
+  "presence": {
+    "offline": "zuletzt vor 1 Tag gesehen",
+    "aria": "Discord-Status",
+    "badgesAria": "Discord-Abzeichen"
+  },
+  "sections": {
+    "titles": {
+      "Proyecto principal": "Hauptprojekt",
+      "Ecosistema Mia": "Mia-Ökosystem",
+      "Stack": "Stack"
+    },
+    "hints": {
+      "hint_1": "Die übrigen Mia-Projekte. Tippe eines an, um die volle Karte zu sehen."
+    },
+    "section-title": "Hauptprojekt",
+    "project-card": "Mia",
+    "h2_2": "Mia-Ökosystem",
+    "h2_3": "Stack"
+  },
+  "projectUi": {
+    "private": "Privat",
+    "language": "Sprache",
+    "stack": "Stack",
+    "open": "Öffnen",
+    "code": "Code",
+    "download": "Download",
+    "periodAria": "Projektzeitraum",
+    "sublabels": [
+      "Sprache",
+      "Stack",
+      "Öffnen",
+      "Code",
+      "Download"
+    ]
+  },
+  "status": {
+    "active": "Aktiv",
+    "discontinued": "Eingestellt"
+  },
+  "projects": [
+    {
+      "title": "Mia",
+      "description": "Discord-Bot zur Verwaltung deines Fortnite-Kontos über die Epic-Games-API: BR, STW, Shop, Partys, Taxibots, Belohnungen und Echtzeit-Präsenz.",
+      "badge": "Private",
+      "status": "active"
+    },
+    {
+      "title": "Mia Launcher",
+      "description": "Desktop-Launcher mit Tauri und Svelte: Epic-Login, Discord-OAuth, Auto-Updater und Mia-API-Integration.",
+      "status": "active"
+    },
+    {
+      "title": "mia-web",
+      "description": "Offizielle Mia-Website (miadsc.xyz): Landing, Taxibots, Stats, Docs und rechtliche Seiten.",
+      "badge": "Private",
+      "status": "active"
+    },
+    {
+      "title": "Mia-Checker",
+      "description": "Telegram-Bot zum Prüfen von Fortnite-Konten und Lockern. 12 Sprachen, PDF, Premium und Verifizierung ohne Web-Login.",
+      "badge": "Private",
+      "status": "active"
+    },
+    {
+      "title": "Mia-Translations",
+      "description": "Community-Sprachrepo für den Mia-Bot. Du kannst Übersetzungen hinzufügen, bearbeiten oder verbessern.",
+      "status": "active"
+    },
+    {
+      "title": "miaclient",
+      "description": "Private Bibliothek für Fortnites HTTP- und XMPP-Dienste.",
+      "badge": "Private",
+      "status": "discontinued"
+    },
+    {
+      "title": "Mia-Client",
+      "description": "Discord-Bot zum Hosten und Verwalten anderer Bot-Instanzen mit ihrem Token: Panel, Start, Prefixe, Sharding und Fortnite-Utilities.",
+      "badge": "Private",
+      "status": "discontinued"
+    },
+    {
+      "title": "miabotdiscord",
+      "description": "Automatisierter Fortnite-Event-Bot für Mias Twitter.",
+      "badge": "Private",
+      "status": "discontinued"
+    }
+  ],
+  "stackAria": "Technologien",
+  "search": {
+    "placeholder": ""
+  },
+  "filters": [],
+  "aria": {
+    "Entrar": "Eintreten",
+    "Disponibilidad laboral": "Berufliche Verfügbarkeit",
+    "Silenciar música": "Musik stummschalten",
+    "Enlaces sociales": "Social-Links",
+    "Discord": "Discord",
+    "X": "X",
+    "GitHub": "GitHub",
+    "Mia web": "Mia web",
+    "Estado de Discord": "Discord-Status",
+    "Insignias de Discord": "Discord-Abzeichen",
+    "Resumen profesional": "Berufliche Übersicht",
+    "Periodo del proyecto": "Projektzeitraum",
+    "Tecnologías": "Technologien"
+  }
+}

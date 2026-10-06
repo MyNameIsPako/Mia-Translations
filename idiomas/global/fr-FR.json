@@ -2327,7 +2327,7 @@
 				"msg10": "L'alerte pour a été désactivée avec succès",
 				"msg11": "`Sans canal`",
 				"msg12": "`Sans rôle`",
-				"msg13": "Flux pour:",
+				"msg13": "Flux de Mia pour:",
 				"msg14": "Vous pouvez activer un des flux en utilisant `/config feed activer` ou désactiver un flux en utilisant `/config feed désactiver`.",
 				"msg15": "Envoie tout changement de statut des serveurs FN au canal.",
 				"msg16": "Envoie les nouvelles fuites détectées par Mia, elles seront envoyées sous forme d'image avec rareté et plus.",

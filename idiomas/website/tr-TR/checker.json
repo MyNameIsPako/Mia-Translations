@@ -1,0 +1,202 @@
+{
+  "meta": {
+    "title": "Mia · Mia Checker",
+    "description": "Mia Checker, Telegram’da güvenli Fortnite hesap checker’ıdır: Epic girişi yok, çok dilli, PDF raporlar, premium seçenekler ve alıcı-satıcı araçları.",
+    "ogTitle": "Mia · Mia Checker",
+    "ogDescription": "Mia Checker, Telegram’da güvenli Fortnite hesap checker’ıdır: Epic girişi yok, çok dilli, PDF raporlar, premium seçenekler ve alıcı-satıcı araçları."
+  },
+  "hero": {
+    "title": "Mia Checker",
+    "subtitle": "Tek %100 güvenli Hispanofon checker",
+    "lead": "Telegram’dan envanter, STW, özel ürünler ve daha fazlasına bak. Epic e-posta veya şifre yok: 12 dilde hızlı kontrol.",
+    "altVisual": "Telegram’da Mia Checker",
+    "stats": {
+      "noLogin": "Epic girişi yok",
+      "speed": "Sonuç <1 dk",
+      "languages": "12 dil",
+      "free": "Telegram’da ücretsiz"
+    },
+    "actions": {
+      "telegram": "Telegram’da aç",
+      "support": "Destek"
+    }
+  },
+  "jump": {
+    "aria": "Sayfa bölümleri",
+    "premium": "Premium",
+    "features": "Avantajlar",
+    "commands": "Komutlar",
+    "languages": "Diller",
+    "screenshots": "Ekran görüntüleri",
+    "start": "Başla"
+  },
+  "premium": {
+    "title": "Mia Checker Premium",
+    "lead": "Check görsellerini özelleştir ve hesap satarken markanı öne çıkar. Fiyatlar euro; Discord’dan satın alıp botta key’i etkinleştir.",
+    "advantagesTitle": "⭐ Avantajlar",
+    "advantages": [
+      "Check görsellerinde özel logo",
+      "Görsel altbilgisinde kişisel bağlantı",
+      "Adının yanında doğrulanmış rozet",
+      "Check altbilgisinde öne çıkan ad",
+      "Gelecek güncellemelerde daha fazla avantaj"
+    ],
+    "priceFrom": "7€’dan başlayan",
+    "keyNote": "Satın aldıktan sonra ####-####-#### biçiminde bir key alırsın. Telegram → Ayarlar → Premium’da etkinleştir.",
+    "plans": {
+      "d30": {
+        "days": "30 gün",
+        "price": "€7"
+      },
+      "d90": {
+        "days": "90 gün",
+        "price": "€15"
+      },
+      "d180": {
+        "days": "180 gün",
+        "price": "€25"
+      },
+      "d365": {
+        "badge": "En iyi teklif · −17%",
+        "days": "365 gün",
+        "price": "€70",
+        "save": "aylık 84€’ya göre"
+      },
+      "permanent": {
+        "badge": "♾️ Kalıcı",
+        "days": "Süresiz",
+        "price": "€200",
+        "save": "Tek ödeme · ömür boyu premium"
+      }
+    },
+    "buyDiscord": "Discord’dan satın al",
+    "activateTelegram": "Key’i Telegram’da etkinleştir"
+  },
+  "features": {
+    "title": "Neden Mia Checker",
+    "lead": "Hesapları güvenli, hızlı ve kendi dilinde destekle kontrol etmek için tasarlandı.",
+    "items": [
+      {
+        "title": "%100 güvenli",
+        "text": "Epic Games kimlik bilgilerini veya kişisel verileri saklamayız."
+      },
+      {
+        "title": "Anında kontrol",
+        "text": "Bir dakikadan kısa sürede tam sonuçlar."
+      },
+      {
+        "title": "Giriş yapmadan",
+        "text": "Epic e-posta veya şifre gerekmez."
+      },
+      {
+        "title": "Çok dilli destek",
+        "text": "İspanyolca, İngilizce, Portekizce, Fransızca, Almanca ve daha fazlası — 12 dil arayüz."
+      },
+      {
+        "title": "PDF raporlar",
+        "text": "Hesap, locker, STW, işlemler ve daha fazlasını kategoriye göre PDF olarak dışa aktar."
+      },
+      {
+        "title": "Özelleştirilebilir Premium",
+        "text": "Logon, altbilgi bağlantısı, doğrulanmış rozet ve 7€’dan planlar."
+      },
+      {
+        "title": "Check görselleri",
+        "text": "Skinler, STW, özel ürünler, +1000 gün mağazasız, crew ve tüm kozmetik kategorileri."
+      },
+      {
+        "title": "Satış mesajı",
+        "text": "Özel ürünler, STW, V-Bucks içeren yayına hazır metin üretir; format özelleştirilebilir."
+      }
+    ]
+  },
+  "languages": {
+    "title": "12 dil mevcut",
+    "lead": "Bot dilini Ayarlar’dan değiştir. Mia Checker menüleri, raporları, satış mesajlarını ve locker kategorilerini çevirir.",
+    "list": [
+      "Español (España)",
+      "Español Latino",
+      "English",
+      "Français",
+      "Português",
+      "Português Brasil",
+      "Italiano",
+      "Deutsch",
+      "Türkçe",
+      "日本語",
+      "简体中文",
+      "Русский"
+    ]
+  },
+  "commands": {
+    "title": "Kullanılabilir komutlar",
+    "lead": "Hesapları kontrol etmek ve yönetmek için tüm Telegram komutları.",
+    "items": [
+      {
+        "code": "/login",
+        "text": "Giriş yap ve Fortnite hesabını kontrol et."
+      },
+      {
+        "code": "/launch",
+        "text": "E-posta veya şifre olmadan hesabını başlat."
+      },
+      {
+        "code": "/start",
+        "text": "Botun ana menüsünü gösterir."
+      },
+      {
+        "code": "/eliminar_amigos",
+        "text": "Tüm Epic Games arkadaşlarını siler."
+      },
+      {
+        "code": "/cambiar_version",
+        "text": "Oluşturulan görsellerin sürümünü değiştirir."
+      },
+      {
+        "code": "/leaderboard",
+        "text": "Check sıralamasına bak."
+      }
+    ]
+  },
+  "gallery": {
+    "title": "Checker ekran görüntüleri",
+    "lead": "Telegram’daki gerçek arayüz: menü, özel ürünler, STW paneli ve otomatik satış mesajı.",
+    "shots": [
+      {
+        "title": "Ana menü",
+        "text": "Login, launch, ayarlar, premium, leaderboard ve bağlantılar.",
+        "alt": "Telegram’da Mia Checker ana menüsü"
+      },
+      {
+        "title": "Özel ürünler",
+        "text": "OG skinler, kazmalar, planörler, wrap’ler ve nadir kozmetikler ızgarası.",
+        "alt": "Mia Checker’da özel kozmetikler"
+      },
+      {
+        "title": "STW paneli",
+        "text": "Bölgeler, başarılar, lamalar, malzemeler, kahramanlar ve koleksiyon kitabı.",
+        "alt": "Mia Checker’da Save the World paneli"
+      }
+    ]
+  },
+  "sale": {
+    "title": "Profesyonel satış mesajı",
+    "text": "[PC] | skinler | STW | özel | son maç | VB kopyalamaya hazır format. Ayarlar → Satış formatı’ndan özelleştirilebilir.",
+    "alt": "Mia Checker otomatik satış mesajı"
+  },
+  "cta": {
+    "title": "Hesabını kontrol etmeye hazır mısın?",
+    "text": "Mia Checker’a güvenen binlerce kullanıcıya katıl. Kayıt yok, karmaşa yok.",
+    "telegram": "Telegram’da aç",
+    "support": "Destek sunucusu",
+    "tags": [
+      "Kayıt yok",
+      "%100 ücretsiz",
+      "Aktif destek"
+    ]
+  },
+  "disclaimer": {
+    "text": "Epic Games ile bağlantılı değildir ·",
+    "termsLink": "Mia Checker koşulları"
+  }
+}

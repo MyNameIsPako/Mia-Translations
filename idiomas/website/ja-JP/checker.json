@@ -1,0 +1,202 @@
+{
+  "meta": {
+    "title": "Mia · Mia Checker",
+    "description": "Mia CheckerはTelegram上の安全なFortniteアカウントチェッカーです。Epicログイン不要、多言語対応、PDFレポート、Premiumオプション、売買向けツール付き。",
+    "ogTitle": "Mia · Mia Checker",
+    "ogDescription": "Mia CheckerはTelegram上の安全なFortniteアカウントチェッカーです。Epicログイン不要、多言語対応、PDFレポート、Premiumオプション、売買向けツール付き。"
+  },
+  "hero": {
+    "title": "Mia Checker",
+    "subtitle": "唯一の100%安全なスペイン語圏向けチェッカー",
+    "lead": "Telegramからインベントリ、STW、限定アイテムなどを確認。Epicのメールやパスワード不要で、12言語の高速チェック。",
+    "altVisual": "Telegram上のMia Checker",
+    "stats": {
+      "noLogin": "Epicログイン不要",
+      "speed": "結果は1分未満",
+      "languages": "12言語",
+      "free": "Telegramで無料"
+    },
+    "actions": {
+      "telegram": "Telegramで開く",
+      "support": "サポート"
+    }
+  },
+  "jump": {
+    "aria": "ページ内セクション",
+    "premium": "Premium",
+    "features": "メリット",
+    "commands": "コマンド",
+    "languages": "言語",
+    "screenshots": "スクリーンショット",
+    "start": "はじめる"
+  },
+  "premium": {
+    "title": "Mia Checker Premium",
+    "lead": "チェック画像をカスタムし、アカウント販売でブランドを強調。価格はユーロ。Discordで購入し、ボットでキーを有効化。",
+    "advantagesTitle": "⭐ メリット",
+    "advantages": [
+      "チェック画像にカスタムロゴ",
+      "画像フッターの個人リンク",
+      "名前横の認証バッジ",
+      "チェックフッターで名前を強調",
+      "今後のアップデートでさらに追加"
+    ],
+    "priceFrom": "7€から",
+    "keyNote": "購入後、####-####-#### 形式のキーが届きます。Telegram → 設定 → Premium で有効化してください。",
+    "plans": {
+      "d30": {
+        "days": "30日",
+        "price": "€7"
+      },
+      "d90": {
+        "days": "90日",
+        "price": "€15"
+      },
+      "d180": {
+        "days": "180日",
+        "price": "€25"
+      },
+      "d365": {
+        "badge": "ベストオファー · −17%",
+        "days": "365日",
+        "price": "€70",
+        "save": "月額だと84€相当"
+      },
+      "permanent": {
+        "badge": "♾️ 永久",
+        "days": "期限なし",
+        "price": "€200",
+        "save": "一回払い · 生涯Premium"
+      }
+    },
+    "buyDiscord": "Discordで購入",
+    "activateTelegram": "Telegramでキーを有効化"
+  },
+  "features": {
+    "title": "Mia Checkerを選ぶ理由",
+    "lead": "安全・高速・あなたの言語でのサポートを前提にアカウント確認向けに設計。",
+    "items": [
+      {
+        "title": "100%安全",
+        "text": "Epic Gamesの認証情報や個人データは保存しません。"
+      },
+      {
+        "title": "即時チェック",
+        "text": "1分未満で完全な結果。"
+      },
+      {
+        "title": "ログイン不要",
+        "text": "Epicのメールやパスワードは不要です。"
+      },
+      {
+        "title": "多言語サポート",
+        "text": "スペイン語、英語、ポルトガル語、フランス語、ドイツ語など12言語のUI。"
+      },
+      {
+        "title": "PDFレポート",
+        "text": "アカウント、ロッカー、STW、取引などをカテゴリ別にPDF出力。"
+      },
+      {
+        "title": "カスタムPremium",
+        "text": "ロゴ、フッターリンク、認証バッジ、7€からのプラン。"
+      },
+      {
+        "title": "チェック画像",
+        "text": "スキン、STW、限定、ショップなし+1000日、Crew、全コスメカテゴリ。"
+      },
+      {
+        "title": "販売メッセージ",
+        "text": "限定・STW・V-Bucks付きの投稿用テキストを生成。形式もカスタム可能。"
+      }
+    ]
+  },
+  "languages": {
+    "title": "利用可能な12言語",
+    "lead": "設定でボットの言語を変更。Mia Checkerはメニュー、レポート、販売メッセージ、ロッカーカテゴリを翻訳します。",
+    "list": [
+      "Español (España)",
+      "Español Latino",
+      "English",
+      "Français",
+      "Português",
+      "Português Brasil",
+      "Italiano",
+      "Deutsch",
+      "Türkçe",
+      "日本語",
+      "简体中文",
+      "Русский"
+    ]
+  },
+  "commands": {
+    "title": "利用可能なコマンド",
+    "lead": "アカウントの確認・管理用のTelegramコマンド一覧。",
+    "items": [
+      {
+        "code": "/login",
+        "text": "ログインしてFortniteアカウントを確認。"
+      },
+      {
+        "code": "/launch",
+        "text": "メールやパスワードなしでアカウントを起動。"
+      },
+      {
+        "code": "/start",
+        "text": "ボットのメインメニューを表示。"
+      },
+      {
+        "code": "/eliminar_amigos",
+        "text": "Epic Gamesのフレンドをすべて削除。"
+      },
+      {
+        "code": "/cambiar_version",
+        "text": "生成画像のバージョンを変更。"
+      },
+      {
+        "code": "/leaderboard",
+        "text": "チェックのランキングを表示。"
+      }
+    ]
+  },
+  "gallery": {
+    "title": "チェッカーのスクリーンショット",
+    "lead": "Telegram上の実画面：メニュー、限定、STWダッシュボード、自動販売メッセージ。",
+    "shots": [
+      {
+        "title": "メインメニュー",
+        "text": "ログイン、launch、設定、Premium、リーダーボード、リンク。",
+        "alt": "Telegram上のMia Checkerメインメニュー"
+      },
+      {
+        "title": "限定アイテム",
+        "text": "OGスキン、つるはし、グライダー、ラップ、レアコスメのグリッド。",
+        "alt": "Mia Checkerの限定コスメ"
+      },
+      {
+        "title": "STWダッシュボード",
+        "text": "ゾーン、実績、ラマ、素材、ヒーロー、コレクションブック。",
+        "alt": "Mia CheckerのSave the Worldダッシュボード"
+      }
+    ]
+  },
+  "sale": {
+    "title": "プロ向け販売メッセージ",
+    "text": "[PC] | スキン | STW | 限定 | 最終マッチ | VB のコピー用フォーマット。設定 → 販売フォーマットでカスタム可能。",
+    "alt": "Mia Checkerの自動販売メッセージ"
+  },
+  "cta": {
+    "title": "アカウントを確認する準備はできましたか？",
+    "text": "すでにMia Checkerを信頼している何千人ものユーザーに参加。登録不要、かんたん。",
+    "telegram": "Telegramで開く",
+    "support": "サポートサーバー",
+    "tags": [
+      "登録不要",
+      "100%無料",
+      "サポート対応"
+    ]
+  },
+  "disclaimer": {
+    "text": "Epic Gamesとは関係ありません ·",
+    "termsLink": "Mia Checker利用規約"
+  }
+}

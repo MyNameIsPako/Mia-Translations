@@ -1,0 +1,66 @@
+{
+  "meta": {
+    "title": "Mia · コマンド",
+    "description": "MiaのDiscordコマンド一覧：Battle Royale、Save the World、Epicアカウント、ギフト、ショップ、遠征、セキュリティ、ユーティリティ。名前やカテゴリで検索して使い方を確認。",
+    "ogTitle": "Mia · コマンド",
+    "ogDescription": "MiaのDiscordコマンド一覧：Battle Royale、Save the World、Epicアカウント、ギフト、ショップ、遠征、セキュリティ、ユーティリティ。名前やカテゴリで検索して使い方を確認。"
+  },
+  "hero": {
+    "title": "Miaのコマンド",
+    "subtitle": "一覧はここにすべて",
+    "lead": "スラッシュコマンドとプレフィックスコマンドで、Fortniteアカウント、Save the World、Battle Royale、Premium、ボットユーティリティを管理。"
+  },
+  "stats": {
+    "total": "合計",
+    "slash": "スラッシュ",
+    "prefix": "プレフィックス",
+    "premium": "Premium"
+  },
+  "legend": {
+    "aria": "タグの説明",
+    "label": "タグ:",
+    "tags": {
+      "slash": "スラッシュ",
+      "prefix": "プレフィックス",
+      "auth": "アカウント",
+      "premium": "Premium",
+      "ephemeral": "エフェメラル",
+      "mia": "Mia Lounge",
+      "server": "サーバー"
+    }
+  },
+  "toolbar": {
+    "searchPlaceholder": "名前、説明、サブコマンドで検索…",
+    "filterAria": "コマンドを絞り込む",
+    "chips": {
+      "all": "すべて",
+      "slash": "スラッシュ",
+      "prefix": "プレフィックス",
+      "premium": "Premium",
+      "auth": "アカウント",
+      "ephemeral": "エフェメラル",
+      "mia": "Mia Lounge",
+      "server": "サーバー"
+    }
+  },
+  "metaLine": "{n} 件のコマンドを表示",
+  "loading": "読み込み中",
+  "notice": "Mia Loungeタグのコマンドは公式サーバー discord.gg/miabot でのみ動作します。",
+  "cta": {
+    "title": "お探しのものがありませんか？",
+    "text": "FAQを確認するか、サポートDiscordに参加するか、Premiumコマンドを解除しましょう。",
+    "faq": "FAQを見る",
+    "discord": "Mia Discord",
+    "premium": "Mia Premium"
+  },
+  "metaShown": "件のコマンドを表示",
+  "ui": {
+    "loading": "コマンドを読み込み中",
+    "empty": "検索条件やフィルターに一致するコマンドはありません。",
+    "loadError": "コマンドを読み込めませんでした。後でもう一度お試しください。",
+    "loadErrorShort": "コマンドを読み込めませんでした。",
+    "showSubs": "サブコマンドを表示",
+    "hideSubs": "サブコマンドを隠す",
+    "subs": "サブコマンド {n} 件"
+  }
+}

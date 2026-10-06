@@ -1,0 +1,133 @@
+{
+  "meta": {
+    "description": "Mia Pocket — 端末ローカルログイン対応のスマートフォン向けMia。"
+  },
+  "auth": {
+    "loginDiscord": "Discordでログイン",
+    "unavailable": "Mia Pocketを利用できません。Mia APIが応答していません。",
+    "loginTitle": "ログイン",
+    "loginEpic": "ログイン",
+    "signingIn": "ログイン中",
+    "restoring": "セッションを復元中",
+    "cancel": "キャンセル",
+    "backHome": "ホームに戻る"
+  },
+  "nav": {
+    "alertas": "アラート",
+    "alertasDesc": "本日のSTWミッション",
+    "dupe": "Dupe",
+    "dupeDesc": "STWリソースを複製",
+    "party": "パーティ",
+    "partyDesc": "退出してチェストを受取",
+    "menu": "メニュー",
+    "menuAria": "メインメニュー",
+    "homeLead": "何をしますか？",
+    "changeAccount": "切り替え",
+    "logout": "ログアウト",
+    "language": "言語"
+  },
+  "party": {
+    "hubTitle": "パーティ",
+    "hubDesc": "パーティの操作を選択",
+    "kick": "退出",
+    "kickDesc": "報酬を受け取らずにパーティを退出します。",
+    "kickClaim": "退出して回収",
+    "kickClaimDesc": "パーティを退出してミッションチェストを受け取ります。",
+    "kickAllClaimTransfer": "全員キック＋回収＋リーダー委譲",
+    "kickAllClaimTransferDesc": "全員をキックし、回収してリーダーを委譲します。",
+    "kickAllClaimInvite": "全員キック＋回収＋再招待",
+    "kickAllClaimInviteDesc": "全員をキックし、回収して再び招待します。",
+    "running": "実行中…",
+    "processing": "処理中",
+    "connectionError": "接続エラーです。"
+  },
+  "dupe": {
+    "title": "Dupe",
+    "desc": "STWリソースを複製",
+    "force": "Dupeを強制",
+    "start": "Dupeを開始",
+    "cancel": "キャンセル",
+    "retry": "再試行",
+    "running": "実行中…",
+    "status": {
+      "checking": "STWプロフィールを確認中…",
+      "countdown": "Dupeのタイミングを待機中",
+      "applying": "Dupeを適用中…",
+      "success": "Dupeを適用しました",
+      "timedFailed": "Dupeを適用できませんでした",
+      "forceFailed": "強制Dupeに失敗しました",
+      "noLockOrExpired": "有効なprofile lockがないか、すでに期限切れです",
+      "profileUnavailable": "theater0プロフィールを読み取れませんでした",
+      "alreadyRunning": "すでにDupeが実行中です"
+    }
+  },
+  "epic": {
+    "expired": "ログインの有効期限が切れました。もう一度お試しください。",
+    "blacklisted": "このアカウントはMia Pocketのブラックリストに登録されています。",
+    "invalidCode": "Epicが無効なコードを返しました。もう一度お試しください。",
+    "deviceAuthFailed": "device authを作成できませんでした。もう一度お試しください。",
+    "loginFailed": "ログインを完了できませんでした。もう一度お試しください。",
+    "connectionError": "接続エラーです。もう一度お試しください。",
+    "startFailed": "Epicのログインフローを開始できませんでした。"
+  },
+  "flash": {
+    "account_connected": "ログインしました。",
+    "account_changed": "別のEpicアカウントを接続できます。",
+    "logged_out": "ログアウトしました。"
+  },
+  "errors": {
+    "invalid_account": "選択したアカウントは無効です。",
+    "csrf": "リクエストが無効です。もう一度お試しください。",
+    "oauth_state": "Discordログインの有効期限が切れました。もう一度お試しください。",
+    "oauth_failed": "Discordログインを完了できませんでした。",
+    "blacklisted": "あなたのユーザーはMia Pocketのブラックリストに登録されています。",
+    "epic_login_failed": "Epicでログインできませんでした。もう一度お試しください。",
+    "invalid_exchange_code": "exchange codeは32文字である必要があります。",
+    "invalid_authorization_code": "認可コードが無効です。",
+    "device_code_expired": "Epicログインの有効期限が切れました。もう一度お試しください。",
+    "account_blacklisted": "このEpicアカウントはMia Pocketのブラックリストに登録されています。",
+    "oauthStateTitle": "無効なOAuthセッション",
+    "oauthCodeTitle": "無効なOAuthコード",
+    "accessDeniedTitle": "アクセスが拒否されました",
+    "loginErrorTitle": "ログインエラー"
+  },
+  "titles": {
+    "home": "Mia Pocket",
+    "dupe": "Dupe",
+    "party": "パーティ",
+    "alertas": "STWアラート",
+    "kick": "退出",
+    "kickClaim": "退出して回収",
+    "kickAllClaimTransfer": "全員キックして回収",
+    "kickAllClaimInvite": "キック・回収・再招待"
+  },
+  "gate": {
+    "title": "モバイルのみ",
+    "desc": "Mia PocketはPCでは使えません。AndroidまたはiOSのスマホから開き、ホーム画面に追加してください。",
+    "close": "了解",
+    "installTitle": "Mia Pocketをインストール",
+    "installDesc": "パネルを使うには、Mia Pocketをホーム画面に追加し、アイコンから開いてください（PC用Mia Launcherではありません）。",
+    "installCta": "アプリをインストール",
+    "goHome": "miadsc.xyzへ"
+  },
+  "home": {
+    "title": "ホーム"
+  },
+  "loading": "読み込み中",
+  "error": {
+    "retry": "再試行",
+    "alerts": "アラートを読み込めませんでした。もう一度お試しください。"
+  },
+  "installSteps": {
+    "iosSafari": "<p><strong>iPhone / iPad（Safari）：</strong></p><ol><li><strong>共有</strong>（矢印付きの四角）をタップします。</li><li><strong>ホーム画面に追加</strong>を選択します。</li><li>新しいアイコンから<strong>Mia Pocket</strong>を開きます。</li></ol>",
+    "iosChrome": "<p><strong>iPhone / iPad（{browser}）：</strong></p><ol><li>ブラウザのバーで<strong>共有</strong>をタップします。</li><li><strong>ホーム画面に追加</strong>を選択します。</li><li>ブラウザのタブではなく、アイコンから<strong>Mia Pocket</strong>を開きます。</li></ol><p>うまくいかない場合は、このページを<strong>Safari</strong>で開いて手順を繰り返してください。</p>",
+    "iosFirefox": "<p><strong>iPhone / iPad（Firefox）：</strong></p><ol><li>メニュー（≡）→ <strong>共有</strong>または<strong>ホーム画面に追加</strong>。</li><li><strong>Mia Pocket</strong>のアイコンを確認します。</li><li>ホーム画面のアイコンからアプリを開きます。</li></ol><p>うまくいかない場合は<strong>Safari</strong>をお試しください。</p>",
+    "iosDefault": "<p><strong>iPhone / iPad：</strong></p><ol><li><strong>共有</strong>→<strong>ホーム画面に追加</strong>を使います。</li><li>新しいアイコンから<strong>Mia Pocket</strong>を開きます。</li></ol><p>おすすめ：<strong>Safari</strong>、ChromeまたはBrave。</p>",
+    "androidFirefox": "<p><strong>Android（Firefox）：</strong></p><ol><li>メニュー（⋮）→ <strong>インストール</strong>または<strong>ホーム画面に追加</strong>。</li><li>ブラウザではなく、アイコンから<strong>Mia Pocket</strong>を開きます。</li></ol>",
+    "androidSamsung": "<p><strong>Android（Samsung Internet）：</strong></p><ol><li>メニュー → <strong>ページを追加</strong> → <strong>ホーム画面</strong>または<strong>アプリをインストール</strong>。</li><li>新しいアイコンから<strong>Mia Pocket</strong>を開きます。</li></ol>",
+    "androidBrave": "<p><strong>Android（Brave）：</strong></p><ol><li>ボタンが表示されたら<strong>アプリをインストール</strong>をタップします。</li><li>またはメニュー → <strong>アプリをインストール</strong> / <strong>ホーム画面に追加</strong>。</li><li>Braveではなく、アイコンから<strong>Mia Pocket</strong>を開きます。</li></ol>",
+    "androidEdge": "<p><strong>Android（Edge）：</strong></p><ol><li>メニュー（⋯）→ <strong>アプリをインストール</strong>または<strong>ホーム画面に追加</strong>。</li><li>新しいアイコンから<strong>Mia Pocket</strong>を開きます。</li></ol>",
+    "androidOpera": "<p><strong>Android（Opera）：</strong></p><ol><li>メニュー → <strong>ホーム画面に追加</strong>または<strong>アプリをインストール</strong>。</li><li>新しいアイコンから<strong>Mia Pocket</strong>を開きます。</li></ol>",
+    "androidDefault": "<p><strong>Android（Chromeほか）：</strong></p><ol><li>ボタンが表示されたら<strong>アプリをインストール</strong>をタップします。</li><li>またはメニュー（⋮）→ <strong>アプリをインストール</strong>。</li><li>ブラウザではなく、アイコンから<strong>Mia Pocket</strong>を開きます。</li></ol>"
+  }
+}

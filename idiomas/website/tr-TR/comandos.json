@@ -1,0 +1,66 @@
+{
+  "meta": {
+    "title": "Mia · Komutlar",
+    "description": "Mia Discord komutlarının tam kataloğu: Battle Royale, Save the World, Epic hesapları, hediyeler, mağaza, seferler, güvenlik ve yardımcılar. Ada veya kategoriye göre ara ve nasıl kullanıldığını öğren.",
+    "ogTitle": "Mia · Komutlar",
+    "ogDescription": "Mia Discord komutlarının tam kataloğu: Battle Royale, Save the World, Epic hesapları, hediyeler, mağaza, seferler, güvenlik ve yardımcılar. Ada veya kategoriye göre ara ve nasıl kullanıldığını öğren."
+  },
+  "hero": {
+    "title": "Mia komutları",
+    "subtitle": "Tüm liste tek yerde",
+    "lead": "Fortnite hesabını, Save the World, Battle Royale, Premium ve bot yardımcılarını yönetmek için slash ve önek komutlarına göz at."
+  },
+  "stats": {
+    "total": "Toplam",
+    "slash": "Slash",
+    "prefix": "Önek",
+    "premium": "Premium"
+  },
+  "legend": {
+    "aria": "Etiket açıklaması",
+    "label": "Etiketler:",
+    "tags": {
+      "slash": "Slash",
+      "prefix": "Önek",
+      "auth": "Hesap",
+      "premium": "Premium",
+      "ephemeral": "Geçici",
+      "mia": "Mia Lounge",
+      "server": "Sunucu"
+    }
+  },
+  "toolbar": {
+    "searchPlaceholder": "Ada, açıklamaya veya alt komuta göre ara…",
+    "filterAria": "Komutları filtrele",
+    "chips": {
+      "all": "Tümü",
+      "slash": "Slash",
+      "prefix": "Önek",
+      "premium": "Premium",
+      "auth": "Hesap",
+      "ephemeral": "Geçici",
+      "mia": "Mia Lounge",
+      "server": "Sunucu"
+    }
+  },
+  "metaLine": "{n} komut gösteriliyor",
+  "loading": "Yükleniyor",
+  "notice": "Mia Lounge etiketli komutlar yalnızca resmi sunucu discord.gg/miabot’ta çalışır.",
+  "cta": {
+    "title": "Aradığını bulamadın mı?",
+    "text": "SSS’ye bak, destek Discord’una katıl veya Premium komutların kilidini aç.",
+    "faq": "SSS’yi gör",
+    "discord": "Mia Discord",
+    "premium": "Mia Premium"
+  },
+  "metaShown": "komut gösteriliyor",
+  "ui": {
+    "loading": "Komutlar yükleniyor",
+    "empty": "Arama veya filtreyle eşleşen komut yok.",
+    "loadError": "Komutlar yüklenemedi. Daha sonra tekrar dene.",
+    "loadErrorShort": "Komutlar yüklenemedi.",
+    "showSubs": "Alt komutları göster",
+    "hideSubs": "Alt komutları gizle",
+    "subs": "{n} alt komut"
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "meta": {
+    "title": "Mia · API",
+    "description": "FortniteとDiscord向けMia公開APIドキュメント：BRショップ、STWアラート、アセット、管理パネルコードなど。JavaScript、TypeScript、Python、Javaの例と明確な認証・制限。",
+    "ogTitle": "Mia · API",
+    "ogDescription": "FortniteとDiscord向けMia公開APIドキュメント：BRショップ、STWアラート、アセット、管理パネルコードなど。JavaScript、TypeScript、Python、Javaの例と明確な認証・制限。"
+  },
+  "hero": {
+    "title": "APIドキュメント",
+    "lead": "FortniteとSave the Worldをボットに統合。すべてのルートにMia APIキーが必要。対応言語 · 既定は es-ES 。",
+    "links": [
+      "対応言語"
+    ],
+    "copyBaseUrl": "ベースURLをコピー",
+    "stats": [
+      "公開ルート19件"
+    ]
+  },
+  "nav": {
+    "mobile": [
+      "アクセス",
+      "言語",
+      "プラン",
+      "アカウント",
+      "BR",
+      "STW"
+    ],
+    "sidebar": {
+      "title": "このページ",
+      "groups": [
+        {
+          "label": "一般",
+          "links": [
+            "認証",
+            "言語",
+            "プランと制限"
+          ],
+          "subLabels": []
+        },
+        {
+          "label": "APIルート",
+          "links": [
+            "ルートを見る"
+          ],
+          "subLabels": []
+        },
+        {
+          "label": "Epicアカウント",
+          "links": [
+            "セクションを見る",
+            "オンラインプレイヤー",
+            "残りギフト"
+          ],
+          "subLabels": []
+        },
+        {
+          "label": "Battle Royale",
+          "links": [
+            "セクションを見る",
+            "BRショップ",
+            "BR画像",
+            "AESキー",
+            "コード"
+          ],
+          "subLabels": [
+            "ショップ",
+            "AES",
+            "Admin Panel"
+          ]
+        },
+        {
+          "label": "Save the World",
+          "links": [
+            "セクションを見る",
+            "STWアセット",
+            "ヒーロー",
+            "設計図",
+            "サバイバー",
+            "カタログ",
+            "全アラート",
+            "V-Bucks",
+            "カテゴリ別",
+            "STWショップ",
+            "STW画像"
+          ],
+          "subLabels": [
+            "アセット",
+            "アラート",
+            "ショップ"
+          ]
+        }
+      ]
+    }
+  },
+  "sections": {
+    "sec-auth": "認証",
+    "sec-locales": "言語",
+    "sec-pricing": "プランと制限",
+    "sec-cuenta": "Epicアカウント",
+    "sec-br": "Battle Royaleショップ",
+    "sec-br-aes": "AESキー",
+    "sec-br-admin": "Admin Panel",
+    "sec-stw-assets": "STWアセット",
+    "sec-stw-alertas": "STWアラート",
+    "sec-stw-tienda": "STWショップ"
+  },
+  "bodyInclude": "api",
+  "ui": {
+    "localeTitle": "言語",
+    "localeQuery": "任意のクエリ: <code>locale</code>、<code>lang</code> または <code>idioma</code> · 既定 <strong>es-ES</strong>",
+    "localeSeeAll": "すべての言語を見る",
+    "routesCount": "{count} ルート",
+    "routesFiltered": "{total} ルート中 {visible}"
+  }
+}

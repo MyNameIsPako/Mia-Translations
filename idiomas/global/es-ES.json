@@ -2356,7 +2356,7 @@
 				"msg10": "Se desactivo correctamente la alerta de",
 				"msg11": "`Sin canal`",
 				"msg12": "`Sin rol`",
-				"msg13": "Feeds de para:",
+				"msg13": "Feeds de Mia para:",
 				"msg14": "Puedes activar una de las feeds usando `/config feed activar` o desactivar alguna feed usando `/config feed desactivar`.",
 				"msg15": "Envia a el canal cualquier estado que cambie de los servidores de FN.",
 				"msg16": "Envia las nuevas filtraciones que detecte Mia, te las enviara como imagen con rareza y demas.",

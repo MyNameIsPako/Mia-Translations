@@ -1,0 +1,44 @@
+{
+  "meta": {
+    "title": "Mia · Admin Panel",
+    "description": "Up-to-date Fortnite Admin Panel / Lobby Hack codes. Filter by category or status, mark ones you’ve redeemed, copy each code in one click, and check rewards (sprites, XP, dust, and more).",
+    "ogTitle": "Mia · Admin Panel",
+    "ogDescription": "Up-to-date Fortnite Admin Panel / Lobby Hack codes. Filter by category or status, mark ones you’ve redeemed, copy each code in one click, and check rewards (sprites, XP, dust, and more)."
+  },
+  "hero": {
+    "title": "Admin Panel"
+  },
+  "summary": {
+    "aria": "Summary",
+    "codes": "codes"
+  },
+  "progress": {
+    "aria": "Redeem progress",
+    "redeemed": "redeemed",
+    "reset": "Reset",
+    "resetConfirm": "Reset all redeemed codes in this browser?"
+  },
+  "filters": {
+    "statusLabel": "Status",
+    "redeemAria": "Redeem",
+    "all": "All",
+    "pending": "Pending",
+    "redeemed": "Redeemed",
+    "categoryLabel": "Category",
+    "categoriesAria": "Categories"
+  },
+  "ui": {
+    "all": "All",
+    "loading": "Loading codes",
+    "empty": "No codes match these filters.",
+    "loadError": "Could not load the codes.",
+    "networkError": "Network error",
+    "copy": "Copy",
+    "copied": "Done",
+    "redeemed": "Redeemed",
+    "markRedeemed": "Mark redeemed",
+    "new": "New",
+    "reusable": "Reusable",
+    "noReward": "No reward"
+  }
+}

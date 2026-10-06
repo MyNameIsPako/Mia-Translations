@@ -1,0 +1,289 @@
+{
+  "meta": {
+    "title": "Mia · Mia Premium",
+    "description": "Discord, Fortnite ve Mia Launcher'da avantajlar sunan Mia Premium planları: daha fazla hesap, feed ve görsel özelleştirme, genişletilmiş TaxiBots ve tek abonelikle özel özellikler.",
+    "ogTitle": "Mia · Mia Premium",
+    "ogDescription": "Discord, Fortnite ve Mia Launcher'da avantajlar sunan Mia Premium planları: daha fazla hesap, feed ve görsel özelleştirme, genişletilmiş TaxiBots ve tek abonelikle özel özellikler."
+  },
+  "hero": {
+    "title": "Mia'nın tüm potansiyelini aç",
+    "lead": "Otomasyonlar, özel komutlar, daha fazla hesap ve Discord avantajları. Aboneliğin aynı Discord hesabıyla <strong>Mia Launcher</strong> premium özelliklerini de açar.",
+    "stats": {
+      "price": "<strong>5€</strong>/ay kullanıcı başına",
+      "accounts": "<strong>25</strong> hesap",
+      "booster": "Ücretsiz <strong>booster</strong>",
+      "launcher": "<strong>Mia Launcher</strong> dahil"
+    }
+  },
+  "shareBanner": {
+    "aria": "Mia Launcher ile paylaşılan Premium",
+    "title": "Mia Launcher ile paylaşılan Premium",
+    "text": "<strong>Önemli:</strong> Mia Premium, Discord botu ve Mia Launcher'da aynı aboneliktir. Mia'da zaten premium'un varsa launcher'da Discord ile giriş yap; otomatik etkinleşir — iki kez ödeme yok.",
+    "link": "Mia Launcher hakkında",
+    "altMia": "Mia logosu",
+    "altLauncher": "Mia Launcher ekran görüntüsü"
+  },
+  "jump": {
+    "aria": "Sayfa bölümleri",
+    "plans": "Planlar",
+    "api": "API",
+    "compare": "Karşılaştırma",
+    "howToBuy": "Nasıl satın alınır",
+    "payment": "Ödeme"
+  },
+  "plans": {
+    "sectionTitle": "Discord planları",
+    "sectionLead": "Sana uygun planı seç. Tüm ödemeler Mia Lounge'da yapılır.",
+    "monthly": {
+      "badge": "Aylık",
+      "title": "Aylık Premium",
+      "price": "5€",
+      "period": "/ay",
+      "note": "Yıllık ile aynı avantajlar, ay ay.",
+      "cta": "Şimdi satın al",
+      "features": [
+        "Premium komutlar",
+        "Mia otomatik sistemleri",
+        "XMPP",
+        "25 kayıtlı hesap",
+        "Tüm sunucularını yönet",
+        "Görsel alt bilgisi (sunucu)",
+        "Discord daveti (sunucu)",
+        "Mia Launcher ile paylaşılan Premium"
+      ]
+    },
+    "yearly": {
+      "badge": "En popüler",
+      "title": "Yıllık Premium",
+      "price": "40€",
+      "period": "/yıl",
+      "strikethrough": "60€/yıl",
+      "vitalicio": "Yıllık ömür boyu",
+      "saving": "%17 tasarruf",
+      "cta": "Şimdi satın al",
+      "features": [
+        "Premium komutlar",
+        "Mia otomatik sistemleri",
+        "XMPP",
+        "25 kayıtlı hesap",
+        "Tüm sunucularını yönet",
+        "Görsel alt bilgisi (sunucu)",
+        "Discord daveti (sunucu)",
+        "Mia Launcher ile paylaşılan Premium"
+      ]
+    },
+    "booster": {
+      "badge": "Ücretsiz",
+      "title": "Booster Premium",
+      "price": "0€",
+      "period": "/ay",
+      "note": "Mia Lounge'u boost'la ve ekstra avantajları aç.",
+      "cta": "Mia Lounge'u boost'la",
+      "features": [
+        "Premium komutlar",
+        "5 kayıtlı hesap",
+        "Komutlarda BULK modu",
+        "Mia Launcher ile paylaşılan Premium"
+      ]
+    }
+  },
+  "apiBanner": {
+    "title": "API Premium",
+    "text": "<strong>Mia Premium'dan bağımsız ayrı plan</strong>. Geliştiriciler için: dakikada daha fazla istek ve STW ile Battle Royale mağaza özel PNG görselleri (logo ve metinlerinle).",
+    "chips": [
+      "360 req/min",
+      "STW mağaza görseli",
+      "BR mağaza görseli",
+      "Kendi logo + metinlerin"
+    ],
+    "price": "5€",
+    "priceNote": "aylık · API planı",
+    "docs": "Dokümantasyonu gör",
+    "cta": "API Premium al"
+  },
+  "keys": {
+    "note": "Mia anahtarları şu formatta:",
+    "format": "XXXXX-XXXXX-XXXXX"
+  },
+  "compare": {
+    "title": "Özellik karşılaştırması",
+    "lead": "Plana göre bot özellikleri. Tablo sığmazsa mobilde kaydır. <strong>API planı</strong> ayrı üründür ve Mia Premium'a dahil değildir.",
+    "columns": {
+      "feature": "Özellik",
+      "free": "Ücretsiz",
+      "booster": "Booster",
+      "premium": "Premium"
+    },
+    "yes": "Evet",
+    "no": "Hayır",
+    "rows": [
+      {
+        "feature": "Hesap limiti",
+        "free": "2",
+        "booster": "5",
+        "premium": "25"
+      },
+      {
+        "feature": "Ücretsiz lamaları otomatik al",
+        "free": "Hayır",
+        "booster": "Hayır",
+        "premium": "Evet"
+      },
+      {
+        "feature": "Günlük görevleri otomatik yenile",
+        "free": "Evet",
+        "booster": "Evet",
+        "premium": "Evet"
+      },
+      {
+        "feature": "AutoKick",
+        "free": "Hayır",
+        "booster": "Hayır",
+        "premium": "Evet"
+      },
+      {
+        "feature": "Araştırma puanlarını otomatik topla",
+        "free": "Hayır",
+        "booster": "Hayır",
+        "premium": "Evet"
+      },
+      {
+        "feature": "Oluşturucu kodunu otomatik yenile",
+        "free": "Evet",
+        "booster": "Evet",
+        "premium": "Evet"
+      },
+      {
+        "feature": "Otomatik seferler",
+        "free": "Hayır",
+        "booster": "Hayır",
+        "premium": "Evet"
+      },
+      {
+        "feature": "Günlük görevleri otomatik değiştir",
+        "free": "Hayır",
+        "booster": "Hayır",
+        "premium": "Evet"
+      },
+      {
+        "feature": "BULK modu",
+        "free": "Hayır",
+        "booster": "Evet",
+        "premium": "Evet"
+      },
+      {
+        "feature": "XMPP",
+        "free": "Hayır",
+        "booster": "Hayır",
+        "premium": "Evet"
+      },
+      {
+        "feature": "Premium komutlar",
+        "free": "Hayır",
+        "booster": "Evet",
+        "premium": "Evet"
+      },
+      {
+        "feature": "TaxiBots",
+        "free": "Normal",
+        "booster": "Premium",
+        "premium": "Premium"
+      },
+      {
+        "feature": "Bekleme süreleri",
+        "free": "15 s",
+        "booster": "10 s",
+        "premium": "5 s"
+      },
+      {
+        "feature": "Sunucu yönetimi",
+        "free": "1",
+        "booster": "1",
+        "premium": "Sınırsız"
+      },
+      {
+        "feature": "Görsel alt bilgisi (sunucu)",
+        "free": "Hayır",
+        "booster": "Hayır",
+        "premium": "Evet"
+      },
+      {
+        "feature": "Discord daveti (sunucu)",
+        "free": "Hayır",
+        "booster": "Hayır",
+        "premium": "Evet"
+      },
+      {
+        "feature": "Bot Lobbies özelleştir",
+        "free": "Hayır",
+        "booster": "Hayır",
+        "premium": "Evet"
+      },
+      {
+        "feature": "Mağaza ücretsiz eşyaları otomatik satın al",
+        "free": "Hayır",
+        "booster": "Hayır",
+        "premium": "Evet"
+      },
+      {
+        "feature": "Ücretsiz oyunları otomatik al (Epic Games)",
+        "free": "Evet",
+        "booster": "Evet",
+        "premium": "Evet"
+      },
+      {
+        "feature": "Mia Launcher (paylaşılan premium)",
+        "free": "Hayır",
+        "booster": "Evet",
+        "premium": "Evet"
+      }
+    ]
+  },
+  "howToBuy": {
+    "title": "Nasıl satın alınır",
+    "lead": "Mia Lounge'da üç basit adım",
+    "steps": [
+      {
+        "title": "Desteğe git",
+        "text": "<a href=\"https://discord.com/invite/miabot\" class=\"text-yellow-400 hover:underline\" target=\"_blank\" rel=\"noopener\">Mia Lounge</a>'a katıl ve premium kanalında bir ticket aç."
+      },
+      {
+        "title": "Plan ve ödeme seç",
+        "text": "Kullanıcı Premium, Booster veya API Premium istediğini ve tercih ettiğin ödeme yöntemini belirt."
+      },
+      {
+        "title": "Anahtarını al",
+        "text": "Ödeme onaylandıktan sonra planını etkinleştiririz ve <code>XXXXX-XXXXX-XXXXX</code> formatında anahtarını alırsın."
+      }
+    ]
+  },
+  "payment": {
+    "title": "Ödeme yöntemleri",
+    "lead": "Ödemeni işlemek için <a href=\"https://discord.com/channels/756859004965093426/1302832897061027940\" class=\"text-yellow-400 hover:underline\" target=\"_blank\" rel=\"noopener\">destek kanalı</a>mızda ticket aç.",
+    "supportLink": "destek kanalı",
+    "paypal": {
+      "name": "PayPal",
+      "popular": "Popüler",
+      "note": "Friends & Family",
+      "surcharge": "F&F olmadan +1,50€ ek ücret"
+    },
+    "revolut": {
+      "name": "Revolut",
+      "note": "Link ile kart ödemesi",
+      "noClient": "Revolut hesabı gerekmez",
+      "recommended": "Önerilen yöntem"
+    },
+    "crypto": {
+      "title": "Kripto paralar",
+      "bitcoin": "Bitcoin",
+      "litecoin": "Litecoin",
+      "usdt": "USDT",
+      "usdtSub": "Tether"
+    }
+  },
+  "cta": {
+    "title": "Seviye atlamaya hazır mısın?",
+    "text": "Mia Lounge'da ticket aç; dakikalar içinde planını etkinleştirmene yardım ederiz.",
+    "button": "Premium kanalına git"
+  }
+}

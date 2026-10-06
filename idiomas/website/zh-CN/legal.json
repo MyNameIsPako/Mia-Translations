@@ -1,0 +1,76 @@
+{
+  "politica": {
+    "meta": {
+      "title": "Mia · 隐私政策",
+      "description": "Mia 隐私政策：使用 Discord 机器人、网站及相关服务时收集哪些数据、用途、如何保护，以及你的权利。",
+      "ogTitle": "Mia · 隐私政策",
+      "ogDescription": "Mia 隐私政策：使用 Discord 机器人、网站及相关服务时收集哪些数据、用途、如何保护，以及你的权利。"
+    },
+    "eyebrow": "法律",
+    "title": "隐私政策",
+    "lead": "你在使用 Mia 网站与机器人时，我们如何收集、使用并保护你的信息。",
+    "updated": "最后更新：2026 年 4 月 15 日",
+    "tocTitle": "目录",
+    "toc": [
+      "简介",
+      "收集的数据",
+      "信息用途",
+      "你的权利",
+      "分析与 Cookie",
+      "外部链接",
+      "变更",
+      "联系"
+    ],
+    "bodyInclude": "politica"
+  },
+  "terminos": {
+    "meta": {
+      "title": "Mia · 条款与条件",
+      "description": "Mia 使用条款：Discord 机器人、网站、Premium 与 Fortnite 相关服务规则。使用或绑定账号前请先阅读。",
+      "ogTitle": "Mia · 条款与条件",
+      "ogDescription": "Mia 使用条款：Discord 机器人、网站、Premium 与 Fortnite 相关服务规则。使用或绑定账号前请先阅读。"
+    },
+    "eyebrow": "法律",
+    "title": "使用条款",
+    "lead": "Mia 机器人用于 Discord、Fortnite 及相关服务的使用条件。",
+    "updated": "最后更新：2026 年 4 月 15 日",
+    "tocTitle": "目录",
+    "toc": [
+      "简介",
+      "封禁免责声明",
+      "什么是 Mia？",
+      "服务使用",
+      "保密",
+      "隐私权利",
+      "第三方分析",
+      "联系",
+      "数据管理"
+    ],
+    "bodyInclude": "terminos"
+  },
+  "terminosChecker": {
+    "meta": {
+      "title": "Mia · Mia Checker 条款",
+      "description": "Telegram 上安全的 Fortnite 账号检查工具 Mia Checker 使用条款：服务条件、责任以及买卖双方规则。",
+      "ogTitle": "Mia · Mia Checker 条款",
+      "ogDescription": "Telegram 上安全的 Fortnite 账号检查工具 Mia Checker 使用条款：服务条件、责任以及买卖双方规则。"
+    },
+    "eyebrow": "Mia Checker",
+    "title": "使用条款",
+    "lead": "用于验证与分析 Fortnite 账号的 Telegram 机器人使用条件。",
+    "updated": "最后更新：2026 年 4 月 15 日",
+    "tocTitle": "目录",
+    "toc": [
+      "简介",
+      "封禁免责声明",
+      "什么是 Mia Checker？",
+      "通过 Telegram 使用",
+      "隐私",
+      "限制",
+      "负责任使用",
+      "联系",
+      "接受"
+    ],
+    "bodyInclude": "terminos-checker"
+  }
+}

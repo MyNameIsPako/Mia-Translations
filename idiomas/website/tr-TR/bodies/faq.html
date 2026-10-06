@@ -1,0 +1,1049 @@
+<section class="mia-page-hero faq-hero">
+        <p class="faq-hero-kicker"><i class="fa-solid fa-circle-question" aria-hidden="true"></i> Yardım merkezi</p>
+        <h1>Sık sorulan sorular</h1>
+        <p class="faq-hero-lead">
+          Mia <strong>güvenilir, şeffaf ve çok dilli</strong> bir bottur. Veri satmayız, gizli ekstra saklamayız: yalnızca bot ve launcher’ın çalışması için gerekenler tutulur ve <code>/borrar</code> ile <strong>istediğin zaman silebilirsin</strong> (Auth dahil). Aşağıdan ara veya bir kategori seç.
+        </p>
+      </section>
+
+      <div class="faq-controls">
+      <div class="faq-toolbar">
+        <input
+          type="search"
+          id="faq-search"
+          class="faq-search"
+          placeholder="Soru veya anahtar kelime ara…"
+          aria-label="SSS içinde ara"
+          autocomplete="off"
+        />
+        <div class="faq-search-meta">
+          <span id="faq-search-count"></span>
+        </div>
+      </div>
+
+      <div
+        class="faq-categories"
+        role="tablist"
+        aria-label="SSS kategorileri"
+      >
+        <button
+          type="button"
+          class="category-btn active"
+          data-category="general"
+        >
+          <i class="fa-solid fa-house"></i> Genel
+        </button>
+        <button type="button" class="category-btn" data-category="cuenta">
+          <i class="fa-solid fa-user"></i> Hesaplar
+        </button>
+        <button type="button" class="category-btn" data-category="premium">
+          <i class="fa-solid fa-crown"></i> Premium
+        </button>
+        <button type="button" class="category-btn" data-category="api">
+          <i class="fa-solid fa-code"></i> API
+        </button>
+        <button type="button" class="category-btn" data-category="taxibots">
+          <i class="fa-solid fa-taxi"></i> TaxiBots
+        </button>
+        <button type="button" class="category-btn" data-category="herramientas">
+          <i class="fa-solid fa-wrench"></i> Araçlar
+        </button>
+      </div>
+
+      <p id="faq-search-empty" class="faq-empty">
+        Sonuç yok. Farklı kelimeler dene veya kategoriyi değiştir.
+      </p>
+      </div>
+
+      <div class="faq-content">
+        <!-- General FAQ -->
+        <div class="faq-category" id="general-faq">
+          <div class="faq-panel-head">
+            <h2>Genel</h2>
+            <p>Mia nedir, nasıl davet edilir ve temel destek.</p>
+          </div>
+          <div class="mb-6 faq-list">
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>Mia nedir?</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>
+                  Mia, Fortnite odaklı bir Discord botudur: hesabını yönet, envanterini gör, sunucun için otomatik feed'ler kur ve daha fazlası. Fortnite oyuncu deneyimini doğrudan Discord'dan kolaylaştırmak için tasarlandı.
+                </p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>Mia'yı sunucuma nasıl eklerim?</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>
+                  Ana sayfamızdaki "Mia'yı Kur!" düğmesine veya
+                  <a
+                    href="https://discord.com/oauth2/authorize?client_id=903396041401978900"
+                    class="text-blue-400 hover:underline"
+                    >buraya tıklayarak</a
+                  > Mia'yı sunucuna ekleyebilirsin. Eklemek istediğin sunucuda yalnızca yönetici iznine ihtiyacın var.
+                </p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>Hangi komutları kullanabilirim?</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>
+                  Mia, Fortnite hesabını yönetmek ve sunucunu geliştirmek için birçok komut sunar. Komutların
+                  tam listesini
+                  <a
+                    href="/tr-TR/comandos.html"
+                    class="text-blue-400 hover:underline"
+                    >komutlar sayfamızda</a
+                  >
+                  veya Discord'da /ayuda komutuyla görebilirsin.
+                </p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>Bug nasıl bildirilir?</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>
+                  Mia hatası veya bug bildirmek için
+                  <a
+                    href="https://discord.gg/miabot"
+                    class="text-blue-400 hover:underline"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    >Mia Lounge</a
+                  >
+                  'a katıl ve
+                  <a
+                    href="https://discord.com/channels/756859004965093426/1302832897061027940"
+                    class="text-blue-400 hover:underline"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    >destek</a
+                  >
+                  kanalında ticket aç. Ayrıca
+                  <strong>#💬〕general</strong> kanalına da yazabilirsin. Geliştiriciler en kısa sürede inceler.
+                </p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>Mia dilini değiştirebilir miyim?</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>
+                  Evet, Mia şu anda birkaç dilde mevcut. Bunları
+                  <code>/idiomas</code> komutuyla görebilirsin. Dilin
+                  yoksa,
+                  <a
+                    href="https://discord.gg/miabot"
+                    class="text-blue-400 hover:underline"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    >Mia Lounge</a
+                  >
+                  içindeki <strong>#💬〕general</strong> kanalına öneri bırak.
+                </p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>Mia ücretsiz mi?</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>Evet. Bot birçok özellikle ücretsiz kullanılabilir. <strong>Mia Premium</strong> otomasyonları, daha fazla hesabı ve ekstraları açar; başlamak için zorunlu değil. Planlar <a href="/tr-TR/premium.html" class="text-blue-400 hover:underline">Premium</a> sayfasında.</p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>Destek Discord nerede?</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>
+                  Resmi sunucu
+                  <a
+                    href="https://discord.gg/miabot"
+                    class="text-blue-400 hover:underline"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    >discord.gg/miabot</a
+                  >
+                  (Mia Lounge). Yararlı kanallar:
+                </p>
+                <ul class="mt-2 list-disc space-y-1 pl-5 text-sm">
+                  <li>
+                    <strong>#💬〕general</strong> — topluluk sohbeti
+                  </li>
+                  <li>
+                    <a
+                      href="https://discord.com/channels/756859004965093426/1302832897061027940"
+                      class="text-blue-400 hover:underline"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      >Destek</a
+                    >
+                    — ticket ve yardım
+                  </li>
+                  <li>
+                    <a
+                      href="https://discord.com/channels/756859004965093426/1302838662328750121"
+                      class="text-blue-400 hover:underline"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      >Eğitimler</a
+                    >
+                    — topluluk rehberleri
+                  </li>
+                </ul>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>Mia Launcher nedir?</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p><a href="/tr-TR/mia-launcher.html" class="text-blue-400 hover:underline">Mia Launcher</a> resmi masaüstü uygulamasıdır: çoklu hesap, STW uyarıları, mağaza ve daha fazlası. Discord'da Premium'un varsa launcher'da Discord ile giriş yap; tekrar ödemeden aktif olur.</p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>Mia Checker nedir?</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p><a href="/tr-TR/checker.html" class="text-blue-400 hover:underline">Mia Checker</a>, Telegram'da bir Fortnite hesap checker'ıdır. Kendi <a href="/tr-TR/terminos-checker.html" class="text-blue-400 hover:underline">koşulları</a> vardır. Discord botunun yerini tutmaz.</p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>Admin Panel / Lobby Hack kodları?</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>Web'de: <a href="/tr-TR/admin-panel.html" class="text-blue-400 hover:underline">Admin Panel</a>. Ayrıca <a href="/tr-TR/api.html" class="text-blue-400 hover:underline">API</a> üzerinde bir rota var (API key gerekir).</p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>Ruhlar izleyici nedir?</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>Fortnite ruhlarını (Sprites) işaretleyip filtrelemek için web aracı: <a href="/tr-TR/espiritus.html" class="text-blue-400 hover:underline">Ruhlar</a>.</p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>Mia DM'de mi sadece sunucuda mı?</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>Birçok komutu <strong>Mia ile DM</strong>'de ve davet edildiği sunucularda kullanabilirsin. Bazıları (<code>/dupe</code> veya TaxiBots gibi) resmi sunucu <a href="https://discord.gg/miabot" class="text-blue-400 hover:underline" target="_blank" rel="noopener noreferrer">Mia Lounge</a> gerektirir.</p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>Slash komutlar neden görünmüyor?</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>Şunu dene:</p>
+      <ol class="mt-2 list-decimal space-y-1 pl-5 text-sm">
+        <li><code>/</code> yaz ve Discord'un Mia komutlarını yüklemesini bekle.</li>
+        <li>Mia'nın sunucuda olduğundan ve uygulama komutlarını kullanma izni olduğundan emin ol.</li>
+        <li>Az önce davet ettiysen birkaç dakika bekle veya Discord'u yeniden başlat.</li>
+        <li>Mobilde bazen daha uzun sürer: uygulamayı kapatıp yeniden aç.</li>
+      </ol>
+      <p class="mt-2">Tam liste <a href="/tr-TR/comandos.html" class="text-blue-400 hover:underline">Komutlar</a> veya <code>/ayuda</code> ile.</p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>Konsolda (PS, Xbox, Switch) kullanılır mı?</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>Mia <strong>Discord</strong>'da çalışır (PC, mobil veya web), konsolun içinde değil. Konsolda oynadığın bir Fortnite hesabını yine yönetebilirsin: Discord'dan <code>/registrar</code> ile bağla, Mia Epic API'si üzerinden çalışır.</p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>Mia'ya neden güvenmeliyim?</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>
+      Mia, özellikle Save the World topluluğu için <strong>güvenilir, şeffaf ve İspanyolca odaklı</strong>
+      bir bot olarak doğdu. Yıllardır Discord'dayız; garip risk veya ban olmadan sığdığı sürece
+      istenenlerin çoğu eklenmeye çalışılır. Hassas bir şey varsa (ör. botlobbies) uyarılır ve kullanmadan önce kabul etmen gerekir.
+    </p>
+    <p>
+      Veri satmıyoruz ve gizli bir şey yok. Saklanan, bot ve launcher için gerekli olandır ve
+      <strong>silebilirsin</strong> — <code>/borrar</code> ile (Auth dahil). Bunu yapınca Mia içinde varlığın kalmaz.
+    </p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>Mia verimi satar mı?</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>
+      <strong>Hayır.</strong> Veri satılmıyor ve gizli hile yok. Amaç, net bir bot ve launcher ile topluluğa
+      (özellikle STW) yardımcı olmak. Discord'da nasıl çalıştığımız konusunda oldukça şeffafız. Şüphen varsa
+      <strong>#💬〕general</strong> veya
+      <a href="https://discord.com/channels/756859004965093426/1302832897061027940" class="text-blue-400 hover:underline" target="_blank" rel="noopener noreferrer">destek</a>
+      kanalında sor.
+    </p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Accounts FAQ -->
+        <div class="faq-category hidden" id="cuenta-faq">
+          <div class="faq-panel-head">
+            <h2>Hesaplar</h2>
+            <p>
+              Kayıt, güvenlik ve Mia’nın Epic hesabın hakkında sakladığı veriler.
+            </p>
+          </div>
+          <div class="mb-6 faq-list">
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>Hesabımı nasıl kaydederim?</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>
+                  Fortnite hesabını Mia'ya kaydetmek için Discord'da /registrar komutunu kullan. Geri kalan adımlarda Mia seni yönlendirir.
+                </p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>Kayıt güvenli mi?</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>
+                  Evet: Mia <strong>Epic şifreni istemez ve saklamaz</strong>.
+                  Kayıt, resmi yetkilendirme akışını (device auth) kullanır
+                  ve yalnızca gerekli teknik kimlik bilgilerini
+                  (AccountID, DeviceID ve Secret) özel bir veritabanında saklar.
+                  Verilerini satmıyor veya paylaşmıyoruz. Mia'yı kullanmayı bırakmak istersen
+                  <code>/borrar</code> ile sil.
+                </p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>Bağlantıyı nasıl kaldırırım?</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>
+                  Hesabını Mia'dan kaldırmak için /borrar komutunu kullan. Mia, seçtiğin seçeneğe göre hesap kimlik bilgilerini ve oluşturulan Auth'u siler.
+                </p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>Hesabım ban yer mi?</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>
+                  Risk vardır ama çok nadirdir. Mia hesabını tehlikeye atan komutlar kullanmaz. Epic Hizmet Şartları üçüncü taraf uygulamaları açıkça yasaklar; ancak 8 yıllık projede Discord botu yüzünden banlanan hesap olmadı. Geliştiricilerimiz ve adminlerimiz Mia kullanıyor — 100.000'den fazla kişi gibi.
+                </p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>Mia hangi verileri saklar?</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>
+                  Mia'nın düzgün çalışması ve Fortnite hesabının verilerine erişmesi için
+                  <strong>AccountID</strong>, <strong>DeviceID</strong> ve
+                  <strong>Secret</strong>'inden oluşan bir Auth üretilir. Bu kimlik bilgileri
+                  bir <strong>accessToken</strong> oluşturmak için kullanılır; ardından
+                  Fortnite API ile etkileşim sağlanır. Bu veriler Mia'nın düzgün çalışması için gereklidir.
+                </p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>Epic şifresi saklanır mı?</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p><strong>Hayır.</strong> Epic şifreni asla istemeyiz. Yalnızca cihaz yetkilendirme sürecini kullanırsın; Mia device auth kimlik bilgilerini saklar, e-posta/şifreni değil.</p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>Birden fazla Fortnite hesabı?</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>Evet. Ücretsiz planda limit var; <a href="/tr-TR/premium.html" class="text-blue-400 hover:underline">Premium</a> ile çok daha fazlasını yönetebilirsin. Aralarında geçmek için <code>/cuentas</code> veya <code>/cambiar</code> kullan.</p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>/registrar başarısız veya Auth bitti?</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>
+                  Auth geçersiz olduysa (şifre değiştirdin, Epic oturumlarını kapattın vb.)
+                  <code>/borrar</code> kullanıp tekrar <code>/registrar</code> yap.
+                  <strong>Bunun için <code>/refrescar</code> kullanma</strong>: o komut yalnızca
+                  Fortnite görevlerini/profilini yeniler, bağlantıyı onarmaz.
+                </p>
+                <p>
+                  Kayıt yine başarısız olursa
+                  <a href="https://discord.com/channels/756859004965093426/1302832897061027940" class="text-blue-400 hover:underline" target="_blank" rel="noopener noreferrer">destek</a>
+                  kanalında ticket aç.
+                </p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>Kayıt olmadan kullanılır mı?</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>Evet, herkese açık şeyler için (bilgi komutları, site vb.). <em>Senin</em> Epic hesabını yönetmek için (envanter, günlükler, hediyeler…) <code>/registrar</code> gerekir.</p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>/refrescar nedir?</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>
+                  <code>/refrescar</code> <strong>Auth'unu yenilemez ve Discord/Epic oturumunu «düzeltmez»</strong>.
+                  Save the World ve Battle Royale'de <strong>Fortnite profilini yeniler</strong>
+                  (görevler / questler).
+                </p>
+                <p>
+                  Mia'daki görevler veya oyun durumu eski görünüyorsa kullan.
+                  İsteğe bağlı <code>initmm</code> eşleştirme için profilleri başlatır.
+                  Auth çalışmıyorsa <code>/borrar</code> sonra <code>/registrar</code> kullan.
+                </p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>Epic şifre değişti veya oturum kapandı?</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>
+                  Mia Auth'u geçersiz olur. Hesabı Mia'da
+                  <code>/borrar</code> ile sil ve <code>/registrar</code> ile yeniden bağla.
+                  <code>/refrescar</code> bunu <strong>çözmez</strong>: yalnızca oyundaki görevleri yeniler.
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Premium FAQ -->
+        <div class="faq-category hidden" id="premium-faq">
+          <div class="faq-panel-head">
+            <h2>Premium</h2>
+            <p>
+              Discord planları, ödemeler ve Mia Premium ayrıcalıkları.
+            </p>
+          </div>
+          <div class="mb-6 faq-list">
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>Mia Premium avantajları?</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>
+                  Mia Premium benzersiz avantajlar sunar: Fortnite'ın en sıkıcı işlerini otomatikleştiren sistemler (ücretsiz lamaları alma, beğenmediğin günlük görevleri değiştirme) ve yalnızca Mia'nın sunduğu birçok TOP özellik. Ayrıca
+                  <strong>premium'un Mia Launcher ile paylaşılır</strong>:
+                  launcher'da Discord ile giriş yap, tekrar ödemeden aktif olur. Tüm avantajları
+                  <a
+                    href="/tr-TR/premium.html"
+                    class="text-blue-400 hover:underline"
+                    >Premium sayfamızda</a
+                  >
+                  görebilirsin.
+                </p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>Premium Launcher'da da mı?</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>
+                  <strong>Evet.</strong> Mia Premium, Discord botu ile Mia Launcher arasında paylaşılır. Aynı aboneliktir: Mia'da zaten premium'un varsa launcher'da Discord hesabınla giriş yap; otomatik aktif olur, iki kez ödemezsin.
+                  <a
+                    href="/tr-TR/mia-launcher.html"
+                    class="text-blue-400 hover:underline"
+                    >Mia Launcher</a
+                  >
+                  ve
+                  <a
+                    href="/tr-TR/premium.html"
+                    class="text-blue-400 hover:underline"
+                    >Premium planlarına</a
+                  >
+                  bak.
+                </p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>Premium nasıl alınır?</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>En net yol:</p>
+                <ol class="mt-2 list-decimal space-y-1 pl-5 text-sm">
+                  <li>
+                    <a
+                    href="/tr-TR/premium.html"
+                    class="text-blue-400 hover:underline"
+                      >Premium sayfasına</a
+                    >
+                    git ve bir plan seç.
+                  </li>
+                  <li>
+                    Ya da
+                    <a
+                      href="https://discord.gg/miabot"
+                      class="text-blue-400 hover:underline"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      >Mia Lounge</a
+                    >
+                    'a katıl ve Premium'u oradan satın al / etkinleştir.
+                  </li>
+                  <li>
+                    Discord sunucusunu boost'larsan booster avantajlarının bir kısmını alırsın (tam ücretli plan değil).
+                  </li>
+                </ol>
+                <p class="mt-2">
+                  Planlar <strong>5€/ay</strong> itibarıyla. Premium ayrıca
+                  <a
+                    href="/tr-TR/mia-launcher.html"
+                    class="text-blue-400 hover:underline"
+                    >Mia Launcher</a
+                  >
+                  ile de paylaşılır.
+                </p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span
+                  >Premium aboneliğimi başka bir kullanıcıya aktarabilir miyim?</span
+                >
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>
+                  Hayır, Premium abonelikleri alıcının Discord hesabına bağlıdır ve aktarılamaz. Hesabına erişimi kaybedersen Premium abonelik transferi talep edebilirsin.
+                </p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>Ödeme yöntemleri?</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>
+                  Şu anda PayPal, Revolut ve kripto paraları kabul ediyoruz: Bitcoin, Litecoin ve USDT.
+                </p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>İade?</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>
+                  Hayır. Premium satın alındıktan sonra iade yok. PayPal üzerinden anlaşmazlık veya iade talebi açarsan Mia ve sunucudan kalıcı olarak banlanırsın.
+                </p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>Premium nerede?</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p><a href="/tr-TR/premium.html" class="text-blue-400 hover:underline">miadsc.xyz/tr-TR/premium</a> adresinden veya <a href="https://discord.gg/miabot" class="text-blue-400 hover:underline" target="_blank" rel="noopener noreferrer">Mia Lounge</a> üzerinden. Planı seç, öde; Premium Discord'una bağlanır (Mia Launcher için de geçerli).</p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>Premium fiyatı?</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>Kullanıcı planı <strong>5€/ay</strong> ile başlar. Daha fazla seçenek <a href="/tr-TR/premium.html" class="text-blue-400 hover:underline">Premium sayfasında</a>.</p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>Premium bitince?</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>Ücretsiz plana dönersin: otomasyonları ve yüksek limitleri kaybedersin. Sunucu feed veya özel görselleri Mia varsayılanlarına dönebilir. Kayıtlı hesapların otomatik silinmez.</p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>Discord Boost = ücretli Premium?</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>Tam olarak değil. Mia Lounge'u boost'lamak booster avantajları verir ama tam ücretli Premium planın <strong>yerini tutmaz</strong>. Ayrıntılar <a href="/tr-TR/premium.html" class="text-blue-400 hover:underline">Premium</a> sayfasında.</p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>Premium kullanıcı mı sunucu mu?</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p><strong>Discord kullanıcısı başına</strong> (kişisel Premium'un). Bazı sunucu avantajları (feed'ler, özel görseller) guild'de <code>/config servidor</code> ile yapılandırılır (sunucu sahibi) ve yapılandıranın güncel kurallara göre kullanıcı Premium'u olmasına bağlıdır. Ayrıntılar <a href="/tr-TR/premium.html" class="text-blue-400 hover:underline">Premium</a> sayfasında.</p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>Discord'da feed kurulur mu?</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>Evet. Sunucunda sahip <code>/config servidor</code> ile feed kanallarını (mağaza, uyarılar vb.) ayarlayabilir. Premium ile daha fazla özelleştirebilirsin (ör. alt bilgi/görsel). Premium yoksa Mia varsayılanları kullanır.</p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>Vitalicio veya uzun planlar?</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>Aylık planın dışında daha uzun seçenekler de var (ör. yıllık lifetime veya teklife göre diğerleri). Fiyatlar ve her birinin içeriği <a href="/tr-TR/premium.html" class="text-blue-400 hover:underline">Premium</a> sayfasında; emin değilsen <a href="https://discord.com/channels/756859004965093426/1302832897061027940" class="text-blue-400 hover:underline" target="_blank" rel="noopener noreferrer">destek</a> kanalında sor.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- API FAQ -->
+        <div class="faq-category hidden" id="api-faq">
+          <div class="faq-panel-head">
+            <h2>API</h2>
+            <p>
+              Anahtarlar, istek limitleri ve geliştiriciler için API Premium.
+            </p>
+          </div>
+          <div class="mb-6 faq-list">
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>Mia genel API nedir?</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>
+                  Mia tarafından yönetilen Fortnite verilerini sunan bir REST API'dir: Battle Royale mağazası, Save the World kaynakları ve uyarıları, Epic hesap durumu ve daha fazlası. Tam belgeler
+                  <a href="/tr-TR/api.html">API sayfasında</a>.
+                </p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>API anahtarı?</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>
+                  Discord'da <code>/api crear</code> komutunu kullan. Mia
+                  özel anahtarını oluşturur ve <code>Authorization</code>
+                  başlığında nasıl kullanacağını söyler. Güvenli bir yerde sakla:
+                  paylaşma ve herkese açık depolara yükleme.
+                </p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span
+                  >Ücretsiz API ile API Premium arasındaki fark nedir?</span
+                >
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>
+                  Ücretsiz API’nin kişisel kullanım veya test için dakikalık istek limiti vardır.
+                  <strong>API Premium</strong> (€5/ay) limiti
+                  <strong>360 req/min</strong> yapar ve BR/STW için özel mağaza görselleri içerir. Ayrıntılar ve karşılaştırma:
+                  <a href="/tr-TR/premium.html">Premium</a>.
+                </p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span
+                  >API kullanmak için Fortnite hesabımı kaydetmem gerekir mi?</span
+                >
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>
+                  Endpoint’e bağlı. BR mağazası veya STW uyarıları gibi rotalar hesap bağlamayı gerektirmez. Epic hesap uçları (ör. hediyeler veya online) hesabı Mia’da <code>/registrar</code> ile kaydetmeyi gerektirir.
+                </p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>API hata bildirimi?</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>
+                  <a
+                    href="https://discord.gg/miabot"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    class="text-blue-400 hover:underline"
+                    >Mia Lounge</a
+                  >
+                  'a katıl ve
+                  <a
+                    href="https://discord.com/channels/756859004965093426/1302832897061027940"
+                    class="text-blue-400 hover:underline"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    >destek</a
+                  >
+                  kanalında ticket aç veya <strong>#💬〕general</strong> yaz.
+                  Endpoint, yanıt kodu ve mümkünse istek örneği ekle (tam anahtarını yazma).
+                </p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>API anahtarı gerekli mi?</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p><strong>Evet.</strong> Genel API rotaları API key ister (<code>Authorization: Bearer mia_…</code> veya <code>api-key</code> başlığı). <code>/api crear</code> ile oluştur. Premium yalnızca Premium işaretli rotalarda zorunludur (ör. özel mağaza görselleri).</p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>API dokümantasyonu?</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p><a href="/tr-TR/api.html" class="text-blue-400 hover:underline">miadsc.xyz/tr-TR/api</a> adresinde: rotalar, örnekler ve kimlik doğrulama.</p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>API anahtarı paylaşılır mı?</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p><strong>Hayır.</strong> Şifre gibi özeldir. Elinde olan kişi kotanı kullanabilir ve planının izin verdiğine erişebilir. GitHub'a, herkese açık ekran görüntülerine veya sohbetlere yükleme.</p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>Anahtar çalındı/iptal?</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>
+                  Anahtarını <code>/api revisar</code> ile kontrol et. Eskisini geçersiz kılmak için
+                  <code>/api crear</code> ile yenisini oluştur (eskisini kullanmayı bırak).
+                  Staff yardımına ihtiyacın varsa
+                  <a href="https://discord.com/channels/756859004965093426/1302832897061027940" class="text-blue-400 hover:underline" target="_blank" rel="noopener noreferrer">destek</a>
+                  kanalında ticket aç.
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+
+        <div class="faq-category hidden" id="herramientas-faq">
+          <div class="faq-panel-head">
+            <h2>Araçlar</h2>
+            <p>Launcher, Checker, STW uyarıları, profil, admin paneli ve daha fazlası.</p>
+          </div>
+          <div class="mb-6 faq-list">
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>Mia Launcher indir? Güncelleme zorunlu mu?</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>Windows yükleyicisini <a href="/tr-TR/mia-launcher.html#descargar" class="text-blue-400 hover:underline">Mia Launcher</a>'dan indir (GitHub Releases). Üretim derlemelerinde girişten sonra güncellemeler genelde <strong>zorunludur</strong>: uygulamayı kullanmaya devam etmek için kur.</p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>Checker = Discord bot?</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p><strong>Hayır.</strong> <a href="/tr-TR/checker.html" class="text-blue-400 hover:underline">Mia Checker</a>, Telegram'da ayrı bir üründür (hesap raporları). Mia botu Discord'da yaşar. Marka ve ekosistemi paylaşırlar ama aynı hizmet veya aynı koşullar değildir.</p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>Checker ile al-sat güvenli mi?</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>Checker, şifreleri körü körüne paylaşmaktan daha güvenli hesap incelemesine yardımcı olur ama <strong>hesap alıp satmak Epic kurallarını ihlal edebilir</strong> ve risk taşır. <a href="/tr-TR/terminos-checker.html" class="text-blue-400 hover:underline">Mia Checker koşullarını</a> oku ve kendi sorumluluğunda kullan.</p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>Bugünkü STW uyarıları?</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>Web'de: <a href="/tr-TR/alertas.html" class="text-blue-400 hover:underline">Uyarılar</a>. Yapılandırmana göre Discord'daki feed'leri veya Mia içindeki komutları/uyarıları da kullanabilirsin.</p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>Herkese açık STW profili?</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p><a href="/tr-TR/perfil.html" class="text-blue-400 hover:underline">STW Profil</a> sayfası, ad veya accountId ile Fortnite herkese açık profilini (seviye, başarılar vb.) sorgular. Oyuncunun profili Fortnite'ta gizliyse görülemez.</p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>Admin Panel kodları Epic resmi mi?</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>Sezonun <strong>Admin Panel / Lobby Hack</strong> kodlarıdır; Mia kolay bakman için listeler. <strong>Mia, Epic Games ile bağlı değildir</strong>. Yalnızca oyunda / Fortnite'ın belirttiği resmi akışta kullan. Liste: <a href="/tr-TR/admin-panel.html" class="text-blue-400 hover:underline">Admin Panel</a>.</p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>En güvenli İspanyolca checker?</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>
+      «Dünyanın en güvenlisi» diye garanti edilemez. İngilizce checker'lar var ve
+      birçoğunun itibarı kötü; bu yüzden <strong>Mia Checker</strong> var:
+      İspanyolca konuşan topluluğa (ve İngilizceye de) güvenilir bir seçenek sunmak için.
+    </p>
+    <p>
+      Süreç şeffaf: kimlik bilgileri üretilir, hesap incelenir ve
+      Epic API ile oluşturulan <strong>kimlik bilgisi ile auth silinir</strong>;
+      hiçbir şey saklı kalmaz. Mia Checker veri satmaz ve arkada gizli bir şey yapmaz.
+    </p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>Checker Auth saklar mı?</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>
+      <strong>Check Auth saklanmaz.</strong> Hesabı inceledikten sonra oluşturulan kimlik bilgisi ve auth silinir. Discord'daki Mia botundan farklıdır; orada çalışmak için gereken veriler tutulur ve istediğin zaman
+      <code>/borrar</code> ile silebilirsin. Ayrıca
+      <a href="/tr-TR/terminos-checker.html" class="text-blue-400 hover:underline">Mia Checker koşullarını</a>
+      oku.
+    </p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- TaxiBots FAQ -->
+        <div class="faq-category hidden" id="taxibots-faq">
+          <div class="faq-panel-head">
+            <h2>TaxiBots</h2>
+            <p>STW görevlerine ve Battle Royale bot lobilerine erişim.</p>
+          </div>
+          <div class="mb-6 faq-list">
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>TaxiBots nedir?</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>
+                  TaxiBots, senden daha yüksek güç seviyesinde Save the World (STW)
+                  görevlerine girmeni sağlayan otomatik hesaplardır. Ayrıca Battle Royale (BR)
+                  botlobbies'lerine girip botlarla oynamak için de kullanabilirsin.
+                </p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>TaxiBot kullanımı?</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>
+                  TaxiBots sistemini kullanmak için:
+                </p>
+                <ol class="mt-2 list-decimal space-y-1 pl-5 text-sm">
+                  <li><a href="https://discord.gg/miabot" class="text-blue-400 hover:underline" target="_blank" rel="noopener noreferrer">Mia Lounge</a> sunucusuna katıl.</li>
+                  <li><code>/registrar</code> ile hesabını Mia'da kaydet.</li>
+                  <li><code>/taxibot (activar)</code> ile hesabını taksilere ekle.</li>
+                  <li>Bir bot ekle.</li>
+                  <li>Bir taksi davet et.</li>
+                  <li>Maçını doldurma yap ve oyna!</li>
+                </ol>
+                <p class="mt-2">
+                  Tam rehber
+                  <a
+                    href="/tr-TR/taxibots.html"
+                    class="text-blue-400 hover:underline"
+                    >taxibots</a
+                  >
+                  sayfasında.
+                </p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>TaxiBots güvenli mi?</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>
+                  Evet, TaxiBots otomatik bir istemciye bağlı gerçek hesaplardır. Gerçek biriyle oynamak gibidir; kullanırken sorun yaşamaman gerekir.
+                </p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>Premium gerekli mi?</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>Mia Lounge'daki temel akışla başlayabilirsin; Premium avantajları ve kullanılabilirliği genişletir. Rehber: <a href="/tr-TR/taxibots.html" class="text-blue-400 hover:underline">TaxiBots</a>.</p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>TaxiBots = botlobbies?</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p><strong>Hayır.</strong> TaxiBots çoğunlukla Save the World görevleri içindir. Battle Royale botlobbies ayrı bir sistemdir. Daha fazla bilgi: <a href="/tr-TR/taxibots.html" class="text-blue-400 hover:underline">taxibots</a>.</p>
+              </div>
+            </div>
+
+          </div>
+        </div>
+      </div>
+
+      <section class="faq-cta">
+        <h2>Hâlâ sorun mu var?</h2>
+        <p>
+          Cevabı bulamazsan ekip ve topluluk Discord’da yardımcı olabilir.
+        </p>
+        <a
+          href="https://discord.gg/miabot"
+          class="faq-cta-btn"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <i class="fa-brands fa-discord"></i> Join the support server
+        </a>
+      </section>

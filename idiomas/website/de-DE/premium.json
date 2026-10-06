@@ -1,0 +1,289 @@
+{
+  "meta": {
+    "title": "Mia · Mia Premium",
+    "description": "Mia-Premium-Pläne mit Vorteilen auf Discord, Fortnite und Mia Launcher: mehr Accounts, Anpassung von Feeds und Bildern, erweiterte TaxiBots und exklusive Funktionen mit einem einzigen Abo.",
+    "ogTitle": "Mia · Mia Premium",
+    "ogDescription": "Mia-Premium-Pläne mit Vorteilen auf Discord, Fortnite und Mia Launcher: mehr Accounts, Anpassung von Feeds und Bildern, erweiterte TaxiBots und exklusive Funktionen mit einem einzigen Abo."
+  },
+  "hero": {
+    "title": "Schöpfe das volle Potenzial von Mia aus",
+    "lead": "Automatisierungen, exklusive Befehle, mehr Accounts und Discord-Vorteile. Dein Abo schaltet Premium-Funktionen in <strong>Mia Launcher</strong> mit demselben Discord-Account frei.",
+    "stats": {
+      "price": "<strong>5€</strong>/Monat Nutzer",
+      "accounts": "<strong>25</strong> Accounts",
+      "booster": "<strong>Booster</strong> gratis",
+      "launcher": "<strong>Mia Launcher</strong> inklusive"
+    }
+  },
+  "shareBanner": {
+    "aria": "Premium geteilt mit Mia Launcher",
+    "title": "Premium geteilt mit Mia Launcher",
+    "text": "<strong>Wichtig:</strong> Mia Premium ist dasselbe Abo im Discord-Bot und in Mia Launcher. Wenn du in Mia bereits Premium hast, melde dich im Launcher mit Discord an – es wird automatisch aktiviert, ohne doppelt zu zahlen.",
+    "link": "Mia Launcher entdecken",
+    "altMia": "Mia-Logo",
+    "altLauncher": "Mia-Launcher-Screenshot"
+  },
+  "jump": {
+    "aria": "Seitenabschnitte",
+    "plans": "Pläne",
+    "api": "API",
+    "compare": "Vergleich",
+    "howToBuy": "Kauf",
+    "payment": "Zahlung"
+  },
+  "plans": {
+    "sectionTitle": "Discord-Pläne",
+    "sectionLead": "Wähle den Plan, der zu dir passt. Alle Zahlungen laufen über Mia Lounge.",
+    "monthly": {
+      "badge": "Monatlich",
+      "title": "Monatliches Premium",
+      "price": "5€",
+      "period": "/Monat",
+      "note": "Gleiche Vorteile wie beim Jahresplan, Monat für Monat.",
+      "cta": "Jetzt kaufen",
+      "features": [
+        "Premium-Befehle",
+        "Automatische Mia-Systeme",
+        "XMPP",
+        "25 registrierte Accounts",
+        "Alle Server verwalten",
+        "Bild-Footer (Server)",
+        "Discord-Einladung (Server)",
+        "Premium geteilt mit Mia Launcher"
+      ]
+    },
+    "yearly": {
+      "badge": "Am beliebtesten",
+      "title": "Jährliches Premium",
+      "price": "40€",
+      "period": "/Jahr",
+      "strikethrough": "60€/Jahr",
+      "vitalicio": "Jährliches Vitalicio",
+      "saving": "17 % sparen",
+      "cta": "Jetzt kaufen",
+      "features": [
+        "Premium-Befehle",
+        "Automatische Mia-Systeme",
+        "XMPP",
+        "25 registrierte Accounts",
+        "Alle Server verwalten",
+        "Bild-Footer (Server)",
+        "Discord-Einladung (Server)",
+        "Premium geteilt mit Mia Launcher"
+      ]
+    },
+    "booster": {
+      "badge": "Gratis",
+      "title": "Booster-Premium",
+      "price": "0€",
+      "period": "/Monat",
+      "note": "Booste Mia Lounge und schalte Extra-Vorteile frei.",
+      "cta": "Mia Lounge boosten",
+      "features": [
+        "Premium-Befehle",
+        "5 registrierte Accounts",
+        "BULK-Modus in Befehlen",
+        "Premium geteilt mit Mia Launcher"
+      ]
+    }
+  },
+  "apiBanner": {
+    "title": "API Premium",
+    "text": "<strong>Separater Plan</strong>, unabhängig von Mia Premium. Für Entwickler: mehr Anfragen pro Minute und personalisierte PNG-Shop-Bilder für STW und Battle Royale mit deinem Logo und Texten.",
+    "chips": [
+      "360 req/min",
+      "STW-Shop-Bild",
+      "BR-Shop-Bild",
+      "Eigenes Logo + Texte"
+    ],
+    "price": "5€",
+    "priceNote": "pro Monat · API-Plan",
+    "docs": "Dokumentation ansehen",
+    "cta": "API Premium holen"
+  },
+  "keys": {
+    "note": "Mia-Keys verwenden dieses Format:",
+    "format": "XXXXX-XXXXX-XXXXX"
+  },
+  "compare": {
+    "title": "Funktionsvergleich",
+    "lead": "Bot-Funktionen je nach Plan. Auf dem Handy wischen, wenn die Tabelle nicht passt. Der <strong>API-Plan</strong> ist ein separates Produkt und nicht in Mia Premium enthalten.",
+    "columns": {
+      "feature": "Funktion",
+      "free": "Gratis",
+      "booster": "Booster",
+      "premium": "Premium"
+    },
+    "yes": "Ja",
+    "no": "Nein",
+    "rows": [
+      {
+        "feature": "Account-Limit",
+        "free": "2",
+        "booster": "5",
+        "premium": "25"
+      },
+      {
+        "feature": "Gratis-Lamas automatisch einlösen",
+        "free": "Nein",
+        "booster": "Nein",
+        "premium": "Ja"
+      },
+      {
+        "feature": "Tagesmissionen automatisch aktualisieren",
+        "free": "Ja",
+        "booster": "Ja",
+        "premium": "Ja"
+      },
+      {
+        "feature": "AutoKick",
+        "free": "Nein",
+        "booster": "Nein",
+        "premium": "Ja"
+      },
+      {
+        "feature": "Forschungspunkte automatisch sammeln",
+        "free": "Nein",
+        "booster": "Nein",
+        "premium": "Ja"
+      },
+      {
+        "feature": "Creator-Code automatisch aktualisieren",
+        "free": "Ja",
+        "booster": "Ja",
+        "premium": "Ja"
+      },
+      {
+        "feature": "Auto-Expeditionen",
+        "free": "Nein",
+        "booster": "Nein",
+        "premium": "Ja"
+      },
+      {
+        "feature": "Tagesmissionen automatisch ersetzen",
+        "free": "Nein",
+        "booster": "Nein",
+        "premium": "Ja"
+      },
+      {
+        "feature": "BULK-Modus",
+        "free": "Nein",
+        "booster": "Ja",
+        "premium": "Ja"
+      },
+      {
+        "feature": "XMPP",
+        "free": "Nein",
+        "booster": "Nein",
+        "premium": "Ja"
+      },
+      {
+        "feature": "Premium-Befehle",
+        "free": "Nein",
+        "booster": "Ja",
+        "premium": "Ja"
+      },
+      {
+        "feature": "TaxiBots",
+        "free": "Standard",
+        "booster": "Premium",
+        "premium": "Premium"
+      },
+      {
+        "feature": "Cooldowns",
+        "free": "15 s",
+        "booster": "10 s",
+        "premium": "5 s"
+      },
+      {
+        "feature": "Server-Verwaltung",
+        "free": "1",
+        "booster": "1",
+        "premium": "Unbegrenzt"
+      },
+      {
+        "feature": "Bild-Footer (Server)",
+        "free": "Nein",
+        "booster": "Nein",
+        "premium": "Ja"
+      },
+      {
+        "feature": "Discord-Einladung (Server)",
+        "free": "Nein",
+        "booster": "Nein",
+        "premium": "Ja"
+      },
+      {
+        "feature": "Bot Lobbies anpassen",
+        "free": "Nein",
+        "booster": "Nein",
+        "premium": "Ja"
+      },
+      {
+        "feature": "Gratis-Shop-Items automatisch kaufen",
+        "free": "Nein",
+        "booster": "Nein",
+        "premium": "Ja"
+      },
+      {
+        "feature": "Gratis-Spiele automatisch einlösen (Epic Games)",
+        "free": "Ja",
+        "booster": "Ja",
+        "premium": "Ja"
+      },
+      {
+        "feature": "Mia Launcher (geteiltes Premium)",
+        "free": "Nein",
+        "booster": "Ja",
+        "premium": "Ja"
+      }
+    ]
+  },
+  "howToBuy": {
+    "title": "So kaufst du",
+    "lead": "Drei einfache Schritte in Mia Lounge",
+    "steps": [
+      {
+        "title": "Zum Support",
+        "text": "Tritt <a href=\"https://discord.com/invite/miabot\" class=\"text-yellow-400 hover:underline\" target=\"_blank\" rel=\"noopener\">Mia Lounge</a> bei und öffne ein Ticket im Premium-Kanal."
+      },
+      {
+        "title": "Plan und Zahlung wählen",
+        "text": "Sag uns, ob du Nutzer-Premium, Booster oder API Premium möchtest, und deine bevorzugte Zahlungsmethode."
+      },
+      {
+        "title": "Key erhalten",
+        "text": "Nach Zahlungsbestätigung aktivieren wir deinen Plan und du erhältst deinen Key im Format <code>XXXXX-XXXXX-XXXXX</code>."
+      }
+    ]
+  },
+  "payment": {
+    "title": "Zahlungsmethoden",
+    "lead": "Eröffne ein Ticket in unserem <a href=\"https://discord.com/channels/756859004965093426/1302832897061027940\" class=\"text-yellow-400 hover:underline\" target=\"_blank\" rel=\"noopener\">Support-Kanal</a>, um deine Zahlung abzuwickeln.",
+    "supportLink": "Support-Kanal",
+    "paypal": {
+      "name": "PayPal",
+      "popular": "Beliebt",
+      "note": "Freunde & Familie",
+      "surcharge": "+1,50€ Aufschlag ohne F&F"
+    },
+    "revolut": {
+      "name": "Revolut",
+      "note": "Kartenzahlung per Link",
+      "noClient": "Kein Revolut-Konto nötig",
+      "recommended": "Empfohlene Methode"
+    },
+    "crypto": {
+      "title": "Kryptowährungen",
+      "bitcoin": "Bitcoin",
+      "litecoin": "Litecoin",
+      "usdt": "USDT",
+      "usdtSub": "Tether"
+    }
+  },
+  "cta": {
+    "title": "Bereit fürs nächste Level?",
+    "text": "Öffne ein Ticket in Mia Lounge – wir helfen dir, deinen Plan in wenigen Minuten zu aktivieren.",
+    "button": "Zum Premium-Kanal"
+  }
+}

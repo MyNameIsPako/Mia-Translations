@@ -1,0 +1,340 @@
+{
+  "meta": {
+    "title": "Mia · FAQ",
+    "description": "Official Mia Bot FAQ for Discord and Fortnite: how to get Premium, whether it’s safe to register your Epic account, TaxiBots, public API, Mia Launcher, Mia Checker, refreshing STW profile, and support.",
+    "ogTitle": "Mia · FAQ",
+    "ogDescription": "Official Mia Bot FAQ: Premium, security, TaxiBots, API, Launcher, Checker, and support on Discord."
+  },
+  "hero": {
+    "kicker": "Help center",
+    "title": "Frequently asked questions",
+    "lead": "Mia is a reliable, transparent bot built for the community. We don’t sell data or hide anything shady: only what’s needed for the bot and launcher is stored, and you can delete it whenever you want with /borrar (including Auth). Search below or pick a category."
+  },
+  "search": {
+    "placeholder": "Search a question or keyword…",
+    "aria": "Search the FAQ",
+    "empty": "No results. Try different words or switch category.",
+    "resultsOne": "1 result",
+    "resultsMany": "{n} results"
+  },
+  "categories": [
+    "General",
+    "Accounts",
+    "Premium",
+    "API",
+    "TaxiBots",
+    "Tools"
+  ],
+  "categoriesAria": "FAQ categories",
+  "panels": {
+    "General": "What Mia is, how to invite it, and basic support.",
+    "Cuentas": "Registration, security, and data Mia stores about your Epic account.",
+    "Premium": "Discord plans, payments, and exclusive Mia Premium perks.",
+    "API": "Keys, rate limits, and API Premium plan for developers.",
+    "Herramientas": "Launcher, Checker, STW alerts, profile, Admin Panel, and more on the web.",
+    "TaxiBots": "Access to STW missions and Battle Royale bot lobbies."
+  },
+  "cta": {
+    "title": "Still have questions?",
+    "lead": "If you can’t find the answer, the team and community can help on Discord.",
+    "button": "Join the support server"
+  },
+  "bodyInclude": "faq",
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is Mia?",
+      "answer": "Mia is a Discord bot specialized in Fortnite that lets you manage your account, view your inventory, set up automatic feeds for your server, and much more. It’s designed to make the Fortnite player experience easier directly from Discord."
+    },
+    {
+      "id": 2,
+      "question": "How can I add Mia to my server?",
+      "answer": "You can add Mia to your server by clicking the \"Install Mia!\" button on our home page or clicking here . You only need administrator permissions on the server where you want to add it."
+    },
+    {
+      "id": 3,
+      "question": "What commands can I use with Mia?",
+      "answer": "Mia offers a wide variety of commands to manage your Fortnite account and improve your server. You can see the full command list on our commands page or by using the /ayuda command in Discord."
+    },
+    {
+      "id": 4,
+      "question": "How do I report a Mia bug?",
+      "answer": "To report a Mia bug or error, join Mia Lounge and open a ticket in the support . You can also comment in #💬〕general . The developers will review it as soon as possible."
+    },
+    {
+      "id": 5,
+      "question": "Can I change Mia’s language?",
+      "answer": "Yes, Mia is currently available in several languages. You can see them with the /idiomas . If your language is missing, leave a suggestion in #💬〕general inside Mia Lounge ."
+    },
+    {
+      "id": 6,
+      "question": "Is Mia free?",
+      "answer": "Yes. The bot can be used for free with many features. Mia Premium unlocks automations, more accounts, and extras; it isn’t required to get started. See the plans on Premium ."
+    },
+    {
+      "id": 7,
+      "question": "Where is the support Discord?",
+      "answer": "The official server is discord.gg/miabot (Mia Lounge). Useful channels: #💬〕general — community chat Support — tickets and help Tutorials — community guides"
+    },
+    {
+      "id": 8,
+      "question": "What is Mia Launcher?",
+      "answer": "Mia Launcher is the official desktop app: multi-account, STW alerts, shop, and more. If you have Premium on Discord, sign in with Discord in the launcher and it activates without paying again."
+    },
+    {
+      "id": 9,
+      "question": "What is Mia Checker?",
+      "answer": "Mia Checker is a Fortnite account checker on Telegram. It has its own terms . It does not replace the Discord bot."
+    },
+    {
+      "id": 10,
+      "question": "Where can I see Admin Panel / Lobby Hack codes?",
+      "answer": "On the web: Admin Panel . There is also an API route on API (requires an API key)."
+    },
+    {
+      "id": 11,
+      "question": "What is the Spirits tracker?",
+      "answer": "Web tool to mark and filter Fortnite spirits (Sprites): Spirits ."
+    },
+    {
+      "id": 12,
+      "question": "Does Mia work in DMs or only in servers?",
+      "answer": "You can use many commands in DMs with Mia and in servers where it is invited. Some (such as /dupe or TaxiBots) require the official server Mia Lounge ."
+    },
+    {
+      "id": 13,
+      "question": "Why don’t slash commands show up for me?",
+      "answer": "Try this: Type / and wait for Discord to load Mia’s commands. Check that Mia is on the server and has permission to use application commands. If you just invited it, wait a few minutes or restart Discord. On mobile it sometimes takes longer: close and reopen the app. Full list on Commands or with /ayuda ."
+    },
+    {
+      "id": 14,
+      "question": "Can I use Mia on consoles (PS, Xbox, Switch)?",
+      "answer": "Mia runs on Discord (PC, mobile, or web), not inside the console. You can still manage a Fortnite account you play on console: link it with /registrar from Discord and Mia operates via Epic’s API."
+    },
+    {
+      "id": 15,
+      "question": "Why should I trust Mia?",
+      "answer": "Mia was built to be a reliable, transparent bot, especially for the Save the World community. We’ve been on Discord for years; almost everything people ask for is added when it fits without odd risks or bans. If something may be sensitive (for example botlobbies), users are warned and must accept before using it. We don’t sell data or hide shady extras. What is stored is what the bot and launcher need to work, and you can delete it with /borrar (including Auth). When you do, you no longer exist inside Mia."
+    },
+    {
+      "id": 16,
+      "question": "Does Mia sell my data or do shady things behind the scenes?",
+      "answer": "No. Data is not sold and there are no hidden cheats. The goal is to help the community (especially STW) with a clear bot and launcher. On Discord we’re quite transparent about how things work. If you have doubts, ask in #💬〕general or in support ."
+    },
+    {
+      "id": 17,
+      "question": "How do I register my account in Mia?",
+      "answer": "To register your Fortnite account in Mia, use the /registrar command in Discord. Mia will guide you through the rest."
+    },
+    {
+      "id": 18,
+      "question": "Is it safe to register my account with Mia?",
+      "answer": "Yes: Mia does not ask for or store your Epic password . Registration uses the official authorization flow (device auth) and only stores the technical credentials needed (AccountID, DeviceID, and Secret) in a private database. We don’t sell or share your data. If you want to stop using Mia, delete them with /borrar ."
+    },
+    {
+      "id": 19,
+      "question": "How can I unlink my account from Mia?",
+      "answer": "To remove your account from Mia, use the /borrar command. Mia will delete your account credentials (or accounts, depending on the option you choose), as well as the generated Auth."
+    },
+    {
+      "id": 20,
+      "question": "Can my account get banned for using Mia?",
+      "answer": "There is a risk, though it is very rare. Mia does not use commands that endanger your account. Epic’s Terms of Service clearly prohibit third-party apps, but in the 8 years of this project no account has been banned for using a Discord bot. Our developers and admins use Mia, as do more than 100,000 people."
+    },
+    {
+      "id": 21,
+      "question": "What data does Mia store about my account?",
+      "answer": "For Mia to work correctly and access your Fortnite account data, an Auth is generated made of your AccountID , DeviceID y Secret . These credentials are used to generate an accessToken , which then lets Mia interact with the Fortnite API. This data is essential for Mia to operate properly."
+    },
+    {
+      "id": 22,
+      "question": "Does Mia store my Epic Games password?",
+      "answer": "No. We never ask for your Epic password. You only use the device authorization flow; Mia stores device-auth credentials, not your email/password."
+    },
+    {
+      "id": 23,
+      "question": "Can I have multiple Fortnite accounts in Mia?",
+      "answer": "Yes. The free plan has a limit; with Premium you can manage many more. Use /cuentas or /cambiar to switch between them."
+    },
+    {
+      "id": 24,
+      "question": "What if /registrar fails or Auth expires?",
+      "answer": "If Auth became invalid (you changed password, closed Epic sessions, etc.), use /borrar and then /registrar . Do not use /refrescar for that : that command only refreshes Fortnite missions/profile, it does not repair the link. If registration fails again, open a ticket in support ."
+    },
+    {
+      "id": 25,
+      "question": "Can I use Mia without registering an account?",
+      "answer": "Yes, for public things (info commands, the website, etc.). To manage your Epic account (inventory, dailies, gifts…) you do need /registrar ."
+    },
+    {
+      "id": 26,
+      "question": "What is /refrescar and when should I use it?",
+      "answer": "/refrescar does not renew your Auth or “fix” the session of Discord/Epic. It refreshes the Fortnite profile (missions / quests) in Save the World and Battle Royale. Use it if missions or game state in Mia look outdated. Optionally initmm initializes profiles for matchmaking. If your Auth stopped working, use /borrar and then /registrar ."
+    },
+    {
+      "id": 27,
+      "question": "What if I change my Epic password or sessions are closed?",
+      "answer": "Mia Auth stops working. Delete the account in Mia with /borrar and link it again with /registrar . /refrescar doesn’t fix this: it only refreshes in-game missions."
+    },
+    {
+      "id": 28,
+      "question": "What benefits does Mia Premium offer?",
+      "answer": "Mia Premium offers unique benefits, such as automatic systems that let you automate Fortnite’s most tedious tasks: claiming free llamas, replacing daily missions you don’t like, among many other top features only Mia offers. Also, your premium is shared with Mia Launcher : sign in with Discord in the launcher and it activates without paying again. You can see all benefits on our Premium page ."
+    },
+    {
+      "id": 29,
+      "question": "Does Mia Premium also work in Mia Launcher?",
+      "answer": "Yes. Mia Premium is shared between the Discord bot and Mia Launcher. It’s the same subscription: if you already have premium in Mia, sign in with your Discord account in the launcher and it activates automatically—no double payment. See Mia Launcher and the Premium plans ."
+    },
+    {
+      "id": 30,
+      "question": "How can I get Mia Premium?",
+      "answer": "The clearest way: Go to the Premium page and choose a plan. Or join Mia Lounge and buy / activate Premium from there. If you boost the Discord server, you get some booster perks (not the full paid plan). Plans from €5/month . Premium is also shared with Mia Launcher ."
+    },
+    {
+      "id": 31,
+      "question": "What payment methods can I use?",
+      "answer": "We currently accept PayPal, Revolut, and also cryptocurrencies: Bitcoin, Litecoin, and USDT."
+    },
+    {
+      "id": 32,
+      "question": "Can I request a refund?",
+      "answer": "No, once Premium is purchased refunds are not available. If you open a dispute or refund request through PayPal, you will be permanently banned from Mia and the server."
+    },
+    {
+      "id": 33,
+      "question": "Where do I get Premium?",
+      "answer": "At miadsc.xyz/en-US/premium or from Mia Lounge . Choose a plan, pay, and Premium links to your Discord (also works for Mia Launcher)."
+    },
+    {
+      "id": 34,
+      "question": "How much does Mia Premium cost?",
+      "answer": "The user plan starts at €5/month . There are more options on the Premium page ."
+    },
+    {
+      "id": 35,
+      "question": "What happens when my Premium expires?",
+      "answer": "You return to the free plan: you lose automations and higher limits. Server feeds or custom images may fall back to Mia defaults. Your registered accounts are not deleted automatically."
+    },
+    {
+      "id": 36,
+      "question": "Is Discord Boost the same as paid Premium?",
+      "answer": "Not exactly. Boosting Mia Lounge gives booster perks, but does not replace the full paid Premium plan. Details on Premium ."
+    },
+    {
+      "id": 37,
+      "question": "Is Premium per user or per server?",
+      "answer": "Per Discord user (your personal Premium). Some server perks (feeds, custom images) are configured in the guild with /config servidor (server owner) and depend on the configurator having user Premium under current rules. Details on Premium ."
+    },
+    {
+      "id": 38,
+      "question": "Can I set up feeds (shop, alerts) in my Discord?",
+      "answer": "Yes. On your server, the owner can use /config servidor for feed channels (shop, alerts, etc.). With Premium you can customize more (e.g. footer/image). Without Premium, Mia uses defaults."
+    },
+    {
+      "id": 39,
+      "question": "What is Lifetime or other long plans?",
+      "answer": "Besides month-to-month there are longer options (for example annual lifetime or others depending on the offer). See prices and what’s included on Premium ; if unsure, ask in support ."
+    },
+    {
+      "id": 40,
+      "question": "What is Mia’s public API?",
+      "answer": "It’s a REST API that exposes Fortnite data managed by Mia: Battle Royale shop, Save the World resources and alerts, Epic account status, and more. Full documentation is on the API page ."
+    },
+    {
+      "id": 41,
+      "question": "How do I get an API key?",
+      "answer": "In Discord, use the /api crear . Mia will generate your private key and tell you how to use it in the Authorization . Keep it somewhere safe: don’t share it or upload it to public repositories."
+    },
+    {
+      "id": 42,
+      "question": "Where do I report API errors or limits?",
+      "answer": "Join Mia Lounge and open a ticket in support , or write it in #💬〕general . Include the endpoint, response code, and if possible a request example (without your full key)."
+    },
+    {
+      "id": 43,
+      "question": "Do I need an API key to use the API?",
+      "answer": "Yes. Public API routes require an API key ( Authorization: Bearer mia_… or header api-key ). Create it with /api crear . Premium is only required on routes marked Premium (e.g. custom shop images)."
+    },
+    {
+      "id": 44,
+      "question": "Where is the API documentation?",
+      "answer": "At miadsc.xyz/en-US/api : routes, examples, and authentication."
+    },
+    {
+      "id": 45,
+      "question": "Can I share my API key?",
+      "answer": "No. It’s private, like a password. Whoever has it can use your quota and access what your plan allows. Don’t upload it to GitHub, public screenshots, or chats."
+    },
+    {
+      "id": 46,
+      "question": "What if my API key is stolen or I want to revoke it?",
+      "answer": "Check your key with /api revisar . To invalidate the old one, create a new one with /api crear (stop using the old one). If you need staff help, open a ticket in support ."
+    },
+    {
+      "id": 47,
+      "question": "Where do I download Mia Launcher? Are updates required?",
+      "answer": "Download the Windows installer from Mia Launcher (GitHub Releases). In production builds updates are usually mandatory after signing in: install them to keep using the app."
+    },
+    {
+      "id": 48,
+      "question": "Is Mia Checker the same as the Discord bot?",
+      "answer": "No. Mia Checker is a separate Telegram product (account reports). The Mia bot lives on Discord. They share brand and ecosystem, but they are not the same service or the same terms."
+    },
+    {
+      "id": 49,
+      "question": "Is it safe / legal to use Mia Checker to buy or sell?",
+      "answer": "Checker helps review accounts more safely than sharing passwords blindly, but buying/selling accounts can violate Epic’s rules and carries risk. Read the Mia Checker terms and use it at your own risk."
+    },
+    {
+      "id": 50,
+      "question": "Where do I see today’s STW alerts?",
+      "answer": "On the web: Alerts . You can also use feeds in your Discord or commands/alerts inside Mia depending on your setup."
+    },
+    {
+      "id": 51,
+      "question": "How does the public STW profile work?",
+      "answer": "The STW Profile queries the public Fortnite profile (level, achievements, etc.) by name or accountId. If the player’s profile is private in Fortnite, it can’t be viewed."
+    },
+    {
+      "id": 52,
+      "question": "Are Admin Panel codes official from Epic?",
+      "answer": "They are codes from the Admin Panel / Lobby Hack for the season, listed by Mia for easy lookup. Mia is not affiliated with Epic Games . Redeem them only in-game / via the official Fortnite flow. List on Admin Panel ."
+    },
+    {
+      "id": 53,
+      "question": "Is Mia Checker the safest checker in Spanish?",
+      "answer": "We can’t claim “the safest in the world” as such. There are English checkers and several with poor reputations; that’s why Mia Checker : to offer something reliable to the Spanish-speaking community (and the English one too). The process is transparent: credentials are generated, the account is reviewed, and then the credential and auth are deleted created via Epic’s API so nothing remains stored. Mia Checker doesn’t sell data or hide anything behind the scenes."
+    },
+    {
+      "id": 54,
+      "question": "Does Mia Checker store my data or Epic Auth?",
+      "answer": "Check Auth is not stored. After reviewing the account, the generated credential and auth are deleted. That’s different from the Mia Discord bot, where data needed to operate is kept and the user can delete it anytime with /borrar . Also read the Mia Checker terms ."
+    },
+    {
+      "id": 55,
+      "question": "What are TaxiBots and what are they for?",
+      "answer": "TaxiBots are automated accounts that let you join Save the World (STW) missions at a higher power level than yours. You can also use them to enter Battle Royale (BR) bot lobbies and play with bots."
+    },
+    {
+      "id": 56,
+      "question": "How can I use a TaxiBot?",
+      "answer": "To use the TaxiBots system: Join Mia Lounge . Register your account with /registrar . Add your account to the taxis with /taxibot (activar). Add a bot. Invite a taxi. Set your match to don’t fill and play. Full guide on taxibots ."
+    },
+    {
+      "id": 57,
+      "question": "Is it safe to use TaxiBots?",
+      "answer": "Yes, TaxiBots are real accounts connected to an automated client. It’s like playing with a real person, so you shouldn’t have problems using them."
+    },
+    {
+      "id": 58,
+      "question": "Do I need Premium to use TaxiBots?",
+      "answer": "You can start with the basic flow in Mia Lounge; Premium expands perks and availability. Guide on TaxiBots ."
+    },
+    {
+      "id": 59,
+      "question": "Are TaxiBots and botlobbies the same?",
+      "answer": "No. TaxiBots are mainly for Save the World missions. Battle Royale bot lobbies are a separate system. More info on taxibots ."
+    }
+  ]
+}

@@ -1,0 +1,340 @@
+{
+  "meta": {
+    "title": "Mia · FAQ",
+    "description": "Mia Bot 官方 FAQ（Discord 与 Fortnite）：如何获取 Premium、注册 Epic 账号是否安全、TaxiBots、公开 API、Mia Launcher、Mia Checker、刷新 STW 资料及支持。",
+    "ogTitle": "Mia · FAQ",
+    "ogDescription": "Mia Bot 官方 FAQ：Premium、安全、TaxiBots、API、Launcher、Checker 及 Discord 支持。"
+  },
+  "hero": {
+    "kicker": "帮助中心",
+    "title": "常见问题",
+    "lead": "Mia 是可靠、透明的社区机器人。不出售数据、无隐藏功能：仅保存机器人和启动器所需信息，你可随时用 /borrar 删除（含 Auth）。在下方搜索或选择分类。"
+  },
+  "search": {
+    "placeholder": "搜索问题或关键词…",
+    "aria": "搜索 FAQ",
+    "empty": "无结果。请换词或切换分类。",
+    "resultsOne": "1 条结果",
+    "resultsMany": "{n} 条结果"
+  },
+  "categories": [
+    "通用",
+    "账户",
+    "Premium",
+    "API",
+    "TaxiBots",
+    "工具"
+  ],
+  "categoriesAria": "FAQ 分类",
+  "panels": {
+    "General": "Mia 是什么、如何邀请及基础支持。",
+    "Cuentas": "注册、安全及 Mia 存储的 Epic 账号数据。",
+    "Premium": "Discord 方案、付款及 Mia Premium 专属特权。",
+    "API": "密钥、使用限制及开发者 API Premium 方案。",
+    "Herramientas": "Launcher、Checker、STW 警报、资料、Admin Panel 等 Web 功能。",
+    "TaxiBots": "STW 任务与 Battle Royale bot lobby 访问。"
+  },
+  "cta": {
+    "title": "还有疑问？",
+    "lead": "若找不到答案，团队和社区可在 Discord 帮助你。",
+    "button": "加入支持服务器"
+  },
+  "bodyInclude": "faq",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Mia 是什么？",
+      "answer": "Mia 是专注于 Fortnite 的 Discord 机器人，可管理账号、查看背包、为服务器配置自动 Feed 等，让你直接在 Discord 中更方便地玩 Fortnite。"
+    },
+    {
+      "id": 2,
+      "question": "如何将 Mia 添加到服务器？",
+      "answer": "在首页点击「安装 Mia！」或点击这里 。你需要在目标服务器拥有管理员权限。"
+    },
+    {
+      "id": 3,
+      "question": "可以使用哪些命令？",
+      "answer": "Mia 提供大量命令管理 Fortnite 账号和改进服务器。完整列表见命令页或在 Discord 使用 /ayuda。"
+    },
+    {
+      "id": 4,
+      "question": "如何报告 Bug？",
+      "answer": "加入 Mia Lounge，在 support  开具工单，也可在 #💬〕general 留言。开发者会尽快处理。"
+    },
+    {
+      "id": 5,
+      "question": "可以更改 Mia 语言吗？",
+      "answer": "可以，Mia 支持多种语言。用 /idiomas 查看。若缺少你的语言，请在 Mia Lounge 的 #💬〕general 建议。"
+    },
+    {
+      "id": 6,
+      "question": "Mia 免费吗？",
+      "answer": "是的，许多功能免费。Mia Premium 解锁自动化、更多账号等，开始并非必须。见 Premium  方案。"
+    },
+    {
+      "id": 7,
+      "question": "支持 Discord 在哪？",
+      "answer": "官方服务器 discord.gg/miabot（Mia Lounge）。#💬〕general — 社区 Support — 工单 Tutorials — 指南"
+    },
+    {
+      "id": 8,
+      "question": "Mia Launcher 是什么？",
+      "answer": "官方桌面应用：多账号、STW 警报、商店等。Discord 有 Premium 则在启动器用 Discord 登录即可，无需再付费。"
+    },
+    {
+      "id": 9,
+      "question": "Mia Checker 是什么？",
+      "answer": "Telegram 上的 Fortnite 账号检查器，有独立条款 。不能替代 Discord 机器人。"
+    },
+    {
+      "id": 10,
+      "question": "Admin Panel / Lobby Hack 代码在哪？",
+      "answer": "网站：Admin Panel 。API 路由见 API（需 API 密钥）。"
+    },
+    {
+      "id": 11,
+      "question": "灵魂追踪器是什么？",
+      "answer": "标记和筛选 Fortnite 灵魂（Sprites）的 Web 工具：灵魂 ."
+    },
+    {
+      "id": 12,
+      "question": "Mia 在私信还是仅服务器？",
+      "answer": "许多命令可在私信和使用 Mia 的服务器使用。部分（如 /dupe、TaxiBots）需官方 Mia Lounge 。"
+    },
+    {
+      "id": 13,
+      "question": "为什么看不到斜杠命令？",
+      "answer": "输入 / 等待 Discord 加载 Mia 命令。确认 Mia 在服务器且有应用命令权限。刚邀请需等几分钟或重启 Discord。移动端可能更慢。完整列表见命令或 /ayuda 。"
+    },
+    {
+      "id": 14,
+      "question": "能在主机（PS/Xbox/Switch）用 Mia 吗？",
+      "answer": "Mia 运行在 Discord（PC/手机/Web），不在主机内。可在 Discord 用 /registrar 绑定主机上的 Fortnite 账号，Mia 通过 Epic API 操作。"
+    },
+    {
+      "id": 15,
+      "question": "为什么信任 Mia？",
+      "answer": "Mia 旨在成为可靠透明的机器人，尤其面向 Save the World 社区。不出售数据，可用 /borrar 删除（含 Auth）。敏感功能（如 botlobbies）会警告并需同意。"
+    },
+    {
+      "id": 16,
+      "question": "Mia 会出售数据吗？",
+      "answer": "不会。有疑问可在 #💬〕general 或 support  询问。"
+    },
+    {
+      "id": 17,
+      "question": "如何注册账号？",
+      "answer": "在 Discord 使用 /registrar，Mia 会引导后续步骤。"
+    },
+    {
+      "id": 18,
+      "question": "注册安全吗？",
+      "answer": "安全：Mia 不索取或存储 Epic 密码 。使用官方 device auth，仅私有数据库存 AccountID、DeviceID、Secret。用 /borrar 删除。"
+    },
+    {
+      "id": 19,
+      "question": "如何解绑账号？",
+      "answer": "使用 /borrar，Mia 会删除凭证和生成的 Auth。"
+    },
+    {
+      "id": 20,
+      "question": "使用 Mia 会被封吗？",
+      "answer": "存在风险但极罕见。Epic TOS 禁止第三方应用，但 8 年来无因 Discord 机器人封号的报告。10 万+ 用户。"
+    },
+    {
+      "id": 21,
+      "question": "Mia 存储哪些数据？",
+      "answer": "生成含 AccountID 、DeviceID 、Secret  的 Auth，用于 accessToken 访问 Fortnite API。"
+    },
+    {
+      "id": 22,
+      "question": "Mia 存 Epic 密码吗？",
+      "answer": "不存。仅 device auth。"
+    },
+    {
+      "id": 23,
+      "question": "可以有多个 Fortnite 账号吗？",
+      "answer": "可以。免费有限额，Premium 更多。用 /cuentas 或 /cambiar 切换。"
+    },
+    {
+      "id": 24,
+      "question": "/registrar 失败或 Auth 过期？",
+      "answer": "用 /borrar 再 /registrar 。勿用 /refrescar 修复链接（仅刷新任务）。再失败请开 support  工单。"
+    },
+    {
+      "id": 25,
+      "question": "不注册能用吗？",
+      "answer": "公开功能（信息命令、网站等）可以。管理 Epic 账号需 /registrar 。"
+    },
+    {
+      "id": 26,
+      "question": "/refrescar 是什么？",
+      "answer": "不更新 Auth。刷新 STW/BR 任务与资料。Auth 失效请 /borrar 和 /registrar 。"
+    },
+    {
+      "id": 27,
+      "question": "改 Epic 密码或会话被关闭？",
+      "answer": "Auth 失效。/borrar 后 /registrar 重新绑定。/refrescar 无效。"
+    },
+    {
+      "id": 28,
+      "question": "Mia Premium 有什么？",
+      "answer": "自动领免费羊驼、替换每日任务等。与 Mia Launcher 共享 。见 Premium 。"
+    },
+    {
+      "id": 29,
+      "question": "Premium 在 Launcher 可用吗？",
+      "answer": "是，同一订阅。Discord 登录启动器自动激活。"
+    },
+    {
+      "id": 30,
+      "question": "如何获得 Premium？",
+      "answer": "Premium  页或 Mia Lounge。Boost 仅 Booster 特权。5€/月起 。"
+    },
+    {
+      "id": 31,
+      "question": "付款方式？",
+      "answer": "PayPal、Revolut、Bitcoin、Litecoin、USDT。"
+    },
+    {
+      "id": 32,
+      "question": "能退款吗？",
+      "answer": "购买后不可退款。PayPal 争议将导致永久封禁。"
+    },
+    {
+      "id": 33,
+      "question": "在哪开通 Premium？",
+      "answer": "miadsc.xyz/zh-CN/premium 或 Mia Lounge 。"
+    },
+    {
+      "id": 34,
+      "question": "Premium 多少钱？",
+      "answer": "5€/月起 。更多见 Premium 。"
+    },
+    {
+      "id": 35,
+      "question": "Premium 到期后？",
+      "answer": "回到免费方案，失去自动化等。已注册账号不会自动删除。"
+    },
+    {
+      "id": 36,
+      "question": "Discord Boost 等于付费 Premium？",
+      "answer": "不完全。Boost 给 Booster 特权，见 Premium 。"
+    },
+    {
+      "id": 37,
+      "question": "Premium 按用户还是服务器？",
+      "answer": "按 Discord 用户。服务器 Feed 等用 /config servidor 配置。"
+    },
+    {
+      "id": 38,
+      "question": "能在 Discord 配置 Feed？",
+      "answer": "服主用 /config servidor。Premium 可更多自定义。"
+    },
+    {
+      "id": 39,
+      "question": "终身等长期方案？",
+      "answer": "见 Premium ；不确定问 support 。"
+    },
+    {
+      "id": 40,
+      "question": "Mia 公开 API 是什么？",
+      "answer": "REST API 提供 BR 商店、STW 警报等。见 API 。"
+    },
+    {
+      "id": 41,
+      "question": "如何获取 API 密钥？",
+      "answer": "Discord /api crear 。妥善保管 Authorization 。"
+    },
+    {
+      "id": 42,
+      "question": "API 错误在哪反馈？",
+      "answer": "Mia Lounge、support 、#💬〕general 。附端点与状态码（勿含完整密钥）。"
+    },
+    {
+      "id": 43,
+      "question": "API 需要密钥吗？",
+      "answer": "是（ Authorization: Bearer mia_… ）。/api crear 创建。"
+    },
+    {
+      "id": 44,
+      "question": "API 文档在哪？",
+      "answer": "miadsc.xyz/zh-CN/api 。"
+    },
+    {
+      "id": 45,
+      "question": "能分享 API 密钥吗？",
+      "answer": "不能，等同密码。"
+    },
+    {
+      "id": 46,
+      "question": "密钥泄露或撤销？",
+      "answer": "/api revisar 。/api crear 新建并停用旧的。"
+    },
+    {
+      "id": 47,
+      "question": "Mia Launcher 下载？必须更新吗？",
+      "answer": "从 Mia Launcher（GitHub Releases）下载 Windows 安装包。生产环境登录后通常强制更新。"
+    },
+    {
+      "id": 48,
+      "question": "Checker 等于 Discord 机器人？",
+      "answer": "否，Telegram 独立产品。"
+    },
+    {
+      "id": 49,
+      "question": "用 Checker 买卖安全吗？",
+      "answer": "比盲目共享密码更安全，但可能违反 Epic 规则。阅读 Checker 条款，自担风险。"
+    },
+    {
+      "id": 50,
+      "question": "今日 STW 警报在哪？",
+      "answer": "网站 Alertas 。或 Discord Feed。"
+    },
+    {
+      "id": 51,
+      "question": "公开 STW 资料如何工作？",
+      "answer": "按名称/accountId 查公开资料。游戏内设私密则不可见。"
+    },
+    {
+      "id": 52,
+      "question": "Admin Panel 代码是 Epic 官方吗？",
+      "answer": "Mia 列出的赛季代码，与 Epic 无关联 。仅官方渠道兑换。Admin Panel ."
+    },
+    {
+      "id": 53,
+      "question": "Mia Checker 最安全吗？",
+      "answer": "无法保证「全球最安全」。流程透明，检查后删除凭证。"
+    },
+    {
+      "id": 54,
+      "question": "Checker 存 Auth 吗？",
+      "answer": "检查 Auth 不存储。Discord 机器人可用 /borrar 。"
+    },
+    {
+      "id": 55,
+      "question": "TaxiBots 是什么？",
+      "answer": "自动账号，用于更高 PL 的 STW 任务或 BR bot lobby。"
+    },
+    {
+      "id": 56,
+      "question": "如何使用 TaxiBot？",
+      "answer": "Mia Lounge → /registrar → /taxibot (activar) → 加 bot → 邀 taxi → 不填充并开始。taxibots ."
+    },
+    {
+      "id": 57,
+      "question": "TaxiBots 安全吗？",
+      "answer": "是，连接合法客户端的真实账号。"
+    },
+    {
+      "id": 58,
+      "question": "需要 Premium 吗？",
+      "answer": "基础流程可在 Mia Lounge 开始；Premium 扩展特权。TaxiBots ."
+    },
+    {
+      "id": 59,
+      "question": "TaxiBots 与 botlobbies 相同吗？",
+      "answer": "否。TaxiBots 主要用于 STW。taxibots ."
+    }
+  ]
+}

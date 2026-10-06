@@ -1,0 +1,202 @@
+{
+  "meta": {
+    "title": "Mia · Mia Checker",
+    "description": "Mia Checker 是 Telegram 上的安全 Fortnite 账号检查器：无需 Epic 登录、多语言、PDF 报告、Premium 选项，以及面向买卖双方的工具。",
+    "ogTitle": "Mia · Mia Checker",
+    "ogDescription": "Mia Checker 是 Telegram 上的安全 Fortnite 账号检查器：无需 Epic 登录、多语言、PDF 报告、Premium 选项，以及面向买卖双方的工具。"
+  },
+  "hero": {
+    "title": "Mia Checker",
+    "subtitle": "唯一 100% 安全的西语区检查器",
+    "lead": "通过 Telegram 查看库存、STW、限定等。无需 Epic 邮箱或密码，12 种语言快速检查。",
+    "altVisual": "Telegram 上的 Mia Checker",
+    "stats": {
+      "noLogin": "无需 Epic 登录",
+      "speed": "结果 <1 分钟",
+      "languages": "12 种语言",
+      "free": "Telegram 免费使用"
+    },
+    "actions": {
+      "telegram": "在 Telegram 打开",
+      "support": "支持"
+    }
+  },
+  "jump": {
+    "aria": "页面分区",
+    "premium": "Premium",
+    "features": "优势",
+    "commands": "命令",
+    "languages": "语言",
+    "screenshots": "截图",
+    "start": "开始"
+  },
+  "premium": {
+    "title": "Mia Checker Premium",
+    "lead": "自定义检查图片，卖号时突出你的品牌。价格以欧元计；在 Discord 购买并在机器人中激活密钥。",
+    "advantagesTitle": "⭐ 优势",
+    "advantages": [
+      "检查图片上的自定义徽标",
+      "图片页脚的个人链接",
+      "名称旁的认证徽章",
+      "检查页脚突出显示名称",
+      "后续更新会有更多优势"
+    ],
+    "priceFrom": "低至 7€",
+    "keyNote": "购买后你会收到 ####-####-#### 格式的密钥，在 Telegram → 设置 → Premium 中激活。",
+    "plans": {
+      "d30": {
+        "days": "30 天",
+        "price": "€7"
+      },
+      "d90": {
+        "days": "90 天",
+        "price": "€15"
+      },
+      "d180": {
+        "days": "180 天",
+        "price": "€25"
+      },
+      "d365": {
+        "badge": "最佳优惠 · −17%",
+        "days": "365 天",
+        "price": "€70",
+        "save": "对比按月 84€"
+      },
+      "permanent": {
+        "badge": "♾️ 永久",
+        "days": "不过期",
+        "price": "€200",
+        "save": "一次付清 · 终身 Premium"
+      }
+    },
+    "buyDiscord": "在 Discord 购买",
+    "activateTelegram": "在 Telegram 激活密钥"
+  },
+  "features": {
+    "title": "为什么选择 Mia Checker",
+    "lead": "为安全、快速并以你的语言获得支持而设计的账号检查体验。",
+    "items": [
+      {
+        "title": "100% 安全",
+        "text": "我们不存储 Epic Games 凭证或个人数据。"
+      },
+      {
+        "title": "即时检查",
+        "text": "不到一分钟给出完整结果。"
+      },
+      {
+        "title": "无需登录",
+        "text": "不需要 Epic 邮箱或密码。"
+      },
+      {
+        "title": "多语言支持",
+        "text": "界面支持 12 种语言：西语、英语、葡语、法语、德语等。"
+      },
+      {
+        "title": "PDF 报告",
+        "text": "按类别将账号、储物柜、STW、交易等导出为 PDF。"
+      },
+      {
+        "title": "可定制 Premium",
+        "text": "你的徽标、页脚链接、认证徽章，以及从 7€ 起的套餐。"
+      },
+      {
+        "title": "检查图片",
+        "text": "皮肤、STW、限定、无商店 +1000 天、Crew 及全部外观类别。"
+      },
+      {
+        "title": "销售文案",
+        "text": "生成含限定、STW、V-Bucks 的可发布文案，格式可自定义。"
+      }
+    ]
+  },
+  "languages": {
+    "title": "提供 12 种语言",
+    "lead": "在设置中切换机器人语言。Mia Checker 会翻译菜单、报告、销售文案和储物柜类别。",
+    "list": [
+      "Español (España)",
+      "Español Latino",
+      "English",
+      "Français",
+      "Português",
+      "Português Brasil",
+      "Italiano",
+      "Deutsch",
+      "Türkçe",
+      "日本語",
+      "简体中文",
+      "Русский"
+    ]
+  },
+  "commands": {
+    "title": "可用命令",
+    "lead": "用于检查和管理账号的全部 Telegram 命令。",
+    "items": [
+      {
+        "code": "/login",
+        "text": "登录并检查你的 Fortnite 账号。"
+      },
+      {
+        "code": "/launch",
+        "text": "无需邮箱或密码启动你的账号。"
+      },
+      {
+        "code": "/start",
+        "text": "显示机器人主菜单。"
+      },
+      {
+        "code": "/eliminar_amigos",
+        "text": "删除你所有的 Epic Games 好友。"
+      },
+      {
+        "code": "/cambiar_version",
+        "text": "更改生成图片的版本。"
+      },
+      {
+        "code": "/leaderboard",
+        "text": "查看检查排行榜。"
+      }
+    ]
+  },
+  "gallery": {
+    "title": "检查器截图",
+    "lead": "Telegram 真实界面：菜单、限定、STW 面板与自动销售文案。",
+    "shots": [
+      {
+        "title": "主菜单",
+        "text": "登录、启动、设置、Premium、排行榜与链接。",
+        "alt": "Telegram 上 Mia Checker 主菜单"
+      },
+      {
+        "title": "限定物品",
+        "text": "OG 皮肤、镐、滑翔伞、裹布与稀有外观网格。",
+        "alt": "Mia Checker 中的限定外观"
+      },
+      {
+        "title": "STW 面板",
+        "text": "区域、成就、羊驼、材料、英雄与收藏册。",
+        "alt": "Mia Checker 中的 Save the World 面板"
+      }
+    ]
+  },
+  "sale": {
+    "title": "专业销售文案",
+    "text": "格式 [PC] | 皮肤 | STW | 限定 | 最近对局 | VB，可直接复制。可在 设置 → 销售格式 中自定义。",
+    "alt": "Mia Checker 自动销售文案"
+  },
+  "cta": {
+    "title": "准备好检查你的账号了吗？",
+    "text": "加入已经信任 Mia Checker 的数千名用户。无需注册，简单上手。",
+    "telegram": "在 Telegram 打开",
+    "support": "支持服务器",
+    "tags": [
+      "无需注册",
+      "100% 免费",
+      "活跃支持"
+    ]
+  },
+  "disclaimer": {
+    "text": "与 Epic Games 无关 ·",
+    "termsLink": "Mia Checker 条款"
+  }
+}

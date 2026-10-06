@@ -1,0 +1,141 @@
+{
+  "meta": {
+    "title": "@mynameispako",
+    "description": "Pako — Sviluppatore full-stack. Bot Discord, API e app desktop. Lead developer di Mia e dell’ecosistema Fortnite.",
+    "ogTitle": "@mynameispako",
+    "ogDescription": "Sviluppatore full-stack specializzato in bot Discord, API REST e applicazioni desktop. Lead developer di Mia."
+  },
+  "gate": {
+    "enter": "clicca per entrare...",
+    "aria": "Entra"
+  },
+  "hero": {
+    "badge": "Disponibile per opportunità",
+    "badgeAria": "Disponibilità lavorativa",
+    "name": "Pako",
+    "role": "Full-Stack Developer",
+    "handle": "@mynameispako",
+    "bio": "Bot Discord, API REST e app desktop in produzione. Lead developer di Mia — ecosistema Fortnite.",
+    "audioMute": "Disattiva musica",
+    "audioUnmute": "Attiva musica",
+    "musicTitle": "Musica",
+    "viewsTitle": "Visite al profilo",
+    "metricsAria": "Riepilogo professionale",
+    "metrics": {
+      "repos": "repo pubbliche",
+      "followers": "follower GitHub",
+      "location": "UTC+2 · remoto",
+      "roleLabel": "ecosistema Mia",
+      "locationValue": "Spagna",
+      "roleValue": "Lead Dev"
+    },
+    "socialsAria": "Link social"
+  },
+  "presence": {
+    "offline": "visto l'ultima volta 1 giorno fa",
+    "aria": "Stato Discord",
+    "badgesAria": "Badge Discord"
+  },
+  "sections": {
+    "titles": {
+      "Proyecto principal": "Progetto principale",
+      "Ecosistema Mia": "Ecosistema Mia",
+      "Stack": "Stack"
+    },
+    "hints": {
+      "hint_1": "Il resto dei progetti Mia. Tocca uno per vedere la scheda completa."
+    },
+    "section-title": "Progetto principale",
+    "project-card": "Mia",
+    "h2_2": "Ecosistema Mia",
+    "h2_3": "Stack"
+  },
+  "projectUi": {
+    "private": "Privato",
+    "language": "Linguaggio",
+    "stack": "Stack",
+    "open": "Apri",
+    "code": "Codice",
+    "download": "Scarica",
+    "periodAria": "Periodo del progetto",
+    "sublabels": [
+      "Linguaggio",
+      "Stack",
+      "Apri",
+      "Codice",
+      "Scarica"
+    ]
+  },
+  "status": {
+    "active": "Attivo",
+    "discontinued": "Discontinuato"
+  },
+  "projects": [
+    {
+      "title": "Mia",
+      "description": "Bot Discord per gestire il tuo account Fortnite con l’API di Epic Games: BR, STW, negozio, party, taxibots, ricompense e presenza in tempo reale.",
+      "badge": "Private",
+      "status": "active"
+    },
+    {
+      "title": "Mia Launcher",
+      "description": "Launcher desktop con Tauri e Svelte: login Epic, OAuth Discord, updater automatico e integrazione API Mia.",
+      "status": "active"
+    },
+    {
+      "title": "mia-web",
+      "description": "Sito ufficiale Mia (miadsc.xyz): landing, taxibots, statistiche, documentazione e pagine legali.",
+      "badge": "Private",
+      "status": "active"
+    },
+    {
+      "title": "Mia-Checker",
+      "description": "Bot Telegram per controllare account e locker Fortnite. 12 lingue, PDF, premium e verifica senza login web.",
+      "badge": "Private",
+      "status": "active"
+    },
+    {
+      "title": "Mia-Translations",
+      "description": "Repo comunitaria delle lingue del bot Mia. Puoi aggiungere, modificare o migliorare le traduzioni.",
+      "status": "active"
+    },
+    {
+      "title": "miaclient",
+      "description": "Libreria privata per interagire con i servizi HTTP e XMPP di Fortnite.",
+      "badge": "Private",
+      "status": "discontinued"
+    },
+    {
+      "title": "Mia-Client",
+      "description": "Bot Discord per ospitare e gestire istanze di altri bot con il loro token: pannello, avvio, prefissi, sharding e utilità Fortnite.",
+      "badge": "Private",
+      "status": "discontinued"
+    },
+    {
+      "title": "miabotdiscord",
+      "description": "Bot automatizzato di eventi Fortnite per il Twitter di Mia.",
+      "badge": "Private",
+      "status": "discontinued"
+    }
+  ],
+  "stackAria": "Tecnologie",
+  "search": {
+    "placeholder": ""
+  },
+  "filters": [],
+  "aria": {
+    "Entrar": "Entra",
+    "Disponibilidad laboral": "Disponibilità lavorativa",
+    "Silenciar música": "Disattiva musica",
+    "Enlaces sociales": "Link social",
+    "Discord": "Discord",
+    "X": "X",
+    "GitHub": "GitHub",
+    "Mia web": "Mia web",
+    "Estado de Discord": "Stato Discord",
+    "Insignias de Discord": "Badge Discord",
+    "Resumen profesional": "Riepilogo professionale",
+    "Periodo del proyecto": "Periodo del progetto",
+    "Tecnologías": "Tecnologie"
+  }
+}

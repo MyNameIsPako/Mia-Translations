@@ -1,0 +1,173 @@
+{
+  "meta": {
+    "title": "Mia · Bot de Discord para Fortnite",
+    "description": "Mia é o bot de Discord para Fortnite: gere contas Epic, Battle Royale e Save the World, alertas, TaxiBots, API pública, Premium e ferramentas como Espíritos, Painel Admin e Mia Launcher."
+  },
+  "hero": {
+    "title": "Mia, o teu bot de Fortnite",
+    "subtitle": "Disponível no Discord e no Telegram",
+    "lead": "Gere a tua conta, automatiza o STW, consulta alertas, usa TaxiBots e potencia o teu servidor com feeds, comandos e a API pública da Mia.",
+    "install": "Instalar Mia",
+    "support": "Servidor de suporte",
+    "alt": "Mia",
+    "trust": "Apoiada por criadores reconhecidos da comunidade e disponível em vários idiomas, para que qualquer pessoa a possa usar sem barreiras."
+  },
+  "stats": {
+    "communities": "Comunidades",
+    "users": "Utilizadores",
+    "accounts": "Contas registadas"
+  },
+  "quick": {
+    "title": "Explora a Mia",
+    "lead": "As funções mais usadas da Mia, organizadas para ir direto ao ponto.",
+    "alertas": {
+      "title": "Alertas STW",
+      "desc": "V-Bucks, sobreviventes, EVO e missões do dia."
+    },
+    "comandos": {
+      "title": "Comandos",
+      "desc": "Consulta todos os slash commands e prefixes disponíveis."
+    },
+    "taxibots": {
+      "title": "TaxiBots",
+      "desc": "Missões STW e bot lobbies com a frota da Mia."
+    },
+    "api": {
+      "title": "API pública",
+      "desc": "Integra Fortnite e STW nos teus próprios projetos."
+    },
+    "checker": {
+      "title": "Mia Checker",
+      "desc": "Verifica contas de forma rápida e segura, sem login da Epic."
+    },
+    "premium": {
+      "title": "Mia Premium",
+      "desc": "Comandos exclusivos, mais contas, Mia Launcher incluído."
+    },
+    "eyebrow": "Ferramentas"
+  },
+  "servers": {
+    "eyebrow": "Comunidade",
+    "titleBefore": "Servidores que usam ",
+    "titleBrand": "Mia",
+    "lead": "Comunidades de Discord que confiam no bot todos os dias.",
+    "members": "membros"
+  },
+  "features": {
+    "title": "Funcionalidades",
+    "lead": "O que a Mia oferece para a tua conta de Fortnite e o teu servidor de Discord.",
+    "featured": "Destaque",
+    "auto": {
+      "title": "Sistemas automáticos",
+      "body": "Gere AutoKick, lamas grátis, expedições, reciclagem e mais em <code>/configuraciones</code>. Ativa cada sistema e sincroniza todas as contas.",
+      "alt": "Mia /configuraciones"
+    },
+    "locker": {
+      "title": "Gera o teu locker do Fortnite",
+      "body": "Com <code>/locker</code> geras uma imagem com filtros, valor estimado em V-Bucks e euros, além de exclusivos ou Crew.",
+      "alt": "Mia /locker"
+    },
+    "alerts": {
+      "title": "Alertas STW do dia",
+      "body": "Com <code>/alertas ver</code> vê as missões do dia: V-Bucks, recompensas, zonas e modificadores—como no Discord.",
+      "alt": "Mia /alertas ver"
+    },
+    "feeds": {
+      "title": "Feeds da Mia no teu servidor",
+      "body": "Com <code>/config feed lista</code> configura V-Bucks, loja, supercarregador e mais—com canal, cargo e tipo de envio.",
+      "alt": "Mia /config feed lista"
+    },
+    "security": {
+      "title": "Painel de segurança",
+      "body": "Um dos sistemas top da Mia: <code>/seguridad</code> deteta auths desconhecidos, alterações de 2FA, gastos de V-Bucks e ligações externas.",
+      "alt": "Mia /seguridad"
+    },
+    "server": {
+      "title": "Configuração do servidor",
+      "body": "Com <code>/config servidor</code> (dono do servidor) defines o idioma da Mia, o rodapé das imagens premium e o convite do Discord.",
+      "alt": "Mia /config servidor"
+    }
+  },
+  "developers": {
+    "titleBefore": "Programadores da ",
+    "titleBrand": "Mia",
+    "lead": "A equipa que mantém o bot, a API e o site.",
+    "badges": {
+      "owner": "Dono & Dev",
+      "dev": "Programador"
+    },
+    "pako": {
+      "name": "Pako",
+      "bio": "Dono e programador principal da Mia.",
+      "alt": "Pako"
+    },
+    "espiroaka": {
+      "name": "Espiroaka",
+      "bio": "Responsável pela estrutura do bot, base de dados e sistemas.",
+      "alt": "Espiroaka"
+    }
+  },
+  "lounge": {
+    "titleBefore": "Equipa da ",
+    "titleBrand": "Mia Lounge",
+    "lead": "Moderação, suporte e comunidade do servidor oficial.",
+    "badges": {
+      "dev": "Programador",
+      "admin": "Administrador",
+      "mod": "Moderador",
+      "design": "Designer",
+      "team": "Equipa"
+    },
+    "empty": "Sem membros da equipa por agora.",
+    "error": "Não foi possível carregar a equipa. Tenta novamente mais tarde."
+  },
+  "credits": {
+    "title": "Créditos",
+    "lead": "Pessoas do Discord oficial que ajudam a construir e manter a Mia.",
+    "loading": "A carregar colaboradores",
+    "collaborators": "Colaboradores",
+    "activeRoles": "Cargos ativos",
+    "syncDiscord": "Sync Discord · {date}",
+    "empty": "Não há membros com o filtro {role} neste momento.",
+    "rolesAria": "Cargos dos colaboradores",
+    "errorApi": "Não foi possível iniciar a API da Mia.",
+    "errorLoad": "Não foi possível carregar os créditos. Verifica se a API do bot está online.",
+    "roles": {
+      "all": "Todos",
+      "developers": "Programadores",
+      "codeHelpers": "Ajudantes de código",
+      "bugHunters": "Caçadores de bugs",
+      "betaTesters": "Beta testers",
+      "traductores": "Tradutores",
+      "designers": "Designers",
+      "thanks": "Agradecimentos"
+    }
+  },
+  "launchers": {
+    "titleBefore": "Precisas de um ",
+    "titleBrand": "Launcher",
+    "titleAfter": "?",
+    "lead": "Mia Launcher é o launcher oficial do ecossistema Mia: alertas STW, multi-conta e mais.",
+    "mia": {
+      "badge": "Oficial",
+      "title": "Mia Launcher",
+      "desc": "Alertas STW como em miadsc.xyz, multi-conta Epic, Mia Checker com PDF, potenciadores, loja STW, AutoKick e lookup. Windows com login Discord.",
+      "premiumNote": "Mia Premium é partilhado com o bot.",
+      "tags": {
+        "alertas": "Alertas STW",
+        "multi": "Multi-conta",
+        "checker": "Mia Checker",
+        "locales": "6 idiomas"
+      },
+      "view": "Ver Mia Launcher",
+      "download": "Descarregar",
+      "expandAria": "Ampliar captura do Mia Launcher",
+      "screenshotAlt": "Captura do Mia Launcher com alertas STW e menu lateral",
+      "alt": "Mia Launcher"
+    }
+  },
+  "overlay": {
+    "fullscreenAlt": "Vista em ecrã inteiro",
+    "close": "✕"
+  }
+}

@@ -1,0 +1,1041 @@
+<section class="mia-page-hero faq-hero">
+        <p class="faq-hero-kicker"><i class="fa-solid fa-circle-question" aria-hidden="true"></i> 帮助中心</p>
+        <h1>常见问题</h1>
+        <p class="faq-hero-lead">
+          Mia 是一个<strong>可靠、透明、多语言</strong>的机器人。我们不出售数据，也不藏任何灰产功能：只保存机器人与启动器运行所需的内容，并且你可以用 <code>/borrar</code> <strong>随时删除</strong>（包括 Auth）。在下方搜索或选择分类。
+        </p>
+      </section>
+
+      <div class="faq-controls">
+      <div class="faq-toolbar">
+        <input
+          type="search"
+          id="faq-search"
+          class="faq-search"
+          placeholder="搜索问题或关键词…"
+          aria-label="搜索 FAQ"
+          autocomplete="off"
+        />
+        <div class="faq-search-meta">
+          <span id="faq-search-count"></span>
+        </div>
+      </div>
+
+      <div
+        class="faq-categories"
+        role="tablist"
+        aria-label="FAQ 分类"
+      >
+        <button
+          type="button"
+          class="category-btn active"
+          data-category="general"
+        >
+          <i class="fa-solid fa-house"></i> 通用
+        </button>
+        <button type="button" class="category-btn" data-category="cuenta">
+          <i class="fa-solid fa-user"></i> 账号
+        </button>
+        <button type="button" class="category-btn" data-category="premium">
+          <i class="fa-solid fa-crown"></i> Premium
+        </button>
+        <button type="button" class="category-btn" data-category="api">
+          <i class="fa-solid fa-code"></i> API
+        </button>
+        <button type="button" class="category-btn" data-category="taxibots">
+          <i class="fa-solid fa-taxi"></i> TaxiBots
+        </button>
+        <button type="button" class="category-btn" data-category="herramientas">
+          <i class="fa-solid fa-wrench"></i> 工具
+        </button>
+      </div>
+
+      <p id="faq-search-empty" class="faq-empty">
+        没有结果。请换个关键词或切换分类。
+      </p>
+      </div>
+
+      <div class="faq-content">
+        <!-- General FAQ -->
+        <div class="faq-category" id="general-faq">
+          <div class="faq-panel-head">
+            <h2>通用</h2>
+            <p>Mia 是什么、如何邀请与基础支持。</p>
+          </div>
+          <div class="mb-6 faq-list">
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>Mia 是什么？</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>
+                  Mia 是专注于 Fortnite 的 Discord 机器人，可管理账号、查看背包、为服务器配置自动 Feed 等。它旨在让玩家直接在 Discord 中更轻松地使用 Fortnite 相关功能。
+                </p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>如何将 Mia 添加到服务器？</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>
+                  你可以在首页点击「安装 Mia！」按钮，或
+                  <a
+                    href="https://discord.com/oauth2/authorize?client_id=903396041401978900"
+                    class="text-blue-400 hover:underline"
+                    >点击这里</a
+                  >将 Mia 添加到你的服务器。你只需在目标服务器拥有管理员权限。
+                </p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>可以使用哪些命令？</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>
+                  Mia 提供丰富的命令来管理你的 Fortnite 账号并改善你的服务器。你可以在我们的
+                  <a
+                    href="/zh-CN/comandos.html"
+                    class="text-blue-400 hover:underline"
+                    >命令页面</a
+                  >
+                  查看完整列表，或在 Discord 使用 /ayuda 命令。
+                </p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>如何报告 Bug？</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>
+                  要报告 Mia 的 bug 或错误，请加入
+                  <a
+                    href="https://discord.gg/miabot"
+                    class="text-blue-400 hover:underline"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    >Mia Lounge</a
+                  >
+                  ，并在
+                  <a
+                    href="https://discord.com/channels/756859004965093426/1302832897061027940"
+                    class="text-blue-400 hover:underline"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    >支持</a
+                  >
+                  频道开具工单。你也可以在
+                  <strong>#💬〕general</strong> 留言。开发者会尽快处理。
+                </p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>可以更改 Mia 语言吗？</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>
+                  可以，Mia 目前支持多种语言。你可以用命令
+                  <code>/idiomas</code> 查看。若缺少你的语言，请在
+                  <a
+                    href="https://discord.gg/miabot"
+                    class="text-blue-400 hover:underline"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    >Mia Lounge</a
+                  >
+                  的 <strong>#💬〕general</strong> 留下建议。
+                </p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>Mia 免费吗？</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>可以。机器人有许多免费功能。<strong>Mia Premium</strong> 解锁自动化、更多账号和额外功能；入门不必购买。计划见 <a href="/zh-CN/premium.html" class="text-blue-400 hover:underline">Premium</a>。</p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>支持 Discord 在哪？</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>
+                  官方服务器是
+                  <a
+                    href="https://discord.gg/miabot"
+                    class="text-blue-400 hover:underline"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    >discord.gg/miabot</a
+                  >
+                  （Mia Lounge）。常用频道：
+                </p>
+                <ul class="mt-2 list-disc space-y-1 pl-5 text-sm">
+                  <li>
+                    <strong>#💬〕general</strong> — 社区聊天
+                  </li>
+                  <li>
+                    <a
+                      href="https://discord.com/channels/756859004965093426/1302832897061027940"
+                      class="text-blue-400 hover:underline"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      >支持</a
+                    >
+                    — 工单与帮助
+                  </li>
+                  <li>
+                    <a
+                      href="https://discord.com/channels/756859004965093426/1302838662328750121"
+                      class="text-blue-400 hover:underline"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      >教程</a
+                    >
+                    — 社区指南
+                  </li>
+                </ul>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>Mia Launcher 是什么？</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p><a href="/zh-CN/mia-launcher.html" class="text-blue-400 hover:underline">Mia Launcher</a> 是官方桌面应用：多账号、STW 警报、商店等。若你在 Discord 已有 Premium，在启动器用 Discord 登录即可激活，无需再付一次。</p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>Mia Checker 是什么？</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p><a href="/zh-CN/checker.html" class="text-blue-400 hover:underline">Mia Checker</a> 是 Telegram 上的 Fortnite 账号检查器。有独立的 <a href="/zh-CN/terminos-checker.html" class="text-blue-400 hover:underline">条款</a>。它不能替代 Discord 机器人。</p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>Admin Panel / Lobby Hack 代码在哪？</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>网页：<a href="/zh-CN/admin-panel.html" class="text-blue-400 hover:underline">管理面板</a>。<a href="/zh-CN/api.html" class="text-blue-400 hover:underline">API</a> 也有对应路由（需要 API key）。</p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>灵魂追踪器是什么？</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>用于标记和筛选 Fortnite 精灵（Sprites）的网页工具：<a href="/zh-CN/espiritus.html" class="text-blue-400 hover:underline">精灵</a>。</p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>Mia 在私信还是仅服务器？</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>许多命令可在 <strong>与 Mia 的私信</strong> 以及已邀请它的服务器中使用。部分命令（如 <code>/dupe</code> 或 TaxiBots）需要官方服务器 <a href="https://discord.gg/miabot" class="text-blue-400 hover:underline" target="_blank" rel="noopener noreferrer">Mia Lounge</a>。</p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>为什么看不到斜杠命令？</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>试试这些：</p>
+      <ol class="mt-2 list-decimal space-y-1 pl-5 text-sm">
+        <li>输入 <code>/</code>，等 Discord 加载 Mia 的命令。</li>
+        <li>确认 Mia 在服务器中，并有使用应用命令的权限。</li>
+        <li>若刚邀请，等几分钟或重启 Discord。</li>
+        <li>手机上有时更慢：关闭再打开应用。</li>
+      </ol>
+      <p class="mt-2">完整列表见 <a href="/zh-CN/comandos.html" class="text-blue-400 hover:underline">命令</a> 或使用 <code>/ayuda</code>。</p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>能在主机（PS/Xbox/Switch）用 Mia 吗？</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>Mia 运行在 <strong>Discord</strong>（PC、手机或网页）上，不在主机内。你仍可管理在主机上玩的 Fortnite 账号：在 Discord 用 <code>/registrar</code> 绑定，Mia 通过 Epic 的 API 操作。</p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>为什么信任 Mia？</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>
+      Mia 的目标是成为 <strong>可靠、透明、以西语社区为主</strong> 的机器人，
+      尤其面向 Save the World 社区。我们在 Discord 已多年；在没有奇怪风险或封禁的前提下，尽量加入大家想要的功能。
+      若某功能可能敏感（例如 botlobbies），会先警告，你必须同意后才能使用。
+    </p>
+    <p>
+      我们不出售数据，也不藏着掖着。仅保存机器人和启动器所需内容，且
+      <strong>你可以删除</strong>（用 <code>/borrar</code>，含 Auth）。删除后你在 Mia 中不再存在。
+    </p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>Mia 会出售数据吗？</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>
+      <strong>不会。</strong> 不出售数据，也没有隐藏作弊。目标是用清晰的机器人和启动器帮助社区（尤其是 STW）。
+      在 Discord 上我们对运作方式相当透明。有疑问可在
+      <strong>#💬〕general</strong> 或
+      <a href="https://discord.com/channels/756859004965093426/1302832897061027940" class="text-blue-400 hover:underline" target="_blank" rel="noopener noreferrer">支持</a>
+      询问。
+    </p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Accounts FAQ -->
+        <div class="faq-category hidden" id="cuenta-faq">
+          <div class="faq-panel-head">
+            <h2>账号</h2>
+            <p>
+              注册、安全，以及 Mia 保存的 Epic 账号数据。
+            </p>
+          </div>
+          <div class="mb-6 faq-list">
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>如何注册账号？</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>
+                  要在 Mia 中注册 Fortnite 账号，请在 Discord 使用 /registrar 命令。Mia 会引导你完成其余步骤。
+                </p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>注册安全吗？</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>
+                  是的：Mia <strong>不索取也不存储你的 Epic 密码</strong>。
+                  注册使用官方授权流程（device auth），
+                  仅在私有数据库中存储所需的技术凭据
+                  （AccountID、DeviceID 和 Secret）。
+                  我们不出售也不共享你的数据。若想停止使用 Mia，用 <code>/borrar</code> 删除即可。
+                </p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>如何解绑账号？</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>
+                  要从 Mia 解除账号，请使用 /borrar 命令。Mia 会删除你所选账号的凭据以及已生成的 Auth。
+                </p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>使用 Mia 会被封吗？</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>
+                  确实有风险，但非常罕见。Mia 不会使用危及账号的命令。Epic 服务条款明确禁止第三方应用，但在本项目 8 年中，从未有账号因使用 Discord 机器人而被封。我们的开发者和管理员也在用 Mia，使用者超过 10 万人。
+                </p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>Mia 存储哪些数据？</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>
+                  为使 Mia 正常工作并访问你的 Fortnite 账号数据，会生成由
+                  <strong>AccountID</strong>、<strong>DeviceID</strong> 和
+                  <strong>Secret</strong> 组成的 Auth。这些凭据用于生成
+                  <strong>accessToken</strong>，随后与 Fortnite API 交互。
+                  这些数据对 Mia 的正常运行至关重要。
+                </p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>Mia 存 Epic 密码吗？</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p><strong>不会。</strong> 我们从不索取你的 Epic 密码。你只需使用设备授权流程；Mia 保存的是 device auth 凭据，不是你的邮箱/密码。</p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>可以有多个 Fortnite 账号吗？</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>可以。免费计划有上限；用 <a href="/zh-CN/premium.html" class="text-blue-400 hover:underline">Premium</a> 可管理更多。用 <code>/cuentas</code> 或 <code>/cambiar</code> 切换账号。</p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>/registrar 失败或 Auth 过期？</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>
+                  若 Auth 已失效（改过密码、关闭了 Epic 会话等），请用
+                  <code>/borrar</code> 再重新 <code>/registrar</code>。
+                  <strong>不要用 <code>/refrescar</code> 来修这个</strong>：该命令只刷新
+                  Fortnite 任务/资料，不会修复绑定。
+                </p>
+                <p>
+                  若注册再次失败，请在
+                  <a href="https://discord.com/channels/756859004965093426/1302832897061027940" class="text-blue-400 hover:underline" target="_blank" rel="noopener noreferrer">支持</a>
+                  开具工单。
+                </p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>不注册能用吗？</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>可以，公开功能（信息命令、网站等）无需注册。要管理<em>你的</em> Epic 账号（背包、每日、礼物等）则需要 <code>/registrar</code>。</p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>/refrescar 是什么？</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>
+                  <code>/refrescar</code> <strong>不会续期 Auth，也不会“修复” Discord/Epic 会话</strong>。
+                  它用于<strong>刷新 Fortnite 资料</strong>
+                  （任务 / 任务线）于 Save the World 与 Battle Royale。
+                </p>
+                <p>
+                  若 Mia 里的任务或游戏状态看起来过期，就用它。可选的 <code>initmm</code> 会初始化匹配用资料。
+                  若 Auth 失效，请用 <code>/borrar</code> 再 <code>/registrar</code>。
+                </p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>改 Epic 密码或会话被关闭？</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>
+                  Mia 的 Auth 会失效。用 <code>/borrar</code> 在 Mia 中删除账号，再用
+                  <code>/registrar</code> 重新绑定。
+                  <code>/refrescar</code> <strong>不能</strong>解决这个问题：它只刷新游戏内任务。
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Premium FAQ -->
+        <div class="faq-category hidden" id="premium-faq">
+          <div class="faq-panel-head">
+            <h2>Premium</h2>
+            <p>
+              Discord 套餐、付款与 Mia Premium 专属权益。
+            </p>
+          </div>
+          <div class="mb-6 faq-list">
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>Mia Premium 有什么？</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>
+                  Mia Premium 提供独特福利，例如可自动化 Fortnite 最繁琐任务的系统：领取免费羊驼、替换不喜欢的每日任务，以及许多只有 Mia 才有的 TOP 功能。此外，
+                  <strong>你的 Premium 与 Mia Launcher 共享</strong>：在启动器用 Discord 登录即可激活，无需再付一次。全部福利见我们的
+                  <a
+                    href="/zh-CN/premium.html"
+                    class="text-blue-400 hover:underline"
+                    >Premium 页面</a
+                  >。
+                </p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>Premium 在 Launcher 可用吗？</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>
+                  <strong>是的。</strong> Mia Premium 在 Discord 机器人与 Mia Launcher 之间共享。是同一份订阅：若你已在 Mia 拥有 Premium，在启动器用 Discord 账号登录即可自动激活，无需付两次。请查看
+                  <a
+                    href="/zh-CN/mia-launcher.html"
+                    class="text-blue-400 hover:underline"
+                    >Mia Launcher</a
+                  >
+                  和
+                  <a
+                    href="/zh-CN/premium.html"
+                    class="text-blue-400 hover:underline"
+                    >Premium 计划</a
+                  >。
+                </p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>如何获得 Premium？</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>最清楚的方式：</p>
+                <ol class="mt-2 list-decimal space-y-1 pl-5 text-sm">
+                  <li>
+                    打开
+                  <a
+                    href="/zh-CN/premium.html"
+                    class="text-blue-400 hover:underline"
+                      >Premium 页面</a
+                    >
+                    并选择计划。
+                  </li>
+                  <li>
+                    或加入
+                    <a
+                      href="https://discord.gg/miabot"
+                      class="text-blue-400 hover:underline"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      >Mia Lounge</a
+                    >
+                    ，在那里购买 / 激活 Premium。
+                  </li>
+                  <li>
+                    若 Boost Discord 服务器，可获得部分 booster 福利（不是完整付费计划）。
+                  </li>
+                </ol>
+                <p class="mt-2">
+                  计划起价 <strong>5€/月</strong>。Premium 也与
+                  <a
+                    href="/zh-CN/mia-launcher.html"
+                    class="text-blue-400 hover:underline"
+                    >Mia Launcher</a
+                  >
+                  共享。
+                </p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span
+                  >我可以把 Premium 订阅转给其他用户吗？</span
+                >
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>
+                  不可以。Premium 绑定购买者的 Discord 账号，通常无法转移。如果你失去账号访问权限，可以申请转移 Premium 订阅。
+                </p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>付款方式？</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>
+                  目前支持 PayPal、Revolut，以及加密货币：Bitcoin、Litecoin 和 USDT。
+                </p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>能退款吗？</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>
+                  不可以。一旦购买 Premium，不支持退款。若通过 PayPal 发起争议或退款申请，将被永久封禁出 Mia 和服务器。
+                </p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>在哪开通 Premium？</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>在 <a href="/zh-CN/premium.html" class="text-blue-400 hover:underline">miadsc.xyz/zh-CN/premium</a> 或通过 <a href="https://discord.gg/miabot" class="text-blue-400 hover:underline" target="_blank" rel="noopener noreferrer">Mia Lounge</a>。选择计划并付款后，Premium 会绑定到你的 Discord（也适用于 Mia Launcher）。</p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>Premium 多少钱？</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>用户计划起价 <strong>5€/月</strong>。更多选项见 <a href="/zh-CN/premium.html" class="text-blue-400 hover:underline">Premium 页面</a>。</p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>Premium 到期后？</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>你会回到免费计划：失去自动化和更高限额。服务器的 Feed 或自定义图片可能恢复为 Mia 默认。已注册账号不会被自动删除。</p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>Discord Boost 等于付费 Premium？</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>不完全是。Boost Mia Lounge 可获得 booster 福利，但<strong>不能替代</strong>完整的付费 Premium 计划。详情见 <a href="/zh-CN/premium.html" class="text-blue-400 hover:underline">Premium</a>。</p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>Premium 按用户还是服务器？</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p><strong>按 Discord 用户</strong>（你的个人 Premium）。部分服务器福利（feeds、自定义图片）在 guild 用 <code>/config servidor</code>（服务器所有者）配置，且取决于配置者按现行规则是否拥有用户 Premium。详情见 <a href="/zh-CN/premium.html" class="text-blue-400 hover:underline">Premium</a>。</p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>能在 Discord 配置 Feed？</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>可以。在你的服务器上，服主可用 <code>/config servidor</code> 配置订阅频道（商店、警报等）。有 Premium 可更多自定义（例如页脚/图片）。没有 Premium 时 Mia 使用默认值。</p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>终身等长期方案？</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>除按月外还有更长选项（例如年度终身或其他视优惠而定）。价格与包含内容见 <a href="/zh-CN/premium.html" class="text-blue-400 hover:underline">Premium</a>；若有疑问，请在 <a href="https://discord.com/channels/756859004965093426/1302832897061027940" class="text-blue-400 hover:underline" target="_blank" rel="noopener noreferrer">支持</a> 询问。</p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- API FAQ -->
+        <div class="faq-category hidden" id="api-faq">
+          <div class="faq-panel-head">
+            <h2>API</h2>
+            <p>
+              密钥、速率限制与开发者 API Premium。
+            </p>
+          </div>
+          <div class="mb-6 faq-list">
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>Mia 公开 API 是什么？</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>
+                  这是一个 REST API，暴露由 Mia 管理的 Fortnite 数据：Battle Royale 商店、Save the World 资源与警报、Epic 账号状态等。完整文档见
+                  <a href="/zh-CN/api.html">API 页面</a>。
+                </p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>如何获取 API 密钥？</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>
+                  在 Discord 使用命令 <code>/api crear</code>。Mia
+                  会生成你的私钥，并说明如何在
+                  <code>Authorization</code> 请求头中使用。请妥善保管：
+                  不要分享，也不要上传到公开仓库。
+                </p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span
+                  >免费 API 和 API Premium 有什么区别？</span
+                >
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>
+                  免费 API 有适合个人使用或测试的每分钟请求上限。
+                  <strong>API Premium</strong>（€5/月）将上限提升到
+                  <strong>360 req/min</strong>，并包含 BR/STW 自定义商店图。详情与对比见
+                  <a href="/zh-CN/premium.html">Premium</a>。
+                </p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span
+                  >使用 API 需要注册我的 Fortnite 账号吗？</span
+                >
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>
+                  取决于接口。BR 商店或 STW 警报等路线不需要绑定账号。Epic 账号类接口（如礼物或在线状态）需要用 <code>/registrar</code> 在 Mia 注册账号。
+                </p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>API 错误在哪反馈？</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>
+                  加入
+                  <a
+                    href="https://discord.gg/miabot"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    class="text-blue-400 hover:underline"
+                    >Mia Lounge</a
+                  >
+                  ，在
+                  <a
+                    href="https://discord.com/channels/756859004965093426/1302832897061027940"
+                    class="text-blue-400 hover:underline"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    >支持</a
+                  >
+                  开具工单，或写在 <strong>#💬〕general</strong>。请说明
+                  端点、响应码，如可能附上请求示例（不要包含完整密钥）。
+                </p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>API 需要密钥吗？</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p><strong>需要。</strong> 公开 API 路由需要 API key（<code>Authorization: Bearer mia_…</code> 或请求头 <code>api-key</code>）。用 <code>/api crear</code> 创建。仅在标为 Premium 的路由才必须有 Premium（例如自定义商店图片）。</p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>API 文档在哪？</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>见 <a href="/zh-CN/api.html" class="text-blue-400 hover:underline">miadsc.xyz/zh-CN/api</a>：路由、示例与认证。</p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>能分享 API 密钥吗？</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p><strong>不要。</strong> 它是私密的，如同密码。拿到的人能用你的配额并访问你的套餐权限。不要上传到 GitHub、公开截图或聊天。</p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>密钥泄露或撤销？</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>
+                  用 <code>/api revisar</code> 查看你的密钥。要作废旧密钥，用
+                  <code>/api crear</code> 创建新密钥（停止使用旧密钥）。
+                  若需工作人员帮助，请在
+                  <a href="https://discord.com/channels/756859004965093426/1302832897061027940" class="text-blue-400 hover:underline" target="_blank" rel="noopener noreferrer">支持</a>
+                  开具工单。
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+
+        <div class="faq-category hidden" id="herramientas-faq">
+          <div class="faq-panel-head">
+            <h2>工具</h2>
+            <p>启动器、Checker、STW 警报、资料、管理面板等网页功能。</p>
+          </div>
+          <div class="mb-6 faq-list">
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>Mia Launcher 下载？必须更新吗？</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>从 <a href="/zh-CN/mia-launcher.html#descargar" class="text-blue-400 hover:underline">Mia Launcher</a>（GitHub Releases）下载 Windows 安装包。生产构建中，登录后的更新通常<strong>必须安装</strong>才能继续使用应用。</p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>Checker 等于 Discord 机器人？</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p><strong>不是。</strong> <a href="/zh-CN/checker.html" class="text-blue-400 hover:underline">Mia Checker</a> 是 Telegram 上的独立产品（账号报告）。Mia 机器人在 Discord。它们共享品牌与生态，但不是同一服务，也不是同一条款。</p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>用 Checker 买卖安全吗？</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>Checker 比盲目分享密码更安全地审查账号，但<strong>买卖账号可能违反 Epic 规则</strong>并有风险。请阅读 <a href="/zh-CN/terminos-checker.html" class="text-blue-400 hover:underline">Mia Checker 条款</a>，并自行承担使用风险。</p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>今日 STW 警报在哪？</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>网页：<a href="/zh-CN/alertas.html" class="text-blue-400 hover:underline">警报</a>。也可按你的配置在 Discord 使用 feeds，或在 Mia 内使用命令/警报。</p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>公开 STW 资料如何工作？</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p><a href="/zh-CN/perfil.html" class="text-blue-400 hover:underline">STW 档案</a> 页面按名称或 accountId 查询 Fortnite 公开档案（等级、成就等）。若玩家在 Fortnite 将档案设为私密，则无法查看。</p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>Admin Panel 代码是 Epic 官方吗？</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>这些是当季 <strong>Admin Panel / Lobby Hack</strong> 代码，由 Mia 列出方便查阅。<strong>Mia 与 Epic Games 无关联</strong>。请仅在游戏内 / Fortnite 官方流程中兑换。列表见 <a href="/zh-CN/admin-panel.html" class="text-blue-400 hover:underline">管理面板</a>。</p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>Mia Checker 最安全吗？</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>
+      无法保证「全球最安全」。有英语 checker，且不少口碑不佳；因此才有
+      <strong>Mia Checker</strong>：为西语社区（也面向英语社区）提供可靠选项。
+    </p>
+    <p>
+      流程透明：生成凭据、检查账号，然后
+      <strong>删除通过 Epic API 创建的凭据和 auth</strong>，不留下存储。
+      Mia Checker 不出售数据，也不在背后藏东西。
+    </p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>Checker 存 Auth 吗？</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>
+      <strong>不会保存 check 的 Auth。</strong> 审查账号后会删除生成的凭证和 auth。这与 Discord 上的 Mia 机器人不同——那里会保留运行所需数据，你随时可用
+      <code>/borrar</code> 删除。也请阅读
+      <a href="/zh-CN/terminos-checker.html" class="text-blue-400 hover:underline">Mia Checker 条款</a>。
+    </p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- TaxiBots FAQ -->
+        <div class="faq-category hidden" id="taxibots-faq">
+          <div class="faq-panel-head">
+            <h2>TaxiBots</h2>
+            <p>拯救世界任务与百战机器人大厅。</p>
+          </div>
+          <div class="mb-6 faq-list">
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>TaxiBots 是什么？</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>
+                  TaxiBots 是自动化账号，可让你以高于自身的战力进入
+                  Save the World（STW）任务。也可用来进入
+                  Battle Royale（BR）的 botlobbies 并与机器人对战。
+                </p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>如何使用 TaxiBot？</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>
+                  使用 TaxiBots 系统：
+                </p>
+                <ol class="mt-2 list-decimal space-y-1 pl-5 text-sm">
+                  <li>加入 <a href="https://discord.gg/miabot" class="text-blue-400 hover:underline" target="_blank" rel="noopener noreferrer">Mia Lounge</a> 服务器。</li>
+                  <li>用 <code>/registrar</code> 在 Mia 注册账号。</li>
+                  <li>用 <code>/taxibot (activar)</code> 把账号加入出租车。</li>
+                  <li>添加某个机器人。</li>
+                  <li>邀请一辆出租车。</li>
+                  <li>把对局设为不填充，然后开玩！</li>
+                </ol>
+                <p class="mt-2">
+                  完整指南见
+                  <a
+                    href="/zh-CN/taxibots.html"
+                    class="text-blue-400 hover:underline"
+                    >taxibots</a
+                  >。
+                </p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>TaxiBots 安全吗？</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>
+                  可以。TaxiBots 是连接到自动化客户端的真实账号。就像和真人一起玩，因此使用时一般不会有问题。
+                </p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>需要 Premium 吗？</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>你可以先在 Mia Lounge 用基础流程；Premium 会扩展福利与可用性。指南见 <a href="/zh-CN/taxibots.html" class="text-blue-400 hover:underline">TaxiBots</a>。</p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>TaxiBots 与 botlobbies 相同吗？</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p><strong>不是。</strong> TaxiBots 主要用于 Save the World 任务。Battle Royale 的 botlobbies 是另一套系统。更多信息见 <a href="/zh-CN/taxibots.html" class="text-blue-400 hover:underline">taxibots</a>。</p>
+              </div>
+            </div>
+
+          </div>
+        </div>
+      </div>
+
+      <section class="faq-cta">
+        <h2>还有问题吗？</h2>
+        <p>
+          如果找不到答案，团队和社区可以在 Discord 帮你。
+        </p>
+        <a
+          href="https://discord.gg/miabot"
+          class="faq-cta-btn"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <i class="fa-brands fa-discord"></i> Join the support server
+        </a>
+      </section>

@@ -1,0 +1,44 @@
+{
+  "meta": {
+    "title": "Mia · 管理面板",
+    "description": "最新的 Fortnite Admin Panel / Lobby Hack 兑换码列表。按类别或状态筛选，标记已兑换，一键复制，并查看奖励（精灵、经验、粉末等）。",
+    "ogTitle": "Mia · 管理面板",
+    "ogDescription": "最新的 Fortnite Admin Panel / Lobby Hack 兑换码列表。按类别或状态筛选，标记已兑换，一键复制，并查看奖励（精灵、经验、粉末等）。"
+  },
+  "hero": {
+    "title": "管理面板"
+  },
+  "summary": {
+    "aria": "概览",
+    "codes": "代码"
+  },
+  "progress": {
+    "aria": "兑换进度",
+    "redeemed": "已兑换",
+    "reset": "重置",
+    "resetConfirm": "重置此浏览器中所有已兑换的代码？"
+  },
+  "filters": {
+    "statusLabel": "状态",
+    "redeemAria": "兑换",
+    "all": "全部",
+    "pending": "待兑换",
+    "redeemed": "已兑换",
+    "categoryLabel": "分类",
+    "categoriesAria": "分类"
+  },
+  "ui": {
+    "all": "全部",
+    "loading": "正在加载代码",
+    "empty": "没有符合这些筛选条件的代码。",
+    "loadError": "无法加载代码。",
+    "networkError": "网络错误",
+    "copy": "复制",
+    "copied": "完成",
+    "redeemed": "已兑换",
+    "markRedeemed": "标记为已兑换",
+    "new": "新",
+    "reusable": "可重复使用",
+    "noReward": "无奖励"
+  }
+}

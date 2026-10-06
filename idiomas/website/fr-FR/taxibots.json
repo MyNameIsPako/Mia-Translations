@@ -1,0 +1,206 @@
+{
+  "meta": {
+    "title": "Mia · TaxiBots",
+    "description": "Mia TaxiBots pour Save the World : rejoins des missions et des zones même si tu ne les as pas débloquées, avec des bots prêts à t'aider à farmer, compléter des objectifs et accéder aux bot lobbies.",
+    "ogTitle": "Mia · TaxiBots",
+    "ogDescription": "Mia TaxiBots pour Save the World : rejoins des missions et des zones même si tu ne les as pas débloquées, avec des bots prêts à t'aider à farmer, compléter des objectifs et accéder aux bot lobbies."
+  },
+  "hero": {
+    "title": "Mia TaxiBots",
+    "subtitle": "Missions STW et parties bot quand tu en as besoin",
+    "lead": "Comptes automatisés connectés au client Fortnite. Utilise-les pour entrer dans des missions Save the World au-dessus de ton niveau de puissance ou pour jouer des bot lobbies en Battle Royale.",
+    "liveBadge": "Flotte active",
+    "altAvatar": "Avatar Mia TaxiBot",
+    "stats": {
+      "online": "En ligne",
+      "available": "Disponibles",
+      "free": "Gratuits",
+      "premium": "Premium"
+    },
+    "actions": {
+      "fleet": "Voir la flotte en direct",
+      "start": "Comment commencer",
+      "support": "Support"
+    }
+  },
+  "jump": {
+    "aria": "Sections de la page",
+    "howTo": "Comment utiliser",
+    "features": "Avantages",
+    "commands": "Commandes",
+    "fleet": "Flotte en direct",
+    "premium": "Premium"
+  },
+  "howTo": {
+    "title": "Comment utiliser les TaxiBots",
+    "lead": "Suis ces étapes sur Discord et Fortnite. Invite un taxi, mets remplir sur off et joue.",
+    "steps": [
+      {
+        "title": "Rejoins Mia Lounge",
+        "text": "Entre sur le serveur <a href=\"https://discord.gg/miabot\" target=\"_blank\" rel=\"noopener noreferrer\">Mia Lounge</a>."
+      },
+      {
+        "title": "Enregistre ton compte",
+        "text": "Enregistre ton compte dans Mia avec <code>/registrar</code>."
+      },
+      {
+        "title": "Ajoute ton compte aux taxis",
+        "text": "Utilise <code>/taxibot (activar)</code> pour ajouter ton compte au système."
+      },
+      {
+        "title": "Ajoute un bot",
+        "text": "Ajoute un TaxiBot en ami sur Fortnite. Vérifie les noms avec <code>/taxibot opción:Información</code> ou dans la flotte ci-dessous."
+      },
+      {
+        "title": "Invite un taxi",
+        "text": "Invite un taxi disponible dans ton groupe."
+      },
+      {
+        "title": "Remplir off et joue",
+        "text": "Mets ta partie en <strong>remplir off</strong> et lance à temps (6 min gratuit · 8 min premium)."
+      }
+    ]
+  },
+  "features": {
+    "title": "À quoi ils servent",
+    "lead": "Accède au contenu STW et à des parties détendues sans dépendre uniquement de ta progression.",
+    "items": [
+      {
+        "title": "Missions STW avancées",
+        "text": "Entre dans des missions avec un PL supérieur au tien quand tu n'as pas débloqué la zone."
+      },
+      {
+        "title": "Bot lobbies en BR",
+        "text": "Les utilisateurs premium peuvent lancer le matchmaking avec des bots pour des parties plus calmes."
+      },
+      {
+        "title": "Vrais comptes automatisés",
+        "text": "Les TaxiBots sont des comptes connectés à un client légitime, gérés par Mia."
+      },
+      {
+        "title": "Utilisation ordonnée",
+        "text": "Un taxi à la fois si tu n'es pas premium, 10 s de cooldown entre les invitations, et le bot part si tu ne lances pas à temps."
+      }
+    ]
+  },
+  "commands": {
+    "title": "Commandes Discord",
+    "lead": "La commande <code>/taxibot</code> utilise l'option <strong>opción</strong> avec quatre valeurs : Activar, Desactivar, Información et Estado.",
+    "items": [
+      {
+        "code": "/taxibot opción:Activar",
+        "text": "Ajoute ton compte au système pour que les bots acceptent ta demande d'ami."
+      },
+      {
+        "code": "/taxibot opción:Desactivar",
+        "text": "Retire ton compte du système TaxiBots quand tu n'en as plus besoin."
+      },
+      {
+        "code": "/taxibot opción:Información",
+        "text": "Guide du service : ce que c'est, étapes d'utilisation et où voir les comptes disponibles."
+      },
+      {
+        "code": "/taxibot opción:Estado",
+        "text": "Liste en direct des bots : en ligne, hors ligne, amis, et s'ils sont disponibles ou occupés."
+      }
+    ]
+  },
+  "compare": {
+    "title": "Gratuit vs Premium",
+    "lead": "Compare ce que tu obtiens avec les bots gratuits et Mia Premium.",
+    "columns": {
+      "benefit": "Avantage",
+      "free": "Gratuit",
+      "premium": "Premium"
+    },
+    "yes": "Oui",
+    "rows": [
+      {
+        "feature": "Accès aux TaxiBots STW",
+        "free": "Oui",
+        "premium": "Oui"
+      },
+      {
+        "feature": "Bot lobbies Battle Royale",
+        "free": "—",
+        "premium": "Oui"
+      },
+      {
+        "feature": "Temps pour lancer la partie",
+        "free": "6 min",
+        "premium": "8 min"
+      },
+      {
+        "feature": "Plusieurs taxis en même temps",
+        "free": "—",
+        "premium": "Oui"
+      },
+      {
+        "feature": "Bots premium (PL élevé)",
+        "free": "—",
+        "premium": "Oui"
+      }
+    ]
+  },
+  "fleet": {
+    "title": "Flotte en direct",
+    "lead": "Statut mis à jour depuis l'API de Mia. Filtre par nom, type ou disponibilité.",
+    "panelTitle": "Panneau des bots",
+    "live": "Temps réel",
+    "searchPlaceholder": "Rechercher par nom…",
+    "filterAria": "Filtrer les bots",
+    "filters": {
+      "all": "Tous les bots",
+      "online": "En ligne uniquement",
+      "offline": "Hors ligne uniquement",
+      "available": "Disponibles",
+      "premium": "Premium",
+      "free": "Gratuits"
+    },
+    "chips": {
+      "all": "Tous",
+      "available": "Disponibles",
+      "online": "En ligne",
+      "free": "Gratuits",
+      "premium": "Premium"
+    },
+    "chipsAria": "Filtres rapides",
+    "meta": {
+      "online": "en ligne",
+      "free": "gratuits",
+      "premium": "premium",
+      "total": "total"
+    },
+    "updated": "Dernière mise à jour :",
+    "loading": "Chargement",
+    "card": {
+      "free": "Gratuit",
+      "premium": "Premium",
+      "online": "En ligne",
+      "offline": "Hors ligne",
+      "available": "Disponible",
+      "inMatch": "En partie",
+      "friends": "Amis",
+      "party": "Groupe",
+      "type": "Type",
+      "empty": "Aucun bot ne correspond au filtre actuel.",
+      "loading": "Chargement des TaxiBots",
+      "powerLow": "PL bas",
+      "error": "Impossible de charger la flotte. Vérifie que l’API du bot est en ligne."
+    }
+  },
+  "notice": "Attends <strong>10 s</strong> entre les invitations à différents bots. Ne spam pas : le système le bloque et tu pourrais être <strong>banni</strong>.",
+  "cta": {
+    "title": "Besoin d'aide avec les TaxiBots ?",
+    "text": "Consulte le guide FAQ, demande sur Discord ou débloque les bot lobbies avec Mia Premium.",
+    "faq": "Voir la FAQ",
+    "discord": "Mia Discord",
+    "premium": "Mia Premium",
+    "tags": [
+      "Bot lobbies avec Premium",
+      "6–8 min pour lancer",
+      "Bots PL élevé"
+    ]
+  },
+  "menuOpen": "Ouvrir le menu"
+}

@@ -1,0 +1,76 @@
+{
+  "politica": {
+    "meta": {
+      "title": "Mia · Gizlilik politikası",
+      "description": "Mia gizlilik politikası: Discord botu, site ve ilgili hizmetleri kullanırken hangi verilerin toplandığı, ne için kullanıldığı, nasıl korunduğu ve hakların neler olduğu.",
+      "ogTitle": "Mia · Gizlilik politikası",
+      "ogDescription": "Mia gizlilik politikası: Discord botu, site ve ilgili hizmetleri kullanırken hangi verilerin toplandığı, ne için kullanıldığı, nasıl korunduğu ve hakların neler olduğu."
+    },
+    "eyebrow": "Yasal",
+    "title": "Gizlilik Politikası",
+    "lead": "Mia’nın sitesini ve botunu kullanırken bilgilerini nasıl topladığımız, kullandığımız ve koruduğumuz.",
+    "updated": "Son güncelleme: 15 Nisan 2026",
+    "tocTitle": "İçindekiler",
+    "toc": [
+      "Giriş",
+      "Toplanan veriler",
+      "Bilgilerin kullanımı",
+      "Hakların",
+      "Analiz ve çerezler",
+      "Harici bağlantılar",
+      "Değişiklikler",
+      "İletişim"
+    ],
+    "bodyInclude": "politica"
+  },
+  "terminos": {
+    "meta": {
+      "title": "Mia · Şartlar ve koşullar",
+      "description": "Mia kullanım şartları: Discord botu, site, Premium ve Fortnite hizmetleri kuralları. Kullanmadan veya hesabını bağlamadan önce oku.",
+      "ogTitle": "Mia · Şartlar ve koşullar",
+      "ogDescription": "Mia kullanım şartları: Discord botu, site, Premium ve Fortnite hizmetleri kuralları. Kullanmadan veya hesabını bağlamadan önce oku."
+    },
+    "eyebrow": "Yasal",
+    "title": "Kullanım Şartları",
+    "lead": "Discord, Fortnite ve ilgili hizmetler için Mia botunun kullanım koşulları.",
+    "updated": "Son güncelleme: 15 Nisan 2026",
+    "tocTitle": "İçindekiler",
+    "toc": [
+      "Giriş",
+      "Ban uyarısı",
+      "Mia nedir?",
+      "Hizmetin kullanımı",
+      "Gizlilik",
+      "Gizlilik hakları",
+      "Üçüncü taraf analiz",
+      "İletişim",
+      "Veri yönetimi"
+    ],
+    "bodyInclude": "terminos"
+  },
+  "terminosChecker": {
+    "meta": {
+      "title": "Mia · Mia Checker şartları",
+      "description": "Telegram’daki güvenli Fortnite hesap kontrolcüsü Mia Checker kullanım şartları: hizmet koşulları, sorumluluklar ve alıcı-satıcı kuralları.",
+      "ogTitle": "Mia · Mia Checker şartları",
+      "ogDescription": "Telegram’daki güvenli Fortnite hesap kontrolcüsü Mia Checker kullanım şartları: hizmet koşulları, sorumluluklar ve alıcı-satıcı kuralları."
+    },
+    "eyebrow": "Mia Checker",
+    "title": "Kullanım Şartları",
+    "lead": "Fortnite hesaplarını doğrulayan ve analiz eden Telegram botunun kullanım koşulları.",
+    "updated": "Son güncelleme: 15 Nisan 2026",
+    "tocTitle": "İçindekiler",
+    "toc": [
+      "Giriş",
+      "Ban uyarısı",
+      "Mia Checker nedir?",
+      "Telegram üzerinden kullanım",
+      "Gizlilik",
+      "Sınırlamalar",
+      "Sorumlu kullanım",
+      "İletişim",
+      "Kabul"
+    ],
+    "bodyInclude": "terminos-checker"
+  }
+}

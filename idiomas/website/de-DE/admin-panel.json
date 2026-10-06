@@ -1,0 +1,44 @@
+{
+  "meta": {
+    "title": "Mia · Panel Admin",
+    "description": "Aktuelle Fortnite-Admin-Panel- / Lobby-Hack-Codes. Nach Kategorie oder Status filtern, eingelöste markieren, jeden Code per Klick kopieren und Belohnungen ansehen (Sprites, XP, Staub und mehr).",
+    "ogTitle": "Mia · Panel Admin",
+    "ogDescription": "Aktuelle Fortnite-Admin-Panel- / Lobby-Hack-Codes. Nach Kategorie oder Status filtern, eingelöste markieren, jeden Code per Klick kopieren und Belohnungen ansehen (Sprites, XP, Staub und mehr)."
+  },
+  "hero": {
+    "title": "Admin-Panel"
+  },
+  "summary": {
+    "aria": "Zusammenfassung",
+    "codes": "Codes"
+  },
+  "progress": {
+    "aria": "Einlöse-Fortschritt",
+    "redeemed": "eingelöst",
+    "reset": "Zurücksetzen",
+    "resetConfirm": "Alle in diesem Browser eingelösten Codes zurücksetzen?"
+  },
+  "filters": {
+    "statusLabel": "Status",
+    "redeemAria": "Einlösen",
+    "all": "Alle",
+    "pending": "Ausstehend",
+    "redeemed": "Eingelöst",
+    "categoryLabel": "Kategorie",
+    "categoriesAria": "Kategorien"
+  },
+  "ui": {
+    "all": "Alle",
+    "loading": "Codes werden geladen",
+    "empty": "Keine Codes passen zu diesen Filtern.",
+    "loadError": "Codes konnten nicht geladen werden.",
+    "networkError": "Netzwerkfehler",
+    "copy": "Kopieren",
+    "copied": "Fertig",
+    "redeemed": "Eingelöst",
+    "markRedeemed": "Als eingelöst markieren",
+    "new": "Neu",
+    "reusable": "Wiederverwendbar",
+    "noReward": "Keine Belohnung"
+  }
+}

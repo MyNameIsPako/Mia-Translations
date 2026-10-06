@@ -1,0 +1,206 @@
+{
+  "meta": {
+    "title": "Mia · TaxiBots",
+    "description": "Mia TaxiBots（Save the World）：即使未解锁也可加入任务和区域，机器人助你刷资源、完成任务并进入 bot lobby。",
+    "ogTitle": "Mia · TaxiBots",
+    "ogDescription": "Mia TaxiBots（Save the World）：即使未解锁也可加入任务和区域，机器人助你刷资源、完成任务并进入 bot lobby。"
+  },
+  "hero": {
+    "title": "Mia TaxiBots",
+    "subtitle": "需要时的 STW 任务与 bot 对局",
+    "lead": "连接 Fortnite 客户端的自动化账号。可用于进入高于你 Power Level 的 Save the World 任务，或在 Battle Royale 中玩 bot lobby。",
+    "liveBadge": "活跃车队",
+    "altAvatar": "Mia TaxiBot 头像",
+    "stats": {
+      "online": "Online",
+      "available": "可用",
+      "free": "免费",
+      "premium": "Premium"
+    },
+    "actions": {
+      "fleet": "查看实时车队",
+      "start": "如何开始",
+      "support": "支持"
+    }
+  },
+  "jump": {
+    "aria": "页面分区",
+    "howTo": "使用方法",
+    "features": "优势",
+    "commands": "命令",
+    "fleet": "实时车队",
+    "premium": "Premium"
+  },
+  "howTo": {
+    "title": "如何使用 TaxiBots",
+    "lead": "在 Discord 和 Fortnite 中按以下步骤操作。邀请 taxi、设为不填充并开始游戏。",
+    "steps": [
+      {
+        "title": "加入 Mia Lounge",
+        "text": "进入 <a href=\"https://discord.gg/miabot\" target=\"_blank\" rel=\"noopener noreferrer\">Mia Lounge</a> 服务器。"
+      },
+      {
+        "title": "注册账号",
+        "text": "使用 <code>/registrar</code> 在 Mia 注册账号。"
+      },
+      {
+        "title": "将账号加入 taxi 系统",
+        "text": "使用 <code>/taxibot (activar)</code> 将账号加入系统。"
+      },
+      {
+        "title": "添加 bot",
+        "text": "在 Fortnite 中将 TaxiBot 加为好友。名称可在 <code>/taxibot opción:Información</code> 或下方车队查看。"
+      },
+      {
+        "title": "邀请 taxi",
+        "text": "邀请可用的 taxi 加入你的小队。"
+      },
+      {
+        "title": "不填充并开始",
+        "text": "将对局设为<strong>不填充</strong>并按时开始（免费 6 分钟 · Premium 8 分钟）。"
+      }
+    ]
+  },
+  "features": {
+    "title": "用途",
+    "lead": "无需仅依赖进度即可访问 STW 内容和轻松对局。",
+    "items": [
+      {
+        "title": "高级 STW 任务",
+        "text": "区域未解锁时也可进入 PL 更高的任务。"
+      },
+      {
+        "title": "BR bot lobby",
+        "text": "Premium 用户可与 bot 匹配，享受更轻松的对局。"
+      },
+      {
+        "title": "真实自动化账号",
+        "text": "TaxiBots 是连接合法客户端的账号，由 Mia 管理。"
+      },
+      {
+        "title": "有序使用",
+        "text": "非 Premium 同时仅 1 个 taxi，邀请间隔 10 秒冷却；未按时开始 bot 会离开。"
+      }
+    ]
+  },
+  "commands": {
+    "title": "Discord 命令",
+    "lead": "<code>/taxibot</code> 命令使用 <strong>opción</strong> 选项，有四个值：Activar、Desactivar、Información、Estado。",
+    "items": [
+      {
+        "code": "/taxibot opción:Activar",
+        "text": "将账号加入系统，使 bot 接受你的好友请求。"
+      },
+      {
+        "code": "/taxibot opción:Desactivar",
+        "text": "不再需要时从 TaxiBots 系统移除账号。"
+      },
+      {
+        "code": "/taxibot opción:Información",
+        "text": "服务指南：是什么、使用步骤、可用账号查看位置。"
+      },
+      {
+        "code": "/taxibot opción:Estado",
+        "text": "bot 实时列表：online、offline、好友状态及空闲/忙碌。"
+      }
+    ]
+  },
+  "compare": {
+    "title": "免费 vs Premium",
+    "lead": "对比免费 bot 与 Mia Premium 的差异。",
+    "columns": {
+      "benefit": "权益",
+      "free": "免费",
+      "premium": "Premium"
+    },
+    "yes": "是",
+    "rows": [
+      {
+        "feature": "STW TaxiBots 访问",
+        "free": "是",
+        "premium": "是"
+      },
+      {
+        "feature": "Battle Royale bot lobby",
+        "free": "—",
+        "premium": "是"
+      },
+      {
+        "feature": "开始对局时间",
+        "free": "6 min",
+        "premium": "8 min"
+      },
+      {
+        "feature": "同时使用多个 taxi",
+        "free": "—",
+        "premium": "是"
+      },
+      {
+        "feature": "Premium bot（高 PL）",
+        "free": "—",
+        "premium": "是"
+      }
+    ]
+  },
+  "fleet": {
+    "title": "实时车队",
+    "lead": "由 Mia API 更新的状态。按名称、类型或可用性筛选。",
+    "panelTitle": "Bot 面板",
+    "live": "实时",
+    "searchPlaceholder": "按名称搜索…",
+    "filterAria": "筛选 bot",
+    "filters": {
+      "all": "全部 bot",
+      "online": "仅 Online",
+      "offline": "仅 Offline",
+      "available": "可用",
+      "premium": "Premium",
+      "free": "免费"
+    },
+    "chips": {
+      "all": "全部",
+      "available": "可用",
+      "online": "Online",
+      "free": "免费",
+      "premium": "Premium"
+    },
+    "chipsAria": "快速筛选",
+    "meta": {
+      "online": "online",
+      "free": "免费",
+      "premium": "premium",
+      "total": "总计"
+    },
+    "updated": "最后更新：",
+    "loading": "加载中",
+    "card": {
+      "free": "免费",
+      "premium": "Premium",
+      "online": "在线",
+      "offline": "离线",
+      "available": "可用",
+      "inMatch": "对局中",
+      "friends": "好友",
+      "party": "队伍",
+      "type": "类型",
+      "empty": "没有符合当前筛选的机器人。",
+      "loading": "正在加载 TaxiBots",
+      "powerLow": "低PL",
+      "error": "无法加载车队。请确认机器人 API 在线。"
+    }
+  },
+  "notice": "向不同 bot 邀请请间隔 <strong>10 秒</strong>。请勿刷屏：系统会拦截，可能导致<strong>封禁</strong>。",
+  "cta": {
+    "title": "TaxiBots 需要帮助？",
+    "text": "查看 FAQ 指南、在 Discord 提问，或通过 Mia Premium 解锁 bot lobby。",
+    "faq": "查看 FAQ",
+    "discord": "Mia Discord",
+    "premium": "Mia Premium",
+    "tags": [
+      "Premium 解锁 bot lobby",
+      "6–8 分钟开始",
+      "高 PL bot"
+    ]
+  },
+  "menuOpen": "打开菜单"
+}

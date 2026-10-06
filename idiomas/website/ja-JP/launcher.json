@@ -1,0 +1,97 @@
+{
+  "meta": {
+    "title": "Mia · Mia Launcher",
+    "description": "Mia LauncherはFortnite向け公式デスクトップアプリ。マルチアカウント、STWアラート、ショップ、スーパーチャージャー、Mia Checker、Discordボットと共有のPremium特典。",
+    "ogTitle": "Mia · Mia Launcher",
+    "ogDescription": "Mia LauncherはFortnite向け公式デスクトップアプリ。マルチアカウント、STWアラート、ショップ、スーパーチャージャー、Mia Checker、Discordボットと共有のPremium特典。"
+  },
+  "hero": {
+    "kicker": "公式ランチャー · Windows",
+    "title": "Mia Launcher",
+    "subtitle": "STWアラート、アカウント、Miaコミュニティ",
+    "lead": "Mia公式ランチャーでPCからFortniteを管理。miadsc.xyz同様のSTWミッションアラート、複数のEpicアカウント、PDF出力付きMia Checker、スーパーチャージャー、STWショップ、AutoKick、lookup、WebとDiscordへのクイックアクセス。DiscordでログインするとDiscordのMia Premiumがランチャーと共有されます。",
+    "altVisual": "STWアラート、サイドメニュー、ミッションパネル付きMia Launcher画面",
+    "stats": {
+      "version": "バージョン",
+      "multiAccount": "Epicマルチアカウント",
+      "languages": "6言語",
+      "alerts": "リアルタイムSTWアラート"
+    },
+    "actions": {
+      "download": "ダウンロード …",
+      "support": "サポート"
+    }
+  },
+  "shareBanner": {
+    "aria": "Miaと共有のPremium",
+    "title": "Miaと共有のPremium",
+    "text": "重要：DiscordでMia Premiumがある場合、同じサブスクリプションがMia Launcherでも有効になります。Miaアカウントでログインすれば、追加料金なしでランチャーのPremium機能を使えます。",
+    "link": "Mia Premiumプランを見る",
+    "altLauncher": "Mia Launcher",
+    "altMia": "Miaボット"
+  },
+  "jump": {
+    "aria": "ページセクション",
+    "features": "機能",
+    "changelog": "新着",
+    "download": "ダウンロード"
+  },
+  "features": {
+    "title": "含まれるすべて",
+    "lead": "エリア別サイドバー、Discordログイン、アプリ内蔵のMia API。",
+    "items": [
+      {
+        "title": "STWアラート",
+        "text": "miadsc.xyzと同じく、V-Bucks、サバイバー、PL 160、ヒーローなどでミッションを絞り込み。その日の画像をダウンロード。"
+      },
+      {
+        "title": "Mia Checker",
+        "text": "プロフィール、購入、ロッカー、STW、Epicフレンド付きの完全アカウント報告。セクション別または全体のPDF出力。"
+      },
+      {
+        "title": "STWスーパーチャージャー",
+        "text": "インベントリ確認、個人スーパーチャージャー交換、オートコンプリートと相手プロフィール付きでフレンドスーパーチャージャー送信。"
+      },
+      {
+        "title": "STWとBattle Royaleショップ",
+        "text": "STWローテーションを最大数量で購入、週間カウントダウン、BRショップとロッカーへアクセス。"
+      },
+      {
+        "title": "パーティとAutoKick",
+        "text": "アカウントごとにキック、受け取り、素材転送、招待。ヘッダーに日次報酬履歴。"
+      },
+      {
+        "title": "Lookupとマルチアカウント",
+        "text": "名前またはIDでプレイヤー検索（公開STWプロフィールとロードアウト）。サイドバーでEpicアカウント切替。"
+      }
+    ]
+  },
+  "changelog": {
+    "title": "最新アップデート",
+    "lead": "ランチャーの最近の変更。現在公開中のバージョンは …。",
+    "loading": "読み込み中"
+  },
+  "cta": {
+    "title": "Mia Launcherをダウンロード",
+    "text": "自動更新対応のWindowsインストーラー。Discord（Mia公式アプリ）でログインし、Epicアカウントを接続して開始。",
+    "github": "GitHub Releases",
+    "home": "ホームに戻る",
+    "tags": [
+      "Windows",
+      "ES · EN · DE · FR · PT-BR · TR",
+      "自動更新"
+    ]
+  },
+  "overlay": {
+    "close": "閉じる",
+    "altFullscreen": "フルスクリーンのMia Launcher"
+  },
+  "disclaimer": "Not affiliated with Epic Games · Miaエコシステムの公式ランチャー",
+  "ui": {
+    "downloadWithVersion": "{version} をダウンロード",
+    "changelogEmpty": "公開された変更履歴はまだありません。",
+    "changelogError": "ランチャーのバージョンを読み込めませんでした。",
+    "changelogLoading": "更新情報を読み込み中",
+    "recent": "最新"
+  }
+}

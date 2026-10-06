@@ -1,0 +1,1012 @@
+<section class="mia-page-hero faq-hero">
+        <p class="faq-hero-kicker"><i class="fa-solid fa-circle-question" aria-hidden="true"></i> Help center</p>
+        <h1>Frequently asked questions</h1>
+        <p class="faq-hero-lead">
+          Mia is a bot that is <strong>reliable, transparent, and in Spanish</strong>. We don’t sell data or hide anything shady: only what’s needed for the bot and launcher is stored, and <strong>you can delete it</strong>
+          whenever you want with <code>/borrar</code> (including Auth). Search below or pick a category.
+        </p>
+      </section>
+
+      <div class="faq-controls">
+      <div class="faq-toolbar">
+        <input
+          type="search"
+          id="faq-search"
+          class="faq-search"
+          placeholder="Search a question or keyword…"
+          aria-label="Search the FAQ"
+          autocomplete="off"
+        />
+        <div class="faq-search-meta">
+          <span id="faq-search-count"></span>
+        </div>
+      </div>
+
+      <div
+        class="faq-categories"
+        role="tablist"
+        aria-label="FAQ categories"
+      >
+        <button
+          type="button"
+          class="category-btn active"
+          data-category="general"
+        >
+          <i class="fa-solid fa-house"></i> General
+        </button>
+        <button type="button" class="category-btn" data-category="cuenta">
+          <i class="fa-solid fa-user"></i> Accounts
+        </button>
+        <button type="button" class="category-btn" data-category="premium">
+          <i class="fa-solid fa-crown"></i> Premium
+        </button>
+        <button type="button" class="category-btn" data-category="api">
+          <i class="fa-solid fa-code"></i> API
+        </button>
+        <button type="button" class="category-btn" data-category="taxibots">
+          <i class="fa-solid fa-taxi"></i> TaxiBots
+        </button>
+        <button type="button" class="category-btn" data-category="herramientas">
+          <i class="fa-solid fa-wrench"></i> Tools
+        </button>
+      </div>
+
+      <p id="faq-search-empty" class="faq-empty">
+        No results. Try different words or switch category.
+      </p>
+      </div>
+
+      <div class="faq-content">
+        <!-- General FAQ -->
+        <div class="faq-category" id="general-faq">
+          <div class="faq-panel-head">
+            <h2>General</h2>
+            <p>What Mia is, how to invite it, and basic support.</p>
+          </div>
+          <div class="mb-6 faq-list">
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>What is Mia?</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>
+                  Mia is a Discord bot specialized in Fortnite that lets you manage your account, view your inventory, set up automatic feeds for your server, and much more. It’s designed to make the Fortnite player experience easier directly from Discord.
+                </p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>How can I add Mia to my server?</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>
+                  You can add Mia to your server by clicking the "Install Mia!" button on our home page or
+                  <a
+                    href="https://discord.com/oauth2/authorize?client_id=903396041401978900"
+                    class="text-blue-400 hover:underline"
+                    >clicking here</a
+                  >. You only need administrator permissions on the server where you want to add it.
+                </p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>What commands can I use with Mia?</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>
+                  Mia offers a wide variety of commands to manage your Fortnite account and improve your server. You can see the full command list on our
+                  <a
+                    href="/en-US/comandos.html"
+                    class="text-blue-400 hover:underline"
+                    >commands page</a
+                  >
+                  or by using the /ayuda command in Discord.
+                </p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>How do I report a Mia bug?</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>
+                  To report a Mia bug or error, join
+                  <a
+                    href="https://discord.gg/miabot"
+                    class="text-blue-400 hover:underline"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    >Mia Lounge</a
+                  >
+                  and open a ticket in the
+                  <a
+                    href="https://discord.com/channels/756859004965093426/1302832897061027940"
+                    class="text-blue-400 hover:underline"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    >support</a
+                  >. You can also comment in
+                  <strong>#💬〕general</strong>. The developers will review it as soon as possible.
+                </p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>Can I change Mia’s language?</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>
+                  Yes, Mia is currently available in several languages. You can see them with the <code>/idiomas</code>. If your language is missing, leave a suggestion in
+                  <strong>#💬〕general</strong> inside
+                  <a
+                    href="https://discord.gg/miabot"
+                    class="text-blue-400 hover:underline"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    >Mia Lounge</a
+                  >.
+                </p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>Is Mia free?</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>Yes. The bot can be used for free with many features. <strong>Mia Premium</strong> unlocks automations, more accounts, and extras; it isn’t required to get started. See the plans on <a href="/en-US/premium.html" class="text-blue-400 hover:underline">Premium</a>.</p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>Where is the support Discord?</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>
+                  The official server is
+                  <a
+                    href="https://discord.gg/miabot"
+                    class="text-blue-400 hover:underline"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    >discord.gg/miabot</a
+                  >
+                  (Mia Lounge). Useful channels:
+                </p>
+                <ul class="mt-2 list-disc space-y-1 pl-5 text-sm">
+                  <li>
+                    <strong>#💬〕general</strong> — community chat
+                  </li>
+                  <li>
+                    <a
+                      href="https://discord.com/channels/756859004965093426/1302832897061027940"
+                      class="text-blue-400 hover:underline"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      >Support</a
+                    >
+                    — tickets and help
+                  </li>
+                  <li>
+                    <a
+                      href="https://discord.com/channels/756859004965093426/1302838662328750121"
+                      class="text-blue-400 hover:underline"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      >Tutorials</a
+                    >
+                    — community guides
+                  </li>
+                </ul>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>What is Mia Launcher?</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p><a href="/en-US/mia-launcher.html" class="text-blue-400 hover:underline">Mia Launcher</a> is the official desktop app: multi-account, STW alerts, shop, and more. If you have Premium on Discord, sign in with Discord in the launcher and it activates without paying again.</p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>What is Mia Checker?</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p><a href="/en-US/checker.html" class="text-blue-400 hover:underline">Mia Checker</a> is a Fortnite account checker on Telegram. It has its own <a href="/en-US/terminos-checker.html" class="text-blue-400 hover:underline">terms</a>. It does not replace the Discord bot.</p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>Where can I see Admin Panel / Lobby Hack codes?</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>On the web: <a href="/en-US/admin-panel.html" class="text-blue-400 hover:underline">Admin Panel</a>. There is also an API route on <a href="/en-US/api.html" class="text-blue-400 hover:underline">API</a> (requires an API key).</p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>What is the Spirits tracker?</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>Web tool to mark and filter Fortnite spirits (Sprites): <a href="/en-US/espiritus.html" class="text-blue-400 hover:underline">Spirits</a>.</p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>Does Mia work in DMs or only in servers?</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>You can use many commands in <strong>DMs with Mia</strong> and in servers where it is invited. Some (such as <code>/dupe</code> or TaxiBots) require the official server <a href="https://discord.gg/miabot" class="text-blue-400 hover:underline" target="_blank" rel="noopener noreferrer">Mia Lounge</a>.</p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>Why don’t slash commands show up for me?</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>Try this:</p>
+      <ol class="mt-2 list-decimal space-y-1 pl-5 text-sm">
+        <li>Type <code>/</code> and wait for Discord to load Mia’s commands.</li>
+        <li>Check that Mia is on the server and has permission to use application commands.</li>
+        <li>If you just invited it, wait a few minutes or restart Discord.</li>
+        <li>On mobile it sometimes takes longer: close and reopen the app.</li>
+      </ol>
+      <p class="mt-2">Full list on <a href="/en-US/comandos.html" class="text-blue-400 hover:underline">Commands</a> or with <code>/ayuda</code>.</p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>Can I use Mia on consoles (PS, Xbox, Switch)?</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>Mia runs on <strong>Discord</strong> (PC, mobile, or web), not inside the console. You can still manage a Fortnite account you play on console: link it with <code>/registrar</code> from Discord and Mia operates via Epic’s API.</p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>Why should I trust Mia?</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>
+      Mia was built to be a bot that is <strong>reliable, transparent, and in Spanish</strong>, especially for the Save the World community. We’ve been on Discord for years; almost everything people ask for is added when it fits without odd risks or bans. If something may be sensitive (for example botlobbies), users are warned and must accept before using it.
+    </p>
+    <p>
+      We don’t sell data or hide shady extras. What is stored is what the bot and launcher need to work, and <strong>you can delete it</strong> con
+      <code>/borrar</code> (including Auth). When you do, you no longer exist inside Mia.
+    </p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>Does Mia sell my data or do shady things behind the scenes?</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>
+      <strong>No.</strong> Data is not sold and there are no hidden cheats. The goal is to help the community (especially STW) with a clear bot and launcher. On Discord we’re quite transparent about how things work. If you have doubts, ask in
+      <strong>#💬〕general</strong> or in
+      <a href="https://discord.com/channels/756859004965093426/1302832897061027940" class="text-blue-400 hover:underline" target="_blank" rel="noopener noreferrer">support</a>.
+    </p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Accounts FAQ -->
+        <div class="faq-category hidden" id="cuenta-faq">
+          <div class="faq-panel-head">
+            <h2>Accounts</h2>
+            <p>
+              Registration, security, and data Mia stores about your Epic account.
+            </p>
+          </div>
+          <div class="mb-6 faq-list">
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>How do I register my account in Mia?</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>
+                  To register your Fortnite account in Mia, use the /registrar command in Discord. Mia will guide you through the rest.
+                </p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>Is it safe to register my account with Mia?</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>
+                  Yes: Mia <strong>does not ask for or store your Epic password</strong>. Registration uses the official authorization flow (device auth) and only stores the technical credentials needed (AccountID, DeviceID, and Secret) in a private database. We don’t sell or share your data. If you want to stop using Mia, delete them with <code>/borrar</code>.
+                </p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>How can I unlink my account from Mia?</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>
+                  To remove your account from Mia, use the /borrar command. Mia will delete your account credentials (or accounts, depending on the option you choose), as well as the generated Auth.
+                </p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>Can my account get banned for using Mia?</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>
+                  There is a risk, though it is very rare. Mia does not use commands that endanger your account. Epic’s Terms of Service clearly prohibit third-party apps, but in the 8 years of this project no account has been banned for using a Discord bot. Our developers and admins use Mia, as do more than 100,000 people.
+                </p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>What data does Mia store about my account?</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>
+                  For Mia to work correctly and access your Fortnite account data, an Auth is generated made of your <strong>AccountID</strong>, <strong>DeviceID</strong> y
+                  <strong>Secret</strong>. These credentials are used to generate an <strong>accessToken</strong>, which then lets Mia interact with the Fortnite API. This data is essential for Mia to operate properly.
+                </p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>Does Mia store my Epic Games password?</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p><strong>No.</strong> We never ask for your Epic password. You only use the device authorization flow; Mia stores device-auth credentials, not your email/password.</p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>Can I have multiple Fortnite accounts in Mia?</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>Yes. The free plan has a limit; with <a href="/en-US/premium.html" class="text-blue-400 hover:underline">Premium</a> you can manage many more. Use <code>/cuentas</code> o <code>/cambiar</code> to switch between them.</p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>What if /registrar fails or Auth expires?</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>
+                  If Auth became invalid (you changed password, closed Epic sessions, etc.), use <code>/borrar</code> and then <code>/registrar</code>.
+                  <strong>Do not use <code>/refrescar</code> for that</strong>: that command only refreshes Fortnite missions/profile, it does not repair the link.
+                </p>
+                <p>
+                  If registration fails again, open a ticket in
+                  <a href="https://discord.com/channels/756859004965093426/1302832897061027940" class="text-blue-400 hover:underline" target="_blank" rel="noopener noreferrer">support</a>.
+                </p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>Can I use Mia without registering an account?</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>Yes, for public things (info commands, the website, etc.). To manage <em>tu</em> Epic account (inventory, dailies, gifts…) you do need <code>/registrar</code>.</p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>What is /refrescar and when should I use it?</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>
+                  <code>/refrescar</code> <strong>does not renew your Auth or “fix” the session</strong>
+                  of Discord/Epic. It <strong>refreshes the Fortnite profile</strong>
+                  (missions / quests) in Save the World and Battle Royale.
+                </p>
+                <p>
+                  Use it if missions or game state in Mia look outdated. Optionally <code>initmm</code> initializes profiles for matchmaking. If your Auth stopped working, use <code>/borrar</code> and then
+                  <code>/registrar</code>.
+                </p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>What if I change my Epic password or sessions are closed?</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>
+                  Mia Auth stops working. Delete the account in Mia with
+                  <code>/borrar</code> and link it again with <code>/registrar</code>.
+                  <code>/refrescar</code> <strong>no</strong> fix this: it only refreshes in-game missions.
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Premium FAQ -->
+        <div class="faq-category hidden" id="premium-faq">
+          <div class="faq-panel-head">
+            <h2>Premium</h2>
+            <p>
+              Discord plans, payments, and exclusive Mia Premium perks.
+            </p>
+          </div>
+          <div class="mb-6 faq-list">
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>What benefits does Mia Premium offer?</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>
+                  Mia Premium offers unique benefits, such as automatic systems that let you automate Fortnite’s most tedious tasks: claiming free llamas, replacing daily missions you don’t like, among many other top features only Mia offers. Also,
+                  <strong>your premium is shared with Mia Launcher</strong>: sign in with Discord in the launcher and it activates without paying again. You can see all benefits on our
+                  <a
+                    href="/en-US/premium.html"
+                    class="text-blue-400 hover:underline"
+                    >Premium page</a
+                  >.
+                </p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>Does Mia Premium also work in Mia Launcher?</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>
+                  <strong>Sí.</strong> Mia Premium is shared between the Discord bot and Mia Launcher. It’s the same subscription: if you already have premium in Mia, sign in with your Discord account in the launcher and it activates automatically—no double payment. See
+                  <a
+                    href="/en-US/mia-launcher.html"
+                    class="text-blue-400 hover:underline"
+                    >Mia Launcher</a
+                  >
+                  and the
+                  <a
+                    href="/en-US/premium.html"
+                    class="text-blue-400 hover:underline"
+                    >Premium plans</a
+                  >.
+                </p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>How can I get Mia Premium?</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>The clearest way:</p>
+                <ol class="mt-2 list-decimal space-y-1 pl-5 text-sm">
+                  <li>
+                    Go to the
+                  <a
+                    href="/en-US/premium.html"
+                    class="text-blue-400 hover:underline"
+                      >Premium page</a
+                    >
+                    and choose a plan.
+                  </li>
+                  <li>
+                    Or join
+                    <a
+                      href="https://discord.gg/miabot"
+                      class="text-blue-400 hover:underline"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      >Mia Lounge</a
+                    >
+                    and buy / activate Premium from there.
+                  </li>
+                  <li>
+                    If you boost the Discord server, you get some booster perks (not the full paid plan).
+                  </li>
+                </ol>
+                <p class="mt-2">
+                  Plans from <strong>5€/mes</strong>. Premium is also shared with
+                  <a
+                    href="/en-US/mia-launcher.html"
+                    class="text-blue-400 hover:underline"
+                    >Mia Launcher</a
+                  >.
+                </p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span
+                  >Can I transfer my Premium subscription to another user?</span
+                >
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>
+                  No, Premium subscriptions are tied to the buyer’s Discord account and cannot be transferred to another account. However, if you lose access to your account, you can request a Premium subscription transfer.
+                </p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>What payment methods can I use?</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>
+                  We currently accept PayPal, Revolut, and also cryptocurrencies: Bitcoin, Litecoin, and USDT.
+                </p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>Can I request a refund?</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>
+                  No, once Premium is purchased refunds are not available. If you open a dispute or refund request through PayPal, you will be permanently banned from Mia and the server.
+                </p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>Where do I get Premium?</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>En <a href="/en-US/premium.html" class="text-blue-400 hover:underline">miadsc.xyz/en-US/premium</a> or from <a href="https://discord.gg/miabot" class="text-blue-400 hover:underline" target="_blank" rel="noopener noreferrer">Mia Lounge</a>. Choose a plan, pay, and Premium links to your Discord (also works for Mia Launcher).</p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>How much does Mia Premium cost?</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>The user plan starts at <strong>5€/mes</strong>. There are more options on the <a href="/en-US/premium.html" class="text-blue-400 hover:underline">Premium page</a>.</p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>What happens when my Premium expires?</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>You return to the free plan: you lose automations and higher limits. Server feeds or custom images may fall back to Mia defaults. Your registered accounts are not deleted automatically.</p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>Is Discord Boost the same as paid Premium?</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>Not exactly. Boosting Mia Lounge gives booster perks, but <strong>does not replace</strong> the full paid Premium plan. Details on <a href="/en-US/premium.html" class="text-blue-400 hover:underline">Premium</a>.</p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>Is Premium per user or per server?</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p><strong>Per Discord user</strong> (your personal Premium). Some server perks (feeds, custom images) are configured in the guild with <code>/config servidor</code> (server owner) and depend on the configurator having user Premium under current rules. Details on <a href="/en-US/premium.html" class="text-blue-400 hover:underline">Premium</a>.</p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>Can I set up feeds (shop, alerts) in my Discord?</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>Yes. On your server, the owner can use <code>/config servidor</code> for feed channels (shop, alerts, etc.). With Premium you can customize more (e.g. footer/image). Without Premium, Mia uses defaults.</p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>What is Lifetime or other long plans?</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>Besides month-to-month there are longer options (for example annual lifetime or others depending on the offer). See prices and what’s included on <a href="/en-US/premium.html" class="text-blue-400 hover:underline">Premium</a>; if unsure, ask in <a href="https://discord.com/channels/756859004965093426/1302832897061027940" class="text-blue-400 hover:underline" target="_blank" rel="noopener noreferrer">support</a>.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- API FAQ -->
+        <div class="faq-category hidden" id="api-faq">
+          <div class="faq-panel-head">
+            <h2>API</h2>
+            <p>
+              Keys, rate limits, and API Premium plan for developers.
+            </p>
+          </div>
+          <div class="mb-6 faq-list">
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>What is Mia’s public API?</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>
+                  It’s a REST API that exposes Fortnite data managed by Mia: Battle Royale shop, Save the World resources and alerts, Epic account status, and more. Full documentation is on the <a href="/en-US/api.html">API page</a>.
+                </p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>How do I get an API key?</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>
+                  In Discord, use the <code>/api crear</code>. Mia will generate your private key and tell you how to use it in the <code>Authorization</code>. Keep it somewhere safe: don’t share it or upload it to public repositories.
+                </p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span
+                  >What’s the difference between the free API and API Premium?</span
+                >
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>
+                  The free API has a per-minute request limit suitable for personal use or testing.
+                  <strong>API Premium</strong> (€5/month) raises the limit to
+                  <strong>360 req/min</strong> and includes custom shop images for BR and STW. See details and comparison on
+                  <a href="/en-US/premium.html">Premium</a>.
+                </p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span
+                  >Do I need to register my Fortnite account to use the API?</span
+                >
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>
+                  It depends on the endpoint. Routes like the BR shop or STW alerts don’t require linking your account. Epic account endpoints (e.g. gifts or online) do require registering the account in Mia with <code>/registrar</code>.
+                </p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>Where do I report API errors or limits?</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>
+                  Join
+                  <a
+                    href="https://discord.gg/miabot"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    class="text-blue-400 hover:underline"
+                    >Mia Lounge</a
+                  >
+                  and open a ticket in
+                  <a
+                    href="https://discord.com/channels/756859004965093426/1302832897061027940"
+                    class="text-blue-400 hover:underline"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    >support</a
+                  >, or write it in <strong>#💬〕general</strong>. Include the endpoint, response code, and if possible a request example (without your full key).
+                </p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>Do I need an API key to use the API?</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p><strong>Sí.</strong> Public API routes require an API key (<code>Authorization: Bearer mia_…</code> or header <code>api-key</code>). Create it with <code>/api crear</code>. Premium is only required on routes marked Premium (e.g. custom shop images).</p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>Where is the API documentation?</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>En <a href="/en-US/api.html" class="text-blue-400 hover:underline">miadsc.xyz/en-US/api</a>: routes, examples, and authentication.</p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>Can I share my API key?</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p><strong>No.</strong> It’s private, like a password. Whoever has it can use your quota and access what your plan allows. Don’t upload it to GitHub, public screenshots, or chats.</p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>What if my API key is stolen or I want to revoke it?</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>
+                  Check your key with <code>/api revisar</code>. To invalidate the old one, create a new one with <code>/api crear</code> (stop using the old one). If you need staff help, open a ticket in
+                  <a href="https://discord.com/channels/756859004965093426/1302832897061027940" class="text-blue-400 hover:underline" target="_blank" rel="noopener noreferrer">support</a>.
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+
+        <div class="faq-category hidden" id="herramientas-faq">
+          <div class="faq-panel-head">
+            <h2>Tools</h2>
+            <p>Launcher, Checker, STW alerts, profile, Admin Panel, and more on the web.</p>
+          </div>
+          <div class="mb-6 faq-list">
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>Where do I download Mia Launcher? Are updates required?</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>Download the Windows installer from <a href="/en-US/mia-launcher.html#descargar" class="text-blue-400 hover:underline">Mia Launcher</a> (GitHub Releases). In production builds updates are usually <strong>mandatory</strong> after signing in: install them to keep using the app.</p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>Is Mia Checker the same as the Discord bot?</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p><strong>No.</strong> <a href="/en-US/checker.html" class="text-blue-400 hover:underline">Mia Checker</a> is a separate Telegram product (account reports). The Mia bot lives on Discord. They share brand and ecosystem, but they are not the same service or the same terms.</p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>Is it safe / legal to use Mia Checker to buy or sell?</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>Checker helps review accounts more safely than sharing passwords blindly, but <strong>buying/selling accounts can violate Epic’s rules</strong> and carries risk. Read the <a href="/en-US/terminos-checker.html" class="text-blue-400 hover:underline">Mia Checker terms</a> and use it at your own risk.</p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>Where do I see today’s STW alerts?</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>On the web: <a href="/en-US/alertas.html" class="text-blue-400 hover:underline">Alerts</a>. You can also use feeds in your Discord or commands/alerts inside Mia depending on your setup.</p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>How does the public STW profile work?</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>The <a href="/en-US/perfil.html" class="text-blue-400 hover:underline">STW Profile</a> queries the public Fortnite profile (level, achievements, etc.) by name or accountId. If the player’s profile is private in Fortnite, it can’t be viewed.</p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>Are Admin Panel codes official from Epic?</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>They are codes from the <strong>Admin Panel / Lobby Hack</strong> for the season, listed by Mia for easy lookup. <strong>Mia is not affiliated with Epic Games</strong>. Redeem them only in-game / via the official Fortnite flow. List on <a href="/en-US/admin-panel.html" class="text-blue-400 hover:underline">Admin Panel</a>.</p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>Is Mia Checker the safest checker in Spanish?</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>
+      We can’t claim “the safest in the world” as such. There are English checkers and several with poor reputations; that’s why <strong>Mia Checker</strong>: to offer something reliable to the Spanish-speaking community (and the English one too).
+    </p>
+    <p>
+      The process is transparent: credentials are generated, the account is reviewed, and
+      <strong>then the credential and auth are deleted</strong> created via Epic’s API so nothing remains stored. Mia Checker doesn’t sell data or hide anything behind the scenes.
+    </p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>Does Mia Checker store my data or Epic Auth?</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>
+      <strong>Check Auth is not stored.</strong> After reviewing the account, the generated credential and auth are deleted. That’s different from the Mia Discord bot, where data needed to operate is kept and the user can delete it anytime with
+      <code>/borrar</code>. Also read the
+      <a href="/en-US/terminos-checker.html" class="text-blue-400 hover:underline">Mia Checker terms</a>.
+    </p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- TaxiBots FAQ -->
+        <div class="faq-category hidden" id="taxibots-faq">
+          <div class="faq-panel-head">
+            <h2>TaxiBots</h2>
+            <p>Access to STW missions and Battle Royale bot lobbies.</p>
+          </div>
+          <div class="mb-6 faq-list">
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>What are TaxiBots and what are they for?</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>
+                  TaxiBots are automated accounts that let you join Save the World (STW) missions at a higher power level than yours. You can also use them tor inter Battle Royale (BR) bot lobbies and play with bots.
+                </p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>How can I use a TaxiBot?</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>
+                  To use the TaxiBots system:
+                </p>
+                <ol class="mt-2 list-decimal space-y-1 pl-5 text-sm">
+                  <li>Join the <a href="https://discord.gg/miabot" class="text-blue-400 hover:underline" target="_blank" rel="noopener noreferrer">Mia Lounge</a>.</li>
+                  <li>Register your account in Mia with <code>/registrar</code>.</li>
+                  <li>Add your account to the taxis with <code>/taxibot (activar)</code>.</li>
+                  <li>Add a bot.</li>
+                  <li>Invite a taxi.</li>
+                  <li>Set your match to don’t fill and play!</li>
+                </ol>
+                <p class="mt-2">
+                  Full guide on
+                  <a
+                    href="/en-US/taxibots.html"
+                    class="text-blue-400 hover:underline"
+                    >taxibots</a
+                  >.
+                </p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>Is it safe to use TaxiBots?</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>
+                  Yes, TaxiBots are real accounts connected to an automated client. It’s like playing with a real person, so you shouldn’t have problems using them.
+                </p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>Do I need Premium to use TaxiBots?</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p>You can start with the basic flow in Mia Lounge; Premium expands perks and availability. Guide on <a href="/en-US/taxibots.html" class="text-blue-400 hover:underline">TaxiBots</a>.</p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <button type="button" class="faq-question" aria-expanded="false">
+                <span>Are TaxiBots and botlobbies the same?</span>
+                <span class="faq-arrow" aria-hidden="true"></span>
+              </button>
+              <div class="faq-answer hidden">
+                <p><strong>No.</strong> TaxiBots are mainly for Save the World missions. Battle Royale bot lobbies are a separate system. More info on <a href="/en-US/taxibots.html" class="text-blue-400 hover:underline">taxibots</a>.</p>
+              </div>
+            </div>
+
+          </div>
+        </div>
+      </div>
+
+      <section class="faq-cta">
+        <h2>Still have questions?</h2>
+        <p>
+          If you can’t find the answer, the team and community can help on Discord.
+        </p>
+        <a
+          href="https://discord.gg/miabot"
+          class="faq-cta-btn"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <i class="fa-brands fa-discord"></i> Join the support server
+        </a>
+      </section>

@@ -1,0 +1,179 @@
+{
+  "meta": {
+    "title": "Mia · STWプロフィール",
+    "description": "Miaが生成するSave the World公開プロフィール：レベル、実績、MSK、リソース、ロードアウト、ベンチャーズ、Fortniteアカウントの進捗を共有・確認。",
+    "ogTitle": "Mia · STWプロフィール",
+    "ogDescription": "Miaが生成するSave the World公開プロフィール：レベル、実績、MSK、リソース、ロードアウト、ベンチャーズ、Fortniteアカウントの進捗を共有・確認。"
+  },
+  "hero": {
+    "title": "プレイヤーを検索",
+    "subtitle": "上にEpicの表示名を入力してプロフィールを表示。"
+  },
+  "badges": {
+    "aria": "Miaバッジ",
+    "registered": "Miaに登録済み",
+    "premium": "Mia Premium",
+    "booster": "Booster",
+    "founder": "ファウンダー"
+  },
+  "tabs": {
+    "aria": "プロフィールセクション",
+    "resumen": "概要",
+    "logros": "実績",
+    "msk": "神話のストームキング",
+    "investigacion": "リサーチ",
+    "recursos": "リソース",
+    "equipamiento": "装備",
+    "aventuras": "ベンチャーズ"
+  },
+  "resumen": {
+    "research": "リサーチ",
+    "book": "コレクションブックと追加",
+    "achievements": "実績ハイライト"
+  },
+  "logros": {
+    "banners": "バナーチャレンジ"
+  },
+  "msk": {
+    "weekly": "週間ミッション",
+    "mythics": "神話武器"
+  },
+  "recursos": {
+    "perks": "パーク:",
+    "elementals": "属性パーク:",
+    "flux": "フラックス＆レジェンドフラックス:",
+    "evolution": "進化素材:",
+    "xp": "経験値:",
+    "manuals": "マニュアル:",
+    "superchargers": "スーパーチャージャー:",
+    "tickets": "チケット:",
+    "misc": "その他:",
+    "boosts": "ブースト:"
+  },
+  "loadout": {
+    "empty": "このプロフィールには公開ロードアウトがありません。"
+  },
+  "aventuras": {
+    "empty": "まだベンチャーズをプレイしていません",
+    "title": "ベンチャーズ"
+  },
+  "runtime": {
+    "loading": "読み込み中",
+    "capturing": "キャプチャ中",
+    "captureError": "スクリーンショットを作成できませんでした。もう一度お試しください。",
+    "loadFailedTitle": "読み込めませんでした",
+    "updatedAt": "更新 {date}",
+    "yes": "はい",
+    "no": "いいえ",
+    "errors": {
+      "generic": "公開プロフィールを取得できませんでした。もう一度お試しください。",
+      "private": "このプロフィールは非公開です。プレイヤーに Fortnite の設定 → アカウントとプライバシー → 公開プロフィール で公開するよう依頼してください。",
+      "notFound": "その Epic Games アカウントは見つかりませんでした。",
+      "apiDown": "Mia API に接続できませんでした。ローカルの場合はボットと API（ポート 25665）が起動しているか確認してください。",
+      "loadFailed": "プロフィールを読み込めませんでした",
+      "miaApiMissing": "MiaApi が利用できません"
+    },
+    "stats": {
+      "commanderLevel": "指揮官レベル",
+      "daysLoggedIn": "ログイン日数",
+      "msk": "MSK",
+      "notPlayed": "未プレイ"
+    },
+    "loadout": {
+      "equipments": "装備",
+      "active": "アクティブ",
+      "heroesCount": "{count} ヒーロー",
+      "teamPerk": "チームパーク",
+      "supportTeam": "サポートチーム",
+      "gadgets": "ガジェット",
+      "hero": "ヒーロー",
+      "player": "プレイヤー",
+      "common": "コモン",
+      "download": "カードをダウンロード"
+    },
+    "achievements": {
+      "gnomes": "ノームを破壊",
+      "survivors": "守護天使",
+      "chests": "開いたチェスト",
+      "playWithOthers": "他の人とプレイ",
+      "builds": "有能な建設者",
+      "mistMonsters": "ミストモンスター撃破",
+      "zones": "完了したゾーン"
+    },
+    "research": {
+      "offense": "攻撃",
+      "fortitude": "体力",
+      "resistance": "耐性",
+      "technology": "技術",
+      "points": "研究ポイント"
+    },
+    "book": {
+      "level": "コレクションブックのレベル",
+      "mtxSpent": "ブックへの消費",
+      "revisions": "改訂",
+      "matches": "マッチ"
+    },
+    "msk": {
+      "completions": "MSK クリア数",
+      "weeklyNone": "ウィークリーミッションはありません。",
+      "scHero": "ヒーロースーパーチャージャー",
+      "scTrap": "トラップスーパーチャージャー",
+      "scWeapon": "武器スーパーチャージャー",
+      "scSurvivor": "サバイバースーパーチャージャー"
+    },
+    "ventures": {
+      "ends": "終了: {date}",
+      "levelXp": "レベル {level} · {xp} XP",
+      "nextLevel": "次のレベル ({level}) — {progress}/{span} ({pct}%)",
+      "xpToMax": "レベル 50 まであと {xp} ({pct}%) {icon}",
+      "nextZone": "次のゾーン: {power}",
+      "nextReward": "次の報酬 ({level}): {text}",
+      "nextTopReward": "次のトップ報酬 ({level}): {text}",
+      "maxLevel": "ベンチャーズの最大レベルに到達",
+      "emptyMissions": "公開プロフィールに表示できるアクティブなミッションはありません。"
+    },
+    "resources": {
+      "mythicFury": "ストームキングの怒り",
+      "mythicOnslaught": "ストームキングの猛攻",
+      "mythicRavager": "ストームキングの破壊者",
+      "mythicScourge": "ストームキングの災厄",
+      "mythicWrath": "ストームキングの激怒",
+      "perkLegendary": "伝説のパークアップ！",
+      "perkEpic": "エピックのパークアップ！",
+      "perkRare": "レアのパークアップ！",
+      "perkUncommon": "アンコモンのパークアップ！",
+      "fire": "炎",
+      "water": "水",
+      "nature": "自然",
+      "fluxLegendary": "伝説のフラックス",
+      "fluxEpic": "エピックのフラックス",
+      "fluxRare": "レアのフラックス",
+      "generic": "パークアップ",
+      "rain": "純正な雨粒",
+      "lightning": "ボトルの中の稲妻",
+      "eye": "嵐の目",
+      "shard": "ストームシャード",
+      "schematicXp": "設計図 XP",
+      "survivorXp": "サバイバー XP",
+      "heroXp": "ヒーロー XP",
+      "ventureXp": "ベンチャーズ XP",
+      "manualSurvivor": "サバイバーマニュアル",
+      "manualSchematic": "設計図マニュアル",
+      "manualTraps": "トラップマニュアル",
+      "scSurvivors": "サバイバースーパーチャージャー",
+      "scHeroes": "ヒーロースーパーチャージャー",
+      "scWeapons": "武器スーパーチャージャー",
+      "scTraps": "トラップスーパーチャージャー",
+      "evolutionChip": "進化チップ",
+      "voucherWeapon": "武器バウチャー",
+      "voucherHero": "ヒーローバウチャー",
+      "eventTickets": "イベントチケット",
+      "gold": "ゴールド",
+      "llamas": "ミニラマ",
+      "legendaryLlamas": "伝説のラマ",
+      "xray": "X線チケット",
+      "boostPersonal": "XPブースト",
+      "boostTeam": "味方 XPブースト"
+    }
+  }
+}

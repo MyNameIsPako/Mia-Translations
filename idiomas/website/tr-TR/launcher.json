@@ -1,0 +1,97 @@
+{
+  "meta": {
+    "title": "Mia · Mia Launcher",
+    "description": "Mia Launcher, Fortnite için resmi masaüstü uygulamasıdır: çoklu hesap, STW uyarıları, mağaza, süper şarjlar, Mia Checker ve Discord botuyla paylaşılan Premium avantajları.",
+    "ogTitle": "Mia · Mia Launcher",
+    "ogDescription": "Mia Launcher, Fortnite için resmi masaüstü uygulamasıdır: çoklu hesap, STW uyarıları, mağaza, süper şarjlar, Mia Checker ve Discord botuyla paylaşılan Premium avantajları."
+  },
+  "hero": {
+    "kicker": "Resmi launcher · Windows",
+    "title": "Mia Launcher",
+    "subtitle": "STW uyarıları, hesaplar ve Mia topluluğu",
+    "lead": "Mia’nın resmi launcher’ıyla PC’den Fortnite’ı yönet: miadsc.xyz’deki gibi STW görev uyarıları, birden fazla Epic hesabı, PDF dışa aktarmalı Mia Checker, süper şarjlar, STW mağazası, AutoKick, lookup ve web ile Discord’a hızlı erişim. Discord ile giriş yapınca Discord’daki Mia Premium’un launcher ile paylaşılır.",
+    "altVisual": "STW uyarıları, yan menü ve görev paneliyle Mia Launcher arayüzü",
+    "stats": {
+      "version": "Sürüm",
+      "multiAccount": "Epic çoklu hesap",
+      "languages": "6 dil",
+      "alerts": "Gerçek zamanlı STW uyarıları"
+    },
+    "actions": {
+      "download": "İndir …",
+      "support": "Destek"
+    }
+  },
+  "shareBanner": {
+    "aria": "Mia ile paylaşılan Premium",
+    "title": "Mia ile paylaşılan Premium",
+    "text": "Önemli: Discord’da Mia Premium’un varsa aynı abonelik Mia Launcher’da da etkinleşir. Mia hesabınla giriş yap ve launcher’ın premium özelliklerini yeniden ödemeden kullan.",
+    "link": "Mia Premium planlarını gör",
+    "altLauncher": "Mia Launcher",
+    "altMia": "Mia botu"
+  },
+  "jump": {
+    "aria": "Sayfa bölümleri",
+    "features": "Özellikler",
+    "changelog": "Yenilikler",
+    "download": "İndir"
+  },
+  "features": {
+    "title": "Dahil olan her şey",
+    "lead": "Alanlara göre yan menü, Discord girişi ve uygulamaya gömülü Mia API.",
+    "items": [
+      {
+        "title": "STW Uyarıları",
+        "text": "miadsc.xyz’deki gibi V-Bucks, hayatta kalanlar, PL 160, kahramanlar ve daha fazlasına göre filtrele. Günün görselini indir."
+      },
+      {
+        "title": "Mia Checker",
+        "text": "Profil, alışverişler, locker, STW, Epic arkadaşları ve bölüm veya tam rapor PDF dışa aktarma ile tam hesap raporu."
+      },
+      {
+        "title": "STW süper şarjları",
+        "text": "Envanteri kontrol et, kişisel süper şarjları kullan ve otomatik tamamlama ile alıcı profiliyle arkadaş süper şarjı gönder."
+      },
+      {
+        "title": "STW ve Battle Royale mağazası",
+        "text": "STW rotasyonunun tamamını maksimum adetle al, haftalık geri sayım, BR mağazası ve locker erişimi."
+      },
+      {
+        "title": "Gruplar ve AutoKick",
+        "text": "Hesaba göre at, talep et, malzeme aktar ve davet et. Başlıkta günlük ödül geçmişi."
+      },
+      {
+        "title": "Lookup ve çoklu hesap",
+        "text": "Ada veya ID ile oyuncu ara (genel STW profili ve loadout’lar). Kenar çubuğundan Epic hesap değiştir."
+      }
+    ]
+  },
+  "changelog": {
+    "title": "Son güncellemeler",
+    "lead": "Launcher’daki son değişiklikler. Şu an yayımlanan sürüm ….",
+    "loading": "Yükleniyor"
+  },
+  "cta": {
+    "title": "Mia Launcher’ı indir",
+    "text": "Otomatik güncellemeli Windows yükleyicisi. Discord ile giriş yap (resmi Mia uygulaması) ve Epic hesaplarını bağlayarak başla.",
+    "github": "GitHub Releases",
+    "home": "Ana sayfaya dön",
+    "tags": [
+      "Windows",
+      "ES · EN · DE · FR · PT-BR · TR",
+      "Otomatik güncellemeler"
+    ]
+  },
+  "overlay": {
+    "close": "Kapat",
+    "altFullscreen": "Tam ekran Mia Launcher"
+  },
+  "disclaimer": "Not affiliated with Epic Games · Mia ekosisteminin resmi launcher’ı",
+  "ui": {
+    "downloadWithVersion": "{version} indir",
+    "changelogEmpty": "Henüz yayınlanmış bir changelog yok.",
+    "changelogError": "Launcher sürümü yüklenemedi.",
+    "changelogLoading": "Güncellemeler yükleniyor",
+    "recent": "Yeni"
+  }
+}

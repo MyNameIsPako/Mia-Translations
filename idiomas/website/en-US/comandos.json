@@ -1,0 +1,66 @@
+{
+  "meta": {
+    "title": "Mia · Commands",
+    "description": "Full catalog of Mia Discord commands: Battle Royale, Save the World, Epic accounts, gifts, shop, expeditions, security, and utilities. Search by name or category and learn how to use each one.",
+    "ogTitle": "Mia · Commands",
+    "ogDescription": "Full catalog of Mia Discord commands: Battle Royale, Save the World, Epic accounts, gifts, shop, expeditions, security, and utilities. Search by name or category and learn how to use each one."
+  },
+  "hero": {
+    "title": "Mia commands",
+    "subtitle": "The full list in one place",
+    "lead": "Browse slash commands and prefix commands to manage your Fortnite account, Save the World, Battle Royale, Premium, and bot utilities."
+  },
+  "stats": {
+    "total": "Total",
+    "slash": "Slash",
+    "prefix": "Prefix",
+    "premium": "Premium"
+  },
+  "legend": {
+    "aria": "Tag legend",
+    "label": "Tags:",
+    "tags": {
+      "slash": "Slash",
+      "prefix": "Prefix",
+      "auth": "Auth",
+      "premium": "Premium",
+      "ephemeral": "Ephemeral",
+      "mia": "Mia Lounge",
+      "server": "Server"
+    }
+  },
+  "toolbar": {
+    "searchPlaceholder": "Search by name, description, or subcommand…",
+    "filterAria": "Filter commands",
+    "chips": {
+      "all": "All",
+      "slash": "Slash",
+      "prefix": "Prefix",
+      "premium": "Premium",
+      "auth": "Auth",
+      "ephemeral": "Ephemeral",
+      "mia": "Mia Lounge",
+      "server": "Server"
+    }
+  },
+  "metaLine": "{n} commands shown",
+  "loading": "Loading",
+  "notice": "Commands tagged Mia Lounge only work on the official server discord.gg/miabot.",
+  "cta": {
+    "title": "Can’t find what you need?",
+    "text": "Check the FAQ, join the support Discord, or unlock Premium commands.",
+    "faq": "View FAQ",
+    "discord": "Mia Discord",
+    "premium": "Mia Premium"
+  },
+  "metaShown": "commands shown",
+  "ui": {
+    "loading": "Loading commands",
+    "empty": "No commands match your search or filter.",
+    "loadError": "Could not load commands. Please try again later.",
+    "loadErrorShort": "Could not load commands.",
+    "showSubs": "Show subcommands",
+    "hideSubs": "Hide subcommands",
+    "subs": "{n} subcommands"
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "meta": {
+    "title": "Mia · API",
+    "description": "Dokumentation der öffentlichen Mia-API für Fortnite und Discord: BR-Shop, STW-Alarme, Assets, Admin-Panel-Codes und mehr. Beispiele in JavaScript, TypeScript, Python und Java mit klarer Auth und Limits.",
+    "ogTitle": "Mia · API",
+    "ogDescription": "Dokumentation der öffentlichen Mia-API für Fortnite und Discord: BR-Shop, STW-Alarme, Assets, Admin-Panel-Codes und mehr. Beispiele in JavaScript, TypeScript, Python und Java mit klarer Auth und Limits."
+  },
+  "hero": {
+    "title": "API-Dokumentation",
+    "lead": "Integriere Fortnite und Save the World in deinen Bot. Jede Route braucht deinen Mia-API-Key. Unterstützte Sprachen · Standard es-ES .",
+    "links": [
+      "Unterstützte Sprachen"
+    ],
+    "copyBaseUrl": "Basis-URL kopieren",
+    "stats": [
+      "19 öffentliche Routen"
+    ]
+  },
+  "nav": {
+    "mobile": [
+      "Zugang",
+      "Sprachen",
+      "Pläne",
+      "Konto",
+      "BR",
+      "STW"
+    ],
+    "sidebar": {
+      "title": "Auf dieser Seite",
+      "groups": [
+        {
+          "label": "Allgemein",
+          "links": [
+            "Authentifizierung",
+            "Sprachen",
+            "Pläne und Limits"
+          ],
+          "subLabels": []
+        },
+        {
+          "label": "API-Routen",
+          "links": [
+            "Routen ansehen"
+          ],
+          "subLabels": []
+        },
+        {
+          "label": "Epic-Konto",
+          "links": [
+            "Bereich ansehen",
+            "Spieler online",
+            "Verbleibende Geschenke"
+          ],
+          "subLabels": []
+        },
+        {
+          "label": "Battle Royale",
+          "links": [
+            "Bereich ansehen",
+            "BR-Shop",
+            "BR-Bild",
+            "AES-Schlüssel",
+            "Codes"
+          ],
+          "subLabels": [
+            "Shop",
+            "AES",
+            "Admin Panel"
+          ]
+        },
+        {
+          "label": "Save the World",
+          "links": [
+            "Bereich ansehen",
+            "STW-Asset",
+            "Held",
+            "Schema",
+            "Überlebender",
+            "Katalog",
+            "Alle Alarme",
+            "V-Bucks",
+            "Nach Kategorie",
+            "STW-Shop",
+            "STW-Bild"
+          ],
+          "subLabels": [
+            "Assets",
+            "Alarme",
+            "Shop"
+          ]
+        }
+      ]
+    }
+  },
+  "sections": {
+    "sec-auth": "Authentifizierung",
+    "sec-locales": "Sprachen",
+    "sec-pricing": "Pläne und Limits",
+    "sec-cuenta": "Epic-Konto",
+    "sec-br": "Battle-Royale-Shop",
+    "sec-br-aes": "AES-Schlüssel",
+    "sec-br-admin": "Admin Panel",
+    "sec-stw-assets": "STW-Assets",
+    "sec-stw-alertas": "STW-Alarme",
+    "sec-stw-tienda": "STW-Shop"
+  },
+  "bodyInclude": "api",
+  "ui": {
+    "localeTitle": "Sprachen",
+    "localeQuery": "Optionaler Query: <code>locale</code>, <code>lang</code> oder <code>idioma</code> · Standard <strong>es-ES</strong>",
+    "localeSeeAll": "Alle Sprachen anzeigen",
+    "routesCount": "{count} Routen",
+    "routesFiltered": "{visible} von {total} Routen"
+  }
+}

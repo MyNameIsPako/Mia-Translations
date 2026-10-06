@@ -1,0 +1,66 @@
+{
+  "meta": {
+    "title": "Mia · Befehle",
+    "description": "Vollständiger Katalog der Mia-Discord-Befehle: Battle Royale, Save the World, Epic-Konten, Geschenke, Shop, Expeditionen, Sicherheit und Utilities. Nach Name oder Kategorie suchen und Nutzung lernen.",
+    "ogTitle": "Mia · Befehle",
+    "ogDescription": "Vollständiger Katalog der Mia-Discord-Befehle: Battle Royale, Save the World, Epic-Konten, Geschenke, Shop, Expeditionen, Sicherheit und Utilities. Nach Name oder Kategorie suchen und Nutzung lernen."
+  },
+  "hero": {
+    "title": "Mia-Befehle",
+    "subtitle": "Die ganze Liste an einem Ort",
+    "lead": "Durchsuche Slash- und Prefix-Befehle, um dein Fortnite-Konto, Save the World, Battle Royale, Premium und Bot-Utilities zu verwalten."
+  },
+  "stats": {
+    "total": "Gesamt",
+    "slash": "Slash",
+    "prefix": "Präfix",
+    "premium": "Premium"
+  },
+  "legend": {
+    "aria": "Tag-Legende",
+    "label": "Tags:",
+    "tags": {
+      "slash": "Slash",
+      "prefix": "Präfix",
+      "auth": "Konto",
+      "premium": "Premium",
+      "ephemeral": "Ephemer",
+      "mia": "Mia Lounge",
+      "server": "Server"
+    }
+  },
+  "toolbar": {
+    "searchPlaceholder": "Nach Name, Beschreibung oder Unterbefehl suchen…",
+    "filterAria": "Befehle filtern",
+    "chips": {
+      "all": "Alle",
+      "slash": "Slash",
+      "prefix": "Präfix",
+      "premium": "Premium",
+      "auth": "Konto",
+      "ephemeral": "Ephemer",
+      "mia": "Mia Lounge",
+      "server": "Server"
+    }
+  },
+  "metaLine": "{n} Befehle angezeigt",
+  "loading": "Wird geladen",
+  "notice": "Mit Mia Lounge markierte Befehle funktionieren nur auf dem offiziellen Server discord.gg/miabot.",
+  "cta": {
+    "title": "Nicht gefunden, was du brauchst?",
+    "text": "Schau in die FAQ, tritt dem Support-Discord bei oder schalte Premium-Befehle frei.",
+    "faq": "FAQ ansehen",
+    "discord": "Mia Discord",
+    "premium": "Mia Premium"
+  },
+  "metaShown": "Befehle angezeigt",
+  "ui": {
+    "loading": "Befehle werden geladen",
+    "empty": "Keine Befehle passen zu deiner Suche oder dem Filter.",
+    "loadError": "Befehle konnten nicht geladen werden. Bitte später erneut versuchen.",
+    "loadErrorShort": "Befehle konnten nicht geladen werden.",
+    "showSubs": "Unterbefehle anzeigen",
+    "hideSubs": "Unterbefehle ausblenden",
+    "subs": "{n} Unterbefehle"
+  }
+}

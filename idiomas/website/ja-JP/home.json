@@ -1,0 +1,173 @@
+{
+  "meta": {
+    "title": "Mia · Fortnite向けDiscordボット",
+    "description": "MiaはFortnite向けのDiscordボットです。Epicアカウント、Battle RoyaleとSave the World、アラート、TaxiBots、公開API、Premium、スピリッツ、管理パネル、Mia Launcherなどを提供します。"
+  },
+  "hero": {
+    "title": "Mia、あなたのFortniteボット",
+    "subtitle": "DiscordとTelegramで利用可能",
+    "lead": "アカウント管理、STW自動化、アラート確認、TaxiBotsの利用、フィード・コマンド・Mia公開APIでサーバーを強化。",
+    "install": "Miaを導入",
+    "support": "サポートサーバー",
+    "alt": "Mia",
+    "trust": "コミュニティで認知されたクリエイターにも支持され、多言語対応で誰でも障壁なく使えます。"
+  },
+  "stats": {
+    "communities": "コミュニティ",
+    "users": "ユーザー",
+    "accounts": "登録アカウント"
+  },
+  "quick": {
+    "title": "Miaを探す",
+    "lead": "よく使うMiaの機能へ、すぐにたどり着けるように整理しています。",
+    "alertas": {
+      "title": "STWアラート",
+      "desc": "V-Bucks、サバイバー、EVO、本日のミッション。"
+    },
+    "comandos": {
+      "title": "コマンド",
+      "desc": "利用可能なスラッシュコマンドとプレフィックスを一覧表示。"
+    },
+    "taxibots": {
+      "title": "TaxiBots",
+      "desc": "MiaのフリートでSTWミッションとボットロビー。"
+    },
+    "api": {
+      "title": "公開API",
+      "desc": "自分のプロジェクトにFortniteとSTWを統合。"
+    },
+    "checker": {
+      "title": "Mia Checker",
+      "desc": "Epicログインなしで、アカウントをすばやく安全に確認。"
+    },
+    "premium": {
+      "title": "Mia Premium",
+      "desc": "限定コマンド、より多くのアカウント、Mia Launcher付き。"
+    },
+    "eyebrow": "ツール"
+  },
+  "servers": {
+    "eyebrow": "コミュニティ",
+    "titleBefore": "利用サーバー · ",
+    "titleBrand": "Mia",
+    "lead": "毎日ボットを信頼しているDiscordコミュニティ。",
+    "members": "メンバー"
+  },
+  "features": {
+    "title": "特徴",
+    "lead": "FortniteアカウントとDiscordサーバー向けにMiaが提供するもの。",
+    "featured": "注目",
+    "auto": {
+      "title": "自動化システム",
+      "body": "<code>/configuraciones</code> で AutoKick、無料ラマ、遠征、リサイクルなどを管理。各システムを切り替え、全アカウントに同期できます。",
+      "alt": "Mia /configuraciones"
+    },
+    "locker": {
+      "title": "Fortniteロッカーを生成",
+      "body": "<code>/locker</code> でフィルター付き画像、V-Bucksとユーロの推定価値、限定/Crewアイテムを確認できます。",
+      "alt": "Mia /locker"
+    },
+    "alerts": {
+      "title": "本日のSTWアラート",
+      "body": "<code>/alertas ver</code> で本日のミッション（V-Bucks、報酬、ゾーン、修飾子）をDiscordと同じように確認。",
+      "alt": "Mia /alertas ver"
+    },
+    "feeds": {
+      "title": "サーバーのMiaフィード",
+      "body": "<code>/config feed lista</code> で毎日のV-Bucks、ショップ、スーパーチャージャーなどをチャンネル・ロール・送信形式付きで設定。",
+      "alt": "Mia /config feed lista"
+    },
+    "security": {
+      "title": "セキュリティパネル",
+      "body": "Miaのトップ機能のひとつ。<code>/seguridad</code> は未知の認証、2FA変更、V-Bucks支出、外部接続を検知します。",
+      "alt": "Mia /seguridad"
+    },
+    "server": {
+      "title": "サーバー設定",
+      "body": "<code>/config servidor</code>（サーバーオーナー）で Mia の言語、プレミアム画像フッター、Discord 招待を設定。",
+      "alt": "Mia /config servidor"
+    }
+  },
+  "developers": {
+    "titleBefore": "開発者 · ",
+    "titleBrand": "Mia",
+    "lead": "ボット、API、ウェブサイトを維持するチーム。",
+    "badges": {
+      "owner": "オーナー & Dev",
+      "dev": "開発者"
+    },
+    "pako": {
+      "name": "Pako",
+      "bio": "Miaのオーナー兼メイン開発者。",
+      "alt": "Pako"
+    },
+    "espiroaka": {
+      "name": "Espiroaka",
+      "bio": "ボット構造、データベース、システム担当。",
+      "alt": "Espiroaka"
+    }
+  },
+  "lounge": {
+    "titleBefore": "チーム · ",
+    "titleBrand": "Mia Lounge",
+    "lead": "公式サーバーのモデレーション、サポート、コミュニティ。",
+    "badges": {
+      "dev": "開発者",
+      "admin": "管理者",
+      "mod": "モデレーター",
+      "design": "デザイナー",
+      "team": "チーム"
+    },
+    "empty": "現在チームメンバーはいません。",
+    "error": "チームを読み込めませんでした。後でもう一度お試しください。"
+  },
+  "credits": {
+    "title": "クレジット",
+    "lead": "Miaの構築と維持を手伝う公式Discordのメンバー。",
+    "loading": "協力者を読み込み中",
+    "collaborators": "協力者",
+    "activeRoles": "有効なロール",
+    "syncDiscord": "Discord同期 · {date}",
+    "empty": "フィルター「{role}」に一致するメンバーはいません。",
+    "rolesAria": "協力者のロール",
+    "errorApi": "Mia APIを初期化できませんでした。",
+    "errorLoad": "クレジットを読み込めませんでした。ボットAPIがオンラインか確認してください。",
+    "roles": {
+      "all": "すべて",
+      "developers": "開発者",
+      "codeHelpers": "コードヘルパー",
+      "bugHunters": "バグハンター",
+      "betaTesters": "ベータテスター",
+      "traductores": "翻訳者",
+      "designers": "デザイナー",
+      "thanks": "スペシャルサンクス"
+    }
+  },
+  "launchers": {
+    "titleBefore": "お探しですか：",
+    "titleBrand": "Launcher",
+    "titleAfter": "？",
+    "lead": "Mia Launcher は Mia エコシステムの公式ランチャーです。STW アラート、マルチアカウントなど。",
+    "mia": {
+      "badge": "公式",
+      "title": "Mia Launcher",
+      "desc": "miadsc.xyz同様のSTWアラート、Epicマルチアカウント、PDF付きMia Checker、ブースター、STWショップ、AutoKick、lookup。WindowsでDiscordログイン。",
+      "premiumNote": "Mia Premiumはボットと共有されます。",
+      "tags": {
+        "alertas": "STWアラート",
+        "multi": "マルチアカウント",
+        "checker": "Mia Checker",
+        "locales": "6言語"
+      },
+      "view": "Mia Launcherを見る",
+      "download": "ダウンロード",
+      "expandAria": "Mia Launcherのスクリーンショットを拡大",
+      "screenshotAlt": "STWアラートとサイドメニュー付きMia Launcherの画面",
+      "alt": "Mia Launcher"
+    }
+  },
+  "overlay": {
+    "fullscreenAlt": "全画面表示",
+    "close": "✕"
+  }
+}

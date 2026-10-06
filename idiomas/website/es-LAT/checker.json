@@ -1,0 +1,202 @@
+{
+  "meta": {
+    "title": "Mia · Mia Checker",
+    "description": "Mia Checker es el checker seguro de cuentas de Fortnite en Telegram: sin iniciar sesión en Epic, multiidioma, informes PDF, opciones premium y herramientas pensadas para vendedores y compradores.",
+    "ogTitle": "Mia · Mia Checker",
+    "ogDescription": "Mia Checker es el checker seguro de cuentas de Fortnite en Telegram: sin iniciar sesión en Epic, multiidioma, informes PDF, opciones premium y herramientas pensadas para vendedores y compradores."
+  },
+  "hero": {
+    "title": "Mia Checker",
+    "subtitle": "El único checker hispano 100% seguro",
+    "lead": "Consulta inventario, STW, exclusivos y más desde Telegram. Sin correo ni contraseña de Epic: verificación rápida en 12 idiomas.",
+    "altVisual": "Mia Checker en Telegram",
+    "stats": {
+      "noLogin": "Sin login Epic",
+      "speed": "Resultados en <1 min",
+      "languages": "12 idiomas",
+      "free": "Gratis en Telegram"
+    },
+    "actions": {
+      "telegram": "Abrir en Telegram",
+      "support": "Soporte"
+    }
+  },
+  "jump": {
+    "aria": "Secciones de la página",
+    "premium": "Premium",
+    "features": "Ventajas",
+    "commands": "Comandos",
+    "languages": "Idiomas",
+    "screenshots": "Capturas",
+    "start": "Empezar"
+  },
+  "premium": {
+    "title": "Mia Checker Premium",
+    "lead": "Personaliza tus imágenes del check y destaca tu marca al vender cuentas. Precios en euros; compra en Discord y activa tu key en el bot.",
+    "advantagesTitle": "⭐ Ventajas",
+    "advantages": [
+      "Logo personalizado en las imágenes del check",
+      "Enlace propio en el pie de las imágenes",
+      "Badge verificado junto a tu nombre",
+      "Nombre resaltado en el pie del check",
+      "Más ventajas en futuras actualizaciones"
+    ],
+    "priceFrom": "Precio desde €7",
+    "keyNote": "Tras comprar recibirás una key ####-####-#### para activar en Telegram → Configuración → Premium.",
+    "plans": {
+      "d30": {
+        "days": "30 días",
+        "price": "€7"
+      },
+      "d90": {
+        "days": "90 días",
+        "price": "€15"
+      },
+      "d180": {
+        "days": "180 días",
+        "price": "€25"
+      },
+      "d365": {
+        "badge": "Mejor valor · −17%",
+        "days": "365 días",
+        "price": "€70",
+        "save": "vs €84 en mensual"
+      },
+      "permanent": {
+        "badge": "♾️ Permanente",
+        "days": "Sin caducidad",
+        "price": "€200",
+        "save": "Un solo pago · premium de por vida"
+      }
+    },
+    "buyDiscord": "Comprar en Discord",
+    "activateTelegram": "Activar key en Telegram"
+  },
+  "features": {
+    "title": "Por qué Mia Checker",
+    "lead": "Diseñado para comprobar cuentas con seguridad, velocidad y soporte en tu idioma.",
+    "items": [
+      {
+        "title": "100% seguro",
+        "text": "No guardamos credenciales ni datos personales de Epic Games."
+      },
+      {
+        "title": "Verificación instantánea",
+        "text": "Resultados completos en menos de un minuto."
+      },
+      {
+        "title": "Sin iniciar sesión",
+        "text": "No necesitas correo ni contraseña de tu cuenta Epic."
+      },
+      {
+        "title": "Soporte multilingüe",
+        "text": "Interfaz en 12 idiomas: español, inglés, portugués, francés, alemán y más."
+      },
+      {
+        "title": "Informes PDF",
+        "text": "Exporta cuenta, locker, STW, transacciones y más en PDFs por categoría."
+      },
+      {
+        "title": "Premium personalizable",
+        "text": "Logo propio, enlace en el pie, badge verificado y planes desde €7."
+      },
+      {
+        "title": "Imágenes del check",
+        "text": "Skins, STW, exclusivos, +1000 días sin tienda, crew y todas las categorías de cosméticos."
+      },
+      {
+        "title": "Mensaje de venta",
+        "text": "Genera el texto listo para anunciar con exclusivos, STW, V-Bucks y formato personalizable."
+      }
+    ]
+  },
+  "languages": {
+    "title": "12 idiomas disponibles",
+    "lead": "Cambia el idioma del bot en Configuración. Mia Checker traduce menús, informes, mensajes de venta y categorías del locker.",
+    "list": [
+      "Español (España)",
+      "Español Latino",
+      "English",
+      "Français",
+      "Português",
+      "Português Brasil",
+      "Italiano",
+      "Deutsch",
+      "Türkçe",
+      "日本語",
+      "简体中文",
+      "Русский"
+    ]
+  },
+  "commands": {
+    "title": "Comandos disponibles",
+    "lead": "Todos los comandos que puedes usar en Telegram para verificar y gestionar cuentas.",
+    "items": [
+      {
+        "code": "/login",
+        "text": "Inicia sesión y verifica tu cuenta de Fortnite."
+      },
+      {
+        "code": "/launch",
+        "text": "Lanza tu cuenta sin correo ni contraseña."
+      },
+      {
+        "code": "/start",
+        "text": "Muestra el menú principal del bot."
+      },
+      {
+        "code": "/eliminar_amigos",
+        "text": "Elimina todos tus amigos de Epic Games."
+      },
+      {
+        "code": "/cambiar_version",
+        "text": "Cambia la versión de las imágenes generadas."
+      },
+      {
+        "code": "/leaderboard",
+        "text": "Consulta la tabla de clasificación de checks."
+      }
+    ]
+  },
+  "gallery": {
+    "title": "Capturas del checker",
+    "lead": "Interfaz real en Telegram: menú, exclusivos, dashboard STW y mensaje de venta automático.",
+    "shots": [
+      {
+        "title": "Menú principal",
+        "text": "Login, launch, ajustes, premium, leaderboard y enlaces.",
+        "alt": "Menú principal de Mia Checker en Telegram"
+      },
+      {
+        "title": "Ítems exclusivos",
+        "text": "Grid con skins OG, pickaxes, gliders, wraps y más cosméticos raros.",
+        "alt": "Cosméticos exclusivos en Mia Checker"
+      },
+      {
+        "title": "Dashboard STW",
+        "text": "Zonas, logros, llamas, materiales, héroes y libro de colección.",
+        "alt": "Dashboard Save the World en Mia Checker"
+      }
+    ]
+  },
+  "sale": {
+    "title": "Mensaje de venta profesional",
+    "text": "Formato [PC] | skins | STW | exclusivos | última partida | VB listo para copiar. Personalizable en Configuración → Formato de venta.",
+    "alt": "Mensaje de venta automático de Mia Checker"
+  },
+  "cta": {
+    "title": "¿Listo para verificar tu cuenta?",
+    "text": "Únete a miles de usuarios que ya confían en Mia Checker. Sin registro, sin complicaciones.",
+    "telegram": "Abrir en Telegram",
+    "support": "Servidor de soporte",
+    "tags": [
+      "Sin registro",
+      "100% gratuito",
+      "Soporte activo"
+    ]
+  },
+  "disclaimer": {
+    "text": "No afiliado a Epic Games ·",
+    "termsLink": "Términos de Mia Checker"
+  }
+}

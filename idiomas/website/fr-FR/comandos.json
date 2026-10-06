@@ -1,0 +1,66 @@
+{
+  "meta": {
+    "title": "Mia · Commandes",
+    "description": "Catalogue complet des commandes Mia sur Discord : Battle Royale, Save the World, comptes Epic, cadeaux, boutique, expéditions, sécurité et utilitaires. Cherche par nom ou catégorie et apprends à les utiliser.",
+    "ogTitle": "Mia · Commandes",
+    "ogDescription": "Catalogue complet des commandes Mia sur Discord : Battle Royale, Save the World, comptes Epic, cadeaux, boutique, expéditions, sécurité et utilitaires. Cherche par nom ou catégorie et apprends à les utiliser."
+  },
+  "hero": {
+    "title": "Commandes de Mia",
+    "subtitle": "Toute la liste au même endroit",
+    "lead": "Explore les slash commands et les commandes préfixe pour gérer ton compte Fortnite, Save the World, Battle Royale, Premium et les utilitaires du bot."
+  },
+  "stats": {
+    "total": "Total",
+    "slash": "Slash",
+    "prefix": "Préfixe",
+    "premium": "Premium"
+  },
+  "legend": {
+    "aria": "Légende des tags",
+    "label": "Tags :",
+    "tags": {
+      "slash": "Slash",
+      "prefix": "Préfixe",
+      "auth": "Compte",
+      "premium": "Premium",
+      "ephemeral": "Éphémère",
+      "mia": "Mia Lounge",
+      "server": "Serveur"
+    }
+  },
+  "toolbar": {
+    "searchPlaceholder": "Rechercher par nom, description ou sous-commande…",
+    "filterAria": "Filtrer les commandes",
+    "chips": {
+      "all": "Toutes",
+      "slash": "Slash",
+      "prefix": "Préfixe",
+      "premium": "Premium",
+      "auth": "Compte",
+      "ephemeral": "Éphémère",
+      "mia": "Mia Lounge",
+      "server": "Serveur"
+    }
+  },
+  "metaLine": "{n} commandes affichées",
+  "loading": "Chargement",
+  "notice": "Les commandes marquées Mia Lounge ne fonctionnent que sur le serveur officiel discord.gg/miabot.",
+  "cta": {
+    "title": "Tu ne trouves pas ce qu’il te faut ?",
+    "text": "Consulte la FAQ, rejoins le Discord de support ou débloque les commandes Premium.",
+    "faq": "Voir la FAQ",
+    "discord": "Discord de Mia",
+    "premium": "Mia Premium"
+  },
+  "metaShown": "commandes affichées",
+  "ui": {
+    "loading": "Chargement des commandes",
+    "empty": "Aucune commande ne correspond à ta recherche ou à ce filtre.",
+    "loadError": "Impossible de charger les commandes. Réessaie plus tard.",
+    "loadErrorShort": "Impossible de charger les commandes.",
+    "showSubs": "Voir les sous-commandes",
+    "hideSubs": "Masquer les sous-commandes",
+    "subs": "{n} sous-commandes"
+  }
+}

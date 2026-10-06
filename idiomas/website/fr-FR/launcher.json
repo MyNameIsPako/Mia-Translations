@@ -1,0 +1,97 @@
+{
+  "meta": {
+    "title": "Mia · Mia Launcher",
+    "description": "Mia Launcher est l’app bureau officielle pour Fortnite : multi-comptes, alertes STW, boutique, supercargeurs, Mia Checker et avantages Premium partagés avec le bot Discord.",
+    "ogTitle": "Mia · Mia Launcher",
+    "ogDescription": "Mia Launcher est l’app bureau officielle pour Fortnite : multi-comptes, alertes STW, boutique, supercargeurs, Mia Checker et avantages Premium partagés avec le bot Discord."
+  },
+  "hero": {
+    "kicker": "Launcher officiel · Windows",
+    "title": "Mia Launcher",
+    "subtitle": "Alertes STW, comptes et communauté Mia",
+    "lead": "Gère Fortnite depuis le PC avec le launcher officiel de Mia : alertes de missions STW comme sur miadsc.xyz, plusieurs comptes Epic, Mia Checker avec export PDF, supercargeurs, boutique STW, AutoKick, lookup et accès rapide au site et à Discord. Ton Mia Premium Discord se partage avec le launcher en te connectant avec Discord.",
+    "altVisual": "Interface Mia Launcher avec alertes STW, menu latéral et panneau de missions",
+    "stats": {
+      "version": "Version",
+      "multiAccount": "Multi-comptes Epic",
+      "languages": "6 langues",
+      "alerts": "Alertes STW en temps réel"
+    },
+    "actions": {
+      "download": "Télécharger …",
+      "support": "Support"
+    }
+  },
+  "shareBanner": {
+    "aria": "Premium partagé avec Mia",
+    "title": "Premium partagé avec Mia",
+    "text": "Important : si tu as Mia Premium sur Discord, le même abonnement s’active dans Mia Launcher. Connecte-toi avec ton compte Mia et profite des fonctions premium du launcher sans payer à nouveau.",
+    "link": "Voir les plans Mia Premium",
+    "altLauncher": "Mia Launcher",
+    "altMia": "Bot Mia"
+  },
+  "jump": {
+    "aria": "Sections de la page",
+    "features": "Fonctions",
+    "changelog": "Nouveautés",
+    "download": "Télécharger"
+  },
+  "features": {
+    "title": "Tout ce qui est inclus",
+    "lead": "Menu latéral par zones, connexion Discord et API Mia intégrée à l’app.",
+    "items": [
+      {
+        "title": "Alertes STW",
+        "text": "Filtre les missions par V-Bucks, survivants, PL 160, héros et plus, comme sur miadsc.xyz. Télécharge l’image du jour."
+      },
+      {
+        "title": "Mia Checker",
+        "text": "Rapport complet de compte avec profil, achats, locker, STW, amis Epic et export PDF par section ou rapport entier."
+      },
+      {
+        "title": "Supercargeurs STW",
+        "text": "Consulte l’inventaire, échange des supercargeurs personnels et envoie des supercargeurs d’ami avec autocomplétion et profil du destinataire."
+      },
+      {
+        "title": "Boutique STW et Battle Royale",
+        "text": "Achète toute la rotation STW au maximum, compte à rebours hebdomadaire et accès à la boutique BR et au casier."
+      },
+      {
+        "title": "Groupes et AutoKick",
+        "text": "Expulser, réclamer, transférer des matériaux et inviter par compte. Historique des récompenses quotidiennes dans l’en-tête."
+      },
+      {
+        "title": "Lookup et multi-comptes",
+        "text": "Cherche des joueurs par nom ou ID avec profil STW et loadouts publics. Change de compte Epic depuis la barre latérale."
+      }
+    ]
+  },
+  "changelog": {
+    "title": "Dernières mises à jour",
+    "lead": "Changements récents du launcher. La version publiée actuellement est ….",
+    "loading": "Chargement"
+  },
+  "cta": {
+    "title": "Télécharge Mia Launcher",
+    "text": "Installeur Windows avec mises à jour automatiques. Connecte-toi avec Discord (app officielle Mia) et lie tes comptes Epic pour commencer.",
+    "github": "GitHub Releases",
+    "home": "Retour à l’accueil",
+    "tags": [
+      "Windows",
+      "ES · EN · DE · FR · PT-BR · TR",
+      "Mises à jour automatiques"
+    ]
+  },
+  "overlay": {
+    "close": "Fermer",
+    "altFullscreen": "Mia Launcher en plein écran"
+  },
+  "disclaimer": "Not affiliated with Epic Games · Launcher officiel de l’écosystème Mia",
+  "ui": {
+    "downloadWithVersion": "Télécharger {version}",
+    "changelogEmpty": "Aucune entrée de changelog publiée pour le moment.",
+    "changelogError": "Impossible de charger la version du launcher.",
+    "changelogLoading": "Chargement des nouveautés",
+    "recent": "Récent"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "meta": {
+    "title": "Mia · Painel Admin",
+    "description": "Lista atualizada de códigos do Admin Panel / Lobby Hack de Fortnite. Filtre por categoria ou status, marque os já resgatados, copie cada código com um clique e consulte recompensas (sprites, XP, pó e mais).",
+    "ogTitle": "Mia · Painel Admin",
+    "ogDescription": "Lista atualizada de códigos do Admin Panel / Lobby Hack de Fortnite. Filtre por categoria ou status, marque os já resgatados, copie cada código com um clique e consulte recompensas (sprites, XP, pó e mais)."
+  },
+  "hero": {
+    "title": "Painel Admin"
+  },
+  "summary": {
+    "aria": "Resumo",
+    "codes": "códigos"
+  },
+  "progress": {
+    "aria": "Progresso de resgate",
+    "redeemed": "resgatados",
+    "reset": "Redefinir",
+    "resetConfirm": "Redefinir todos os códigos resgatados neste navegador?"
+  },
+  "filters": {
+    "statusLabel": "Status",
+    "redeemAria": "Resgate",
+    "all": "Todas",
+    "pending": "Pendentes",
+    "redeemed": "Resgatados",
+    "categoryLabel": "Categoria",
+    "categoriesAria": "Categorias"
+  },
+  "ui": {
+    "all": "Todas",
+    "loading": "Carregando códigos",
+    "empty": "Nenhum código corresponde a esses filtros.",
+    "loadError": "Não foi possível carregar os códigos.",
+    "networkError": "Erro de rede",
+    "copy": "Copiar",
+    "copied": "Pronto",
+    "redeemed": "Resgatado",
+    "markRedeemed": "Marcar resgatado",
+    "new": "Novo",
+    "reusable": "Reutilizável",
+    "noReward": "Sem recompensa"
+  }
+}

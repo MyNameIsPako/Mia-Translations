@@ -1,0 +1,289 @@
+{
+  "meta": {
+    "title": "Mia · Mia Premium",
+    "description": "Piani Mia Premium con vantaggi su Discord, Fortnite e Mia Launcher: più account, personalizzazione di feed e immagini, TaxiBots ampliati e funzioni esclusive con un unico abbonamento.",
+    "ogTitle": "Mia · Mia Premium",
+    "ogDescription": "Piani Mia Premium con vantaggi su Discord, Fortnite e Mia Launcher: più account, personalizzazione di feed e immagini, TaxiBots ampliati e funzioni esclusive con un unico abbonamento."
+  },
+  "hero": {
+    "title": "Sblocca tutto il potenziale di Mia",
+    "lead": "Automatizzazioni, comandi esclusivi, più account e vantaggi su Discord. Il tuo abbonamento sblocca anche le funzioni premium in <strong>Mia Launcher</strong> con lo stesso account Discord.",
+    "stats": {
+      "price": "<strong>5€</strong>/mese utente",
+      "accounts": "<strong>25</strong> account",
+      "booster": "<strong>Booster</strong> gratis",
+      "launcher": "<strong>Mia Launcher</strong> incluso"
+    }
+  },
+  "shareBanner": {
+    "aria": "Premium condiviso con Mia Launcher",
+    "title": "Premium condiviso con Mia Launcher",
+    "text": "<strong>Importante:</strong> Mia Premium è lo stesso abbonamento sul bot Discord e su Mia Launcher. Se hai già il premium in Mia, accedi con Discord nel launcher e si attiverà automaticamente, senza pagare due volte.",
+    "link": "Scopri Mia Launcher",
+    "altMia": "Logo di Mia",
+    "altLauncher": "Screenshot di Mia Launcher"
+  },
+  "jump": {
+    "aria": "Sezioni della pagina",
+    "plans": "Piani",
+    "api": "API",
+    "compare": "Confronto",
+    "howToBuy": "Come acquistare",
+    "payment": "Pagamento"
+  },
+  "plans": {
+    "sectionTitle": "Piani Discord",
+    "sectionLead": "Scegli il piano adatto a te. Tutti i pagamenti sono gestiti in Mia Lounge.",
+    "monthly": {
+      "badge": "Mensile",
+      "title": "Premium mensile",
+      "price": "5€",
+      "period": "/mese",
+      "note": "Stessi vantaggi dell'annuale, mese per mese.",
+      "cta": "Acquista ora",
+      "features": [
+        "Comandi premium",
+        "Sistemi automatici di Mia",
+        "XMPP",
+        "25 account registrati",
+        "Gestisci tutti i tuoi server",
+        "Footer immagini (server)",
+        "Invito Discord (server)",
+        "Premium condiviso con Mia Launcher"
+      ]
+    },
+    "yearly": {
+      "badge": "Più popolare",
+      "title": "Premium annuale",
+      "price": "40€",
+      "period": "/anno",
+      "strikethrough": "60€/anno",
+      "vitalicio": "Vitalizio annuale",
+      "saving": "Risparmi il 17%",
+      "cta": "Acquista ora",
+      "features": [
+        "Comandi premium",
+        "Sistemi automatici di Mia",
+        "XMPP",
+        "25 account registrati",
+        "Gestisci tutti i tuoi server",
+        "Footer immagini (server)",
+        "Invito Discord (server)",
+        "Premium condiviso con Mia Launcher"
+      ]
+    },
+    "booster": {
+      "badge": "Gratis",
+      "title": "Booster premium",
+      "price": "0€",
+      "period": "/mese",
+      "note": "Boosta Mia Lounge e sblocca vantaggi extra.",
+      "cta": "Boosta Mia Lounge",
+      "features": [
+        "Comandi premium",
+        "5 account registrati",
+        "Modalità BULK nei comandi",
+        "Premium condiviso con Mia Launcher"
+      ]
+    }
+  },
+  "apiBanner": {
+    "title": "API Premium",
+    "text": "<strong>Piano separato</strong>, indipendente da Mia Premium. Per sviluppatori: più richieste al minuto e immagini PNG personalizzate del negozio STW e Battle Royale con il tuo logo e testi.",
+    "chips": [
+      "360 req/min",
+      "Immagine negozio STW",
+      "Immagine negozio BR",
+      "Logo + testi personali"
+    ],
+    "price": "5€",
+    "priceNote": "al mese · piano API",
+    "docs": "Vedi documentazione",
+    "cta": "Ottieni API Premium"
+  },
+  "keys": {
+    "note": "Le key di Mia usano questo formato:",
+    "format": "XXXXX-XXXXX-XXXXX"
+  },
+  "compare": {
+    "title": "Confronto delle funzionalità",
+    "lead": "Funzioni del bot in base al piano. Scorri su mobile se la tabella non entra. Il <strong>piano API</strong> è un prodotto separato e non è incluso in Mia Premium.",
+    "columns": {
+      "feature": "Funzionalità",
+      "free": "Gratis",
+      "booster": "Booster",
+      "premium": "Premium"
+    },
+    "yes": "Sì",
+    "no": "No",
+    "rows": [
+      {
+        "feature": "Limite account",
+        "free": "2",
+        "booster": "5",
+        "premium": "25"
+      },
+      {
+        "feature": "Auto-riscatto lama gratis",
+        "free": "No",
+        "booster": "No",
+        "premium": "Sì"
+      },
+      {
+        "feature": "Auto-aggiornamento missioni giornaliere",
+        "free": "Sì",
+        "booster": "Sì",
+        "premium": "Sì"
+      },
+      {
+        "feature": "AutoKick",
+        "free": "No",
+        "booster": "No",
+        "premium": "Sì"
+      },
+      {
+        "feature": "Auto-raccolta punti ricerca",
+        "free": "No",
+        "booster": "No",
+        "premium": "Sì"
+      },
+      {
+        "feature": "Auto-aggiornamento codice creatore",
+        "free": "Sì",
+        "booster": "Sì",
+        "premium": "Sì"
+      },
+      {
+        "feature": "Auto spedizioni",
+        "free": "No",
+        "booster": "No",
+        "premium": "Sì"
+      },
+      {
+        "feature": "Auto-sostituzione missioni giornaliere",
+        "free": "No",
+        "booster": "No",
+        "premium": "Sì"
+      },
+      {
+        "feature": "Modalità BULK",
+        "free": "No",
+        "booster": "Sì",
+        "premium": "Sì"
+      },
+      {
+        "feature": "XMPP",
+        "free": "No",
+        "booster": "No",
+        "premium": "Sì"
+      },
+      {
+        "feature": "Comandi premium",
+        "free": "No",
+        "booster": "Sì",
+        "premium": "Sì"
+      },
+      {
+        "feature": "TaxiBots",
+        "free": "Standard",
+        "booster": "Premium",
+        "premium": "Premium"
+      },
+      {
+        "feature": "Cooldown",
+        "free": "15 s",
+        "booster": "10 s",
+        "premium": "5 s"
+      },
+      {
+        "feature": "Gestione server",
+        "free": "1",
+        "booster": "1",
+        "premium": "Illimitati"
+      },
+      {
+        "feature": "Footer immagini (server)",
+        "free": "No",
+        "booster": "No",
+        "premium": "Sì"
+      },
+      {
+        "feature": "Invito Discord (server)",
+        "free": "No",
+        "booster": "No",
+        "premium": "Sì"
+      },
+      {
+        "feature": "Personalizza Bot Lobbies",
+        "free": "No",
+        "booster": "No",
+        "premium": "Sì"
+      },
+      {
+        "feature": "Auto-acquisto oggetti gratis del negozio",
+        "free": "No",
+        "booster": "No",
+        "premium": "Sì"
+      },
+      {
+        "feature": "Auto-riscatto giochi gratis (Epic Games)",
+        "free": "Sì",
+        "booster": "Sì",
+        "premium": "Sì"
+      },
+      {
+        "feature": "Mia Launcher (premium condiviso)",
+        "free": "No",
+        "booster": "Sì",
+        "premium": "Sì"
+      }
+    ]
+  },
+  "howToBuy": {
+    "title": "Come acquistare",
+    "lead": "Tre semplici passaggi in Mia Lounge",
+    "steps": [
+      {
+        "title": "Vai al supporto",
+        "text": "Unisciti a <a href=\"https://discord.com/invite/miabot\" class=\"text-yellow-400 hover:underline\" target=\"_blank\" rel=\"noopener\">Mia Lounge</a> e apri un ticket nel canale premium."
+      },
+      {
+        "title": "Scegli piano e pagamento",
+        "text": "Indica se vuoi Premium utente, Booster o API Premium e il metodo di pagamento preferito."
+      },
+      {
+        "title": "Ricevi la tua key",
+        "text": "Dopo la conferma del pagamento attiviamo il piano e riceverai la key nel formato <code>XXXXX-XXXXX-XXXXX</code>."
+      }
+    ]
+  },
+  "payment": {
+    "title": "Metodi di pagamento",
+    "lead": "Apri un ticket nel nostro <a href=\"https://discord.com/channels/756859004965093426/1302832897061027940\" class=\"text-yellow-400 hover:underline\" target=\"_blank\" rel=\"noopener\">canale di supporto</a> per elaborare il pagamento.",
+    "supportLink": "canale di supporto",
+    "paypal": {
+      "name": "PayPal",
+      "popular": "Popolare",
+      "note": "Amici e familiari",
+      "surcharge": "+1,50€ costo aggiuntivo senza A&F"
+    },
+    "revolut": {
+      "name": "Revolut",
+      "note": "Pagamento con carta tramite link",
+      "noClient": "Non serve essere cliente Revolut",
+      "recommended": "Metodo consigliato"
+    },
+    "crypto": {
+      "title": "Criptovalute",
+      "bitcoin": "Bitcoin",
+      "litecoin": "Litecoin",
+      "usdt": "USDT",
+      "usdtSub": "Tether"
+    }
+  },
+  "cta": {
+    "title": "Pronto a salire di livello?",
+    "text": "Apri un ticket in Mia Lounge e ti aiutiamo ad attivare il piano in pochi minuti.",
+    "button": "Vai al canale premium"
+  }
+}

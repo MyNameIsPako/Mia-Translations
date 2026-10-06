@@ -2361,7 +2361,7 @@
 				"msg10": "L'avviso per è stato disattivato con successo",
 				"msg11": "`Nessun canale`",
 				"msg12": "`Nessun ruolo`",
-				"msg13": "Feed per:",
+				"msg13": "Feed di Mia per:",
 				"msg14": "Puoi attivare uno dei feed usando `/config feed attivare` o disattivare un feed usando `/config feed disattivare`.",
 				"msg15": "Invia al canale qualsiasi cambiamento di stato dei server FN.",
 				"msg16": "Invia le nuove perdite rilevate da Mia, le invierà come immagine con rarità e altro.",

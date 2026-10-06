@@ -1,0 +1,289 @@
+{
+  "meta": {
+    "title": "Mia · Mia Premium",
+    "description": "Discord、Fortnite、Mia Launcher で特典が使える Mia Premium プラン：アカウント数増加、フィード・画像のカスタマイズ、拡張 TaxiBots、1 つのサブスクで独占機能を利用。",
+    "ogTitle": "Mia · Mia Premium",
+    "ogDescription": "Discord、Fortnite、Mia Launcher で特典が使える Mia Premium プラン：アカウント数増加、フィード・画像のカスタマイズ、拡張 TaxiBots、1 つのサブスクで独占機能を利用。"
+  },
+  "hero": {
+    "title": "Mia の可能性をすべて解放",
+    "lead": "自動化、限定コマンド、より多くのアカウント、Discord 特典。同じ Discord アカウントで <strong>Mia Launcher</strong> のプレミアム機能もアンロックされます。",
+    "stats": {
+      "price": "<strong>5€</strong>/月・ユーザー",
+      "accounts": "<strong>25</strong> アカウント",
+      "booster": "<strong>ブースター</strong>無料",
+      "launcher": "<strong>Mia Launcher</strong> 付属"
+    }
+  },
+  "shareBanner": {
+    "aria": "Mia Launcher と共有する Premium",
+    "title": "Mia Launcher と共有する Premium",
+    "text": "<strong>重要：</strong>Mia Premium は Discord ボットと Mia Launcher で同じサブスクリプションです。Mia で既に Premium なら、ランチャーで Discord ログインするだけで自動的に有効化され、二重課金はありません。",
+    "link": "Mia Launcher について",
+    "altMia": "Mia ロゴ",
+    "altLauncher": "Mia Launcher スクリーンショット"
+  },
+  "jump": {
+    "aria": "ページ内セクション",
+    "plans": "プラン",
+    "api": "API",
+    "compare": "比較",
+    "howToBuy": "購入方法",
+    "payment": "支払い"
+  },
+  "plans": {
+    "sectionTitle": "Discord プラン",
+    "sectionLead": "自分に合うプランを選んでください。すべての支払いは Mia Lounge で処理されます。",
+    "monthly": {
+      "badge": "月額",
+      "title": "月額 Premium",
+      "price": "5€",
+      "period": "/月",
+      "note": "年額と同じ特典を月ごとに。",
+      "cta": "今すぐ購入",
+      "features": [
+        "プレミアムコマンド",
+        "Mia 自動システム",
+        "XMPP",
+        "25 登録アカウント",
+        "すべてのサーバーを管理",
+        "画像フッター（サーバー）",
+        "Discord 招待（サーバー）",
+        "Mia Launcher と共有 Premium"
+      ]
+    },
+    "yearly": {
+      "badge": "人気 No.1",
+      "title": "年額 Premium",
+      "price": "40€",
+      "period": "/年",
+      "strikethrough": "60€/年",
+      "vitalicio": "年間ライフタイム",
+      "saving": "17% お得",
+      "cta": "今すぐ購入",
+      "features": [
+        "プレミアムコマンド",
+        "Mia 自動システム",
+        "XMPP",
+        "25 登録アカウント",
+        "すべてのサーバーを管理",
+        "画像フッター（サーバー）",
+        "Discord 招待（サーバー）",
+        "Mia Launcher と共有 Premium"
+      ]
+    },
+    "booster": {
+      "badge": "無料",
+      "title": "Booster Premium",
+      "price": "0€",
+      "period": "/月",
+      "note": "Mia Lounge をブーストして追加特典を解放。",
+      "cta": "Mia Lounge をブースト",
+      "features": [
+        "プレミアムコマンド",
+        "5 登録アカウント",
+        "コマンドの BULK モード",
+        "Mia Launcher と共有 Premium"
+      ]
+    }
+  },
+  "apiBanner": {
+    "title": "API Premium",
+    "text": "<strong>Mia Premium とは別の独立プラン</strong>。開発者向け：分あたりのリクエスト増加、STW・Battle Royale ショップのカスタム PNG 画像（ロゴとテキスト付き）。",
+    "chips": [
+      "360 req/min",
+      "STW ショップ画像",
+      "BR ショップ画像",
+      "独自ロゴ + テキスト"
+    ],
+    "price": "5€",
+    "priceNote": "月額 · API プラン",
+    "docs": "ドキュメントを見る",
+    "cta": "API Premium を取得"
+  },
+  "keys": {
+    "note": "Mia のキーは次の形式です：",
+    "format": "XXXXX-XXXXX-XXXXX"
+  },
+  "compare": {
+    "title": "機能比較",
+    "lead": "プラン別のボット機能。表が収まらない場合はモバイルでスワイプしてください。<strong>API プラン</strong>は別商品で Mia Premium には含まれません。",
+    "columns": {
+      "feature": "機能",
+      "free": "無料",
+      "booster": "Booster",
+      "premium": "Premium"
+    },
+    "yes": "はい",
+    "no": "いいえ",
+    "rows": [
+      {
+        "feature": "アカウント上限",
+        "free": "2",
+        "booster": "5",
+        "premium": "25"
+      },
+      {
+        "feature": "無料ラマの自動受取",
+        "free": "いいえ",
+        "booster": "いいえ",
+        "premium": "はい"
+      },
+      {
+        "feature": "デイリーミッションの自動更新",
+        "free": "はい",
+        "booster": "はい",
+        "premium": "はい"
+      },
+      {
+        "feature": "AutoKick",
+        "free": "いいえ",
+        "booster": "いいえ",
+        "premium": "はい"
+      },
+      {
+        "feature": "調査ポイントの自動収集",
+        "free": "いいえ",
+        "booster": "いいえ",
+        "premium": "はい"
+      },
+      {
+        "feature": "クリエイターコードの自動更新",
+        "free": "はい",
+        "booster": "はい",
+        "premium": "はい"
+      },
+      {
+        "feature": "自動遠征",
+        "free": "いいえ",
+        "booster": "いいえ",
+        "premium": "はい"
+      },
+      {
+        "feature": "デイリーミッションの自動入替",
+        "free": "いいえ",
+        "booster": "いいえ",
+        "premium": "はい"
+      },
+      {
+        "feature": "BULK モード",
+        "free": "いいえ",
+        "booster": "はい",
+        "premium": "はい"
+      },
+      {
+        "feature": "XMPP",
+        "free": "いいえ",
+        "booster": "いいえ",
+        "premium": "はい"
+      },
+      {
+        "feature": "プレミアムコマンド",
+        "free": "いいえ",
+        "booster": "はい",
+        "premium": "はい"
+      },
+      {
+        "feature": "TaxiBots",
+        "free": "通常",
+        "booster": "Premium",
+        "premium": "Premium"
+      },
+      {
+        "feature": "クールダウン",
+        "free": "15 s",
+        "booster": "10 s",
+        "premium": "5 s"
+      },
+      {
+        "feature": "サーバー管理",
+        "free": "1",
+        "booster": "1",
+        "premium": "無制限"
+      },
+      {
+        "feature": "画像フッター（サーバー）",
+        "free": "いいえ",
+        "booster": "いいえ",
+        "premium": "はい"
+      },
+      {
+        "feature": "Discord 招待（サーバー）",
+        "free": "いいえ",
+        "booster": "いいえ",
+        "premium": "はい"
+      },
+      {
+        "feature": "Bot Lobbies のカスタマイズ",
+        "free": "いいえ",
+        "booster": "いいえ",
+        "premium": "はい"
+      },
+      {
+        "feature": "ショップ無料アイテムの自動購入",
+        "free": "いいえ",
+        "booster": "いいえ",
+        "premium": "はい"
+      },
+      {
+        "feature": "無料ゲームの自動受取（Epic Games）",
+        "free": "はい",
+        "booster": "はい",
+        "premium": "はい"
+      },
+      {
+        "feature": "Mia Launcher（共有 Premium）",
+        "free": "いいえ",
+        "booster": "はい",
+        "premium": "はい"
+      }
+    ]
+  },
+  "howToBuy": {
+    "title": "購入方法",
+    "lead": "Mia Lounge で 3 つの簡単なステップ",
+    "steps": [
+      {
+        "title": "サポートへ",
+        "text": "<a href=\"https://discord.com/invite/miabot\" class=\"text-yellow-400 hover:underline\" target=\"_blank\" rel=\"noopener\">Mia Lounge</a> に参加し、Premium チャンネルでチケットを開いてください。"
+      },
+      {
+        "title": "プランと支払いを選択",
+        "text": "ユーザー Premium、Booster、API Premium のどれが必要か、希望の支払い方法をお知らせください。"
+      },
+      {
+        "title": "キーを受け取る",
+        "text": "支払い確認後、プランを有効化し、<code>XXXXX-XXXXX-XXXXX</code> 形式のキーをお渡しします。"
+      }
+    ]
+  },
+  "payment": {
+    "title": "支払い方法",
+    "lead": "<a href=\"https://discord.com/channels/756859004965093426/1302832897061027940\" class=\"text-yellow-400 hover:underline\" target=\"_blank\" rel=\"noopener\">サポートチャンネル</a>でチケットを開き、支払いを処理してください。",
+    "supportLink": "サポートチャンネル",
+    "paypal": {
+      "name": "PayPal",
+      "popular": "人気",
+      "note": "Friends & Family",
+      "surcharge": "F&F 以外は +1,50€ 追加手数料"
+    },
+    "revolut": {
+      "name": "Revolut",
+      "note": "リンク経由のカード支払い",
+      "noClient": "Revolut アカウント不要",
+      "recommended": "おすすめの方法"
+    },
+    "crypto": {
+      "title": "暗号資産",
+      "bitcoin": "Bitcoin",
+      "litecoin": "Litecoin",
+      "usdt": "USDT",
+      "usdtSub": "Tether"
+    }
+  },
+  "cta": {
+    "title": "レベルアップの準備はできましたか？",
+    "text": "Mia Lounge でチケットを開けば、数分でプラン有効化をお手伝いします。",
+    "button": "Premium チャンネルへ"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "meta": {
+    "title": "Mia · Yönetim Paneli",
+    "description": "Güncel Fortnite Admin Panel / Lobby Hack kodları. Kategori veya duruma göre filtrele, kullanılmışları işaretle, tek tıkla kopyala ve ödülleri gör (sprite’lar, XP, toz ve daha fazlası).",
+    "ogTitle": "Mia · Yönetim Paneli",
+    "ogDescription": "Güncel Fortnite Admin Panel / Lobby Hack kodları. Kategori veya duruma göre filtrele, kullanılmışları işaretle, tek tıkla kopyala ve ödülleri gör (sprite’lar, XP, toz ve daha fazlası)."
+  },
+  "hero": {
+    "title": "Yönetici Paneli"
+  },
+  "summary": {
+    "aria": "Özet",
+    "codes": "kod"
+  },
+  "progress": {
+    "aria": "Kullanım ilerlemesi",
+    "redeemed": "kullanıldı",
+    "reset": "Sıfırla",
+    "resetConfirm": "Bu tarayıcıdaki tüm kullanılmış kodlar sıfırlansın mı?"
+  },
+  "filters": {
+    "statusLabel": "Durum",
+    "redeemAria": "Kullanım",
+    "all": "Tümü",
+    "pending": "Bekleyen",
+    "redeemed": "Kullanılan",
+    "categoryLabel": "Kategori",
+    "categoriesAria": "Kategoriler"
+  },
+  "ui": {
+    "all": "Tümü",
+    "loading": "Kodlar yükleniyor",
+    "empty": "Bu filtrelerle eşleşen kod yok.",
+    "loadError": "Kodlar yüklenemedi.",
+    "networkError": "Ağ hatası",
+    "copy": "Kopyala",
+    "copied": "Tamam",
+    "redeemed": "Kullanıldı",
+    "markRedeemed": "Kullanıldı olarak işaretle",
+    "new": "Yeni",
+    "reusable": "Yeniden kullanılabilir",
+    "noReward": "Ödül yok"
+  }
+}

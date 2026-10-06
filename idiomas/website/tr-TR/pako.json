@@ -1,0 +1,141 @@
+{
+  "meta": {
+    "title": "@mynameispako",
+    "description": "Pako — Full-stack geliştirici. Discord botları, API’ler ve masaüstü uygulamalar. Mia ve Fortnite ekosisteminin lead developer’ı.",
+    "ogTitle": "@mynameispako",
+    "ogDescription": "Discord botları, REST API’ler ve masaüstü uygulamalara odaklı full-stack geliştirici. Mia’nın lead developer’ı."
+  },
+  "gate": {
+    "enter": "girmek için tıkla...",
+    "aria": "Gir"
+  },
+  "hero": {
+    "badge": "Fırsatlara açığım",
+    "badgeAria": "İş uygunluğu",
+    "name": "Pako",
+    "role": "Full-Stack Developer",
+    "handle": "@mynameispako",
+    "bio": "Üretimde Discord botları, REST API’ler ve masaüstü uygulamalar. Mia’nın lead developer’ı — Fortnite ekosistemi.",
+    "audioMute": "Müziği kapat",
+    "audioUnmute": "Müziği aç",
+    "musicTitle": "Müzik",
+    "viewsTitle": "Profil görüntülemeleri",
+    "metricsAria": "Profesyonel özet",
+    "metrics": {
+      "repos": "genel repolar",
+      "followers": "GitHub takipçi",
+      "location": "UTC+2 · uzaktan",
+      "roleLabel": "Mia ekosistemi",
+      "locationValue": "İspanya",
+      "roleValue": "Lead Dev"
+    },
+    "socialsAria": "Sosyal bağlantılar"
+  },
+  "presence": {
+    "offline": "son görülme 1 gün önce",
+    "aria": "Discord durumu",
+    "badgesAria": "Discord rozetleri"
+  },
+  "sections": {
+    "titles": {
+      "Proyecto principal": "Ana proje",
+      "Ecosistema Mia": "Mia ekosistemi",
+      "Stack": "Stack"
+    },
+    "hints": {
+      "hint_1": "Mia’nın diğer projeleri. Tam kartı görmek için birine dokun."
+    },
+    "section-title": "Ana proje",
+    "project-card": "Mia",
+    "h2_2": "Mia ekosistemi",
+    "h2_3": "Stack"
+  },
+  "projectUi": {
+    "private": "Özel",
+    "language": "Dil",
+    "stack": "Stack",
+    "open": "Aç",
+    "code": "Kod",
+    "download": "İndir",
+    "periodAria": "Proje dönemi",
+    "sublabels": [
+      "Dil",
+      "Stack",
+      "Aç",
+      "Kod",
+      "İndir"
+    ]
+  },
+  "status": {
+    "active": "Aktif",
+    "discontinued": "Durduruldu"
+  },
+  "projects": [
+    {
+      "title": "Mia",
+      "description": "Epic Games API ile Fortnite hesabını yöneten Discord botu: BR, STW, mağaza, partiler, taxibots, ödüller ve gerçek zamanlı varlık.",
+      "badge": "Private",
+      "status": "active"
+    },
+    {
+      "title": "Mia Launcher",
+      "description": "Tauri ve Svelte ile masaüstü launcher: Epic girişi, Discord OAuth, otomatik güncelleyici ve Mia API entegrasyonu.",
+      "status": "active"
+    },
+    {
+      "title": "mia-web",
+      "description": "Resmi Mia sitesi (miadsc.xyz): landing, taxibots, istatistikler, belgeler ve yasal sayfalar.",
+      "badge": "Private",
+      "status": "active"
+    },
+    {
+      "title": "Mia-Checker",
+      "description": "Fortnite hesap ve locker kontrolü için Telegram botu. 12 dil, PDF, premium ve web girişi olmadan doğrulama.",
+      "badge": "Private",
+      "status": "active"
+    },
+    {
+      "title": "Mia-Translations",
+      "description": "Mia botunun topluluk dil deposu. Çeviri ekleyebilir, düzenleyebilir veya iyileştirebilirsin.",
+      "status": "active"
+    },
+    {
+      "title": "miaclient",
+      "description": "Fortnite HTTP ve XMPP servisleriyle konuşmak için özel kütüphane.",
+      "badge": "Private",
+      "status": "discontinued"
+    },
+    {
+      "title": "Mia-Client",
+      "description": "Diğer botların token’ıyla örnekleri barındırıp yöneten Discord botu: panel, başlatma, önekler, sharding ve Fortnite yardımcıları.",
+      "badge": "Private",
+      "status": "discontinued"
+    },
+    {
+      "title": "miabotdiscord",
+      "description": "Mia’nın Twitter’ı için otomatik Fortnite etkinlik botu.",
+      "badge": "Private",
+      "status": "discontinued"
+    }
+  ],
+  "stackAria": "Teknolojiler",
+  "search": {
+    "placeholder": ""
+  },
+  "filters": [],
+  "aria": {
+    "Entrar": "Gir",
+    "Disponibilidad laboral": "İş uygunluğu",
+    "Silenciar música": "Müziği kapat",
+    "Enlaces sociales": "Sosyal bağlantılar",
+    "Discord": "Discord",
+    "X": "X",
+    "GitHub": "GitHub",
+    "Mia web": "Mia web",
+    "Estado de Discord": "Discord durumu",
+    "Insignias de Discord": "Discord rozetleri",
+    "Resumen profesional": "Profesyonel özet",
+    "Periodo del proyecto": "Proje dönemi",
+    "Tecnologías": "Teknolojiler"
+  }
+}

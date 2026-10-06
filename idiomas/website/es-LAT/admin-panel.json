@@ -1,0 +1,44 @@
+{
+  "meta": {
+    "title": "Mia · Panel Admin",
+    "description": "Lista actualizada de códigos del Admin Panel / Lobby Hack de Fortnite. Filtra por categoría o estado, marca los que ya canjeaste, copia cada código en un clic y consulta recompensas (sprites, XP, polvo y más).",
+    "ogTitle": "Mia · Panel Admin",
+    "ogDescription": "Lista actualizada de códigos del Admin Panel / Lobby Hack de Fortnite. Filtra por categoría o estado, marca los que ya canjeaste, copia cada código en un clic y consulta recompensas (sprites, XP, polvo y más)."
+  },
+  "hero": {
+    "title": "Panel Admin"
+  },
+  "summary": {
+    "aria": "Resumen",
+    "codes": "códigos"
+  },
+  "progress": {
+    "aria": "Progreso de canje",
+    "redeemed": "canjeados",
+    "reset": "Restablecer",
+    "resetConfirm": "¿Restablecer todos los códigos canjeados en este navegador?"
+  },
+  "filters": {
+    "statusLabel": "Estado",
+    "redeemAria": "Canje",
+    "all": "Todas",
+    "pending": "Pendientes",
+    "redeemed": "Canjeados",
+    "categoryLabel": "Categoría",
+    "categoriesAria": "Categorías"
+  },
+  "ui": {
+    "all": "Todas",
+    "loading": "Cargando códigos",
+    "empty": "No hay códigos con esos filtros.",
+    "loadError": "No se pudieron cargar los códigos.",
+    "networkError": "Error de red",
+    "copy": "Copiar",
+    "copied": "Listo",
+    "redeemed": "Canjeado",
+    "markRedeemed": "Marcar canjeado",
+    "new": "Nuevo",
+    "reusable": "Reutilizable",
+    "noReward": "Sin recompensa"
+  }
+}

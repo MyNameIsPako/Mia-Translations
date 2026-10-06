@@ -1,0 +1,133 @@
+{
+  "meta": {
+    "description": "Mia Pocket — Mia otimizada para telemóveis com início de sessão local."
+  },
+  "auth": {
+    "loginDiscord": "Entrar com Discord",
+    "unavailable": "Mia Pocket indisponível. A API da Mia não responde.",
+    "loginTitle": "Iniciar sessão",
+    "loginEpic": "Iniciar sessão",
+    "signingIn": "A iniciar sessão",
+    "restoring": "A restaurar sessão",
+    "cancel": "Cancelar",
+    "backHome": "Voltar ao início"
+  },
+  "nav": {
+    "alertas": "Alertas",
+    "alertasDesc": "Missões STW do dia",
+    "dupe": "Dupe",
+    "dupeDesc": "Duplicar recursos no STW",
+    "party": "Party",
+    "partyDesc": "Sair e resgatar baús",
+    "menu": "Menu",
+    "menuAria": "Menu principal",
+    "homeLead": "O que queres fazer?",
+    "changeAccount": "Mudar",
+    "logout": "Sair",
+    "language": "Idioma"
+  },
+  "party": {
+    "hubTitle": "Party",
+    "hubDesc": "Escolhe uma ação de party",
+    "kick": "Sair",
+    "kickDesc": "Sair da party sem resgatar recompensas.",
+    "kickClaim": "Sair e recolher",
+    "kickClaimDesc": "Sair da party e resgatar baús de missão.",
+    "kickAllClaimTransfer": "Expulsar todos + resgatar + transferir",
+    "kickAllClaimTransferDesc": "Expulsar todos, resgatar e transferir a liderança.",
+    "kickAllClaimInvite": "Expulsar todos + resgatar + convidar",
+    "kickAllClaimInviteDesc": "Expulsar todos, resgatar e convidar novamente.",
+    "running": "Em curso…",
+    "processing": "A processar",
+    "connectionError": "Erro de ligação."
+  },
+  "dupe": {
+    "title": "Dupe",
+    "desc": "Duplicar recursos no STW",
+    "force": "Forçar dupe",
+    "start": "Iniciar dupe",
+    "cancel": "Cancelar",
+    "retry": "Tentar novamente",
+    "running": "Em curso…",
+    "status": {
+      "checking": "A verificar o perfil STW…",
+      "countdown": "À espera da janela do dupe",
+      "applying": "A aplicar o dupe…",
+      "success": "Dupe aplicado com sucesso",
+      "timedFailed": "Não foi possível aplicar o dupe",
+      "forceFailed": "O dupe forçado falhou",
+      "noLockOrExpired": "Sem profile lock ativo ou já expirou",
+      "profileUnavailable": "Não foi possível ler o perfil theater0",
+      "alreadyRunning": "Já existe um dupe em curso"
+    }
+  },
+  "epic": {
+    "expired": "O início de sessão expirou. Tenta novamente.",
+    "blacklisted": "Essa conta está na blacklist do Mia Pocket.",
+    "invalidCode": "A Epic devolveu um código inválido. Tenta novamente.",
+    "deviceAuthFailed": "Não foi possível criar o device auth. Tenta outra vez.",
+    "loginFailed": "Não foi possível concluir o início de sessão. Tenta outra vez.",
+    "connectionError": "Erro de ligação. Tenta novamente.",
+    "startFailed": "Não foi possível iniciar o fluxo com a Epic."
+  },
+  "flash": {
+    "account_connected": "Sessão iniciada com sucesso.",
+    "account_changed": "Podes ligar outra conta Epic.",
+    "logged_out": "Sessão terminada."
+  },
+  "errors": {
+    "invalid_account": "A conta selecionada não é válida.",
+    "csrf": "O pedido não é válido. Tenta novamente.",
+    "oauth_state": "O início de sessão com Discord expirou. Tenta novamente.",
+    "oauth_failed": "Não foi possível concluir o início de sessão com Discord.",
+    "blacklisted": "O teu utilizador está na blacklist do Mia Pocket.",
+    "epic_login_failed": "Não foi possível iniciar sessão com a Epic. Tenta novamente.",
+    "invalid_exchange_code": "O exchange code deve ter 32 caracteres.",
+    "invalid_authorization_code": "O código de autorização não é válido.",
+    "device_code_expired": "O início de sessão com a Epic expirou. Tenta novamente.",
+    "account_blacklisted": "Essa conta Epic está na blacklist do Mia Pocket.",
+    "oauthStateTitle": "Sessão OAuth inválida",
+    "oauthCodeTitle": "Código OAuth inválido",
+    "accessDeniedTitle": "Acesso negado",
+    "loginErrorTitle": "Erro de início de sessão"
+  },
+  "titles": {
+    "home": "Mia Pocket",
+    "dupe": "Dupe",
+    "party": "Party",
+    "alertas": "Alertas STW",
+    "kick": "Sair",
+    "kickClaim": "Sair e recolher",
+    "kickAllClaimTransfer": "Expulsar e recolher todos",
+    "kickAllClaimInvite": "Expulsar, recolher e convidar"
+  },
+  "gate": {
+    "title": "Só no telemóvel",
+    "desc": "O Mia Pocket não pode ser usado no PC. Abre num telemóvel Android ou iOS e instala-o no ecrã inicial.",
+    "close": "Compreendi",
+    "installTitle": "Instala o Mia Pocket",
+    "installDesc": "Para usar o painel, instala o Mia Pocket no ecrã inicial e abre-o pelo ícone (não é o Mia Launcher de PC).",
+    "installCta": "Instalar app",
+    "goHome": "Ir para miadsc.xyz"
+  },
+  "home": {
+    "title": "Início"
+  },
+  "loading": "A carregar",
+  "error": {
+    "retry": "Tentar novamente",
+    "alerts": "Não foi possível carregar os alertas. Tenta novamente."
+  },
+  "installSteps": {
+    "iosSafari": "<p><strong>iPhone / iPad (Safari):</strong></p><ol><li>Toca em <strong>Partilhar</strong> (quadrado com seta).</li><li>Escolhe <strong>Adicionar ao ecrã principal</strong>.</li><li>Abre o <strong>Mia Pocket</strong> a partir do novo ícone.</li></ol>",
+    "iosChrome": "<p><strong>iPhone / iPad ({browser}):</strong></p><ol><li>Toca em <strong>Partilhar</strong> na barra do navegador.</li><li>Escolhe <strong>Adicionar ao ecrã principal</strong>.</li><li>Abre o <strong>Mia Pocket</strong> a partir do ícone (não do separador do navegador).</li></ol><p>Se não funcionar, abre esta página no <strong>Safari</strong> e repete os passos.</p>",
+    "iosFirefox": "<p><strong>iPhone / iPad (Firefox):</strong></p><ol><li>Menu (≡) → <strong>Partilhar</strong> ou <strong>Adicionar ao ecrã principal</strong>.</li><li>Confirma o ícone do <strong>Mia Pocket</strong>.</li><li>Abre a app a partir do ícone no ecrã principal.</li></ol><p>Se não funcionar, experimenta o <strong>Safari</strong>.</p>",
+    "iosDefault": "<p><strong>iPhone / iPad:</strong></p><ol><li>Usa <strong>Partilhar</strong> → <strong>Adicionar ao ecrã principal</strong>.</li><li>Abre o <strong>Mia Pocket</strong> a partir do novo ícone.</li></ol><p>Recomendado: <strong>Safari</strong>, Chrome ou Brave.</p>",
+    "androidFirefox": "<p><strong>Android (Firefox):</strong></p><ol><li>Menu (⋮) → <strong>Instalar</strong> ou <strong>Adicionar ao ecrã principal</strong>.</li><li>Abre o <strong>Mia Pocket</strong> a partir do ícone, não do navegador.</li></ol>",
+    "androidSamsung": "<p><strong>Android (Samsung Internet):</strong></p><ol><li>Menu → <strong>Adicionar página a</strong> → <strong>Ecrã principal</strong> ou <strong>Instalar aplicação</strong>.</li><li>Abre o <strong>Mia Pocket</strong> a partir do novo ícone.</li></ol>",
+    "androidBrave": "<p><strong>Android (Brave):</strong></p><ol><li>Toca em <strong>Instalar app</strong> se o botão aparecer.</li><li>Ou menu → <strong>Instalar aplicação</strong> / <strong>Adicionar ao ecrã principal</strong>.</li><li>Abre o <strong>Mia Pocket</strong> a partir do ícone, não do Brave.</li></ol>",
+    "androidEdge": "<p><strong>Android (Edge):</strong></p><ol><li>Menu (⋯) → <strong>Instalar aplicação</strong> ou <strong>Adicionar ao ecrã principal</strong>.</li><li>Abre o <strong>Mia Pocket</strong> a partir do novo ícone.</li></ol>",
+    "androidOpera": "<p><strong>Android (Opera):</strong></p><ol><li>Menu → <strong>Adicionar ao ecrã principal</strong> ou <strong>Instalar aplicação</strong>.</li><li>Abre o <strong>Mia Pocket</strong> a partir do novo ícone.</li></ol>",
+    "androidDefault": "<p><strong>Android (Chrome e outros):</strong></p><ol><li>Toca em <strong>Instalar app</strong> se o botão aparecer.</li><li>Ou menu (⋮) → <strong>Instalar aplicação</strong>.</li><li>Abre o <strong>Mia Pocket</strong> a partir do ícone, não do navegador.</li></ol>"
+  }
+}

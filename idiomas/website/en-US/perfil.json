@@ -1,0 +1,179 @@
+{
+  "meta": {
+    "title": "Mia · STW Profile",
+    "description": "Public Save the World profile generated with Mia: level, achievements, MSK, resources, loadout, ventures, and Fortnite account progress to share or browse.",
+    "ogTitle": "Mia · STW Profile",
+    "ogDescription": "Public Save the World profile generated with Mia: level, achievements, MSK, resources, loadout, ventures, and Fortnite account progress to share or browse."
+  },
+  "hero": {
+    "title": "Find a player",
+    "subtitle": "Type an Epic display name above to view their profile."
+  },
+  "badges": {
+    "aria": "Mia badges",
+    "registered": "Registered in Mia",
+    "premium": "Mia Premium",
+    "booster": "Booster",
+    "founder": "Founder"
+  },
+  "tabs": {
+    "aria": "Profile sections",
+    "resumen": "Overview",
+    "logros": "Achievements",
+    "msk": "Mythic Storm King",
+    "investigacion": "Research",
+    "recursos": "Resources",
+    "equipamiento": "Loadout",
+    "aventuras": "Ventures"
+  },
+  "resumen": {
+    "research": "Research",
+    "book": "Book & extras",
+    "achievements": "Achievement highlights"
+  },
+  "logros": {
+    "banners": "Banner challenges"
+  },
+  "msk": {
+    "weekly": "Weekly mission",
+    "mythics": "Mythic weapons"
+  },
+  "recursos": {
+    "perks": "Perks:",
+    "elementals": "Elemental perks:",
+    "flux": "Flux & Legendary PERK-UP:",
+    "evolution": "Evolution mats:",
+    "xp": "Experience:",
+    "manuals": "Manuals:",
+    "superchargers": "Superchargers:",
+    "tickets": "Tickets:",
+    "misc": "Misc:",
+    "boosts": "Boosts:"
+  },
+  "loadout": {
+    "empty": "This profile has no public loadout visible."
+  },
+  "aventuras": {
+    "empty": "Hasn’t played Ventures yet",
+    "title": "Ventures"
+  },
+  "runtime": {
+    "loading": "Loading",
+    "capturing": "Capturing",
+    "captureError": "Could not create the screenshot. Please try again.",
+    "loadFailedTitle": "Could not load",
+    "updatedAt": "Updated {date}",
+    "yes": "Yes",
+    "no": "No",
+    "errors": {
+      "generic": "Could not fetch the public profile. Please try again.",
+      "private": "This profile is private. Ask the player to make it public in Fortnite: Settings → Account and Privacy → Public Profile.",
+      "notFound": "That Epic Games account was not found.",
+      "apiDown": "Could not connect to the Mia API. If you are local, make sure the bot is running with the API active (port 25665).",
+      "loadFailed": "Could not load the profile",
+      "miaApiMissing": "MiaApi is not available"
+    },
+    "stats": {
+      "commanderLevel": "Commander level",
+      "daysLoggedIn": "Days logged in",
+      "msk": "MSK",
+      "notPlayed": "Not played"
+    },
+    "loadout": {
+      "equipments": "Loadouts",
+      "active": "Active",
+      "heroesCount": "{count} heroes",
+      "teamPerk": "Team perk",
+      "supportTeam": "Support team",
+      "gadgets": "Gadgets",
+      "hero": "Hero",
+      "player": "Player",
+      "common": "Common",
+      "download": "Download card"
+    },
+    "achievements": {
+      "gnomes": "Destroy gnomes",
+      "survivors": "Guardian Angel",
+      "chests": "Chests opened",
+      "playWithOthers": "Play with others",
+      "builds": "Talented Builder",
+      "mistMonsters": "Mist monsters eliminated",
+      "zones": "Zones completed"
+    },
+    "research": {
+      "offense": "Offense",
+      "fortitude": "Fortitude",
+      "resistance": "Resistance",
+      "technology": "Technology",
+      "points": "Research points"
+    },
+    "book": {
+      "level": "Collection Book level",
+      "mtxSpent": "Spent on Collection Book",
+      "revisions": "Revisions",
+      "matches": "Matches"
+    },
+    "msk": {
+      "completions": "MSK completions",
+      "weeklyNone": "You have no weekly mission.",
+      "scHero": "Hero Supercharger",
+      "scTrap": "Trap Supercharger",
+      "scWeapon": "Weapon Supercharger",
+      "scSurvivor": "Survivor Supercharger"
+    },
+    "ventures": {
+      "ends": "Ends: {date}",
+      "levelXp": "Level {level} · {xp} XP",
+      "nextLevel": "Next level ({level}) — {progress}/{span} ({pct}%)",
+      "xpToMax": "{xp} ({pct}%) {icon} left to level 50",
+      "nextZone": "Next zone: {power}",
+      "nextReward": "Next reward ({level}): {text}",
+      "nextTopReward": "Next top reward ({level}): {text}",
+      "maxLevel": "Maximum Ventures level reached",
+      "emptyMissions": "No active missions are visible on the public profile."
+    },
+    "resources": {
+      "mythicFury": "Storm King's Fury",
+      "mythicOnslaught": "Storm King's Onslaught",
+      "mythicRavager": "Storm King's Ravager",
+      "mythicScourge": "Storm King's Scourge",
+      "mythicWrath": "Storm King's Wrath",
+      "perkLegendary": "Legendary PERK-UP!",
+      "perkEpic": "Epic PERK-UP!",
+      "perkRare": "Rare PERK-UP!",
+      "perkUncommon": "Uncommon PERK-UP!",
+      "fire": "Fire",
+      "water": "Water",
+      "nature": "Nature",
+      "fluxLegendary": "Legendary Flux",
+      "fluxEpic": "Epic Flux",
+      "fluxRare": "Rare Flux",
+      "generic": "PERK-UP",
+      "rain": "Pure Drops of Rain",
+      "lightning": "Lightning in a Bottle",
+      "eye": "Eye of the Storm",
+      "shard": "Storm Shard",
+      "schematicXp": "Schematic XP",
+      "survivorXp": "Survivor XP",
+      "heroXp": "Hero XP",
+      "ventureXp": "Ventures XP",
+      "manualSurvivor": "Survivor manuals",
+      "manualSchematic": "Schematic manuals",
+      "manualTraps": "Trap manuals",
+      "scSurvivors": "Survivor Superchargers",
+      "scHeroes": "Hero Superchargers",
+      "scWeapons": "Weapon Superchargers",
+      "scTraps": "Trap Superchargers",
+      "evolutionChip": "Evolution Chip",
+      "voucherWeapon": "Weapon voucher",
+      "voucherHero": "Hero voucher",
+      "eventTickets": "Event tickets",
+      "gold": "Gold",
+      "llamas": "Mini Llamas",
+      "legendaryLlamas": "Legendary Llamas",
+      "xray": "X-Ray tickets",
+      "boostPersonal": "XP Boost",
+      "boostTeam": "Teammate XP Boost"
+    }
+  }
+}

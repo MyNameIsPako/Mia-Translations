@@ -1,0 +1,133 @@
+{
+  "meta": {
+    "description": "Mia Pocket — 面向手机、支持本地登录的 Mia。"
+  },
+  "auth": {
+    "loginDiscord": "使用 Discord 登录",
+    "unavailable": "Mia Pocket 不可用。Mia API 无响应。",
+    "loginTitle": "登录",
+    "loginEpic": "登录",
+    "signingIn": "正在登录",
+    "restoring": "正在恢复会话",
+    "cancel": "取消",
+    "backHome": "返回首页"
+  },
+  "nav": {
+    "alertas": "警报",
+    "alertasDesc": "今日 STW 任务",
+    "dupe": "Dupe",
+    "dupeDesc": "复制 STW 资源",
+    "party": "小队",
+    "partyDesc": "离开并领取宝箱",
+    "menu": "菜单",
+    "menuAria": "主菜单",
+    "homeLead": "你想做什么？",
+    "changeAccount": "切换",
+    "logout": "退出",
+    "language": "语言"
+  },
+  "party": {
+    "hubTitle": "小队",
+    "hubDesc": "选择一个小队操作",
+    "kick": "离开",
+    "kickDesc": "离开小队且不领取奖励。",
+    "kickClaim": "离开并领取",
+    "kickClaimDesc": "离开小队并领取任务宝箱。",
+    "kickAllClaimTransfer": "踢出全员 + 领取 + 转让",
+    "kickAllClaimTransferDesc": "踢出所有人、领取并转让队长。",
+    "kickAllClaimInvite": "踢出全员 + 领取 + 邀请",
+    "kickAllClaimInviteDesc": "踢出所有人、领取并重新邀请。",
+    "running": "进行中…",
+    "processing": "处理中",
+    "connectionError": "连接错误。"
+  },
+  "dupe": {
+    "title": "Dupe",
+    "desc": "复制 STW 资源",
+    "force": "强制 Dupe",
+    "start": "开始 Dupe",
+    "cancel": "取消",
+    "retry": "重试",
+    "running": "进行中…",
+    "status": {
+      "checking": "正在检查 STW 档案…",
+      "countdown": "等待 Dupe 时间窗口",
+      "applying": "正在应用 Dupe…",
+      "success": "Dupe 已成功应用",
+      "timedFailed": "无法应用 Dupe",
+      "forceFailed": "强制 Dupe 失败",
+      "noLockOrExpired": "没有有效的 profile lock，或已过期",
+      "profileUnavailable": "无法读取 theater0 档案",
+      "alreadyRunning": "已有 Dupe 正在进行"
+    }
+  },
+  "epic": {
+    "expired": "登录已过期。请重试。",
+    "blacklisted": "该账号在 Mia Pocket 黑名单中。",
+    "invalidCode": "Epic 返回了无效的代码。请重试。",
+    "deviceAuthFailed": "无法创建 device auth。请重试。",
+    "loginFailed": "无法完成登录。请重试。",
+    "connectionError": "连接错误。请重试。",
+    "startFailed": "无法启动 Epic 登录流程。"
+  },
+  "flash": {
+    "account_connected": "登录成功。",
+    "account_changed": "你可以连接另一个 Epic 账号。",
+    "logged_out": "已退出登录。"
+  },
+  "errors": {
+    "invalid_account": "所选账号无效。",
+    "csrf": "请求无效。请重试。",
+    "oauth_state": "Discord 登录已过期。请重试。",
+    "oauth_failed": "无法完成 Discord 登录。",
+    "blacklisted": "你的用户在 Mia Pocket 黑名单中。",
+    "epic_login_failed": "无法使用 Epic 登录。请重试。",
+    "invalid_exchange_code": "exchange code 必须为 32 个字符。",
+    "invalid_authorization_code": "授权码无效。",
+    "device_code_expired": "Epic 登录已过期。请重试。",
+    "account_blacklisted": "该 Epic 账号在 Mia Pocket 黑名单中。",
+    "oauthStateTitle": "OAuth 会话无效",
+    "oauthCodeTitle": "OAuth 代码无效",
+    "accessDeniedTitle": "访问被拒绝",
+    "loginErrorTitle": "登录错误"
+  },
+  "titles": {
+    "home": "Mia Pocket",
+    "dupe": "Dupe",
+    "party": "小队",
+    "alertas": "STW 警报",
+    "kick": "离开",
+    "kickClaim": "离开并领取",
+    "kickAllClaimTransfer": "踢出全员并领取",
+    "kickAllClaimInvite": "踢出、领取并邀请"
+  },
+  "gate": {
+    "title": "仅限手机",
+    "desc": "Mia Pocket 无法在电脑上使用。请用 Android 或 iOS 手机打开并添加到主屏幕。",
+    "close": "知道了",
+    "installTitle": "安装 Mia Pocket",
+    "installDesc": "要使用面板，请将 Mia Pocket 添加到主屏幕并从图标打开（不是电脑版 Mia Launcher）。",
+    "installCta": "安装应用",
+    "goHome": "前往 miadsc.xyz"
+  },
+  "home": {
+    "title": "首页"
+  },
+  "loading": "加载中",
+  "error": {
+    "retry": "重试",
+    "alerts": "无法加载警报。请重试。"
+  },
+  "installSteps": {
+    "iosSafari": "<p><strong>iPhone / iPad（Safari）：</strong></p><ol><li>点按<strong>分享</strong>（带箭头的方框）。</li><li>选择<strong>添加到主屏幕</strong>。</li><li>从新图标打开 <strong>Mia Pocket</strong>。</li></ol>",
+    "iosChrome": "<p><strong>iPhone / iPad（{browser}）：</strong></p><ol><li>点按浏览器栏中的<strong>分享</strong>。</li><li>选择<strong>添加到主屏幕</strong>。</li><li>从图标（而不是浏览器标签页）打开 <strong>Mia Pocket</strong>。</li></ol><p>如果不行，请在 <strong>Safari</strong> 中打开此页面并重复步骤。</p>",
+    "iosFirefox": "<p><strong>iPhone / iPad（Firefox）：</strong></p><ol><li>菜单（≡）→ <strong>分享</strong>或<strong>添加到主屏幕</strong>。</li><li>确认 <strong>Mia Pocket</strong> 图标。</li><li>从主屏幕上的图标打开应用。</li></ol><p>如果不行，请试试 <strong>Safari</strong>。</p>",
+    "iosDefault": "<p><strong>iPhone / iPad：</strong></p><ol><li>使用<strong>分享</strong>→<strong>添加到主屏幕</strong>。</li><li>从新图标打开 <strong>Mia Pocket</strong>。</li></ol><p>推荐：<strong>Safari</strong>、Chrome 或 Brave。</p>",
+    "androidFirefox": "<p><strong>Android（Firefox）：</strong></p><ol><li>菜单（⋮）→ <strong>安装</strong>或<strong>添加到主屏幕</strong>。</li><li>从图标而不是浏览器打开 <strong>Mia Pocket</strong>。</li></ol>",
+    "androidSamsung": "<p><strong>Android（Samsung Internet）：</strong></p><ol><li>菜单 → <strong>将页面添加到</strong> → <strong>主屏幕</strong>或<strong>安装应用</strong>。</li><li>从新图标打开 <strong>Mia Pocket</strong>。</li></ol>",
+    "androidBrave": "<p><strong>Android（Brave）：</strong></p><ol><li>如果出现按钮，点按<strong>安装应用</strong>。</li><li>或菜单 → <strong>安装应用</strong> / <strong>添加到主屏幕</strong>。</li><li>从图标而不是 Brave 打开 <strong>Mia Pocket</strong>。</li></ol>",
+    "androidEdge": "<p><strong>Android（Edge）：</strong></p><ol><li>菜单（⋯）→ <strong>安装应用</strong>或<strong>添加到主屏幕</strong>。</li><li>从新图标打开 <strong>Mia Pocket</strong>。</li></ol>",
+    "androidOpera": "<p><strong>Android（Opera）：</strong></p><ol><li>菜单 → <strong>添加到主屏幕</strong>或<strong>安装应用</strong>。</li><li>从新图标打开 <strong>Mia Pocket</strong>。</li></ol>",
+    "androidDefault": "<p><strong>Android（Chrome 及其他）：</strong></p><ol><li>如果出现按钮，点按<strong>安装应用</strong>。</li><li>或菜单（⋮）→ <strong>安装应用</strong>。</li><li>从图标而不是浏览器打开 <strong>Mia Pocket</strong>。</li></ol>"
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "meta": {
+    "title": "Mia · TaxiBots",
+    "description": "Save the World için Mia TaxiBots: açmadığın görev ve bölgelere katıl; farm, hedef tamamlama ve bot lobby erişimi için botlar hazır.",
+    "ogTitle": "Mia · TaxiBots",
+    "ogDescription": "Save the World için Mia TaxiBots: açmadığın görev ve bölgelere katıl; farm, hedef tamamlama ve bot lobby erişimi için botlar hazır."
+  },
+  "hero": {
+    "title": "Mia TaxiBots",
+    "subtitle": "İhtiyacın olduğunda STW görevleri ve bot maçları",
+    "lead": "Fortnite istemcisine bağlı otomatik hesaplar. Güç seviyeni aşan Save the World görevlerine girmek veya Battle Royale'de bot lobby oynamak için kullan.",
+    "liveBadge": "Aktif filo",
+    "altAvatar": "Mia TaxiBot avatarı",
+    "stats": {
+      "online": "Online",
+      "available": "Müsait",
+      "free": "Ücretsiz",
+      "premium": "Premium"
+    },
+    "actions": {
+      "fleet": "Canlı filoyu gör",
+      "start": "Nasıl başlanır",
+      "support": "Destek"
+    }
+  },
+  "jump": {
+    "aria": "Sayfa bölümleri",
+    "howTo": "Nasıl kullanılır",
+    "features": "Avantajlar",
+    "commands": "Komutlar",
+    "fleet": "Canlı filo",
+    "premium": "Premium"
+  },
+  "howTo": {
+    "title": "TaxiBots nasıl kullanılır",
+    "lead": "Discord ve Fortnite'ta şu adımları izle. Bir taxi davet et, doldurma kapalı yap ve oyna.",
+    "steps": [
+      {
+        "title": "Mia Lounge'a katıl",
+        "text": "<a href=\"https://discord.gg/miabot\" target=\"_blank\" rel=\"noopener noreferrer\">Mia Lounge</a> sunucusuna gir."
+      },
+      {
+        "title": "Hesabını kaydet",
+        "text": "<code>/registrar</code> ile Mia'ya hesabını kaydet."
+      },
+      {
+        "title": "Hesabını taxilere ekle",
+        "text": "<code>/taxibot (activar)</code> ile hesabını sisteme ekle."
+      },
+      {
+        "title": "Bir bot ekle",
+        "text": "Fortnite'ta bir TaxiBot'u arkadaş olarak ekle. İsimleri <code>/taxibot opción:Información</code> veya aşağıdaki filodan kontrol et."
+      },
+      {
+        "title": "Taxi davet et",
+        "text": "Müsait bir taxiyi partine davet et."
+      },
+      {
+        "title": "Doldurma ve oyna",
+        "text": "Maçını <strong>doldurma kapalı</strong> yap ve zamanında başlat (ücretsiz 6 dk · premium 8 dk)."
+      }
+    ]
+  },
+  "features": {
+    "title": "Ne işe yarar",
+    "lead": "Yalnızca ilerlemene bağlı kalmadan STW içeriğine ve rahat maçlara eriş.",
+    "items": [
+      {
+        "title": "İleri STW görevleri",
+        "text": "Bölgeyi açmamış olsan bile senden yüksek PL'li görevlere gir."
+      },
+      {
+        "title": "BR bot lobby",
+        "text": "Premium kullanıcılar botlarla eşleşerek daha sakin maçlar oynayabilir."
+      },
+      {
+        "title": "Gerçek otomatik hesaplar",
+        "text": "TaxiBots, Mia tarafından yönetilen meşru istemciye bağlı hesaplardır."
+      },
+      {
+        "title": "Düzenli kullanım",
+        "text": "Premium değilsen aynı anda bir taxi, davetler arası 10 sn bekleme; zamanında başlamazsan bot ayrılır."
+      }
+    ]
+  },
+  "commands": {
+    "title": "Discord komutları",
+    "lead": "<code>/taxibot</code> komutu <strong>opción</strong> seçeneğini dört değerle kullanır: Activar, Desactivar, Información ve Estado.",
+    "items": [
+      {
+        "code": "/taxibot opción:Activar",
+        "text": "Hesabını sisteme ekler; botlar arkadaşlık isteğini kabul eder."
+      },
+      {
+        "code": "/taxibot opción:Desactivar",
+        "text": "Artık ihtiyacın yoksa hesabını TaxiBots sisteminden çıkarır."
+      },
+      {
+        "code": "/taxibot opción:Información",
+        "text": "Hizmet rehberi: nedir, kullanım adımları ve müsait hesapların nerede görüleceği."
+      },
+      {
+        "code": "/taxibot opción:Estado",
+        "text": "Canlı bot listesi: online, offline, arkadaş durumu ve müsait/meşgul."
+      }
+    ]
+  },
+  "compare": {
+    "title": "Ücretsiz vs Premium",
+    "lead": "Ücretsiz botlarla Mia Premium'da ne aldığını karşılaştır.",
+    "columns": {
+      "benefit": "Avantaj",
+      "free": "Ücretsiz",
+      "premium": "Premium"
+    },
+    "yes": "Evet",
+    "rows": [
+      {
+        "feature": "STW TaxiBots erişimi",
+        "free": "Evet",
+        "premium": "Evet"
+      },
+      {
+        "feature": "Battle Royale bot lobby",
+        "free": "—",
+        "premium": "Evet"
+      },
+      {
+        "feature": "Maçı başlatma süresi",
+        "free": "6 min",
+        "premium": "8 min"
+      },
+      {
+        "feature": "Aynı anda birden fazla taxi",
+        "free": "—",
+        "premium": "Evet"
+      },
+      {
+        "feature": "Premium botlar (yüksek PL)",
+        "free": "—",
+        "premium": "Evet"
+      }
+    ]
+  },
+  "fleet": {
+    "title": "Canlı filo",
+    "lead": "Mia API'sinden güncellenen durum. Ada, türe veya müsaitliğe göre filtrele.",
+    "panelTitle": "Bot paneli",
+    "live": "Gerçek zamanlı",
+    "searchPlaceholder": "Ada göre ara…",
+    "filterAria": "Botları filtrele",
+    "filters": {
+      "all": "Tüm botlar",
+      "online": "Yalnızca online",
+      "offline": "Yalnızca offline",
+      "available": "Müsait",
+      "premium": "Premium",
+      "free": "Ücretsiz"
+    },
+    "chips": {
+      "all": "Tümü",
+      "available": "Müsait",
+      "online": "Online",
+      "free": "Ücretsiz",
+      "premium": "Premium"
+    },
+    "chipsAria": "Hızlı filtreler",
+    "meta": {
+      "online": "online",
+      "free": "ücretsiz",
+      "premium": "premium",
+      "total": "toplam"
+    },
+    "updated": "Son güncelleme:",
+    "loading": "Yükleniyor",
+    "card": {
+      "free": "Ücretsiz",
+      "premium": "Premium",
+      "online": "Çevrimiçi",
+      "offline": "Çevrimdışı",
+      "available": "Müsait",
+      "inMatch": "Maçta",
+      "friends": "Arkadaşlar",
+      "party": "Grup",
+      "type": "Tür",
+      "empty": "Geçerli filtreye uyan bot yok.",
+      "loading": "TaxiBots yükleniyor",
+      "powerLow": "Düşük PL",
+      "error": "Filo yüklenemedi. Bot API’sinin çevrimiçi olduğunu kontrol et."
+    }
+  },
+  "notice": "Farklı botlara davetler arasında <strong>10 s</strong>n bekle. Spam yapma: sistem engeller ve <strong>ban yiyebilirsin</strong>.",
+  "cta": {
+    "title": "TaxiBots konusunda yardım mı lazım?",
+    "text": "FAQ rehberine bak, Discord'da sor veya Mia Premium ile bot lobby'leri aç.",
+    "faq": "FAQ'yi gör",
+    "discord": "Mia Discord",
+    "premium": "Mia Premium",
+    "tags": [
+      "Premium ile bot lobby",
+      "Başlatmak için 6–8 dk",
+      "Yüksek PL botlar"
+    ]
+  },
+  "menuOpen": "Menüyü aç"
+}

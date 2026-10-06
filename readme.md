@@ -30,11 +30,21 @@ idiomas/
 │   ├── en_US.json
 │   ├── es_ES.json
 │   └── ...
-└── global/            # General translations
-    ├── en-US.json
-    ├── es-ES.json
+├── global/            # General translations
+│   ├── en-US.json
+│   ├── es-ES.json
+│   └── ...
+└── website/           # Mia Website + Mia Pocket packs (one folder per locale)
+    ├── es-ES/
+    │   ├── common.json
+    │   ├── pocket.json    # Mia Pocket (mobile dashboard)
+    │   ├── bodies/        # Translated HTML bodies (FAQ, API, legal)
+    │   └── ...
+    ├── en-US/
     └── ...
 ```
+
+`idiomas/website/` mirrors `assets/i18n/` from **Mia Website**. Use the same locale codes as `global/` (`es-ES`, `es-LAT`, `en-US`, `fr-FR`, `it-IT`, `de-DE`, `pt-BR`, `pt-PT`, `ja-JP`, `zh-CN`, `tr-TR`). Keep keys and HTML tags unchanged and translate only the visible text (and placeholders such as `{browser}` must stay as-is).
 
 ## 📝 JSON file format
 

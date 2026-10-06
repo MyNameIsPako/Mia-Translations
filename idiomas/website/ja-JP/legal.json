@@ -1,0 +1,76 @@
+{
+  "politica": {
+    "meta": {
+      "title": "Mia · プライバシーポリシー",
+      "description": "Miaのプライバシーポリシー：Discordボット、ウェブサイト、関連サービス利用時に収集されるデータ、用途、保護方法、およびあなたの権利。",
+      "ogTitle": "Mia · プライバシーポリシー",
+      "ogDescription": "Miaのプライバシーポリシー：Discordボット、ウェブサイト、関連サービス利用時に収集されるデータ、用途、保護方法、およびあなたの権利。"
+    },
+    "eyebrow": "法的情報",
+    "title": "プライバシーポリシー",
+    "lead": "Miaのウェブサイトとボットを利用する際に、情報をどのように収集・利用・保護するか。",
+    "updated": "最終更新：2026年4月15日",
+    "tocTitle": "目次",
+    "toc": [
+      "はじめに",
+      "収集するデータ",
+      "情報の利用",
+      "あなたの権利",
+      "分析とCookie",
+      "外部リンク",
+      "変更",
+      "お問い合わせ"
+    ],
+    "bodyInclude": "politica"
+  },
+  "terminos": {
+    "meta": {
+      "title": "Mia · 利用規約",
+      "description": "Miaの利用規約：Discordボット、ウェブサイト、Premium、Fortnite関連サービスのルール。利用やアカウント連携の前にお読みください。",
+      "ogTitle": "Mia · 利用規約",
+      "ogDescription": "Miaの利用規約：Discordボット、ウェブサイト、Premium、Fortnite関連サービスのルール。利用やアカウント連携の前にお読みください。"
+    },
+    "eyebrow": "法的情報",
+    "title": "利用規約",
+    "lead": "Discord、Fortnite、関連サービス向けMiaボットの利用条件。",
+    "updated": "最終更新：2026年4月15日",
+    "tocTitle": "目次",
+    "toc": [
+      "はじめに",
+      "BANに関する免責",
+      "Miaとは？",
+      "サービスの利用",
+      "機密性",
+      "プライバシーの権利",
+      "第三者分析",
+      "お問い合わせ",
+      "データの管理"
+    ],
+    "bodyInclude": "terminos"
+  },
+  "terminosChecker": {
+    "meta": {
+      "title": "Mia · Mia Checker利用規約",
+      "description": "Telegram上の安全なFortniteアカウントチェッカー「Mia Checker」の利用規約：サービス条件、責任、売買者向けルール。",
+      "ogTitle": "Mia · Mia Checker利用規約",
+      "ogDescription": "Telegram上の安全なFortniteアカウントチェッカー「Mia Checker」の利用規約：サービス条件、責任、売買者向けルール。"
+    },
+    "eyebrow": "Mia Checker",
+    "title": "利用規約",
+    "lead": "Fortniteアカウントを確認・分析するTelegramボットの利用条件。",
+    "updated": "最終更新：2026年4月15日",
+    "tocTitle": "目次",
+    "toc": [
+      "はじめに",
+      "BANに関する免責",
+      "Mia Checkerとは？",
+      "Telegramでの利用",
+      "プライバシー",
+      "制限事項",
+      "責任ある利用",
+      "お問い合わせ",
+      "承諾"
+    ],
+    "bodyInclude": "terminos-checker"
+  }
+}

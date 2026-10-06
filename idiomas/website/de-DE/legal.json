@@ -1,0 +1,76 @@
+{
+  "politica": {
+    "meta": {
+      "title": "Mia · Datenschutz",
+      "description": "Datenschutzrichtlinie von Mia: welche Daten beim Nutzen des Discord-Bots, der Website und verwandter Dienste erhoben werden, wozu sie dienen, wie sie geschützt werden und welche Rechte du hast.",
+      "ogTitle": "Mia · Datenschutz",
+      "ogDescription": "Datenschutzrichtlinie von Mia: welche Daten beim Nutzen des Discord-Bots, der Website und verwandter Dienste erhoben werden, wozu sie dienen, wie sie geschützt werden und welche Rechte du hast."
+    },
+    "eyebrow": "Rechtliches",
+    "title": "Datenschutzrichtlinie",
+    "lead": "Wie wir deine Informationen erheben, nutzen und schützen, wenn du Mias Website und Bot verwendest.",
+    "updated": "Zuletzt aktualisiert: 15. April 2026",
+    "tocTitle": "Inhalt",
+    "toc": [
+      "Einleitung",
+      "Erhobene Daten",
+      "Nutzung der Informationen",
+      "Deine Rechte",
+      "Analyse und Cookies",
+      "Externe Links",
+      "Änderungen",
+      "Kontakt"
+    ],
+    "bodyInclude": "politica"
+  },
+  "terminos": {
+    "meta": {
+      "title": "Mia · Nutzungsbedingungen",
+      "description": "Nutzungsbedingungen von Mia: Regeln für den Discord-Bot, die Website, Premium und Fortnite-Dienste. Lies sie, bevor du den Dienst nutzt oder dein Konto verknüpfst.",
+      "ogTitle": "Mia · Nutzungsbedingungen",
+      "ogDescription": "Nutzungsbedingungen von Mia: Regeln für den Discord-Bot, die Website, Premium und Fortnite-Dienste. Lies sie, bevor du den Dienst nutzt oder dein Konto verknüpfst."
+    },
+    "eyebrow": "Rechtliches",
+    "title": "Nutzungsbedingungen",
+    "lead": "Bedingungen für die Nutzung des Mia-Bots für Discord, Fortnite und verwandte Dienste.",
+    "updated": "Zuletzt aktualisiert: 15. April 2026",
+    "tocTitle": "Inhalt",
+    "toc": [
+      "Einleitung",
+      "Ban-Hinweis",
+      "Was ist Mia?",
+      "Nutzung des Dienstes",
+      "Vertraulichkeit",
+      "Datenschutzrechte",
+      "Drittanbieter-Analyse",
+      "Kontakt",
+      "Datenverwaltung"
+    ],
+    "bodyInclude": "terminos"
+  },
+  "terminosChecker": {
+    "meta": {
+      "title": "Mia · Mia-Checker-Bedingungen",
+      "description": "Nutzungsbedingungen für Mia Checker, den sicheren Fortnite-Account-Checker auf Telegram: Servicebedingungen, Verantwortlichkeiten und Regeln für Verkäufer und Käufer.",
+      "ogTitle": "Mia · Mia-Checker-Bedingungen",
+      "ogDescription": "Nutzungsbedingungen für Mia Checker, den sicheren Fortnite-Account-Checker auf Telegram: Servicebedingungen, Verantwortlichkeiten und Regeln für Verkäufer und Käufer."
+    },
+    "eyebrow": "Mia Checker",
+    "title": "Nutzungsbedingungen",
+    "lead": "Bedingungen für den Telegram-Bot zum Prüfen und Analysieren von Fortnite-Konten.",
+    "updated": "Zuletzt aktualisiert: 15. April 2026",
+    "tocTitle": "Inhalt",
+    "toc": [
+      "Einleitung",
+      "Ban-Hinweis",
+      "Was ist Mia Checker?",
+      "Nutzung über Telegram",
+      "Datenschutz",
+      "Einschränkungen",
+      "Verantwortungsvolle Nutzung",
+      "Kontakt",
+      "Annahme"
+    ],
+    "bodyInclude": "terminos-checker"
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "meta": {
+    "title": "Mia · Mia Launcher",
+    "description": "Mia Launcher 是面向 Fortnite 的官方桌面应用：多账号、STW 警报、商店、超级充能、Mia Checker，以及与 Discord 机器人共享的 Premium 权益。",
+    "ogTitle": "Mia · Mia Launcher",
+    "ogDescription": "Mia Launcher 是面向 Fortnite 的官方桌面应用：多账号、STW 警报、商店、超级充能、Mia Checker，以及与 Discord 机器人共享的 Premium 权益。"
+  },
+  "hero": {
+    "kicker": "官方启动器 · Windows",
+    "title": "Mia Launcher",
+    "subtitle": "STW 警报、账号与 Mia 社区",
+    "lead": "用 Mia 官方启动器在电脑上管理 Fortnite：与 miadsc.xyz 相同的 STW 任务警报、多个 Epic 账号、支持 PDF 导出的 Mia Checker、超级充能、STW 商店、AutoKick、lookup，以及快速访问网站与 Discord。使用 Discord 登录后，Discord 上的 Mia Premium 会与启动器共享。",
+    "altVisual": "含 STW 警报、侧栏与任务面板的 Mia Launcher 界面",
+    "stats": {
+      "version": "版本",
+      "multiAccount": "Epic 多账号",
+      "languages": "6 种语言",
+      "alerts": "实时 STW 警报"
+    },
+    "actions": {
+      "download": "下载 …",
+      "support": "支持"
+    }
+  },
+  "shareBanner": {
+    "aria": "与 Mia 共享的 Premium",
+    "title": "与 Mia 共享的 Premium",
+    "text": "重要：如果你在 Discord 拥有 Mia Premium，同一订阅会在 Mia Launcher 中生效。用 Mia 账号登录即可使用启动器的 Premium 功能，无需再次付费。",
+    "link": "查看 Mia Premium 套餐",
+    "altLauncher": "Mia Launcher",
+    "altMia": "Mia 机器人"
+  },
+  "jump": {
+    "aria": "页面分区",
+    "features": "功能",
+    "changelog": "更新",
+    "download": "下载"
+  },
+  "features": {
+    "title": "包含的全部内容",
+    "lead": "按区域划分的侧栏、Discord 登录，以及内置的 Mia API。",
+    "items": [
+      {
+        "title": "STW 警报",
+        "text": "像 miadsc.xyz 一样按 V-Bucks、幸存者、PL 160、英雄等筛选任务，并下载当日图片。"
+      },
+      {
+        "title": "Mia Checker",
+        "text": "完整账号报告，含资料、购买、储物柜、STW、Epic 好友，以及按分区或完整报告导出 PDF。"
+      },
+      {
+        "title": "STW 超级充能",
+        "text": "查看库存、兑换个人超级充能，并通过自动完成与对方资料发送好友超级充能。"
+      },
+      {
+        "title": "STW 与 Battle Royale 商店",
+        "text": "以最大数量购买完整 STW 轮换、周倒计时，以及 BR 商店与储物柜入口。"
+      },
+      {
+        "title": "队伍与 AutoKick",
+        "text": "按账号踢出、领取、转移材料与邀请。页眉显示每日奖励历史。"
+      },
+      {
+        "title": "Lookup 与多账号",
+        "text": "按名称或 ID 搜索玩家（公开 STW 资料与配装）。在侧栏切换 Epic 账号。"
+      }
+    ]
+  },
+  "changelog": {
+    "title": "最新更新",
+    "lead": "启动器近期变更。当前发布版本是 …。",
+    "loading": "加载中"
+  },
+  "cta": {
+    "title": "下载 Mia Launcher",
+    "text": "带自动更新的 Windows 安装程序。用 Discord（Mia 官方应用）登录并连接 Epic 账号即可开始。",
+    "github": "GitHub Releases",
+    "home": "返回首页",
+    "tags": [
+      "Windows",
+      "ES · EN · DE · FR · PT-BR · TR",
+      "自动更新"
+    ]
+  },
+  "overlay": {
+    "close": "关闭",
+    "altFullscreen": "全屏 Mia Launcher"
+  },
+  "disclaimer": "Not affiliated with Epic Games · Mia 生态官方启动器",
+  "ui": {
+    "downloadWithVersion": "下载 {version}",
+    "changelogEmpty": "尚未发布更新日志。",
+    "changelogError": "无法加载启动器版本。",
+    "changelogLoading": "正在加载更新",
+    "recent": "最新"
+  }
+}

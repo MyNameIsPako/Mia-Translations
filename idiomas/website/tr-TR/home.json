@@ -1,0 +1,173 @@
+{
+  "meta": {
+    "title": "Mia · Fortnite için Discord botu",
+    "description": "Mia, Fortnite için Discord botudur: Epic hesaplar, Battle Royale ve Save the World, uyarılar, TaxiBots, herkese açık API, Premium ve Spiritler, Yönetici Paneli ile Mia Launcher gibi araçlar."
+  },
+  "hero": {
+    "title": "Mia, Fortnite botun",
+    "subtitle": "Discord ve Telegram’da kullanılabilir",
+    "lead": "Hesabını yönet, STW’yi otomatikleştir, uyarılara bak, TaxiBots kullan ve feed’ler, komutlar ve Mia’nın herkese açık API’siyle sunucunu güçlendir.",
+    "install": "Mia’yı kur",
+    "support": "Destek sunucusu",
+    "alt": "Mia",
+    "trust": "Toplulukta tanınan içerik üreticileri tarafından desteklenir ve birden fazla dilde sunulur; böylece herkes engelsiz kullanabilir."
+  },
+  "stats": {
+    "communities": "Topluluklar",
+    "users": "Kullanıcılar",
+    "accounts": "Kayıtlı hesaplar"
+  },
+  "quick": {
+    "title": "Mia’yı keşfet",
+    "lead": "Mia’nın en çok kullanılan özellikleri, doğrudan sonuca gidecek şekilde düzenlendi.",
+    "alertas": {
+      "title": "STW Uyarıları",
+      "desc": "V-Bucks, hayatta kalanlar, EVO ve günün görevleri."
+    },
+    "comandos": {
+      "title": "Komutlar",
+      "desc": "Tüm slash komutlarını ve prefix’leri görüntüle."
+    },
+    "taxibots": {
+      "title": "TaxiBots",
+      "desc": "Mia filosuyla STW görevleri ve bot lobbies."
+    },
+    "api": {
+      "title": "Herkese açık API",
+      "desc": "Fortnite ve STW’yi kendi projelerine entegre et."
+    },
+    "checker": {
+      "title": "Mia Checker",
+      "desc": "Hesapları hızlı ve güvenli şekilde doğrula; Epic girişi gerekmez."
+    },
+    "premium": {
+      "title": "Mia Premium",
+      "desc": "Özel komutlar, daha fazla hesap, Mia Launcher dahil."
+    },
+    "eyebrow": "Araçlar"
+  },
+  "servers": {
+    "eyebrow": "Topluluk",
+    "titleBefore": "Kullanan sunucular: ",
+    "titleBrand": "Mia",
+    "lead": "Bota her gün güvenen Discord toplulukları.",
+    "members": "üye"
+  },
+  "features": {
+    "title": "Özellikler",
+    "lead": "Mia’nın Fortnite hesabın ve Discord sunucun için sundukları.",
+    "featured": "Öne çıkan",
+    "auto": {
+      "title": "Otomasyon sistemleri",
+      "body": "<code>/configuraciones</code> ile AutoKick, ücretsiz lama, seferler, geri dönüşüm ve daha fazlasını yönet. Sistemleri aç/kapa ve tüm hesaplarda senkronize et.",
+      "alt": "Mia /configuraciones"
+    },
+    "locker": {
+      "title": "Fortnite kilit dolabını oluştur",
+      "body": "<code>/locker</code> ile filtreli görsel, tahmini V-Bucks ve euro değeri, özel veya Crew öğeleri alırsın.",
+      "alt": "Mia /locker"
+    },
+    "alerts": {
+      "title": "Günün STW uyarıları",
+      "body": "<code>/alertas ver</code> ile günün görevlerini gör: V-Bucks, ödüller, bölgeler ve değiştiriciler—Discord’daki gibi.",
+      "alt": "Mia /alertas ver"
+    },
+    "feeds": {
+      "title": "Sunucunda Mia beslemeleri",
+      "body": "<code>/config feed lista</code> ile günlük V-Bucks, mağaza, süperşarjör ve daha fazlasını kanal, rol ve gönderim tipi ile kur.",
+      "alt": "Mia /config feed lista"
+    },
+    "security": {
+      "title": "Güvenlik paneli",
+      "body": "Mia’nın en iyi sistemlerinden: <code>/seguridad</code> bilinmeyen auth’ları, 2FA değişimlerini, V-Bucks harcamalarını ve dış bağlantıları tespit eder.",
+      "alt": "Mia /seguridad"
+    },
+    "server": {
+      "title": "Sunucu ayarları",
+      "body": "<code>/config servidor</code> (sunucu sahibi) ile Mia dilini, premium görsel alt bilgisini ve Discord davetini ayarla.",
+      "alt": "Mia /config servidor"
+    }
+  },
+  "developers": {
+    "titleBefore": "Geliştiricileri: ",
+    "titleBrand": "Mia",
+    "lead": "Botu, API’yi ve siteyi sürdüren ekip.",
+    "badges": {
+      "owner": "Sahip & Dev",
+      "dev": "Geliştirici"
+    },
+    "pako": {
+      "name": "Pako",
+      "bio": "Mia’nın sahibi ve ana geliştiricisi.",
+      "alt": "Pako"
+    },
+    "espiroaka": {
+      "name": "Espiroaka",
+      "bio": "Bot yapısı, veritabanı ve sistemlerden sorumlu.",
+      "alt": "Espiroaka"
+    }
+  },
+  "lounge": {
+    "titleBefore": "Ekibi: ",
+    "titleBrand": "Mia Lounge",
+    "lead": "Resmi sunucunun moderasyonu, desteği ve topluluğu.",
+    "badges": {
+      "dev": "Geliştirici",
+      "admin": "Yönetici",
+      "mod": "Moderatör",
+      "design": "Tasarımcı",
+      "team": "Ekip"
+    },
+    "empty": "Şu an ekip üyesi yok.",
+    "error": "Ekip yüklenemedi. Lütfen daha sonra tekrar dene."
+  },
+  "credits": {
+    "title": "Katkıda bulunanlar",
+    "lead": "Mia’yı inşa edip sürdürmeye yardımcı olan resmi Discord üyeleri.",
+    "loading": "Katkıda bulunanlar yükleniyor",
+    "collaborators": "Katkıda bulunanlar",
+    "activeRoles": "Aktif roller",
+    "syncDiscord": "Discord senkron · {date}",
+    "empty": "Şu an {role} filtresine uyan üye yok.",
+    "rolesAria": "Katkıda bulunan rolleri",
+    "errorApi": "Mia API başlatılamadı.",
+    "errorLoad": "Krediler yüklenemedi. Bot API’sinin çevrimiçi olduğunu kontrol et.",
+    "roles": {
+      "all": "Tümü",
+      "developers": "Geliştiriciler",
+      "codeHelpers": "Kod yardımcıları",
+      "bugHunters": "Hata avcıları",
+      "betaTesters": "Beta testçiler",
+      "traductores": "Çevirmenler",
+      "designers": "Tasarımcılar",
+      "thanks": "Teşekkürler"
+    }
+  },
+  "launchers": {
+    "titleBefore": "Bir ",
+    "titleBrand": "Launcher",
+    "titleAfter": " mı lazım?",
+    "lead": "Mia Launcher, Mia ekosisteminin resmi launcher’ıdır: STW uyarıları, çoklu hesap ve daha fazlası.",
+    "mia": {
+      "badge": "Resmi",
+      "title": "Mia Launcher",
+      "desc": "miadsc.xyz’deki gibi STW uyarıları, Epic çoklu hesap, PDF’li Mia Checker, güçlendiriciler, STW mağaza, AutoKick ve lookup. Windows, Discord girişi.",
+      "premiumNote": "Mia Premium bot ile paylaşılır.",
+      "tags": {
+        "alertas": "STW Uyarıları",
+        "multi": "Çoklu hesap",
+        "checker": "Mia Checker",
+        "locales": "6 dil"
+      },
+      "view": "Mia Launcher’ı gör",
+      "download": "İndir",
+      "expandAria": "Mia Launcher ekran görüntüsünü büyüt",
+      "screenshotAlt": "STW uyarıları ve yan menülü Mia Launcher ekran görüntüsü",
+      "alt": "Mia Launcher"
+    }
+  },
+  "overlay": {
+    "fullscreenAlt": "Tam ekran görünüm",
+    "close": "✕"
+  }
+}
