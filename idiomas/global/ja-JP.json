@@ -855,7 +855,8 @@
 				"msg78": "DM で /mia-export、または Mia Launcher → アカウント → JSON エクスポート",
 				"msg79": "ファイルにはアカウントの秘密情報が含まれます。共有しないでください。",
 				"msg86": "JSON が無効です。Mia Launcher または /mia-export のエクスポートを使用してください。",
-				"msg87": "`ステップ 3` Mia が Mia Launcher のエクスポートからすべてのアカウントを登録します"
+				"msg87": "`ステップ 3` Mia が Mia Launcher のエクスポートからすべてのアカウントを登録します",
+				"msg88": "登録の制限時間が切れました\n\n> もう一度試す場合は /registrar を実行してください"
 			},
 			"checkBan": {
 				"msg1": "アカウント",

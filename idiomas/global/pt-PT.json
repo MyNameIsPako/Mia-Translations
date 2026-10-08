@@ -855,7 +855,8 @@
 				"msg78": "Exporta com /mia-export por MD ou Mia Launcher → Contas → Exportar JSON",
 				"msg79": "O ficheiro contém segredos das contas. Não o partilhes.",
 				"msg86": "JSON inválido. Usa export do Mia Launcher ou /mia-export.",
-				"msg87": "`Passo 3` A Mia regista todas as contas do teu export do Mia Launcher"
+				"msg87": "`Passo 3` A Mia regista todas as contas do teu export do Mia Launcher",
+				"msg88": "O tempo para concluir o registo esgotou-se\n\n> Executa /registrar outra vez se quiseres tentar de novo"
 			},
 			"checkBan": {
 				"msg1": "A conta",

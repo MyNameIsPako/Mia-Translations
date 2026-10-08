@@ -855,7 +855,8 @@
 				"msg78": "Esporta con /mia-export in DM o Mia Launcher → Account → Esporta JSON",
 				"msg79": "Il file contiene segreti degli account. Non condividerlo.",
 				"msg86": "JSON non valido. Usa un export da Mia Launcher o /mia-export.",
-				"msg87": "`Passo 3` Mia registrerà tutti gli account dal tuo export Mia Launcher"
+				"msg87": "`Passo 3` Mia registrerà tutti gli account dal tuo export Mia Launcher",
+				"msg88": "Il tempo per completare la registrazione è scaduto\n\n> Esegui di nuovo /registrar se vuoi riprovare"
 			},
 			"checkBan": {
 				"msg1": "L'account",

@@ -856,7 +856,8 @@
 				"msg78": "MD'de /mia-export veya Mia Launcher → Hesaplar → JSON dışa aktar",
 				"msg79": "Dosya hesap gizli bilgilerini içerir. Paylaşma.",
 				"msg86": "Geçersiz JSON. Mia Launcher veya /mia-export dışa aktarımı kullan.",
-				"msg87": "`Adım 3` Mia, Mia Launcher dışa aktarımındaki tüm hesapları kaydeder"
+				"msg87": "`Adım 3` Mia, Mia Launcher dışa aktarımındaki tüm hesapları kaydeder",
+				"msg88": "Kayıt işlemi için süre doldu\n\n> Tekrar denemek için /registrar komutunu yeniden çalıştır"
 			},
 			"checkBan": {
 				"msg1": "Hesap",
