@@ -856,7 +856,9 @@
 				"msg79": "O arquivo contém segredos das contas. Não compartilhe.",
 				"msg86": "JSON inválido. Use export do Mia Launcher ou /mia-export.",
 				"msg87": "`Passo 3` A Mia registrará todas as contas do seu export do Mia Launcher",
-				"msg88": "O tempo para concluir o registro acabou\n\n> Execute /registrar de novo se quiser tentar outra vez"
+				"msg88": "O tempo para concluir o registro acabou\n\n> Execute /registrar de novo se quiser tentar outra vez",
+				"msg89": "Não foram importadas",
+				"msg90": "conta(s) a mais porque você atingiu o limite de contas."
 			},
 			"checkBan": {
 				"msg1": "A conta",

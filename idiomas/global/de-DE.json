@@ -875,7 +875,9 @@
 				"msg79": "Diese Datei enthält Kontogeheimnisse. Nicht teilen.",
 				"msg86": "Ungültiges JSON. Nutze einen Export von Mia Launcher oder /mia-export.",
 				"msg87": "`Schritt 3` Mia registriert alle Konten aus deinem Mia Launcher-Export",
-				"msg88": "Die Zeit für die Registrierung ist abgelaufen\n\n> Führe /registrar erneut aus, wenn du es nochmal versuchen willst"
+				"msg88": "Die Zeit für die Registrierung ist abgelaufen\n\n> Führe /registrar erneut aus, wenn du es nochmal versuchen willst",
+				"msg89": "Nicht importiert",
+				"msg90": "weitere Konten, weil du dein Kontolimit erreicht hast."
 			},
 			"checkBan": {
 				"msg1": "Das Konto",

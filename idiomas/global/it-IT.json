@@ -856,7 +856,9 @@
 				"msg79": "Il file contiene segreti degli account. Non condividerlo.",
 				"msg86": "JSON non valido. Usa un export da Mia Launcher o /mia-export.",
 				"msg87": "`Passo 3` Mia registrerà tutti gli account dal tuo export Mia Launcher",
-				"msg88": "Il tempo per completare la registrazione è scaduto\n\n> Esegui di nuovo /registrar se vuoi riprovare"
+				"msg88": "Il tempo per completare la registrazione è scaduto\n\n> Esegui di nuovo /registrar se vuoi riprovare",
+				"msg89": "Non importati",
+				"msg90": "account in più perché hai raggiunto il limite di account."
 			},
 			"checkBan": {
 				"msg1": "L'account",

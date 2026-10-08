@@ -857,7 +857,9 @@
 				"msg79": "文件包含账户密钥，请勿分享。",
 				"msg86": "JSON 无效。请使用 Mia Launcher 或 /mia-export 的导出文件。",
 				"msg87": "`步骤 3` Mia 将注册 Mia Launcher 导出文件中的所有账户",
-				"msg88": "完成注册的时间已到\n\n> 如需重试，请再次执行 /registrar"
+				"msg88": "完成注册的时间已到\n\n> 如需重试，请再次执行 /registrar",
+				"msg89": "未导入",
+				"msg90": "个更多账户，因为已达到账户上限。"
 			},
 			"checkBan": {
 				"msg1": "账户",

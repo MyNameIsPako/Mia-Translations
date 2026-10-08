@@ -857,7 +857,9 @@
 				"msg79": "This file contains account secrets. Do not share it.",
 				"msg86": "Invalid JSON. Use an export from Mia Launcher or /mia-export.",
 				"msg87": "`Step 3` Mia will register every account from your Mia Launcher export",
-				"msg88": "The time to complete registration has run out\n\n> Run /registrar again if you want to try once more"
+				"msg88": "The time to complete registration has run out\n\n> Run /registrar again if you want to try once more",
+				"msg89": "Skipped",
+				"msg90": "more account(s) because you reached your account limit."
 			},
 			"checkBan": {
 				"msg1": "The account",
