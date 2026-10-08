@@ -2031,21 +2031,6 @@
 				"msg8": "Expulsar, recolectar e invitar a todos",
 				"msg9": "Dejar grupo"
 			},
-			"fastswap": {
-				"msg1": "Das Zeitformat ist ungültig, du musst angeben, ob es Minuten (m) oder Sekunden (s) sind. Z. B.: 5m, 30s, 1m",
-				"msg2": "Die Sekunden müssen zwischen 1 und 599 liegen",
-				"msg3": "Die Minuten müssen zwischen 1 und 10 liegen",
-				"msg4": "Du musst mir ein gültiges Loadout zwischen 1 und",
-				"msg5": "Es wurde kein gültiges Loadout ausgewählt.",
-				"msg6": "Du musst genau ein Loadout auswählen, wenn kein Timer gesetzt ist.",
-				"msg7": "Der FastSwap-Timer wurde so eingestellt, dass alle **${tiempo}** Sekunden zum Loadout **${loadout.attributes.loadout_name}** gewechselt wird.",
-				"msg8": "FastSwap abgeschlossen.",
-				"msg9": "**Aktuelles Loadout:**",
-				"msg10": "Du musst genau zwei Loadouts auswählen, wenn ein Timer gesetzt ist.",
-				"msg11": "FastSwap-Rotation",
-				"msg12": "abgeschlossen.",
-				"msg13": "**Nächste Rotation:**"
-			},
 			"libroColeccion": {
 				"intro": "**Wähle, welche Gegenstandskategorie du im Sammelbuch verbessern möchtest.**",
 				"availableCategories": "Verfügbare Kategorien",

@@ -2046,21 +2046,6 @@
 				"msg8": "Espelli, raccogli e invita tutti",
 				"msg9": "Lascia il gruppo"
 			},
-			"fastswap": {
-				"msg1": "Il formato del tempo non è valido, devi indicare se sono minuti (m) o secondi (s). Es: 5m, 30s, 1m",
-				"msg2": "I secondi devono essere compresi tra 1 e 599",
-				"msg3": "I minuti devono essere compresi tra 1 e 10",
-				"msg4": "Devi indicarmi un loadout valido tra 1 e",
-				"msg5": "Non è stato selezionato alcun loadout valido.",
-				"msg6": "Devi selezionare esattamente un loadout se non è impostato un timer.",
-				"msg7": "Il timer di FastSwap è stato impostato per passare al loadout **${loadout.attributes.loadout_name}** ogni **${tiempo}** secondi.",
-				"msg8": "FastSwap completato.",
-				"msg9": "**Loadout attuale:**",
-				"msg10": "Devi selezionare esattamente due loadout se è impostato un timer.",
-				"msg11": "Rotazione FastSwap",
-				"msg12": "completata.",
-				"msg13": "**Prossima rotazione:**"
-			},
 			"libroColeccion": {
 				"intro": "**Scegli quale categoria di oggetti migliorare nel tuo libro delle collezioni.**",
 				"availableCategories": "Categorie disponibili",
