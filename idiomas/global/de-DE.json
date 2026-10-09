@@ -609,7 +609,12 @@
 				"msg37": "Vergangene Seasons",
 				"msg38": "Aktuelle Season",
 				"msg39": "Cheat Master",
-				"msg40": "Geisterstaub"
+				"msg40": "Geisterstaub",
+				"msg41": "Loot Hacker",
+				"msg42": "Ghost Hunter",
+				"msg43": "Lost Soul",
+				"msg44": "Bounty Hunter",
+				"msg45": "Trick or Treat"
 			}
 		},
 		"cuenta": {
@@ -1942,7 +1947,52 @@
 				"detailCopyLabel": "Kopie",
 				"detailCopy": "{i}/{total}",
 				"detailCopyFooter": "S. {i}/{total}",
-				"detailBack": "Zurück"
+				"detailBack": "Zurück",
+				"legacy": {
+					"title": "Legacy",
+					"empty": "Keine Ergebnisse mit diesen Filtern",
+					"catAoe": "AOE Knockback",
+					"catModded": "Modded",
+					"catHistorical": "Historisch",
+					"srcInventory": "Inventar (Baupläne)",
+					"srcCollectionBook": "Sammelbuch",
+					"srcBackpack": "Rucksack",
+					"srcStorage": "Lager",
+					"kindAll": "Waffen & Fallen",
+					"kindWeapon": "Waffen",
+					"kindTrap": "Fallen",
+					"statusHighlighted": "Legacy, historisch & modded",
+					"statusHybrid": "Nur Hybride",
+					"statusModded": "Nur modded",
+					"statusLegacy": "Nur Legacy",
+					"statusReview": "Prüfung nötig",
+					"statusAll": "Alle",
+					"selectCategory": "Kategorie",
+					"selectStatus": "Status",
+					"statTotal": "{n} Ergebnisse",
+					"statMax": "{n} auf Maximalstufe (130)",
+					"statSuper": "{n} aufgeladen (144)",
+					"findings": "Befunde",
+					"reasons": {
+						"refund_legacy_item": "Von Epic als erstattbares Legacy-Item markiert (refund_legacy_item).",
+						"legacy_item": "Von Epic als Legacy-Item markiert (legacy_item).",
+						"unknown_perk_dict": "Enthält einen Perk, der im aktuellen Wörterbuch fehlt.",
+						"malformed_attributes": "Fehlende oder ungültige Perk-Attribute.",
+						"defender_on_schematic": "Slot {n}: Verteidiger-Perk auf einem Schema; als modded eingestuft.",
+						"historical": "Legacy/historisches Item: Original-Slot-Regeln fehlen; Modded-Status nicht feststellbar.",
+						"unknown_template": "Keine aufgelösten Slot-Regeln für diese genaue Variante.",
+						"malformed": "Fehlende oder ungültige Perk-Slots; Positionen nicht vergleichbar.",
+						"conflicting_fields": "Die beiden Perk-Listen stimmen nicht überein; Slot-Reihenfolge prüfen.",
+						"extra_slots": "{stored} gespeicherte Slots; dieses Item hat {expected} Slots in den extrahierten Regeln.",
+						"unknown_perk": "Slot {n}: Perk fehlt in der Spiel-Extraktion.",
+						"historical_slot_unverified": "Slot {n}: Reload Speed ist ein bestätigter historischer Perk am Plasmatic Discharger, nicht mehr wählbar. Original-Slots nicht unabhängig verifiziert.",
+						"historical_perk": "Slot {n}: historisch legitimer Perk, unter aktuellen Regeln nicht mehr wählbar (bestätigte historische Ausnahme).",
+						"disallowed_slot": "Slot {n}: dieser Perk ist hier laut extrahierten 42.10-Regeln nicht erlaubt.",
+						"missing_slot_unlocked": "Slot {n}: freigeschalteter Perk fehlt.",
+						"missing_slot_incomplete": "Slot {n}: leerer Slot mit unvollständigem Freischalt-Kontext.",
+						"fallback": "{code}"
+					}
+				}
 			},
 			"heroes": {
 				"title": "Helden",
@@ -2021,7 +2071,23 @@
 					"plankerton": "Plankerton",
 					"cannyValley": "Canny-Tal",
 					"twinePeaks": "Spitze des Glücks"
-				}
+				},
+				"layoutSummary": "**{total}** Teile — {floors} Böden · {walls} Wände · {stairs} Treppen · {roofs} Dächer\nHolz {wood} · Stein {stone} · Metall {metal}\n**{traps}** Fallen platziert",
+				"layout": {
+					"empty": "Keine spielerbauten Teile in diesem Zonen-Save",
+					"legendWood": "Holz",
+					"legendStone": "Stein",
+					"legendMetal": "Metall",
+					"legendRoof": "Dach",
+					"legendFloorTrap": "Bodenfalle",
+					"legendWallTrap": "Wandfalle",
+					"legendCeilingTrap": "Deckenfalle",
+					"legendNote": "Launcher-Ansicht · Zonengelände · Fallen",
+					"piecesSummary": "{total} Teile — {floors} Böden · {walls} Wände · {stairs} Treppen · {roofs} Dächer",
+					"materialsSummary": "Holz {wood} · Stein {stone} · Metall {metal}",
+					"trapsSummary": "{n} Fallen"
+				},
+				"viewMap3d": "Basis 2D"
 			},
 			"gamepanel": {
 				"msg1": "Loadout",

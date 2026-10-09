@@ -590,7 +590,12 @@
 				"msg37": "Temporadas passadas",
 				"msg38": "Temporada atual",
 				"msg39": "Cheat Master",
-				"msg40": "Pó de espíritos"
+				"msg40": "Pó de espíritos",
+				"msg41": "Loot Hacker",
+				"msg42": "Ghost Hunter",
+				"msg43": "Lost Soul",
+				"msg44": "Bounty Hunter",
+				"msg45": "Trick or Treat"
 			}
 		},
 		"cuenta": {
@@ -1957,7 +1962,52 @@
 				"detailCopyLabel": "Cópia",
 				"detailCopy": "{i}/{total}",
 				"detailCopyFooter": "Pág. {i}/{total}",
-				"detailBack": "Voltar"
+				"detailBack": "Voltar",
+				"legacy": {
+					"title": "Legacy",
+					"empty": "Sem resultados com estes filtros",
+					"catAoe": "AOE Knockback",
+					"catModded": "Modificadas",
+					"catHistorical": "Históricos",
+					"srcInventory": "Inventário (esquemas)",
+					"srcCollectionBook": "Livro de coleção",
+					"srcBackpack": "Mochila",
+					"srcStorage": "Armazém",
+					"kindAll": "Armas e armadilhas",
+					"kindWeapon": "Armas",
+					"kindTrap": "Armadilhas",
+					"statusHighlighted": "Legacy, históricos e modificadas",
+					"statusHybrid": "Só híbridos",
+					"statusModded": "Só modificadas",
+					"statusLegacy": "Só legacy",
+					"statusReview": "Precisam de revisão",
+					"statusAll": "Todos",
+					"selectCategory": "Categoria",
+					"selectStatus": "Estado",
+					"statTotal": "{n} resultados",
+					"statMax": "{n} no nível máximo (130)",
+					"statSuper": "{n} sobrecarregados (144)",
+					"findings": "Achados",
+					"reasons": {
+						"refund_legacy_item": "Marcado pela Epic como item legacy reembolsável (refund_legacy_item).",
+						"legacy_item": "Marcado pela Epic como item legacy (legacy_item).",
+						"unknown_perk_dict": "Contém um perk em falta no dicionário atual.",
+						"malformed_attributes": "Atributos de perks em falta ou malformados.",
+						"defender_on_schematic": "Slot {n}: perk só de defensor num esquema; classificado como modded.",
+						"historical": "Item legacy/histórico: regras originais de slots indisponíveis; estado modded não pode ser estabelecido.",
+						"unknown_template": "Não há regras de slots resolvidas para esta variante exata.",
+						"malformed": "Slots de perks em falta ou malformados; não é possível comparar posições.",
+						"conflicting_fields": "As duas listas de perks discordam; a ordem dos slots precisa de revisão.",
+						"extra_slots": "{stored} slots guardados; este item tem {expected} slots nas regras extraídas.",
+						"unknown_perk": "Slot {n}: perk em falta na extração do jogo.",
+						"historical_slot_unverified": "Slot {n}: Reload Speed é um perk histórico confirmado no Plasmatic Discharger, já não selecionável. Posições originais não verificadas de forma independente.",
+						"historical_perk": "Slot {n}: perk historicamente legítimo, já não selecionável nas regras atuais (exceção histórica confirmada).",
+						"disallowed_slot": "Slot {n}: este perk não é permitido aqui pelas regras 42.10 extraídas.",
+						"missing_slot_unlocked": "Slot {n}: falta um perk desbloqueado.",
+						"missing_slot_incomplete": "Slot {n}: slot vazio com contexto de desbloqueio incompleto.",
+						"fallback": "{code}"
+					}
+				}
 			},
 			"heroes": {
 				"title": "Heróis",
@@ -2036,7 +2086,23 @@
 					"plankerton": "Vila Prancha",
 					"cannyValley": "Vale Cânion",
 					"twinePeaks": "Picos Tormentosos"
-				}
+				},
+				"layoutSummary": "**{total}** peças — {floors} pisos · {walls} paredes · {stairs} escadas · {roofs} tetos\nMadeira {wood} · Pedra {stone} · Metal {metal}\n**{traps}** armadilhas colocadas",
+				"layout": {
+					"empty": "Sem peças construídas pelo jogador nesta zona",
+					"legendWood": "Madeira",
+					"legendStone": "Pedra",
+					"legendMetal": "Metal",
+					"legendRoof": "Teto",
+					"legendFloorTrap": "Armadilha de chão",
+					"legendWallTrap": "Armadilha de parede",
+					"legendCeilingTrap": "Armadilha de teto",
+					"legendNote": "Vista Launcher · terreno da zona · armadilhas",
+					"piecesSummary": "{total} peças — {floors} pisos · {walls} paredes · {stairs} escadas · {roofs} tetos",
+					"materialsSummary": "Madeira {wood} · Pedra {stone} · Metal {metal}",
+					"trapsSummary": "{n} armadilhas"
+				},
+				"viewMap3d": "Base 2D"
 			},
 			"gamepanel": {
 				"msg1": "Loadout",

@@ -590,7 +590,12 @@
 				"msg37": "過去のシーズン",
 				"msg38": "今シーズン",
 				"msg39": "Cheat Master",
-				"msg40": "スピリットダスト"
+				"msg40": "スピリットダスト",
+				"msg41": "Loot Hacker",
+				"msg42": "Ghost Hunter",
+				"msg43": "Lost Soul",
+				"msg44": "Bounty Hunter",
+				"msg45": "Trick or Treat"
 			}
 		},
 		"cuenta": {
@@ -1958,7 +1963,52 @@
 				"detailCopyLabel": "複製",
 				"detailCopy": "{i}/{total}",
 				"detailCopyFooter": "{i}/{total} ページ",
-				"detailBack": "戻る"
+				"detailBack": "戻る",
+				"legacy": {
+					"title": "レガシー",
+					"empty": "このフィルターでは結果がありません",
+					"catAoe": "AOEノックバック",
+					"catModded": "改造",
+					"catHistorical": "履歴",
+					"srcInventory": "インベントリ（設計図）",
+					"srcCollectionBook": "コレクションブック",
+					"srcBackpack": "バックパック",
+					"srcStorage": "ストレージ",
+					"kindAll": "武器とトラップ",
+					"kindWeapon": "武器",
+					"kindTrap": "トラップ",
+					"statusHighlighted": "レガシー・履歴・改造",
+					"statusHybrid": "ハイブリッドのみ",
+					"statusModded": "改造のみ",
+					"statusLegacy": "レガシーのみ",
+					"statusReview": "要確認",
+					"statusAll": "すべて",
+					"selectCategory": "カテゴリ",
+					"selectStatus": "ステータス",
+					"statTotal": "{n} 件",
+					"statMax": "最大レベル (130) {n} 件",
+					"statSuper": "スーパーチャージ (144) {n} 件",
+					"findings": "検出結果",
+					"reasons": {
+						"refund_legacy_item": "Epicによりにより払い戻し可能なレガシーアイテムとしてマークされています（refund_legacy_item）。",
+						"legacy_item": "Epicによりレガシーアイテムとしてマークされています（legacy_item）。",
+						"unknown_perk_dict": "現行辞書にないパークが含まれています。",
+						"malformed_attributes": "パーク属性が欠落しているか不正です。",
+						"defender_on_schematic": "スロット{n}: 設計図上のディフェンダー専用パーク。Moddedと判定。",
+						"historical": "レガシー/履歴アイテム: 元のスロット規則がなく、Modded判定できません。",
+						"unknown_template": "この正確なバリアントのスロット規則がありません。",
+						"malformed": "パークスロットが欠落または不正で、位置を比較できません。",
+						"conflicting_fields": "2つのパーク配列が一致しません。スロット順の確認が必要です。",
+						"extra_slots": "保存スロット{stored}個。抽出ルールではこのアイテムは{expected}スロットです。",
+						"unknown_perk": "スロット{n}: ゲーム抽出にないパークです。",
+						"historical_slot_unverified": "スロット{n}: Plasmatic Dischargerの履歴Reload Speed（選択不可）。元スロットは未検証です。",
+						"historical_perk": "スロット{n}: 履歴上正当なパークで、現行ルールでは選択不可（確認済み例外）。",
+						"disallowed_slot": "スロット{n}: 抽出された42.10ルールではこのパークは許可されません。",
+						"missing_slot_unlocked": "スロット{n}: 解除済みパークがありません。",
+						"missing_slot_incomplete": "スロット{n}: 空スロットで解除条件が不完全です。",
+						"fallback": "{code}"
+					}
+				}
 			},
 			"heroes": {
 				"title": "ヒーロー",
@@ -2037,7 +2087,23 @@
 					"plankerton": "プランカートン",
 					"cannyValley": "キャニー・バレー",
 					"twinePeaks": "トワイン・ピークス"
-				}
+				},
+				"layoutSummary": "**{total}** ピース — 床 {floors} · 壁 {walls} · 階段 {stairs} · 屋根 {roofs}\n木 {wood} · 石 {stone} · 金属 {metal}\n配置トラップ **{traps}**",
+				"layout": {
+					"empty": "このゾーンのセーブにプレイヤー建築はありません",
+					"legendWood": "木",
+					"legendStone": "石",
+					"legendMetal": "金属",
+					"legendRoof": "屋根",
+					"legendFloorTrap": "床トラップ",
+					"legendWallTrap": "壁トラップ",
+					"legendCeilingTrap": "天井トラップ",
+					"legendNote": "Launcher表示 · ゾーン地形 · トラップ",
+					"piecesSummary": "{total} ピース — 床 {floors} · 壁 {walls} · 階段 {stairs} · 屋根 {roofs}",
+					"materialsSummary": "木 {wood} · 石 {stone} · 金属 {metal}",
+					"trapsSummary": "トラップ {n}"
+				},
+				"viewMap3d": "基地を2Dで見る"
 			},
 			"gamepanel": {
 				"msg1": "ロードアウト",

@@ -591,7 +591,12 @@
 				"msg37": "往期赛季",
 				"msg38": "当前赛季",
 				"msg39": "Cheat Master",
-				"msg40": "精灵尘"
+				"msg40": "精灵尘",
+				"msg41": "Loot Hacker",
+				"msg42": "Ghost Hunter",
+				"msg43": "Lost Soul",
+				"msg44": "Bounty Hunter",
+				"msg45": "Trick or Treat"
 			}
 		},
 		"cuenta": {
@@ -1958,7 +1963,52 @@
 				"detailCopyLabel": "副本",
 				"detailCopy": "{i}/{total}",
 				"detailCopyFooter": "第 {i}/{total} 页",
-				"detailBack": "返回"
+				"detailBack": "返回",
+				"legacy": {
+					"title": "遗留",
+					"empty": "当前筛选无结果",
+					"catAoe": "AOE击退",
+					"catModded": "改装",
+					"catHistorical": "历史",
+					"srcInventory": "库存（图纸）",
+					"srcCollectionBook": "收藏书",
+					"srcBackpack": "背包",
+					"srcStorage": "仓库",
+					"kindAll": "武器与陷阱",
+					"kindWeapon": "武器",
+					"kindTrap": "陷阱",
+					"statusHighlighted": "遗留、历史与改装",
+					"statusHybrid": "仅混合",
+					"statusModded": "仅改装",
+					"statusLegacy": "仅遗留",
+					"statusReview": "需复查",
+					"statusAll": "全部",
+					"selectCategory": "分类",
+					"selectStatus": "状态",
+					"statTotal": "{n} 个结果",
+					"statMax": "{n} 个满级 (130)",
+					"statSuper": "{n} 个超充 (144)",
+					"findings": "发现",
+					"reasons": {
+						"refund_legacy_item": "被 Epic 标记为可退款遗留物品（refund_legacy_item）。",
+						"legacy_item": "被 Epic 标记为遗留物品（legacy_item）。",
+						"unknown_perk_dict": "包含当前字典中缺失的特性。",
+						"malformed_attributes": "特性属性缺失或格式错误。",
+						"defender_on_schematic": "槽位 {n}：蓝图上出现仅限防御者的特性；判定为修改。",
+						"historical": "遗留/历史物品：无原始槽位规则，无法判定是否修改。",
+						"unknown_template": "此确切变体没有已解析的槽位规则。",
+						"malformed": "特性槽位缺失或格式错误，无法比较位置。",
+						"conflicting_fields": "两组特性列表不一致；需要复查槽位顺序。",
+						"extra_slots": "已保存 {stored} 个槽位；按提取规则此物品有 {expected} 个槽位。",
+						"unknown_perk": "槽位 {n}：特性不在游戏提取数据中。",
+						"historical_slot_unverified": "槽位 {n}：Plasmatic Discharger 上经确认的历史换弹速度特性，已不可选。原始槽位未经独立验证。",
+						"historical_perk": "槽位 {n}：历史上合法的特性，在当前规则下已不可选（已确认的历史例外）。",
+						"disallowed_slot": "槽位 {n}：按提取的 42.10 规则，此特性不允许出现在此处。",
+						"missing_slot_unlocked": "槽位 {n}：缺少已解锁的特性。",
+						"missing_slot_incomplete": "槽位 {n}：空槽位且解锁上下文不完整。",
+						"fallback": "{code}"
+					}
+				}
 			},
 			"heroes": {
 				"title": "英雄",
@@ -2037,7 +2087,23 @@
 					"plankerton": "板岩镇",
 					"cannyValley": "坎尼谷",
 					"twinePeaks": "麻绳峰"
-				}
+				},
+				"layoutSummary": "**{total}** 件 — 地板 {floors} · 墙 {walls} · 楼梯 {stairs} · 屋顶 {roofs}\n木 {wood} · 石 {stone} · 金属 {metal}\n已放置陷阱 **{traps}**",
+				"layout": {
+					"empty": "该区域存档中没有玩家建造的部件",
+					"legendWood": "木",
+					"legendStone": "石",
+					"legendMetal": "金属",
+					"legendRoof": "屋顶",
+					"legendFloorTrap": "地板陷阱",
+					"legendWallTrap": "墙陷阱",
+					"legendCeilingTrap": "天花板陷阱",
+					"legendNote": "Launcher 视图 · 区域地形 · 陷阱",
+					"piecesSummary": "{total} 件 — 地板 {floors} · 墙 {walls} · 楼梯 {stairs} · 屋顶 {roofs}",
+					"materialsSummary": "木 {wood} · 石 {stone} · 金属 {metal}",
+					"trapsSummary": "{n} 个陷阱"
+				},
+				"viewMap3d": "2D 基地"
 			},
 			"gamepanel": {
 				"msg1": "预设",

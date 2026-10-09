@@ -590,7 +590,12 @@
 				"msg37": "Saisons passees",
 				"msg38": "Saison actuelle",
 				"msg39": "Cheat Master",
-				"msg40": "Poussière d'esprits"
+				"msg40": "Poussière d'esprits",
+				"msg41": "Loot Hacker",
+				"msg42": "Ghost Hunter",
+				"msg43": "Lost Soul",
+				"msg44": "Bounty Hunter",
+				"msg45": "Trick or Treat"
 			}
 		},
 		"cuenta": {
@@ -1923,7 +1928,52 @@
 				"detailCopyLabel": "Exemplaire",
 				"detailCopy": "{i}/{total}",
 				"detailCopyFooter": "Page {i}/{total}",
-				"detailBack": "Retour"
+				"detailBack": "Retour",
+				"legacy": {
+					"title": "Legacy",
+					"empty": "Aucun résultat avec ces filtres",
+					"catAoe": "AOE Knockback",
+					"catModded": "Moddés",
+					"catHistorical": "Historiques",
+					"srcInventory": "Inventaire (schémas)",
+					"srcCollectionBook": "Livre de collection",
+					"srcBackpack": "Sac à dos",
+					"srcStorage": "Stockage",
+					"kindAll": "Armes et pièges",
+					"kindWeapon": "Armes",
+					"kindTrap": "Pièges",
+					"statusHighlighted": "Legacy, historiques et moddés",
+					"statusHybrid": "Hybrides uniquement",
+					"statusModded": "Moddés uniquement",
+					"statusLegacy": "Legacy uniquement",
+					"statusReview": "À revoir",
+					"statusAll": "Tous",
+					"selectCategory": "Catégorie",
+					"selectStatus": "Statut",
+					"statTotal": "{n} résultats",
+					"statMax": "{n} au niveau max (130)",
+					"statSuper": "{n} surchargés (144)",
+					"findings": "Constatations",
+					"reasons": {
+						"refund_legacy_item": "Marqué par Epic comme objet legacy remboursable (refund_legacy_item).",
+						"legacy_item": "Marqué par Epic comme objet legacy (legacy_item).",
+						"unknown_perk_dict": "Contient un perk absent du dictionnaire actuel.",
+						"malformed_attributes": "Attributs de perks manquants ou mal formés.",
+						"defender_on_schematic": "Slot {n} : perk réservé aux défenseurs sur un schéma ; classé modded.",
+						"historical": "Objet legacy/historique : règles de slots d’origine indisponibles ; statut modded non établissable.",
+						"unknown_template": "Aucune règle de slots résolue pour cette variante exacte.",
+						"malformed": "Slots de perks manquants ou mal formés ; positions non comparables.",
+						"conflicting_fields": "Les deux listes de perks divergent ; l’ordre des slots doit être revu.",
+						"extra_slots": "{stored} slots enregistrés ; cet objet a {expected} slots selon les règles extraites.",
+						"unknown_perk": "Slot {n} : perk absent de l’extraction du jeu.",
+						"historical_slot_unverified": "Slot {n} : Reload Speed est un perk historique confirmé sur le Plasmatic Discharger, plus sélectionnable. Positions d’origine non vérifiées indépendamment.",
+						"historical_perk": "Slot {n} : perk historiquement légitime, plus sélectionnable sous les règles actuelles (exception historique confirmée).",
+						"disallowed_slot": "Slot {n} : ce perk n’est pas autorisé ici selon les règles 42.10 extraites.",
+						"missing_slot_unlocked": "Slot {n} : perk débloqué manquant.",
+						"missing_slot_incomplete": "Slot {n} : slot vide avec contexte de déblocage incomplet.",
+						"fallback": "{code}"
+					}
+				}
 			},
 			"heroes": {
 				"title": "Héros",
@@ -2002,7 +2052,23 @@
 					"plankerton": "Plankerton",
 					"cannyValley": "Vallée Canny",
 					"twinePeaks": "Pics du Désordre"
-				}
+				},
+				"layoutSummary": "**{total}** pièces — {floors} sols · {walls} murs · {stairs} escaliers · {roofs} toits\nBois {wood} · Pierre {stone} · Métal {metal}\n**{traps}** pièges placés",
+				"layout": {
+					"empty": "Aucune pièce construite par le joueur dans cette zone",
+					"legendWood": "Bois",
+					"legendStone": "Pierre",
+					"legendMetal": "Métal",
+					"legendRoof": "Toit",
+					"legendFloorTrap": "Piège de sol",
+					"legendWallTrap": "Piège mural",
+					"legendCeilingTrap": "Piège de plafond",
+					"legendNote": "Vue Launcher · terrain de zone · pièges",
+					"piecesSummary": "{total} pièces — {floors} sols · {walls} murs · {stairs} escaliers · {roofs} toits",
+					"materialsSummary": "Bois {wood} · Pierre {stone} · Métal {metal}",
+					"trapsSummary": "{n} pièges"
+				},
+				"viewMap3d": "Base 2D"
 			},
 			"gamepanel": {
 				"msg1": "Loadout",

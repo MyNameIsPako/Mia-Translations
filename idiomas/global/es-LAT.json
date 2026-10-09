@@ -590,7 +590,12 @@
 				"msg37": "Sesiones pasadas",
 				"msg38": "Temporada actual",
 				"msg39": "Cheat Master",
-				"msg40": "Polvo de espíritus"
+				"msg40": "Polvo de espíritus",
+				"msg41": "Loot Hacker",
+				"msg42": "Ghost Hunter",
+				"msg43": "Lost Soul",
+				"msg44": "Bounty Hunter",
+				"msg45": "Trick or Treat"
 			}
 		},
 		"cuenta": {
@@ -1924,7 +1929,52 @@
 				"detailCopyLabel": "Copia",
 				"detailCopy": "{i}/{total}",
 				"detailCopyFooter": "Pág. {i}/{total}",
-				"detailBack": "Atrás"
+				"detailBack": "Atrás",
+				"legacy": {
+					"title": "Legacy",
+					"empty": "No hay resultados con estos filtros",
+					"catAoe": "AOE Knockback",
+					"catModded": "Modeadas",
+					"catHistorical": "Históricos",
+					"srcInventory": "Inventario (esquemas)",
+					"srcCollectionBook": "Libro de colección",
+					"srcBackpack": "Mochila",
+					"srcStorage": "Almacén",
+					"kindAll": "Armas y trampas",
+					"kindWeapon": "Armas",
+					"kindTrap": "Trampas",
+					"statusHighlighted": "Legacy, históricos y modeadas",
+					"statusHybrid": "Solo híbridos",
+					"statusModded": "Solo modeadas",
+					"statusLegacy": "Solo legacy",
+					"statusReview": "Necesitan revisión",
+					"statusAll": "Todos",
+					"selectCategory": "Categoría",
+					"selectStatus": "Estado",
+					"statTotal": "{n} resultados",
+					"statMax": "{n} al nivel máximo (130)",
+					"statSuper": "{n} supercargados (144)",
+					"findings": "Hallazgos",
+					"reasons": {
+						"refund_legacy_item": "Marcado por Epic como ítem legacy reembolsable (refund_legacy_item).",
+						"legacy_item": "Marcado por Epic como ítem legacy (legacy_item).",
+						"unknown_perk_dict": "Hay un perk que no está en el diccionario actual.",
+						"malformed_attributes": "Atributos de perks ausentes o mal formados.",
+						"defender_on_schematic": "Slot {n}: perk solo de defensor en un esquema; clasificado como modeado.",
+						"historical": "Ítem legacy/histórico: no hay reglas de slots originales; no se puede confirmar si está modeado.",
+						"unknown_template": "No hay reglas de slots resueltas para esta variante exacta.",
+						"malformed": "Slots de perks ausentes o mal formados; no se pueden comparar posiciones.",
+						"conflicting_fields": "Las dos listas de perks no coinciden; hay que revisar el orden de slots.",
+						"extra_slots": "{stored} slots guardados; este ítem tiene {expected} slots según las reglas 42.10.",
+						"unknown_perk": "Slot {n}: el perk no aparece en la extracción del juego.",
+						"historical_slot_unverified": "Slot {n}: Reload Speed histórico confirmado en el Plasmatic Discharger (ya no seleccionable). Su slot original no está verificado de forma independiente.",
+						"historical_perk": "Slot {n}: perk históricamente legítimo, ya no seleccionable con las reglas actuales (excepción histórica confirmada).",
+						"disallowed_slot": "Slot {n}: este perk no está permitido aquí según las reglas extraídas de 42.10.",
+						"missing_slot_unlocked": "Slot {n}: falta un perk desbloqueado.",
+						"missing_slot_incomplete": "Slot {n}: slot vacío con contexto de desbloqueo incompleto.",
+						"fallback": "{code}"
+					}
+				}
 			},
 			"heroes": {
 				"title": "Héroes",
@@ -2003,7 +2053,23 @@
 					"plankerton": "Villatablón",
 					"cannyValley": "Valle Latoso",
 					"twinePeaks": "Cumbres Leñosas"
-				}
+				},
+				"layoutSummary": "**{total}** piezas — {floors} pisos · {walls} paredes · {stairs} escaleras · {roofs} techos\nMadera {wood} · Piedra {stone} · Metal {metal}\n**{traps}** trampas colocadas",
+				"layout": {
+					"empty": "No hay piezas construidas por el jugador en esta zona",
+					"legendWood": "Madera",
+					"legendStone": "Piedra",
+					"legendMetal": "Metal",
+					"legendRoof": "Techo",
+					"legendFloorTrap": "Trampa de piso",
+					"legendWallTrap": "Trampa de pared",
+					"legendCeilingTrap": "Trampa de techo",
+					"legendNote": "Vista Launcher · terreno de zona · trampas",
+					"piecesSummary": "{total} piezas — {floors} pisos · {walls} paredes · {stairs} escaleras · {roofs} techos",
+					"materialsSummary": "Madera {wood} · Piedra {stone} · Metal {metal}",
+					"trapsSummary": "{n} trampas"
+				},
+				"viewMap3d": "Base 2D"
 			},
 			"gamepanel": {
 				"msg1": "Loadout",

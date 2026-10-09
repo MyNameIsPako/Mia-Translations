@@ -591,7 +591,12 @@
 				"msg37": "Past seasons",
 				"msg38": "Current season",
 				"msg39": "Cheat Master",
-				"msg40": "Sprite Dust"
+				"msg40": "Sprite Dust",
+				"msg41": "Loot Hacker",
+				"msg42": "Ghost Hunter",
+				"msg43": "Lost Soul",
+				"msg44": "Bounty Hunter",
+				"msg45": "Trick or Treat"
 			}
 		},
 		"cuenta": {
@@ -1924,7 +1929,52 @@
 				"detailCopyLabel": "Copy",
 				"detailCopy": "{i}/{total}",
 				"detailCopyFooter": "Page {i}/{total}",
-				"detailBack": "Back"
+				"detailBack": "Back",
+				"legacy": {
+					"title": "Legacy",
+					"empty": "No results with these filters",
+					"catAoe": "AOE Knockback",
+					"catModded": "Modded",
+					"catHistorical": "Historical",
+					"srcInventory": "Inventory schematics",
+					"srcCollectionBook": "Collection book",
+					"srcBackpack": "Backpack",
+					"srcStorage": "Storage",
+					"kindAll": "Weapons & traps",
+					"kindWeapon": "Weapons",
+					"kindTrap": "Traps",
+					"statusHighlighted": "Legacy, historical & modded",
+					"statusHybrid": "Hybrids only",
+					"statusModded": "Modded only",
+					"statusLegacy": "Legacy only",
+					"statusReview": "Needs review",
+					"statusAll": "All checked items",
+					"selectCategory": "Category",
+					"selectStatus": "Status",
+					"statTotal": "{n} results",
+					"statMax": "{n} at max level (130)",
+					"statSuper": "{n} supercharged (144)",
+					"findings": "Findings",
+					"reasons": {
+						"refund_legacy_item": "Marked by Epic as a refundable legacy item (refund_legacy_item).",
+						"legacy_item": "Marked by Epic as a legacy item (legacy_item).",
+						"unknown_perk_dict": "Contains a perk missing from the current dictionary.",
+						"malformed_attributes": "Missing or malformed perk attributes.",
+						"defender_on_schematic": "Slot {n}: defender-only perk on a schematic; classified as modded.",
+						"historical": "Legacy/historical item: original slot rules are unavailable; modded status cannot be established.",
+						"unknown_template": "No resolved slot rules for this exact item variant.",
+						"malformed": "Missing or malformed perk slots; cannot compare slot positions.",
+						"conflicting_fields": "The two perk arrays disagree; slot order needs review.",
+						"extra_slots": "{stored} stored slots; this item has {expected} slots in the extracted rules.",
+						"unknown_perk": "Slot {n}: perk is absent from the game extraction.",
+						"historical_slot_unverified": "Slot {n}: Reload Speed is a user-confirmed historical perk on the Plasmatic Discharger, no longer selectable. Its original slot positions have not been independently verified.",
+						"historical_perk": "Slot {n}: historically legitimate perk, no longer selectable under the current rules (user-confirmed historical exception).",
+						"disallowed_slot": "Slot {n}: this perk is not allowed here by the extracted 42.10 rules.",
+						"missing_slot_unlocked": "Slot {n}: unlocked perk is missing.",
+						"missing_slot_incomplete": "Slot {n}: empty slot has incomplete unlock context.",
+						"fallback": "{code}"
+					}
+				}
 			},
 			"heroes": {
 				"title": "Heroes",
@@ -2003,7 +2053,23 @@
 					"plankerton": "Plankerton",
 					"cannyValley": "Canny Valley",
 					"twinePeaks": "Twine Peaks"
-				}
+				},
+				"layoutSummary": "**{total}** pieces — {floors} floors · {walls} walls · {stairs} stairs · {roofs} roofs\nWood {wood} · Stone {stone} · Metal {metal}\n**{traps}** traps placed",
+				"layout": {
+					"empty": "No player-built pieces in this zone's save",
+					"legendWood": "Wood",
+					"legendStone": "Stone",
+					"legendMetal": "Metal",
+					"legendRoof": "Roof",
+					"legendFloorTrap": "Floor trap",
+					"legendWallTrap": "Wall trap",
+					"legendCeilingTrap": "Ceiling trap",
+					"legendNote": "Launcher view · zone terrain · traps",
+					"piecesSummary": "{total} pieces — {floors} floors · {walls} walls · {stairs} stairs · {roofs} roofs",
+					"materialsSummary": "Wood {wood} · Stone {stone} · Metal {metal}",
+					"trapsSummary": "{n} traps"
+				},
+				"viewMap3d": "Base 2D"
 			},
 			"gamepanel": {
 				"msg1": "Loadout",

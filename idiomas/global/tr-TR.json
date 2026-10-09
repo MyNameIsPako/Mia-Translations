@@ -591,7 +591,12 @@
 				"msg37": "Geçmiş sezonlar",
 				"msg38": "Güncel sezon",
 				"msg39": "Cheat Master",
-				"msg40": "Ruh Tozu"
+				"msg40": "Ruh Tozu",
+				"msg41": "Loot Hacker",
+				"msg42": "Ghost Hunter",
+				"msg43": "Lost Soul",
+				"msg44": "Bounty Hunter",
+				"msg45": "Trick or Treat"
 			}
 		},
 		"cuenta": {
@@ -1924,7 +1929,52 @@
 				"detailCopyLabel": "Kopya",
 				"detailCopy": "{i}/{total}",
 				"detailCopyFooter": "Sayfa {i}/{total}",
-				"detailBack": "Geri"
+				"detailBack": "Geri",
+				"legacy": {
+					"title": "Legacy",
+					"empty": "Bu filtrelerle sonuç yok",
+					"catAoe": "AOE Knockback",
+					"catModded": "Modded",
+					"catHistorical": "Tarihsel",
+					"srcInventory": "Envanter (şemalar)",
+					"srcCollectionBook": "Koleksiyon kitabı",
+					"srcBackpack": "Sırt çantası",
+					"srcStorage": "Depo",
+					"kindAll": "Silahlar ve tuzaklar",
+					"kindWeapon": "Silahlar",
+					"kindTrap": "Tuzaklar",
+					"statusHighlighted": "Legacy, tarihsel ve modded",
+					"statusHybrid": "Yalnızca hibrit",
+					"statusModded": "Yalnızca modded",
+					"statusLegacy": "Yalnızca legacy",
+					"statusReview": "İnceleme gerekli",
+					"statusAll": "Tümü",
+					"selectCategory": "Kategori",
+					"selectStatus": "Durum",
+					"statTotal": "{n} sonuç",
+					"statMax": "{n} maksimum seviyede (130)",
+					"statSuper": "{n} süper şarjlı (144)",
+					"findings": "Bulgular",
+					"reasons": {
+						"refund_legacy_item": "Epic tarafından iade edilebilir legacy öğe olarak işaretlendi (refund_legacy_item).",
+						"legacy_item": "Epic tarafından legacy öğe olarak işaretlendi (legacy_item).",
+						"unknown_perk_dict": "Güncel sözlükte olmayan bir perk içeriyor.",
+						"malformed_attributes": "Eksik veya hatalı perk öznitelikleri.",
+						"defender_on_schematic": "Yuva {n}: şemada yalnızca savunucu perki; modded olarak sınıflandırıldı.",
+						"historical": "Legacy/tarihsel öğe: orijinal yuva kuralları yok; modded durumu belirlenemiyor.",
+						"unknown_template": "Bu kesin varyant için çözülmüş yuva kuralı yok.",
+						"malformed": "Eksik veya hatalı perk yuvaları; konumlar karşılaştırılamıyor.",
+						"conflicting_fields": "İki perk listesi uyuşmuyor; yuva sırası incelenmeli.",
+						"extra_slots": "{stored} kayıtlı yuva; bu öğenin çıkarılmış kurallarda {expected} yuvası var.",
+						"unknown_perk": "Yuva {n}: perk oyun çıkarımında yok.",
+						"historical_slot_unverified": "Yuva {n}: Plasmatic Discharger’da onaylı tarihsel Reload Speed, artık seçilemez. Orijinal yuvalar bağımsız doğrulanmadı.",
+						"historical_perk": "Yuva {n}: tarihsel olarak meşru perk, mevcut kurallarda seçilemez (onaylı tarihsel istisna).",
+						"disallowed_slot": "Yuva {n}: bu perk, çıkarılmış 42.10 kurallarına göre burada izinli değil.",
+						"missing_slot_unlocked": "Yuva {n}: açılmış perk eksik.",
+						"missing_slot_incomplete": "Yuva {n}: boş yuva, açılma bağlamı eksik.",
+						"fallback": "{code}"
+					}
+				}
 			},
 			"heroes": {
 				"title": "Kahramanlar",
@@ -2003,7 +2053,23 @@
 					"plankerton": "Plankerton",
 					"cannyValley": "Canny Vadisi",
 					"twinePeaks": "Twine Tepeleri"
-				}
+				},
+				"layoutSummary": "**{total}** parça — {floors} zemin · {walls} duvar · {stairs} merdiven · {roofs} çatı\nOdun {wood} · Taş {stone} · Metal {metal}\n**{traps}** tuzak yerleştirildi",
+				"layout": {
+					"empty": "Bu bölgenin kaydında oyuncu yapımı parça yok",
+					"legendWood": "Odun",
+					"legendStone": "Taş",
+					"legendMetal": "Metal",
+					"legendRoof": "Çatı",
+					"legendFloorTrap": "Zemin tuzağı",
+					"legendWallTrap": "Duvar tuzağı",
+					"legendCeilingTrap": "Tavan tuzağı",
+					"legendNote": "Launcher görünümü · bölge arazisi · tuzaklar",
+					"piecesSummary": "{total} parça — {floors} zemin · {walls} duvar · {stairs} merdiven · {roofs} çatı",
+					"materialsSummary": "Odun {wood} · Taş {stone} · Metal {metal}",
+					"trapsSummary": "{n} tuzak"
+				},
+				"viewMap3d": "2D üs"
 			},
 			"gamepanel": {
 				"msg1": "Yükleme düzeni",

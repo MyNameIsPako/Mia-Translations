@@ -590,7 +590,12 @@
 				"msg37": "Stagioni passate",
 				"msg38": "Stagione attuale",
 				"msg39": "Cheat Master",
-				"msg40": "Polvere di spiriti"
+				"msg40": "Polvere di spiriti",
+				"msg41": "Loot Hacker",
+				"msg42": "Ghost Hunter",
+				"msg43": "Lost Soul",
+				"msg44": "Bounty Hunter",
+				"msg45": "Trick or Treat"
 			}
 		},
 		"cuenta": {
@@ -1957,7 +1962,52 @@
 				"detailCopyLabel": "Copia",
 				"detailCopy": "{i}/{total}",
 				"detailCopyFooter": "Pag. {i}/{total}",
-				"detailBack": "Indietro"
+				"detailBack": "Indietro",
+				"legacy": {
+					"title": "Legacy",
+					"empty": "Nessun risultato con questi filtri",
+					"catAoe": "AOE Knockback",
+					"catModded": "Modded",
+					"catHistorical": "Storici",
+					"srcInventory": "Inventario (schemi)",
+					"srcCollectionBook": "Libro collezione",
+					"srcBackpack": "Zaino",
+					"srcStorage": "Deposito",
+					"kindAll": "Armi e trappole",
+					"kindWeapon": "Armi",
+					"kindTrap": "Trappole",
+					"statusHighlighted": "Legacy, storici e modded",
+					"statusHybrid": "Solo ibridi",
+					"statusModded": "Solo modded",
+					"statusLegacy": "Solo legacy",
+					"statusReview": "Da rivedere",
+					"statusAll": "Tutti",
+					"selectCategory": "Categoria",
+					"selectStatus": "Stato",
+					"statTotal": "{n} risultati",
+					"statMax": "{n} al livello massimo (130)",
+					"statSuper": "{n} sovraccarichi (144)",
+					"findings": "Risultati",
+					"reasons": {
+						"refund_legacy_item": "Segnato da Epic come oggetto legacy rimborsabile (refund_legacy_item).",
+						"legacy_item": "Segnato da Epic come oggetto legacy (legacy_item).",
+						"unknown_perk_dict": "Contiene un perk assente dal dizionario attuale.",
+						"malformed_attributes": "Attributi dei perk mancanti o non validi.",
+						"defender_on_schematic": "Slot {n}: perk solo per difensori su uno schema; classificato come modded.",
+						"historical": "Oggetto legacy/storico: regole originali degli slot non disponibili; stato modded non determinabile.",
+						"unknown_template": "Nessuna regola di slot risolta per questa variante esatta.",
+						"malformed": "Slot dei perk mancanti o non validi; impossibile confrontare le posizioni.",
+						"conflicting_fields": "Le due liste di perk non coincidono; rivedere l’ordine degli slot.",
+						"extra_slots": "{stored} slot salvati; questo oggetto ha {expected} slot nelle regole estratte.",
+						"unknown_perk": "Slot {n}: perk assente dall’estrazione di gioco.",
+						"historical_slot_unverified": "Slot {n}: Reload Speed è un perk storico confermato sul Plasmatic Discharger, non più selezionabile. Posizioni originali non verificate in modo indipendente.",
+						"historical_perk": "Slot {n}: perk storicamente legittimo, non più selezionabile con le regole attuali (eccezione storica confermata).",
+						"disallowed_slot": "Slot {n}: questo perk non è consentito qui dalle regole 42.10 estratte.",
+						"missing_slot_unlocked": "Slot {n}: manca un perk sbloccato.",
+						"missing_slot_incomplete": "Slot {n}: slot vuoto con contesto di sblocco incompleto.",
+						"fallback": "{code}"
+					}
+				}
 			},
 			"heroes": {
 				"title": "Eroi",
@@ -2036,7 +2086,23 @@
 					"plankerton": "Plankerton",
 					"cannyValley": "Valle Canny",
 					"twinePeaks": "Picchi Avvolti"
-				}
+				},
+				"layoutSummary": "**{total}** pezzi — {floors} pavimenti · {walls} muri · {stairs} scale · {roofs} tetti\nLegno {wood} · Pietra {stone} · Metallo {metal}\n**{traps}** trappole piazzate",
+				"layout": {
+					"empty": "Nessun pezzo costruito dal giocatore in questa zona",
+					"legendWood": "Legno",
+					"legendStone": "Pietra",
+					"legendMetal": "Metallo",
+					"legendRoof": "Tetto",
+					"legendFloorTrap": "Trappola a terra",
+					"legendWallTrap": "Trappola a muro",
+					"legendCeilingTrap": "Trappola a soffitto",
+					"legendNote": "Vista Launcher · terreno zona · trappole",
+					"piecesSummary": "{total} pezzi — {floors} pavimenti · {walls} muri · {stairs} scale · {roofs} tetti",
+					"materialsSummary": "Legno {wood} · Pietra {stone} · Metallo {metal}",
+					"trapsSummary": "{n} trappole"
+				},
+				"viewMap3d": "Base 2D"
 			},
 			"gamepanel": {
 				"msg1": "Loadout",
