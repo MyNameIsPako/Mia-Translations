@@ -1,6 +1,6 @@
 {
   "meta": {
-    "description": "Mia Pocket — 端末ローカルログイン対応のスマートフォン向けMia。"
+    "description": "Mia Pocket — スマホ向けに最適化されたMia。ログインは端末に保存されます。"
   },
   "auth": {
     "loginDiscord": "Discordでログイン",
@@ -8,98 +8,212 @@
     "loginTitle": "ログイン",
     "loginEpic": "ログイン",
     "signingIn": "ログイン中",
-    "restoring": "セッションを復元中",
+    "restoring": "アカウントを更新中",
     "cancel": "キャンセル",
-    "backHome": "ホームに戻る"
+    "backHome": "ホームに戻る",
+    "chooseLoginMethod": "Epicアカウントの接続方法を選んでください",
+    "recommended": "おすすめ",
+    "continue": "続ける",
+    "back": "戻る",
+    "loginStepsSelect": "方法を選択",
+    "signingInAccount": "アカウントにサインイン中…",
+    "signingInAccounts": "アカウントにサインイン中…",
+    "refreshingAccounts": "アカウントを更新中"
   },
   "nav": {
     "alertas": "アラート",
     "alertasDesc": "本日のSTWミッション",
     "dupe": "Dupe",
     "dupeDesc": "STWリソースを複製",
-    "party": "パーティ",
-    "partyDesc": "退出してチェストを受取",
+    "party": "Party",
+    "partyDesc": "退出してチェストを受け取る",
     "menu": "メニュー",
     "menuAria": "メインメニュー",
     "homeLead": "何をしますか？",
-    "changeAccount": "切り替え",
+    "changeAccount": "切替",
     "logout": "ログアウト",
-    "language": "言語"
+    "language": "言語",
+    "homeKicker": "モバイルランチャー",
+    "accounts": "Epicアカウント",
+    "accountsCount": "{n} アカウント",
+    "activeAccount": "使用中",
+    "addAccount": "アカウントを追加",
+    "removeAccount": "アカウントを削除",
+    "closeAccounts": "閉じる",
+    "accountsTab": "アカウント",
+    "accountsTabDesc": "この端末のEpic",
+    "accountsTabHint": "接続または切替",
+    "comingSoon": "近日公開",
+    "comingSoonDesc": "BRツールを準備中",
+    "miscComingSoonDesc": "ツールを準備中",
+    "diarias": "ミッション",
+    "diariasDesc": "デイリー、ログ、MSK",
+    "vbucks": "V-Bucks",
+    "vbucksDesc": "残高とアカウント内訳",
+    "serverStatus": "サーバー状態",
+    "serverStatusDesc": "FortniteとEpicサービス",
+    "lookup": "Lookup",
+    "lookupDesc": "Epicプレイヤーを検索",
+    "alertasCheck": "Alertas Check",
+    "alertasCheckDesc": "完了したアラートを確認",
+    "aventuras": "アドベンチャー",
+    "aventurasDesc": "Venturesの進捗",
+    "stwShop": "STWショップ",
+    "stwShopDesc": "ショップとラマ",
+    "brStats": "Stats BR",
+    "brStatsDesc": "統計と週間XP",
+    "brShop": "BRショップ",
+    "brShopDesc": "ショップ、リーク、セクション",
+    "brLocker": "Locker",
+    "brLockerDesc": "アカウントのコスメ",
+    "stwInventory": "インベントリ",
+    "stwInventoryDesc": "バックパック、倉庫、アドベンチャー",
+    "stwArmory": "ロッカー",
+    "stwArmoryDesc": "設計図とヒーロー",
+    "stwLoadouts": "編成",
+    "stwLoadoutsDesc": "有効なヒーロー編成",
+    "legacyFinder": "Rare/Legacy",
+    "legacyFinderDesc": "Legacy設計図と改造",
+    "homebase": "Homebase",
+    "homebaseDesc": "シールド、基地、権限",
+    "sac": "SAC",
+    "sacDesc": "クリエイターコード",
+    "redeem": "引き換え",
+    "redeemDesc": "Epicコードを引き換え",
+    "friends": "フレンド",
+    "friendsDesc": "リストとリクエスト",
+    "collectionBook": "コレクションブック",
+    "collectionBookDesc": "STWコレクションブックを強化",
+    "brSpirits": "スピリット",
+    "brSpiritsDesc": "アカウントのMagpieスプライト",
+    "adminPanel": "Admin panel",
+    "adminPanelDesc": "管理パネルのコード",
+    "xpBoosts": "Boosts XP",
+    "xpBoostsDesc": "個人・チームブースト",
+    "communityBuilds": "Builds",
+    "communityBuildsDesc": "STWコミュニティビルド",
+    "miaChecker": "Checker",
+    "miaCheckerDesc": "Epicアカウントレポート",
+    "authHub": "Auth Hub",
+    "authHubDesc": "情報、リンク、レシート、exchange",
+    "expeditions": "遠征",
+    "expeditionsDesc": "送信、回収、自動24/7",
+    "cloudStorage": "Cloud",
+    "cloudStorageDesc": "Epicの.savファイル",
+    "mcp": "MCP",
+    "mcpDesc": "MCPコンソール",
+    "worldEditor": "World Editor",
+    "worldEditorDesc": "world-info JSONを表示/編集",
+    "back": "戻る",
+    "scrollTop": "一番上へ",
+    "addingAccount": "アカウントを追加中…"
   },
   "party": {
-    "hubTitle": "パーティ",
-    "hubDesc": "パーティの操作を選択",
+    "hubTitle": "Party",
+    "hubDesc": "パーティ操作を選んでください",
     "kick": "退出",
     "kickDesc": "報酬を受け取らずにパーティを退出します。",
     "kickClaim": "退出して回収",
     "kickClaimDesc": "パーティを退出してミッションチェストを受け取ります。",
-    "kickAllClaimTransfer": "全員キック＋回収＋リーダー委譲",
-    "kickAllClaimTransferDesc": "全員をキックし、回収してリーダーを委譲します。",
-    "kickAllClaimInvite": "全員キック＋回収＋再招待",
-    "kickAllClaimInviteDesc": "全員をキックし、回収して再び招待します。",
+    "kickAllClaimTransfer": "全員退出 + 回収 + 譲渡",
+    "kickAllClaimTransferDesc": "全員を退出させ、回収してリーダーを譲渡します。",
+    "kickAllClaimInvite": "全員退出 + 回収 + 招待",
+    "kickAllClaimInviteDesc": "全員を退出させ、回収して再招待します。",
     "running": "実行中…",
     "processing": "処理中",
-    "connectionError": "接続エラーです。"
+    "connectionError": "接続エラー。"
   },
   "dupe": {
     "title": "Dupe",
     "desc": "STWリソースを複製",
-    "force": "Dupeを強制",
+    "force": "強制Dupe",
     "start": "Dupeを開始",
     "cancel": "キャンセル",
     "retry": "再試行",
     "running": "実行中…",
     "status": {
       "checking": "STWプロフィールを確認中…",
-      "countdown": "Dupeのタイミングを待機中",
+      "countdown": "Dupeウィンドウ待機中",
       "applying": "Dupeを適用中…",
       "success": "Dupeを適用しました",
       "timedFailed": "Dupeを適用できませんでした",
       "forceFailed": "強制Dupeに失敗しました",
-      "noLockOrExpired": "有効なprofile lockがないか、すでに期限切れです",
-      "profileUnavailable": "theater0プロフィールを読み取れませんでした",
+      "noLockOrExpired": "有効なprofile lockがないか、期限切れです",
+      "profileUnavailable": "theater0プロフィールを読めませんでした",
       "alreadyRunning": "すでにDupeが実行中です"
     }
   },
   "epic": {
     "expired": "ログインの有効期限が切れました。もう一度お試しください。",
-    "blacklisted": "このアカウントはMia Pocketのブラックリストに登録されています。",
+    "blacklisted": "そのアカウントはMia Pocketのブラックリストに入っています。",
     "invalidCode": "Epicが無効なコードを返しました。もう一度お試しください。",
     "deviceAuthFailed": "device authを作成できませんでした。もう一度お試しください。",
     "loginFailed": "ログインを完了できませんでした。もう一度お試しください。",
-    "connectionError": "接続エラーです。もう一度お試しください。",
-    "startFailed": "Epicのログインフローを開始できませんでした。"
+    "connectionError": "接続エラー。もう一度お試しください。",
+    "startFailed": "Epicのフローを開始できませんでした。"
   },
   "flash": {
-    "account_connected": "ログインしました。",
+    "account_connected": "ログインに成功しました。",
     "account_changed": "別のEpicアカウントを接続できます。",
-    "logged_out": "ログアウトしました。"
+    "logged_out": "ログアウトしました。",
+    "adding_account": "別のEpicアカウントでログインしてください。他のアカウントはこの端末に残ります。"
   },
   "errors": {
     "invalid_account": "選択したアカウントは無効です。",
     "csrf": "リクエストが無効です。もう一度お試しください。",
     "oauth_state": "Discordログインの有効期限が切れました。もう一度お試しください。",
     "oauth_failed": "Discordログインを完了できませんでした。",
-    "blacklisted": "あなたのユーザーはMia Pocketのブラックリストに登録されています。",
-    "epic_login_failed": "Epicでログインできませんでした。もう一度お試しください。",
+    "blacklisted": "あなたのユーザーはMia Pocketのブラックリストに入っています。",
+    "epic_login_failed": "Epicにログインできませんでした。もう一度お試しください。",
     "invalid_exchange_code": "exchange codeは32文字である必要があります。",
-    "invalid_authorization_code": "認可コードが無効です。",
+    "invalid_authorization_code": "認証コードが無効です。",
     "device_code_expired": "Epicログインの有効期限が切れました。もう一度お試しください。",
-    "account_blacklisted": "このEpicアカウントはMia Pocketのブラックリストに登録されています。",
+    "account_blacklisted": "そのEpicアカウントはMia Pocketのブラックリストに入っています。",
     "oauthStateTitle": "無効なOAuthセッション",
     "oauthCodeTitle": "無効なOAuthコード",
-    "accessDeniedTitle": "アクセスが拒否されました",
-    "loginErrorTitle": "ログインエラー"
+    "accessDeniedTitle": "アクセス拒否",
+    "loginErrorTitle": "ログインエラー",
+    "epic_required": "この機能にはEpicアカウントが必要です。"
   },
   "titles": {
     "home": "Mia Pocket",
     "dupe": "Dupe",
-    "party": "パーティ",
+    "party": "Party",
     "alertas": "STWアラート",
     "kick": "退出",
     "kickClaim": "退出して回収",
-    "kickAllClaimTransfer": "全員キックして回収",
-    "kickAllClaimInvite": "キック・回収・再招待"
+    "kickAllClaimTransfer": "全員を退出して回収",
+    "kickAllClaimInvite": "退出・回収・招待",
+    "accounts": "アカウント",
+    "diarias": "ミッション",
+    "vbucks": "V-Bucks",
+    "serverStatus": "サーバー状態",
+    "lookup": "Lookup",
+    "alertasCheck": "Alertas Check",
+    "aventuras": "アドベンチャー",
+    "stwShop": "STWショップ",
+    "brStats": "Stats BR",
+    "brShop": "BRショップ",
+    "brLocker": "Locker",
+    "stwInventory": "インベントリ",
+    "stwArmory": "ロッカー",
+    "stwLoadouts": "ヒーロー編成",
+    "legacyFinder": "Rare/Legacy",
+    "homebase": "Homebase",
+    "sac": "SAC",
+    "redeem": "引き換え",
+    "friends": "フレンド",
+    "collectionBook": "コレクションブック",
+    "brSpirits": "スピリット",
+    "adminPanel": "Admin panel",
+    "xpBoosts": "Boosts XP",
+    "communityBuilds": "Builds",
+    "miaChecker": "Mia Checker",
+    "authHub": "Auth Hub",
+    "expeditions": "遠征",
+    "cloudStorage": "Cloud storage",
+    "mcp": "MCP",
+    "worldEditor": "World Editor"
   },
   "gate": {
     "title": "モバイルのみ",
@@ -119,15 +233,1202 @@
     "alerts": "アラートを読み込めませんでした。もう一度お試しください。"
   },
   "installSteps": {
-    "iosSafari": "<p><strong>iPhone / iPad（Safari）：</strong></p><ol><li><strong>共有</strong>（矢印付きの四角）をタップします。</li><li><strong>ホーム画面に追加</strong>を選択します。</li><li>新しいアイコンから<strong>Mia Pocket</strong>を開きます。</li></ol>",
-    "iosChrome": "<p><strong>iPhone / iPad（{browser}）：</strong></p><ol><li>ブラウザのバーで<strong>共有</strong>をタップします。</li><li><strong>ホーム画面に追加</strong>を選択します。</li><li>ブラウザのタブではなく、アイコンから<strong>Mia Pocket</strong>を開きます。</li></ol><p>うまくいかない場合は、このページを<strong>Safari</strong>で開いて手順を繰り返してください。</p>",
-    "iosFirefox": "<p><strong>iPhone / iPad（Firefox）：</strong></p><ol><li>メニュー（≡）→ <strong>共有</strong>または<strong>ホーム画面に追加</strong>。</li><li><strong>Mia Pocket</strong>のアイコンを確認します。</li><li>ホーム画面のアイコンからアプリを開きます。</li></ol><p>うまくいかない場合は<strong>Safari</strong>をお試しください。</p>",
-    "iosDefault": "<p><strong>iPhone / iPad：</strong></p><ol><li><strong>共有</strong>→<strong>ホーム画面に追加</strong>を使います。</li><li>新しいアイコンから<strong>Mia Pocket</strong>を開きます。</li></ol><p>おすすめ：<strong>Safari</strong>、ChromeまたはBrave。</p>",
-    "androidFirefox": "<p><strong>Android（Firefox）：</strong></p><ol><li>メニュー（⋮）→ <strong>インストール</strong>または<strong>ホーム画面に追加</strong>。</li><li>ブラウザではなく、アイコンから<strong>Mia Pocket</strong>を開きます。</li></ol>",
-    "androidSamsung": "<p><strong>Android（Samsung Internet）：</strong></p><ol><li>メニュー → <strong>ページを追加</strong> → <strong>ホーム画面</strong>または<strong>アプリをインストール</strong>。</li><li>新しいアイコンから<strong>Mia Pocket</strong>を開きます。</li></ol>",
-    "androidBrave": "<p><strong>Android（Brave）：</strong></p><ol><li>ボタンが表示されたら<strong>アプリをインストール</strong>をタップします。</li><li>またはメニュー → <strong>アプリをインストール</strong> / <strong>ホーム画面に追加</strong>。</li><li>Braveではなく、アイコンから<strong>Mia Pocket</strong>を開きます。</li></ol>",
-    "androidEdge": "<p><strong>Android（Edge）：</strong></p><ol><li>メニュー（⋯）→ <strong>アプリをインストール</strong>または<strong>ホーム画面に追加</strong>。</li><li>新しいアイコンから<strong>Mia Pocket</strong>を開きます。</li></ol>",
-    "androidOpera": "<p><strong>Android（Opera）：</strong></p><ol><li>メニュー → <strong>ホーム画面に追加</strong>または<strong>アプリをインストール</strong>。</li><li>新しいアイコンから<strong>Mia Pocket</strong>を開きます。</li></ol>",
-    "androidDefault": "<p><strong>Android（Chromeほか）：</strong></p><ol><li>ボタンが表示されたら<strong>アプリをインストール</strong>をタップします。</li><li>またはメニュー（⋮）→ <strong>アプリをインストール</strong>。</li><li>ブラウザではなく、アイコンから<strong>Mia Pocket</strong>を開きます。</li></ol>"
+    "iosSafari": "<p><strong>iPhone / iPad（Safari）:</strong></p><ol><li><strong>共有</strong>（四角に矢印）をタップ。</li><li><strong>ホーム画面に追加</strong>を選択。</li><li>新しいアイコンから<strong>Mia Pocket</strong>を開く。</li></ol>",
+    "iosChrome": "<p><strong>iPhone / iPad（{browser}）:</strong></p><ol><li>ブラウザバーの<strong>共有</strong>をタップ。</li><li><strong>ホーム画面に追加</strong>または<strong>ホーム画面へ</strong>を選択。</li><li>ブラウザのタブではなく、アイコンから<strong>Mia Pocket</strong>を開く。</li></ol><p>うまくいかない場合は<strong>Safari</strong>でこのページを開き、手順を繰り返してください。</p>",
+    "iosFirefox": "<p><strong>iPhone / iPad（Firefox）:</strong></p><ol><li>メニュー（≡）→ <strong>共有</strong>または<strong>ホーム画面に追加</strong>。</li><li><strong>Mia Pocket</strong>のアイコンを確認。</li><li>ホーム画面のアイコンからアプリを開く。</li></ol><p>うまくいかない場合は<strong>Safari</strong>を試してください。</p>",
+    "iosDefault": "<p><strong>iPhone / iPad:</strong></p><ol><li><strong>共有</strong> → <strong>ホーム画面に追加</strong>を使う。</li><li>新しいアイコンから<strong>Mia Pocket</strong>を開く。</li></ol><p>推奨: <strong>Safari</strong>、Chrome、Brave。</p>",
+    "androidFirefox": "<p><strong>Android（Firefox）:</strong></p><ol><li>メニュー（⋮）→ <strong>インストール</strong>または<strong>ホーム画面に追加</strong>。</li><li>ブラウザではなく、アイコンから<strong>Mia Pocket</strong>を開く。</li></ol>",
+    "androidSamsung": "<p><strong>Android（Samsung Internet）:</strong></p><ol><li>メニュー → <strong>ページを追加</strong> → <strong>ホーム画面</strong>または<strong>アプリをインストール</strong>。</li><li>新しいアイコンから<strong>Mia Pocket</strong>を開く。</li></ol>",
+    "androidBrave": "<p><strong>Android（Brave）:</strong></p><ol><li>表示されたら<strong>アプリをインストール</strong>をタップ。</li><li>またはメニュー → <strong>アプリをインストール</strong> / <strong>ホーム画面に追加</strong>。</li><li>Braveではなく、アイコンから<strong>Mia Pocket</strong>を開く。</li></ol>",
+    "androidEdge": "<p><strong>Android（Edge）:</strong></p><ol><li>メニュー（⋯）→ <strong>アプリをインストール</strong>または<strong>ホーム画面に追加</strong>。</li><li>新しいアイコンから<strong>Mia Pocket</strong>を開く。</li></ol>",
+    "androidOpera": "<p><strong>Android（Opera）:</strong></p><ol><li>メニュー → <strong>ホーム画面に追加</strong>または<strong>アプリをインストール</strong>。</li><li>新しいアイコンから<strong>Mia Pocket</strong>を開く。</li></ol>",
+    "androidDefault": "<p><strong>Android（Chromeなど）:</strong></p><ol><li>表示されたら<strong>アプリをインストール</strong>をタップ。</li><li>またはメニュー（⋮）→ <strong>アプリをインストール</strong> / <strong>アプリをインストール</strong>。</li><li>ブラウザではなく、アイコンから<strong>Mia Pocket</strong>を開く。</li></ol>"
+  },
+  "welcome": {
+    "kicker": "Mia Pocket",
+    "greeting": "こんにちは、{name}",
+    "tagline": "Android・iOS向けアプリ。すべてこの端末にローカル保存されます。",
+    "actionsTitle": "クイックアクション",
+    "alertsKicker": "世界を救え",
+    "alertsTitle": "本日のアラート",
+    "viewAllAlerts": "すべて見る"
+  },
+  "accounts": {
+    "pageTitle": "Epicアカウント",
+    "pageDesc": "この端末のEpicアカウントを接続・切り替えます。Mia Pocketの他の機能はログインなしでも使えます。",
+    "empty": "この端末にはまだEpicアカウントがありません。",
+    "addingDesc": "アカウントはこの端末に残ります。下で新しいアカウントを接続してください。",
+    "cancelAdd": "キャンセル",
+    "addSection": "新しいアカウント"
+  },
+  "categories": {
+    "saveTheWorld": "世界を救え",
+    "battleRoyale": "Battle Royale",
+    "misc": "Misc"
+  },
+  "loginMethods": {
+    "deviceCode": {
+      "title": "ウェブ確認",
+      "description": "確認リンク（device_code）でEpicにログインします。",
+      "instructions": "ブラウザでEpicが開きます。アクセスを確認するとPocketが自動で続行します。",
+      "waitingConfirmation": "Epicでの確認を待っています…",
+      "expired": "確認リンクの有効期限が切れました。戻ってもう一度お試しください。",
+      "openWebsite": "Epicを再度開く"
+    },
+    "authorizationCode": {
+      "title": "認証コード",
+      "description": "Epicのウェブが返すコード（authorization_code）を使います。",
+      "instructions": "Epicを開き、リダイレクトURLのコードをコピーして下に貼り付けてください。",
+      "inputPlaceholder": "認証コードを貼り付け",
+      "openLogin": "Epicログインを開く",
+      "openRedirect": "コードを取得"
+    },
+    "exchangeCode": {
+      "title": "Exchangeコード",
+      "description": "exchange codeがある場合はそれでログインします。",
+      "instructions": "exchangeコード（32文字）を貼り付けて「続ける」を押してください。",
+      "inputPlaceholder": "exchangeコードを貼り付け"
+    }
+  },
+  "discordUser": {
+    "menuTitle": "Discordアカウント",
+    "userIdLabel": "Discord ID",
+    "premiumStatus": "Premium状態",
+    "premium": {
+      "inactive": "Premiumなし",
+      "premium": "Premium",
+      "booster": "Booster",
+      "eternum": "Eternum"
+    },
+    "expiresAt": "{date} に期限切れ",
+    "noExpiry": "期限なし",
+    "premiumHint": "MiaでPremiumを有効にして、さらに機能を解除しましょう。",
+    "logout": "Discordからログアウト"
+  },
+  "tabs": {
+    "stw": "STW",
+    "br": "BR",
+    "misc": "Misc",
+    "navAria": "セクション",
+    "home": "ホーム",
+    "commandsKicker": "コマンド",
+    "commandsLead": "やりたいことを選んでください"
+  },
+  "diarias": {
+    "title": "ミッション",
+    "desc": "デイリー、ミッションログ、STWのMSK。",
+    "refresh": "更新",
+    "replace": "入れ替え",
+    "pin": "固定",
+    "unpin": "固定解除",
+    "pinned": "固定済み",
+    "slots": "スロット",
+    "rerolls": "入れ替え",
+    "rewardVbucks": "報酬V-Bucks",
+    "rewardTickets": "X-Rayチケット",
+    "vbucks": "V-Bucks",
+    "tickets": "チケット",
+    "gold": "ゴールド",
+    "empty": "有効なデイリーミッションはありません。",
+    "errors": {
+      "fetchFailed": "デイリーを読み込めませんでした。",
+      "invalidQuest": "無効なミッションです。",
+      "rerollFailed": "ミッションを入れ替えられませんでした。",
+      "pinFailed": "ピンを更新できませんでした。"
+    },
+    "xp": "XP",
+    "questNumber": "ミッション {n}",
+    "modeSingle": "このアカウント",
+    "modeBulk": "すべてのアカウント",
+    "bulkSummary": "{ok}/{total} アカウント",
+    "activeAccount": "使用中のアカウント",
+    "loadAll": "すべて",
+    "tabs": {
+      "daily": "デイリー",
+      "log": "ログ",
+      "msk": "MSK"
+    },
+    "log": {
+      "total": "ミッション",
+      "empty": "有効なミッションはありません。",
+      "errors": {
+        "fetchFailed": "ログを読み込めませんでした。"
+      },
+      "categories": {
+        "Daily": "デイリー",
+        "WeeklyQuest": "ウィークリー",
+        "StormKingHardmode": "ストームキング",
+        "Events": "イベント",
+        "Phoenix": "アドベンチャー",
+        "Stonewood": "ストーンウッド",
+        "Plankerton": "プランカートン",
+        "CannyValley": "キャニー・バレー",
+        "TwinePeaks": "トワイン・ピークス",
+        "Challenges": "チャレンジ",
+        "Achievements": "実績",
+        "Others": "その他"
+      },
+      "states": {
+        "active": "進行中",
+        "completed": "完了",
+        "claimed": "受取済み"
+      }
+    },
+    "msk": {
+      "weekly": "週間MSK",
+      "completions": "完了数",
+      "reset": "Reset",
+      "reroll": "入れ替え",
+      "noWeekly": "有効な週間MSKミッションはありません。",
+      "premiumHint": "週間の入れ替えにはPremiumが必要です。",
+      "superchargerTitle": "スーパーチャージャー",
+      "weaponsTitle": "MSK武器",
+      "weapons": {
+        "onslaught": "Onslaught",
+        "fury": "Fury",
+        "wrath": "Wrath",
+        "ravager": "Ravager",
+        "scourge": "Scourge"
+      },
+      "supercharger": {
+        "hero": "ヒーロー・スーパーチャージャー",
+        "trap": "トラップ・スーパーチャージャー",
+        "weapon": "武器スーパーチャージャー",
+        "survivor": "サバイバー・スーパーチャージャー"
+      },
+      "errors": {
+        "fetchFailed": "MSKを読み込めませんでした。",
+        "invalidQuest": "無効なミッションです。",
+        "rerollFailed": "週間を入れ替えられませんでした。",
+        "premiumRequired": "週間MSKの入れ替えにはPremiumが必要です。"
+      }
+    }
+  },
+  "vbucks": {
+    "title": "V-Bucks",
+    "desc": "Epicアカウントの残高、プラットフォーム、ギフト、内訳。",
+    "refresh": "更新",
+    "balance": "残高",
+    "platform": "プラットフォーム",
+    "gifts": "ギフト",
+    "nextGift": "次回",
+    "creator": "クリエイターコード",
+    "noCreator": "なし",
+    "breakdown": "内訳",
+    "noBreakdown": "内訳なし",
+    "packs": "購入パック",
+    "noPacks": "パックなし",
+    "packsTotal": "パック合計",
+    "purchased": "購入済み",
+    "purchaseBonus": "購入ボーナス",
+    "complimentary": "補填",
+    "giveaway": "チャレンジ / パス",
+    "debt": "負債",
+    "shared": "共有",
+    "errors": {
+      "fetchFailed": "V-Bucksを読み込めませんでした。",
+      "profileUnavailable": "プロフィールを読めませんでした。"
+    },
+    "modeSingle": "このアカウント",
+    "modeBulk": "すべてのアカウント",
+    "bulkSummary": "{ok}/{total} アカウント",
+    "bulkTotal": "アカウント合計",
+    "activeAccount": "使用中のアカウント",
+    "loadAll": "すべて"
+  },
+  "serverStatus": {
+    "title": "サーバー状態",
+    "subtitle": "Epic上のFortniteサービス",
+    "refresh": "更新",
+    "overall": "Fortnite",
+    "incidents": "障害",
+    "noIncidents": "進行中の障害はありません。",
+    "openPage": "status.epicgames.comを開く",
+    "status": {
+      "operational": "正常",
+      "degraded_performance": "パフォーマンス低下",
+      "partial_outage": "一部障害",
+      "major_outage": "重大な障害",
+      "under_maintenance": "メンテナンス",
+      "unknown": "不明"
+    },
+    "services": {
+      "website": "Web",
+      "gameServices": "ゲームサービス",
+      "login": "ログイン",
+      "parties": "パーティ、フレンド、メッセージ",
+      "voice": "ボイスチャット",
+      "matchmaking": "マッチメイキング",
+      "stats": "統計とランキング",
+      "itemShop": "アイテムショップ",
+      "crew": "Fortnite Crew"
+    },
+    "errors": {
+      "fetchFailed": "状態を読み込めませんでした。"
+    }
+  },
+  "lookup": {
+    "title": "Lookup",
+    "subtitle": "名前またはIDでプレイヤーを検索",
+    "placeholder": "名前またはアカウントID",
+    "search": "検索",
+    "accountId": "ID",
+    "linkedAccounts": "連携アカウント",
+    "registeredYes": "Miaに登録済み",
+    "registeredNo": "Mia未登録",
+    "noLinked": "連携アカウントはありません。",
+    "platforms": {
+      "xbox": "Xbox",
+      "psn": "PlayStation",
+      "steam": "Steam",
+      "nintendo": "Nintendo",
+      "linked": "連携済み"
+    },
+    "errors": {
+      "invalidQuery": "名前またはIDを入力してください。",
+      "notFound": "そのアカウントは見つかりませんでした。",
+      "fetchFailed": "アカウントを検索できませんでした。"
+    }
+  },
+  "alertasCheck": {
+    "title": "Alertas Check",
+    "refresh": "更新",
+    "loadAll": "すべて",
+    "activeAccount": "使用中のアカウント",
+    "modeBulk": "すべてのアカウント",
+    "bulkSummary": "{ok}/{total} アカウント",
+    "completed": "完了",
+    "remaining": "残り",
+    "empty": "このカテゴリにアラートはありません。",
+    "categories": {
+      "honorific": "栄誉",
+      "vbucks": "V-Bucks",
+      "survivors": "サバイバー",
+      "pl160": "PL 160",
+      "heroes": "ヒーロー",
+      "defenders": "ディフェンダー",
+      "schematics": "設計図",
+      "evo": "Evo"
+    },
+    "errors": {
+      "fetchFailed": "アラートを確認できませんでした。"
+    }
+  },
+  "aventuras": {
+    "title": "アドベンチャー",
+    "refresh": "更新",
+    "loadAll": "すべて",
+    "activeAccount": "使用中のアカウント",
+    "modeBulk": "すべてのアカウント",
+    "bulkSummary": "{ok}/{total} アカウント",
+    "avgLevel": "平均レベル",
+    "level": "レベル",
+    "nextZone": "ゾーン",
+    "toNext": "次のレベルまで",
+    "toMax": "50まで",
+    "noSeason": "シーズンなし",
+    "notStarted": "このアカウントは今シーズンまだアドベンチャーをプレイしていません。",
+    "emptyQuests": "有効なアドベンチャーミッションはありません。",
+    "seasons": {
+      "frozen": "氷のフィヨルド",
+      "flannel": "フランネルの滝",
+      "scurvy": "壊血病の浅瀬",
+      "blasted": "荒廃の荒野",
+      "hex": "Hexsylvania"
+    },
+    "categories": {
+      "weapon": "武器",
+      "monster": "モンスター",
+      "mission": "ミッション",
+      "locating": "探索",
+      "destroy": "破壊"
+    },
+    "errors": {
+      "fetchFailed": "アドベンチャーを読み込めませんでした。"
+    }
+  },
+  "stwShop": {
+    "title": "STWショップ",
+    "refresh": "更新",
+    "activeAccount": "使用中のアカウント",
+    "buy": "購入",
+    "soldOut": "売り切れ",
+    "bought": "購入しました。",
+    "empty": "このセクションにオファーはありません。",
+    "tabs": {
+      "shop": "ショップ",
+      "llamas": "ラマ"
+    },
+    "sections": {
+      "rotational": "ローテーション",
+      "special": "スペシャル",
+      "llamas": "ラマ"
+    },
+    "errors": {
+      "fetchFailed": "ショップを読み込めませんでした。",
+      "purchaseFailed": "購入できませんでした。",
+      "invalidItem": "無効なオファーです。",
+      "soldOut": "このオファーは売り切れです。"
+    },
+    "previewTitle": "X-Ray内容"
+  },
+  "llamas": {
+    "open": "開く",
+    "opened": "ラマを開きました。",
+    "empty": "開けるラマがありません。",
+    "errors": {
+      "fetchFailed": "ラマを読み込めませんでした。",
+      "openFailed": "開けませんでした。",
+      "invalidQuantity": "無効な数量です。",
+      "notEnough": "ラマが足りません。"
+    }
+  },
+  "brStats": {
+    "title": "Stats BR",
+    "refresh": "更新",
+    "loadAll": "すべて",
+    "activeAccount": "使用中のアカウント",
+    "modeBulk": "すべてのアカウント",
+    "bulkSummary": "{ok}/{total} アカウント",
+    "earnedXp": "週間XP",
+    "publicStats": "公開統計",
+    "battlePass": "パス",
+    "overall": "総合",
+    "solo": "Solo",
+    "duo": "デュオ",
+    "squad": "スクワッド",
+    "wins": "Wins",
+    "kills": "Kills",
+    "winRate": "WR",
+    "totalXp": "合計",
+    "private": "公開統計は非公開です。",
+    "noPublic": "公開統計はありません。",
+    "modes": {
+      "br": "Battle Royale",
+      "creative": "Creative",
+      "stw": "世界を救え"
+    },
+    "errors": {
+      "fetchFailed": "統計を読み込めませんでした。"
+    }
+  },
+  "brShop": {
+    "title": "BRショップ",
+    "subtitle": "本日のショップ",
+    "refresh": "更新",
+    "allSections": "すべて",
+    "empty": "アイテムがありません。",
+    "emptyFiltraciones": "新しいリークはありません。",
+    "noSecciones": "最近のセクション変更はありません。",
+    "seccionesTitle": "セクション変更",
+    "tabs": {
+      "shop": "ショップ",
+      "filtraciones": "リーク",
+      "secciones": "セクション"
+    },
+    "errors": {
+      "fetchFailed": "ショップを読み込めませんでした。",
+      "filtracionesFailed": "リークを読み込めませんでした。",
+      "seccionesFailed": "セクションを読み込めませんでした。",
+      "purchaseFailed": "購入できませんでした。",
+      "giftFailed": "ギフトできませんでした。",
+      "invalidOffer": "無効なオファーです。",
+      "offerNotFound": "このアイテムはもうショップにありません。",
+      "invalidReceiver": "無効なフレンドです。",
+      "notGiftable": "このアイテムはギフトできません。",
+      "insufficientFunds": "V-Bucksが足りません。"
+    },
+    "search": "検索",
+    "searchPlaceholder": "コスメを検索…",
+    "filtersLabel": "フィルター",
+    "allTypes": "すべて",
+    "owned": "所持済み",
+    "featured": "注目",
+    "groups": {
+      "new": "新規",
+      "updated": "更新",
+      "leaving": "まもなく終了"
+    },
+    "filters": {
+      "all": "すべて",
+      "emote": "エモート",
+      "bundle": "バンドル",
+      "outfit": "コスチューム",
+      "wrap": "ラップ",
+      "sparks_song": "楽曲",
+      "pickaxe": "ツルハシ",
+      "shoes": "シューズ",
+      "backpack": "バックパック",
+      "wheel": "ホイール",
+      "cars": "車",
+      "instrument": "楽器",
+      "region_restricted": "リージョン",
+      "new": "新規"
+    },
+    "close": "閉じる",
+    "back": "戻る",
+    "buy": "購入",
+    "gift": "ギフト",
+    "bought": "購入しました。",
+    "gifted": "ギフトを送信しました。",
+    "pickFriend": "フレンドを選択",
+    "noFriends": "ギフトできるフレンドがいません。",
+    "notGiftable": "ギフト不可",
+    "needAccount": "購入またはギフトにはEpicアカウントの接続が必要です。"
+  },
+  "brLocker": {
+    "title": "Locker",
+    "refresh": "更新",
+    "activeAccount": "使用中のアカウント",
+    "search": "検索",
+    "searchPlaceholder": "名前で検索…",
+    "total": "{n} コスメ",
+    "empty": "この表示にコスメはありません。",
+    "prev": "前へ",
+    "next": "次へ",
+    "page": "ページ {i}/{total}",
+    "categories": {
+      "all": "すべて",
+      "skins": "スキン",
+      "backpacks": "バックパック",
+      "pickaxes": "ツルハシ",
+      "gliders": "グライダー",
+      "contrails": "コントレイル",
+      "emotes": "エモート",
+      "toys": "おもちゃ",
+      "sprays": "スプレー",
+      "music": "ミュージック",
+      "loadingscreen": "ロード画面",
+      "crew": "Crew",
+      "exclusivos": "限定"
+    },
+    "errors": {
+      "fetchFailed": "Lockerを読み込めませんでした。",
+      "premiumRequired": "限定にはPremiumが必要です。"
+    },
+    "badges": {
+      "crew": "Crew",
+      "exclusive": "限定"
+    },
+    "premiumBadge": "Premium"
+  },
+  "stwInventory": {
+    "title": "インベントリ",
+    "refresh": "更新",
+    "activeAccount": "使用中のアカウント",
+    "search": "検索",
+    "searchPlaceholder": "IDで検索…",
+    "meta": "{unique} アイテム · 合計 {qty}",
+    "empty": "この表示にオブジェクトはありません。",
+    "prev": "前へ",
+    "next": "次へ",
+    "page": "ページ {i}/{total}",
+    "stackOne": "1 スタック",
+    "stackMany": "{n} スタック",
+    "sources": {
+      "mochila": "バックパック",
+      "almacen": "倉庫",
+      "aventuras": "アドベンチャー"
+    },
+    "categories": {
+      "todos": "すべて",
+      "armas": "武器",
+      "trampas": "トラップ",
+      "municion": "弾薬",
+      "materiales": "素材"
+    },
+    "errors": {
+      "fetchFailed": "インベントリを読み込めませんでした。"
+    },
+    "assetCategories": {
+      "other": "その他",
+      "resource": "素材",
+      "hero": "ヒーロー",
+      "schematic": "設計図",
+      "worker": "サバイバー",
+      "cardpack": "ラマ"
+    }
+  },
+  "stwArmory": {
+    "title": "ロッカー",
+    "refresh": "更新",
+    "activeAccount": "使用中のアカウント",
+    "search": "検索",
+    "searchPlaceholder": "検索…",
+    "meta": "{total} · 最大PL {max} · Super {super}",
+    "empty": "この表示にオブジェクトはありません。",
+    "prev": "前へ",
+    "next": "次へ",
+    "page": "ページ {i}/{total}",
+    "tabs": {
+      "schematics": "設計図",
+      "heroes": "ヒーロー"
+    },
+    "schematics": {
+      "todos": "すべて",
+      "lanzadores": "ランチャー",
+      "asalto": "アサルト",
+      "escopetas": "ショットガン",
+      "pistolas": "ピストル",
+      "smg": "SMG",
+      "francotiradores": "スナイパー",
+      "melee": "Melee",
+      "trampas": "トラップ",
+      "otras": "その他"
+    },
+    "heroes": {
+      "todos": "すべて",
+      "soldado": "ソルジャー",
+      "constructor": "コンストラクター",
+      "ninja": "Ninja",
+      "outlander": "Outlander",
+      "otro": "その他"
+    },
+    "traps": {
+      "todas": "すべて",
+      "suelo": "床",
+      "pared": "壁",
+      "techo": "天井"
+    },
+    "errors": {
+      "fetchFailed": "ロッカーを読み込めませんでした。"
+    }
+  },
+  "stwLoadouts": {
+    "title": "ヒーロー編成",
+    "refresh": "更新",
+    "activeAccount": "使用中のアカウント",
+    "empty": "ヒーロー編成がありません。",
+    "slot": "編成 {n}",
+    "active": "使用中",
+    "activate": "使用",
+    "activated": "編成を有効にしました。",
+    "errors": {
+      "fetchFailed": "編成を読み込めませんでした。",
+      "activateFailed": "編成を有効にできませんでした。",
+      "notFound": "編成が見つかりません。"
+    }
+  },
+  "legacyFinder": {
+    "title": "Rare/Legacy",
+    "refresh": "更新",
+    "activeAccount": "使用中のアカウント",
+    "search": "検索",
+    "searchPlaceholder": "検索…",
+    "meta": "{filtered} · Legacy {legacy} · AOE {aoe} · Modded {modded}",
+    "empty": "この表示に設計図はありません。",
+    "prev": "前へ",
+    "next": "次へ",
+    "page": "ページ {i}/{total}",
+    "categories": {
+      "aoe": "AOE",
+      "modded": "改造",
+      "historical": "歴史的",
+      "campaign": "インベントリ",
+      "collection_book_schematics0": "ブック",
+      "theater0": "バックパック",
+      "outpost0": "倉庫"
+    },
+    "status": {
+      "highlighted": "注目",
+      "hybrid": "ハイブリッド",
+      "modded": "改造",
+      "legacy": "Legacy",
+      "review": "要確認",
+      "all": "すべて"
+    },
+    "kinds": {
+      "all": "すべて",
+      "weapon": "武器",
+      "trap": "トラップ"
+    },
+    "badges": {
+      "aoe": "AOE",
+      "modded": "改造",
+      "defender": "ディフェンダー",
+      "hybrid": "ハイブリッド",
+      "historical": "歴史的",
+      "legacy": "Legacy",
+      "review": "要確認"
+    },
+    "errors": {
+      "fetchFailed": "アカウントをスキャンできませんでした。"
+    }
+  },
+  "homebase": {
+    "title": "Homebase",
+    "refresh": "更新",
+    "scan": "スキャン",
+    "activeAccount": "使用中のアカウント",
+    "ssdLevel": "SSD",
+    "endurance": "耐久",
+    "amplifiers": "Amps",
+    "noSaveShort": "クラウドなし",
+    "totalStructures": "合計",
+    "trapsTitle": "トラップ（{count}）",
+    "noTraps": "設置されたトラップなし",
+    "noPermissions": "編集権限なし",
+    "scanPrompt": "スキャンを押してトラップと構造を分析します。",
+    "scanning": "基地をダウンロードして分析中…",
+    "emptyWarning": "この基地は空か、ほとんど建設されていないようです。",
+    "tabs": {
+      "base": "基地",
+      "permissions": "権限"
+    },
+    "structureTypes": {
+      "walls": "壁",
+      "floors": "床",
+      "stairs": "階段",
+      "cones": "コーン"
+    },
+    "materials": {
+      "wood": "木材",
+      "stone": "石",
+      "metal": "金属"
+    },
+    "zones": {
+      "stonewood": "ストーンウッド",
+      "plankerton": "プランカートン",
+      "cannyValley": "キャニー・バレー",
+      "twinePeaks": "トワイン・ピークス"
+    },
+    "layout": {
+      "empty": "このゾーンに建築パーツはありません",
+      "legendWood": "木材",
+      "legendStone": "石",
+      "legendMetal": "金属",
+      "legendRoof": "屋根",
+      "legendFloorTrap": "床トラップ",
+      "legendWallTrap": "壁トラップ",
+      "legendCeilingTrap": "天井トラップ",
+      "legendNote": "マップ表示 · トラップ",
+      "piecesSummary": "{total} パーツ — 床 {floors} · 壁 {walls} · 階段 {stairs} · 屋根 {roofs}",
+      "materialsSummary": "木材 {wood} · 石 {stone} · 金属 {metal}",
+      "trapsSummary": "トラップ {n}"
+    },
+    "errors": {
+      "fetchFailed": "Homebaseを読み込めませんでした。",
+      "scanFailed": "基地をスキャンできませんでした。",
+      "noZones": "このアカウントにアウトポストがありません。",
+      "noSave": "このゾーンのクラウドデータがありません。"
+    }
+  },
+  "sac": {
+    "title": "SAC",
+    "refresh": "更新",
+    "viewAll": "アカウントを見る",
+    "apply": "適用",
+    "applyAll": "すべてに適用",
+    "lookup": "確認",
+    "activeAccount": "使用中のアカウント",
+    "modeBulk": "すべてのアカウント",
+    "codeLabel": "クリエイターコード",
+    "codePlaceholder": "SACコード…",
+    "currentCode": "コード",
+    "noCode": "コードなし",
+    "setAt": "設定日",
+    "expiryHint": "EpicはSACを14日ごとに更新するよう求めています。",
+    "applyOk": "SACを更新しました。",
+    "lookupName": "クリエイター",
+    "lookupCode": "コード",
+    "lookupNotFound": "コードが見つかりません。",
+    "statusActive": "有効",
+    "statusDisabled": "無効",
+    "errors": {
+      "fetchFailed": "SACを読み込めませんでした。",
+      "applyFailed": "SACを適用できませんでした。",
+      "invalidCode": "無効なコードです。",
+      "lookupFailed": "コードを確認できませんでした。",
+      "premiumRequired": "すべてのアカウントにはPremiumが必要です。"
+    },
+    "renewAt": "更新",
+    "daysLeft": "{n} 日",
+    "renewDue": "今すぐ更新"
+  },
+  "redeem": {
+    "title": "引き換え",
+    "activeAccount": "使用中のアカウント",
+    "modeBulk": "すべてのアカウント",
+    "codesLabel": "コード",
+    "codesPlaceholder": "1つまたは複数のコード…",
+    "redeem": "引き換え",
+    "redeemAll": "すべて",
+    "redeeming": "引き換え中…",
+    "redeemed": "引き換え済み",
+    "done": "引き換えが完了しました。",
+    "errors": {
+      "invalidCodes": "少なくとも1つのコードを入力してください。",
+      "failed": "{code} を引き換えられませんでした。",
+      "notFound": "コードが見つかりません: {code}",
+      "used": "使用済みコード: {code}",
+      "expired": "期限切れコード: {code}",
+      "premiumRequired": "すべてのアカウントにはPremiumが必要です。"
+    }
+  },
+  "friends": {
+    "title": "フレンド",
+    "refresh": "更新",
+    "clearOutgoing": "送信済みをクリア",
+    "add": "追加",
+    "addLabel": "フレンドを追加",
+    "addPlaceholder": "名前またはID…",
+    "search": "検索",
+    "searchPlaceholder": "検索…",
+    "activeAccount": "使用中のアカウント",
+    "accept": "承認",
+    "reject": "拒否",
+    "cancel": "キャンセル",
+    "remove": "削除",
+    "block": "ブロック",
+    "unblock": "ブロック解除",
+    "empty": "このリストに項目はありません。",
+    "meta": "{n} 件",
+    "prev": "前へ",
+    "next": "次へ",
+    "page": "ページ {i}/{total}",
+    "addOk": "{name} にリクエストを送信しました。",
+    "acceptOk": "{name} とのフレンドを承認しました。",
+    "removeOk": "削除しました: {name}",
+    "blockOk": "ブロックしました: {name}",
+    "unblockOk": "ブロック解除しました: {name}",
+    "clearOutgoingOk": "送信済みリクエストを {n} 件キャンセルしました。",
+    "actionOk": "完了。",
+    "tabs": {
+      "friends": "フレンド",
+      "incoming": "受信",
+      "outgoing": "送信",
+      "blocklist": "ブロック"
+    },
+    "errors": {
+      "fetchFailed": "フレンドを読み込めませんでした。",
+      "actionFailed": "操作を完了できませんでした。",
+      "invalidTarget": "名前またはIDを入力してください。",
+      "invalidAction": "無効な操作です。",
+      "notFound": "アカウントが見つかりません。",
+      "already": "すでにフレンドか、リクエストが存在します。",
+      "self": "自分自身を追加できません。"
+    }
+  },
+  "collectionBook": {
+    "title": "コレクションブック",
+    "activeAccount": "使用中のアカウント",
+    "bookLevel": "ブックレベル: {level}",
+    "targetLevelLabel": "目標レベル（2-50）",
+    "invalidLevel": "無効なレベルです。2〜50の数字を使ってください。",
+    "btnCalculate": "リソースを計算",
+    "btnUpgradeAll": "すべて強化",
+    "btnStopOnResources": "リソース不足で停止",
+    "note1": "この処理はアカウントのリソースを使います。",
+    "note2": "必要に応じてアイテムは自動で進化します。",
+    "note3": "目標レベル以上のアイテムはスキップされます。",
+    "resourcesTitle": "{category} をレベル {level} までに必要なリソース",
+    "eligibleItems": "強化可能",
+    "skippedItems": "既にレベル到達",
+    "totalItems": "合計",
+    "noResourcesNeeded": "追加リソースは不要です。",
+    "processingTitle": "処理中…",
+    "processingBody": "ステップ {step}/{total}（{phase}）",
+    "processingProgress": "進捗: {done}/{total}",
+    "phase": {
+      "query": "照会中",
+      "upgrade": "レベルアップ中",
+      "evolve": "進化中",
+      "finalize": "完了処理中",
+      "done": "完了"
+    },
+    "resultsHeader": "結果",
+    "resultUpgraded": "強化済み",
+    "resultEvolved": "進化済み",
+    "resultFailed": "失敗",
+    "resultSkipped": "スキップ",
+    "completeResourceWarning": "リソース不足で {count} アイテムを強化できませんでした。",
+    "completeBookLevelHeader": "コレクションブック",
+    "completeBookLevel": "レベル {before} → {after}",
+    "completeBookLevelUnknown": "レベル {before} → ?",
+    "completeResourcesHeader": "消費リソース",
+    "noResourcesSpent": "リソース消費は検出されませんでした。",
+    "completeFooter": "処理完了 — 変更を反映するにはゲームを再起動してください。",
+    "toastComplete": "ブックの強化が完了しました。",
+    "toastResourceShortage": "リソース不足のアイテム {count} 件。",
+    "categories": {
+      "all_items": "すべて",
+      "heroes": "ヒーロー",
+      "survivors": "サバイバー",
+      "survivor_leads": "リーダー",
+      "defenders": "ディフェンダー",
+      "weapons": "武器",
+      "traps": "トラップ"
+    },
+    "resources": {
+      "heroxp": "ヒーローXP",
+      "schematicxp": "設計図XP",
+      "personnelxp": "サバイバーXP",
+      "reagent_people": "トレーニングマニュアル",
+      "reagent_schematic": "武器設計",
+      "reagent_traps": "トラップ設計",
+      "reagent_c_t01": "雨水のしずく",
+      "reagent_c_t02": "ボトルの雷",
+      "reagent_c_t03": "ストームの目",
+      "reagent_c_t04": "ストームの破片"
+    },
+    "errors": {
+      "fetchFailed": "コレクションブックを読み込めませんでした。",
+      "calculateFailed": "リソースを計算できませんでした。",
+      "runFailed": "強化を完了できませんでした。"
+    }
+  },
+  "brSpirits": {
+    "title": "スピリット",
+    "activeAccount": "使用中のアカウント",
+    "refresh": "更新",
+    "search": "検索",
+    "searchPlaceholder": "スピリットを検索…",
+    "empty": "結果なし。",
+    "prev": "前へ",
+    "next": "次へ",
+    "page": "ページ {i}/{total}",
+    "openWeb": "ウェブで開く",
+    "meta": {
+      "line": "{owned}/{total} · {mastered} max · {pending} 保留 · dust {dust}"
+    },
+    "season": {
+      "current": "現行",
+      "past": "過去",
+      "all": "すべて"
+    },
+    "status": {
+      "all": "すべて",
+      "owned": "所持",
+      "missing": "未所持",
+      "pending": "保留",
+      "mastered": "Max"
+    },
+    "variants": {
+      "all": "すべて",
+      "Base": "Base",
+      "Gold": "Gold",
+      "Gummy": "Gummy",
+      "Galaxy": "Galaxy",
+      "CheatMaster": "Cheat Master",
+      "LootHacker": "Loot Hacker",
+      "Holofoil": "Holofoil",
+      "Cube": "Cube",
+      "Gem": "Gem",
+      "Quack": "Quack",
+      "BountyHunter": "Bounty Hunter",
+      "TrickTreat": "Trick or Treat"
+    },
+    "errors": {
+      "fetchFailed": "スピリットを読み込めませんでした。"
+    },
+    "badge": {
+      "max": "Max"
+    },
+    "filters": {
+      "season": "シーズン",
+      "status": "状態",
+      "variant": "バリアント"
+    }
+  },
+  "adminPanel": {
+    "title": "Admin panel",
+    "activeAccount": "使用中のアカウント",
+    "refresh": "更新",
+    "redeem": "引き換え",
+    "redeemAll": "すべて",
+    "redeeming": "引き換え中…",
+    "done": "引き換えが完了しました。",
+    "empty": "保留中のコードはありません。",
+    "meta": "保留 {needed} · スキップ {skipped}",
+    "accountSummary": "OK {ok} · 失敗 {fail} · スキップ {skipped}",
+    "kind": {
+      "ok": "引き換え済み",
+      "lobby": "ロビーのみ",
+      "unavailable": "利用不可 / 既に所持",
+      "invalid": "無効なコード",
+      "error": "引き換えエラー"
+    },
+    "errors": {
+      "fetchFailed": "コードを読み込めませんでした。",
+      "redeemFailed": "引き換えを完了できませんでした。",
+      "premiumRequired": "すべてのアカウントにはPremiumが必要です。"
+    },
+    "metaNeeded": "保留 {n}",
+    "metaSkipped": "スキップ {n}",
+    "reusable": "再利用可"
+  },
+  "xpBoosts": {
+    "title": "Boosts XP",
+    "activeAccount": "使用中のアカウント",
+    "refresh": "更新",
+    "amountLabel": "数量",
+    "redeemPersonal": "個人を使用",
+    "searchLabel": "プレイヤー",
+    "searchPlaceholder": "Epic名…",
+    "search": "検索",
+    "sendTeammate": "チームに送信",
+    "personal": "個人",
+    "teammate": "チーム",
+    "boostedXp": "XP boost",
+    "level": "レベル",
+    "working": "処理中…",
+    "redeemOk": "引き換え {current}/{expected}",
+    "sendOk": "送信 {current}/{expected}",
+    "recipientMeta": "XP boost {xp} · Lv. {level}{private}",
+    "private": "非公開",
+    "errors": {
+      "fetchFailed": "ブーストを読み込めませんでした。",
+      "consumeFailed": "操作を完了できませんでした。",
+      "noPersonal": "個人ブーストがありません。",
+      "notFound": "プレイヤーが見つかりません。",
+      "invalidQuery": "名前を入力してください。",
+      "self": "自分自身にブーストを送れません。"
+    }
+  },
+  "communityBuilds": {
+    "title": "Builds",
+    "activeAccount": "使用中のアカウント",
+    "search": "検索",
+    "searchPlaceholder": "ビルドを検索…",
+    "empty": "ビルドがありません。",
+    "prev": "前へ",
+    "next": "次へ",
+    "page": "ページ {i}",
+    "slotLabel": "チームスロット",
+    "clone": "クローン",
+    "close": "閉じる",
+    "cloning": "クローン中…",
+    "cloneOk": "ビルドをチームにクローンしました。",
+    "clonePartial": "警告付きでクローン（ヒーロー/ガジェット不足）。",
+    "votes": "投票",
+    "official": "公式",
+    "sort": {
+      "top": "Top",
+      "recent": "新着"
+    },
+    "errors": {
+      "fetchFailed": "ビルドを読み込めませんでした。",
+      "notFound": "ビルドが見つかりません。",
+      "invalidSlot": "無効なチームスロットです。",
+      "cloneFailed": "ビルドをクローンできませんでした。"
+    }
+  },
+  "miaChecker": {
+    "title": "Mia Checker",
+    "activeAccount": "使用中のアカウント",
+    "run": "確認",
+    "censor": "機密データを隠す",
+    "vbucks": "V-Bucks",
+    "skins": "スキン",
+    "exclusives": "限定",
+    "friends": "フレンド",
+    "openLocker": "BRロッカーを開く",
+    "noStw": "STWなし / キャンペーンプロフィールなし。",
+    "copySale": "メッセージをコピー",
+    "copied": "コピーしました。",
+    "copyFailed": "コピーできませんでした。",
+    "lastPlayedAgo": "{date}（{days}日）",
+    "saleMessageSkins": "スキン {count}",
+    "saleMessageVbucks": "{amount} V-Bucks",
+    "sections": {
+      "account": "アカウント",
+      "purchases": "購入",
+      "activity": "アクティビティ",
+      "locker": "ロッカー",
+      "stw": "STW",
+      "sale": "販売メッセージ"
+    },
+    "fields": {
+      "displayName": "名前",
+      "accountId": "ID",
+      "email": "Email",
+      "country": "国",
+      "created": "作成日",
+      "tfa": "2FA",
+      "platforms": "プラットフォーム",
+      "refunds": "返金",
+      "bought": "購入V-Bucks",
+      "giftsSent": "送信ギフト",
+      "giftsReceived": "受信ギフト",
+      "crew": "Crew",
+      "level": "レベル",
+      "wins": "勝利",
+      "matches": "マッチ",
+      "lastPlayed": "最終プレイ",
+      "totalItems": "合計",
+      "founder": "創設者",
+      "stwLevel": "STWレベル",
+      "collectionBook": "ブック",
+      "stwMatches": "STWマッチ"
+    },
+    "founderEditions": {
+      "newStw": "新規STW",
+      "standard": "スタンダード",
+      "deluxe": "デラックス",
+      "superDeluxe": "スーパーデラックス",
+      "limited": "リミテッド",
+      "ultimate": "アルティメット"
+    },
+    "errors": {
+      "fetchFailed": "レポートを生成できませんでした。"
+    }
+  },
+  "authHub": {
+    "nav": "Auth Hub",
+    "navDesc": "情報、リンク、レシート、exchange",
+    "title": "Auth Hub",
+    "activeAccount": "使用中のアカウント",
+    "refresh": "更新",
+    "reveal": "シークレットを表示",
+    "tabs": {
+      "info": "情報",
+      "links": "Links",
+      "transactions": "レシート",
+      "auth": "Auth"
+    },
+    "secrets": "認証情報",
+    "emptyLinks": "連携アカウントはありません。",
+    "emptyTransactions": "レシートはありません。",
+    "emptyDevices": "device authはありません。",
+    "currentDevice": "現在",
+    "exchange": "exchangeを生成",
+    "copied": "Exchangeをコピーしました。",
+    "prev": "前へ",
+    "next": "次へ",
+    "fields": {
+      "name": "名前",
+      "email": "Email",
+      "country": "国",
+      "tfa": "2FA",
+      "emailVerified": "Email確認済み",
+      "cabined": "Cabined",
+      "failedLogins": "ログイン失敗",
+      "nameChanges": "名前変更",
+      "canRename": "改名可能",
+      "lastRename": "最終改名",
+      "lastLogin": "最終ログイン",
+      "campaignCreated": "作成（STW）",
+      "appStore": "ストア",
+      "created": "作成日",
+      "lastAccess": "最終アクセス"
+    },
+    "errors": {
+      "fetchFailed": "Auth Hubを読み込めませんでした。",
+      "exchangeFailed": "exchangeを生成できませんでした。"
+    }
+  },
+  "expeditions": {
+    "nav": "遠征",
+    "navDesc": "送信、回収、自動24/7",
+    "title": "遠征",
+    "activeAccount": "使用中のアカウント",
+    "refresh": "更新",
+    "collect": "回収",
+    "sendTitle": "送信",
+    "pendingTitle": "進行中",
+    "autoTitle": "自動24/7",
+    "autoOn": "有効化",
+    "autoOff": "無効化",
+    "autoActive": "自動オン",
+    "autoInactive": "自動オフ",
+    "emptyPending": "進行中の遠征はありません。",
+    "notLinkedHint": "自動24/7にはMia Discordでアカウントを連携してください。",
+    "premiumHint": "自動24/7にはPremium/Eternumが必要です。",
+    "types": {
+      "Heroes": "ヒーロー",
+      "Resources": "リソース",
+      "Supplies": "物資",
+      "Survivors": "サバイバー",
+      "Traps": "トラップ",
+      "Weapons": "武器"
+    },
+    "errors": {
+      "fetchFailed": "遠征を読み込めませんでした。",
+      "invalidType": "無効な種類です。",
+      "sendFailed": "送信できませんでした。",
+      "collectFailed": "回収できませんでした。",
+      "notLinked": "Miaに連携されていないアカウントです。",
+      "autoFailed": "自動設定を更新できませんでした。",
+      "premiumRequired": "自動24/7にはPremiumが必要です。"
+    },
+    "ready": "準備完了",
+    "autoPick": "自動送信する種類",
+    "premiumBadge": "Premium",
+    "configureAuto": "設定",
+    "close": "閉じる"
+  },
+  "cloudStorage": {
+    "nav": "Cloud",
+    "navDesc": "Epicの.savファイル",
+    "title": "Cloud storage",
+    "activeAccount": "使用中のアカウント",
+    "refresh": "更新",
+    "download": "ダウンロード",
+    "empty": ".savファイルがありません。",
+    "errors": {
+      "fetchFailed": ".savを読み込めませんでした。",
+      "invalidFile": "無効なファイルです。",
+      "downloadFailed": "ダウンロードできませんでした。"
+    },
+    "saveTitle": "セーブ a{slot}",
+    "revision": "Rev. {rev}",
+    "fileCount": "{n} ファイル",
+    "search": "検索",
+    "searchPlaceholder": "セーブを検索…",
+    "noResults": "結果なし。"
+  },
+  "mcp": {
+    "title": "MCP",
+    "activeAccount": "使用中のアカウント",
+    "premiumHint": "MCPコンソールにはPremium/Eternumが必要です。",
+    "operation": "操作",
+    "profile": "プロフィール",
+    "route": "ルート",
+    "publicAccountId": "公開アカウント",
+    "body": "Body JSON",
+    "run": "実行",
+    "ok": "OK",
+    "truncated": "応答が切り詰められました。",
+    "errors": {
+      "premiumRequired": "Premium/Eternumが必要です。",
+      "invalidProfile": "無効なプロフィールです。",
+      "invalidOperation": "無効な操作です。",
+      "invalidRoute": "無効なルートです。",
+      "publicIdRequired": "公開アカウントを指定してください。",
+      "invalidBody": "無効なBody JSONです。",
+      "composeFailed": "MCPを実行できませんでした。"
+    }
+  },
+  "worldEditor": {
+    "title": "World Editor",
+    "activeAccount": "使用中のアカウント",
+    "hint": "ライブのworld-infoまたはJSONを読み込みます。変換はここでダウンロードされます（ローカルapplyなし）。",
+    "loadLive": "ライブ読込",
+    "loadFile": "JSONを開く",
+    "download": "ダウンロード",
+    "json": "JSON",
+    "loaded": "World infoを読み込みました。",
+    "fileLoaded": "ファイルを読み込みました。",
+    "transformed": "変換を適用しました。",
+    "actions": {
+      "wi": "WI",
+      "dupe": "Dupe",
+      "remove-mods": "modsなし",
+      "dev": "Dev",
+      "dupev": "DupeV"
+    },
+    "summary": {
+      "theaters": "シアター",
+      "missions": "ミッション",
+      "alerts": "アラート"
+    },
+    "errors": {
+      "empty": "world-infoがありません。",
+      "fetchFailed": "world-infoを読み込めませんでした。",
+      "invalidJson": "無効なJSONです。",
+      "tooLarge": "JSONが大きすぎます。",
+      "invalidAction": "無効な操作です。",
+      "transformFailed": "変換できませんでした。"
+    }
   }
 }

@@ -2463,7 +2463,8 @@
 					"msg15": "Alt komutlar:",
 					"msg16": "Mia'nın SAC'ı:",
 					"msg17": "Detaylar:",
-					"msg18": "Resmi web sitesi"
+					"msg18": "Resmi web sitesi",
+					"msg19": "Mia Pocket"
 				},
 				"fnestado": {
 					"msg1": "Çalışır durumda",
@@ -2658,7 +2659,8 @@
 					"productos": {
 						"mia": "Mia",
 						"launcher": "Mia Launcher",
-						"checker": "Mia Checker"
+						"checker": "Mia Checker",
+						"pocket": "Mia Pocket"
 					}
 				}
 			},
@@ -3104,7 +3106,8 @@
 				"kiosko": "El Kiosko",
 				"launcher": "Mia Launcher",
 				"terminos": "Şartlar",
-				"privacidad": "Gizlilik"
+				"privacidad": "Gizlilik",
+				"pocket": "Mia Pocket"
 			},
 			"aes": {
 				"title": "AES anahtarları",

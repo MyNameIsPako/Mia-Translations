@@ -8,9 +8,17 @@
     "loginTitle": "Iniciar sesión",
     "loginEpic": "Iniciar sesión",
     "signingIn": "Iniciando sesión",
-    "restoring": "Restaurando sesión",
+    "restoring": "Refrescando cuentas",
     "cancel": "Cancelar",
-    "backHome": "Volver al inicio"
+    "backHome": "Volver al inicio",
+    "chooseLoginMethod": "Elige cómo conectar tu cuenta Epic",
+    "recommended": "Recomendado",
+    "continue": "Continuar",
+    "back": "Volver",
+    "loginStepsSelect": "Selecciona el método",
+    "signingInAccount": "Iniciando sesión en tu cuenta…",
+    "signingInAccounts": "Iniciando sesión en tus cuentas…",
+    "refreshingAccounts": "Refrescando cuentas"
   },
   "nav": {
     "alertas": "Alertas",
@@ -24,7 +32,81 @@
     "homeLead": "¿Qué quieres hacer?",
     "changeAccount": "Cambiar",
     "logout": "Salir",
-    "language": "Idioma"
+    "language": "Idioma",
+    "homeKicker": "Launcher móvil",
+    "accounts": "Cuentas Epic",
+    "accountsCount": "{n} cuentas",
+    "activeAccount": "Activa",
+    "addAccount": "Añadir cuenta",
+    "removeAccount": "Quitar cuenta",
+    "closeAccounts": "Cerrar",
+    "accountsTab": "Cuentas",
+    "accountsTabDesc": "Epic en este dispositivo",
+    "accountsTabHint": "Conectar o cambiar",
+    "comingSoon": "Próximamente",
+    "comingSoonDesc": "Más herramientas BR en camino",
+    "miscComingSoonDesc": "Más herramientas en camino",
+    "diarias": "Misiones",
+    "diariasDesc": "Diarias, log y MSK",
+    "vbucks": "V-Bucks",
+    "vbucksDesc": "Saldo y desglose de la cuenta",
+    "serverStatus": "Estado del servidor",
+    "serverStatusDesc": "Fortnite y servicios Epic",
+    "lookup": "Lookup",
+    "lookupDesc": "Buscar jugadores Epic",
+    "alertasCheck": "Alertas Check",
+    "alertasCheckDesc": "Revisar alertas hechas",
+    "aventuras": "Aventuras",
+    "aventurasDesc": "Progreso de Ventures",
+    "stwShop": "Tienda STW",
+    "stwShopDesc": "Tienda y llamas",
+    "brStats": "Stats BR",
+    "brStatsDesc": "Stats y XP semanal",
+    "brShop": "Tienda BR",
+    "brShopDesc": "Tienda, filtraciones y secciones",
+    "brLocker": "Locker",
+    "brLockerDesc": "Cosméticos de la cuenta",
+    "stwInventory": "Inventario",
+    "stwInventoryDesc": "Mochila, almacén y aventuras",
+    "stwArmory": "Taquilla",
+    "stwArmoryDesc": "Esquemas y héroes",
+    "stwLoadouts": "Equipos",
+    "stwLoadoutsDesc": "Equipos de héroe activos",
+    "legacyFinder": "Rare/Legacy",
+    "legacyFinderDesc": "Esquemas legacy y modeadas",
+    "homebase": "Homebase",
+    "homebaseDesc": "Escudos, base y permisos",
+    "sac": "SAC",
+    "sacDesc": "Código de creador",
+    "redeem": "Canjear",
+    "redeemDesc": "Canjear códigos Epic",
+    "friends": "Amigos",
+    "friendsDesc": "Lista y solicitudes",
+    "collectionBook": "Libro de colección",
+    "collectionBookDesc": "Mejorar ítems del libro STW",
+    "brSpirits": "Espíritus",
+    "brSpiritsDesc": "Sprites Magpie de la cuenta",
+    "adminPanel": "Admin panel",
+    "adminPanelDesc": "Códigos del panel admin",
+    "xpBoosts": "Boosts XP",
+    "xpBoostsDesc": "Boosts personales y de equipo",
+    "communityBuilds": "Builds",
+    "communityBuildsDesc": "Builds de la comunidad STW",
+    "miaChecker": "Checker",
+    "miaCheckerDesc": "Informe de cuenta Epic",
+    "authHub": "Auth Hub",
+    "authHubDesc": "Info, links, recibos y exchange",
+    "expeditions": "Expediciones",
+    "expeditionsDesc": "Enviar, recolectar y auto 24/7",
+    "cloudStorage": "Cloud",
+    "cloudStorageDesc": "Archivos .sav de Epic",
+    "mcp": "MCP",
+    "mcpDesc": "Consola MCP",
+    "worldEditor": "World Editor",
+    "worldEditorDesc": "Ver/editar world-info JSON",
+    "back": "Atrás",
+    "scrollTop": "Volver arriba",
+    "addingAccount": "Añadiendo cuenta…"
   },
   "party": {
     "hubTitle": "Party",
@@ -73,7 +155,8 @@
   "flash": {
     "account_connected": "Inicio de sesión exitoso.",
     "account_changed": "Puedes conectar otra cuenta Epic.",
-    "logged_out": "Sesión cerrada."
+    "logged_out": "Sesión cerrada.",
+    "adding_account": "Inicia sesión con otra cuenta Epic. Las demás se mantienen en este dispositivo."
   },
   "errors": {
     "invalid_account": "La cuenta seleccionada no es válida.",
@@ -89,7 +172,8 @@
     "oauthStateTitle": "Sesión OAuth inválida",
     "oauthCodeTitle": "Código OAuth inválido",
     "accessDeniedTitle": "Acceso denegado",
-    "loginErrorTitle": "Error de inicio de sesión"
+    "loginErrorTitle": "Error de inicio de sesión",
+    "epic_required": "Esta función requiere una cuenta Epic."
   },
   "titles": {
     "home": "Mia Pocket",
@@ -99,7 +183,37 @@
     "kick": "Expulsar",
     "kickClaim": "Expulsar y recolectar",
     "kickAllClaimTransfer": "Expulsar y recolectar a todos",
-    "kickAllClaimInvite": "Expulsar, recolectar e invitar"
+    "kickAllClaimInvite": "Expulsar, recolectar e invitar",
+    "accounts": "Cuentas",
+    "diarias": "Misiones",
+    "vbucks": "V-Bucks",
+    "serverStatus": "Estado del servidor",
+    "lookup": "Lookup",
+    "alertasCheck": "Alertas Check",
+    "aventuras": "Aventuras",
+    "stwShop": "Tienda STW",
+    "brStats": "Stats BR",
+    "brShop": "Tienda BR",
+    "brLocker": "Locker",
+    "stwInventory": "Inventario",
+    "stwArmory": "Taquilla",
+    "stwLoadouts": "Equipos de héroe",
+    "legacyFinder": "Rare/Legacy",
+    "homebase": "Homebase",
+    "sac": "SAC",
+    "redeem": "Canjear",
+    "friends": "Amigos",
+    "collectionBook": "Libro de colección",
+    "brSpirits": "Espíritus",
+    "adminPanel": "Admin panel",
+    "xpBoosts": "Boosts XP",
+    "communityBuilds": "Builds",
+    "miaChecker": "Mia Checker",
+    "authHub": "Auth Hub",
+    "expeditions": "Expediciones",
+    "cloudStorage": "Cloud storage",
+    "mcp": "MCP",
+    "worldEditor": "World Editor"
   },
   "gate": {
     "title": "Solo en móvil",
@@ -129,5 +243,1192 @@
     "androidEdge": "<p><strong>Android (Edge):</strong></p><ol><li>Menú (⋯) → <strong>Instalar aplicación</strong> o <strong>Añadir a pantalla de inicio</strong>.</li><li>Abre <strong>Mia Pocket</strong> desde el icono nuevo.</li></ol>",
     "androidOpera": "<p><strong>Android (Opera):</strong></p><ol><li>Menú → <strong>Añadir a pantalla de inicio</strong> o <strong>Instalar aplicación</strong>.</li><li>Abre <strong>Mia Pocket</strong> desde el icono nuevo.</li></ol>",
     "androidDefault": "<p><strong>Android (Chrome y otros):</strong></p><ol><li>Pulsa <strong>Instalar app</strong> si aparece el botón.</li><li>O menú (⋮) → <strong>Instalar aplicación</strong> / <strong>Instalar app</strong>.</li><li>Abre <strong>Mia Pocket</strong> desde el icono, no desde el navegador.</li></ol>"
+  },
+  "welcome": {
+    "kicker": "Mia Pocket",
+    "greeting": "Hola, {name}",
+    "tagline": "Tu app para móviles Android e iOS. Todo se maneja en local en este dispositivo.",
+    "actionsTitle": "Acciones rápidas",
+    "alertsKicker": "Salvar el Mundo",
+    "alertsTitle": "Alertas de hoy",
+    "viewAllAlerts": "Ver todas"
+  },
+  "accounts": {
+    "pageTitle": "Cuentas Epic",
+    "pageDesc": "Aquí conectas y cambias las cuentas Epic de este dispositivo. El resto de Mia Pocket se puede usar sin iniciar sesión.",
+    "empty": "Todavía no hay cuentas Epic en este dispositivo.",
+    "addingDesc": "Tus cuentas se quedan en este dispositivo. Conecta la nueva abajo.",
+    "cancelAdd": "Cancelar",
+    "addSection": "Nueva cuenta"
+  },
+  "categories": {
+    "saveTheWorld": "Salvar el Mundo",
+    "battleRoyale": "Battle Royale",
+    "misc": "Misc"
+  },
+  "loginMethods": {
+    "deviceCode": {
+      "title": "Confirmación web",
+      "description": "Inicia sesión en Epic con un enlace de confirmación (device_code).",
+      "instructions": "Se abrirá Epic en el navegador. Confirma el acceso y Pocket continuará solo.",
+      "waitingConfirmation": "Esperando tu confirmación en Epic…",
+      "expired": "El enlace de confirmación expiró. Vuelve atrás e inténtalo de nuevo.",
+      "openWebsite": "Abrir Epic de nuevo"
+    },
+    "authorizationCode": {
+      "title": "Código de autorización",
+      "description": "Usa el código que devuelve la web de Epic (authorization_code).",
+      "instructions": "Abre Epic, copia el código de la URL de redirección y pégalo abajo.",
+      "inputPlaceholder": "Pega tu código de autorización",
+      "openLogin": "Abrir login de Epic",
+      "openRedirect": "Obtener código"
+    },
+    "exchangeCode": {
+      "title": "Código Exchange",
+      "description": "Inicia sesión con un exchange code si tienes uno.",
+      "instructions": "Pega el código exchange (32 caracteres) y pulsa Continuar.",
+      "inputPlaceholder": "Pega tu código de exchange aquí"
+    }
+  },
+  "discordUser": {
+    "menuTitle": "Cuenta Discord",
+    "userIdLabel": "ID de Discord",
+    "premiumStatus": "Estado Premium",
+    "premium": {
+      "inactive": "Sin Premium",
+      "premium": "Premium",
+      "booster": "Booster",
+      "eternum": "Eternum"
+    },
+    "expiresAt": "Caduca el {date}",
+    "noExpiry": "Sin caducidad",
+    "premiumHint": "Activa Premium en Mia para desbloquear más funciones.",
+    "logout": "Cerrar sesión de Discord"
+  },
+  "tabs": {
+    "stw": "STW",
+    "br": "BR",
+    "misc": "Misc",
+    "navAria": "Secciones",
+    "home": "Inicio",
+    "commandsKicker": "Comandos",
+    "commandsLead": "Elige qué quieres hacer"
+  },
+  "diarias": {
+    "title": "Misiones",
+    "desc": "Diarias, registro de misiones y MSK de STW.",
+    "refresh": "Actualizar",
+    "replace": "Reemplazar",
+    "pin": "Fijar",
+    "unpin": "Desfijar",
+    "pinned": "Fijada",
+    "slots": "Huecos",
+    "rerolls": "Reemplazos",
+    "rewardVbucks": "V-Bucks de recompensa",
+    "rewardTickets": "Tickets X-Ray",
+    "vbucks": "V-Bucks",
+    "tickets": "Tickets",
+    "gold": "Oro",
+    "empty": "No hay misiones diarias activas.",
+    "errors": {
+      "fetchFailed": "No se pudieron cargar las diarias.",
+      "invalidQuest": "Misión no válida.",
+      "rerollFailed": "No se pudo reemplazar la misión.",
+      "pinFailed": "No se pudo actualizar el pin."
+    },
+    "xp": "XP",
+    "questNumber": "Misión {n}",
+    "modeSingle": "Esta",
+    "modeBulk": "Todas las cuentas",
+    "bulkSummary": "{ok}/{total} cuentas",
+    "activeAccount": "Cuenta activa",
+    "loadAll": "Todas",
+    "tabs": {
+      "daily": "Diarias",
+      "log": "Registro",
+      "msk": "MSK"
+    },
+    "log": {
+      "total": "Misiones",
+      "empty": "No hay misiones activas.",
+      "errors": {
+        "fetchFailed": "No se pudo cargar el registro."
+      },
+      "categories": {
+        "Daily": "Diarias",
+        "WeeklyQuest": "Semanales",
+        "StormKingHardmode": "Rey de la Tormenta",
+        "Events": "Eventos",
+        "Phoenix": "Aventuras",
+        "Stonewood": "Bosque pedregoso",
+        "Plankerton": "Valle fangoso",
+        "CannyValley": "Cañón polvoriento",
+        "TwinePeaks": "Cumbres Leñosas",
+        "Challenges": "Desafíos",
+        "Achievements": "Logros",
+        "Others": "Otras"
+      },
+      "states": {
+        "active": "Activa",
+        "completed": "Completada",
+        "claimed": "Reclamada"
+      }
+    },
+    "msk": {
+      "weekly": "Semanal MSK",
+      "completions": "Completados",
+      "reset": "Reset",
+      "reroll": "Reemplazar",
+      "noWeekly": "Sin misión semanal MSK activa.",
+      "premiumHint": "Premium para reemplazar la semanal.",
+      "superchargerTitle": "Supercargador",
+      "weaponsTitle": "Armas MSK",
+      "weapons": {
+        "onslaught": "Onslaught",
+        "fury": "Fury",
+        "wrath": "Wrath",
+        "ravager": "Ravager",
+        "scourge": "Scourge"
+      },
+      "supercharger": {
+        "hero": "Supercargador de héroe",
+        "trap": "Supercargador de trampas",
+        "weapon": "Supercargador de armas",
+        "survivor": "Supercargador de supervivientes"
+      },
+      "errors": {
+        "fetchFailed": "No se pudo cargar MSK.",
+        "invalidQuest": "Misión no válida.",
+        "rerollFailed": "No se pudo reemplazar la semanal.",
+        "premiumRequired": "Premium necesario para reemplazar la semanal MSK."
+      }
+    }
+  },
+  "vbucks": {
+    "title": "V-Bucks",
+    "desc": "Saldo, plataforma, regalos y desglose de tu cuenta Epic.",
+    "refresh": "Actualizar",
+    "balance": "Saldo",
+    "platform": "Plataforma",
+    "gifts": "Regalos",
+    "nextGift": "Próximo",
+    "creator": "Código de creador",
+    "noCreator": "Ninguno",
+    "breakdown": "Desglose",
+    "noBreakdown": "Sin desglose",
+    "packs": "Packs comprados",
+    "noPacks": "Sin packs",
+    "packsTotal": "Total packs",
+    "purchased": "Comprados",
+    "purchaseBonus": "Bonus de compra",
+    "complimentary": "Complementarios",
+    "giveaway": "Desafíos / Pase",
+    "debt": "Deuda",
+    "shared": "Compartido",
+    "errors": {
+      "fetchFailed": "No se pudieron cargar los V-Bucks.",
+      "profileUnavailable": "No se pudo leer el perfil."
+    },
+    "modeSingle": "Esta",
+    "modeBulk": "Todas las cuentas",
+    "bulkSummary": "{ok}/{total} cuentas",
+    "bulkTotal": "Total cuentas",
+    "activeAccount": "Cuenta activa",
+    "loadAll": "Todas"
+  },
+  "serverStatus": {
+    "title": "Estado del servidor",
+    "subtitle": "Servicios de Fortnite en Epic",
+    "refresh": "Actualizar",
+    "overall": "Fortnite",
+    "incidents": "Incidentes",
+    "noIncidents": "Sin incidentes activos.",
+    "openPage": "Abrir status.epicgames.com",
+    "status": {
+      "operational": "Operativo",
+      "degraded_performance": "Rendimiento degradado",
+      "partial_outage": "Interrupción parcial",
+      "major_outage": "Interrupción grave",
+      "under_maintenance": "Mantenimiento",
+      "unknown": "Desconocido"
+    },
+    "services": {
+      "website": "Web",
+      "gameServices": "Servicios del juego",
+      "login": "Inicio de sesión",
+      "parties": "Parties, amigos y mensajes",
+      "voice": "Chat de voz",
+      "matchmaking": "Matchmaking",
+      "stats": "Estadísticas y clasificaciones",
+      "itemShop": "Tienda de objetos",
+      "crew": "Fortnite Crew"
+    },
+    "errors": {
+      "fetchFailed": "No se pudo cargar el estado."
+    }
+  },
+  "lookup": {
+    "title": "Lookup",
+    "subtitle": "Busca un jugador por nombre o ID",
+    "placeholder": "Nombre o ID de cuenta",
+    "search": "Buscar",
+    "accountId": "ID",
+    "linkedAccounts": "Cuentas vinculadas",
+    "registeredYes": "Registrada en Mia",
+    "registeredNo": "No registrada en Mia",
+    "noLinked": "Sin cuentas vinculadas.",
+    "platforms": {
+      "xbox": "Xbox",
+      "psn": "PlayStation",
+      "steam": "Steam",
+      "nintendo": "Nintendo",
+      "linked": "Vinculada"
+    },
+    "errors": {
+      "invalidQuery": "Escribe un nombre o ID.",
+      "notFound": "No se encontró esa cuenta.",
+      "fetchFailed": "No se pudo buscar la cuenta."
+    }
+  },
+  "alertasCheck": {
+    "title": "Alertas Check",
+    "refresh": "Actualizar",
+    "loadAll": "Todas",
+    "activeAccount": "Cuenta activa",
+    "modeBulk": "Todas las cuentas",
+    "bulkSummary": "{ok}/{total} cuentas",
+    "completed": "Hechas",
+    "remaining": "Pendientes",
+    "empty": "No hay alertas en esta categoría.",
+    "categories": {
+      "honorific": "Honoríficas",
+      "vbucks": "V-Bucks",
+      "survivors": "Supervivientes",
+      "pl160": "PL 160",
+      "heroes": "Héroes",
+      "defenders": "Defensores",
+      "schematics": "Esquemas",
+      "evo": "Evo"
+    },
+    "errors": {
+      "fetchFailed": "No se pudo revisar las alertas."
+    }
+  },
+  "aventuras": {
+    "title": "Aventuras",
+    "refresh": "Actualizar",
+    "loadAll": "Todas",
+    "activeAccount": "Cuenta activa",
+    "modeBulk": "Todas las cuentas",
+    "bulkSummary": "{ok}/{total} cuentas",
+    "avgLevel": "Nivel medio",
+    "level": "Nivel",
+    "nextZone": "Zona",
+    "toNext": "Al siguiente nivel",
+    "toMax": "Al 50",
+    "noSeason": "Sin temporada",
+    "notStarted": "Esta cuenta aún no ha jugado Aventuras esta temporada.",
+    "emptyQuests": "No hay misiones de aventuras activas.",
+    "seasons": {
+      "frozen": "Fiordos helados",
+      "flannel": "Cascadas de franela",
+      "scurvy": "Bajíos escorbúticos",
+      "blasted": "Páramos desolados",
+      "hex": "Hexsylvania"
+    },
+    "categories": {
+      "weapon": "Armas",
+      "monster": "Monstruos",
+      "mission": "Misiones",
+      "locating": "Localización",
+      "destroy": "Destruir"
+    },
+    "errors": {
+      "fetchFailed": "No se pudieron cargar las aventuras."
+    }
+  },
+  "stwShop": {
+    "title": "Tienda STW",
+    "refresh": "Actualizar",
+    "activeAccount": "Cuenta activa",
+    "buy": "Comprar",
+    "soldOut": "Agotado",
+    "bought": "Compra realizada.",
+    "empty": "No hay ofertas en esta sección.",
+    "tabs": {
+      "shop": "Tienda",
+      "llamas": "Llamas"
+    },
+    "sections": {
+      "rotational": "Rotativa",
+      "special": "Especial",
+      "llamas": "Llamas"
+    },
+    "errors": {
+      "fetchFailed": "No se pudo cargar la tienda.",
+      "purchaseFailed": "No se pudo comprar.",
+      "invalidItem": "Oferta no válida.",
+      "soldOut": "Esta oferta está agotada."
+    },
+    "previewTitle": "Contenido X-Ray"
+  },
+  "llamas": {
+    "open": "Abrir",
+    "opened": "Llamas abiertas.",
+    "empty": "No tienes llamas para abrir.",
+    "errors": {
+      "fetchFailed": "No se pudieron cargar las llamas.",
+      "openFailed": "No se pudo abrir.",
+      "invalidQuantity": "Cantidad no válida.",
+      "notEnough": "No hay suficientes llamas."
+    }
+  },
+  "brStats": {
+    "title": "Stats BR",
+    "refresh": "Actualizar",
+    "loadAll": "Todas",
+    "activeAccount": "Cuenta activa",
+    "modeBulk": "Todas las cuentas",
+    "bulkSummary": "{ok}/{total} cuentas",
+    "earnedXp": "XP semanal",
+    "publicStats": "Stats públicas",
+    "battlePass": "Pase",
+    "overall": "General",
+    "solo": "Solo",
+    "duo": "Dúo",
+    "squad": "Escuadrón",
+    "wins": "Wins",
+    "kills": "Kills",
+    "winRate": "WR",
+    "totalXp": "Total",
+    "private": "Las estadísticas públicas están en privado.",
+    "noPublic": "Sin estadísticas públicas disponibles.",
+    "modes": {
+      "br": "Battle Royale",
+      "creative": "Creative",
+      "stw": "Salvar el Mundo"
+    },
+    "errors": {
+      "fetchFailed": "No se pudieron cargar las stats."
+    }
+  },
+  "brShop": {
+    "title": "Tienda BR",
+    "subtitle": "Vista de la tienda del día",
+    "refresh": "Actualizar",
+    "allSections": "Todas",
+    "empty": "No hay artículos.",
+    "emptyFiltraciones": "Sin filtraciones nuevas.",
+    "noSecciones": "Sin cambios de secciones recientes.",
+    "seccionesTitle": "Cambios de secciones",
+    "tabs": {
+      "shop": "Tienda",
+      "filtraciones": "Filtraciones",
+      "secciones": "Secciones"
+    },
+    "errors": {
+      "fetchFailed": "No se pudo cargar la tienda.",
+      "filtracionesFailed": "No se pudieron cargar filtraciones.",
+      "seccionesFailed": "No se pudieron cargar secciones.",
+      "purchaseFailed": "No se pudo comprar.",
+      "giftFailed": "No se pudo regalar.",
+      "invalidOffer": "Oferta no válida.",
+      "offerNotFound": "Este artículo ya no está en la tienda.",
+      "invalidReceiver": "Amigo no válido.",
+      "notGiftable": "Este artículo no se puede regalar.",
+      "insufficientFunds": "No tienes suficientes V-Bucks."
+    },
+    "search": "Buscar",
+    "searchPlaceholder": "Buscar cosmético…",
+    "filtersLabel": "Filtros",
+    "allTypes": "Todos",
+    "owned": "En posesión",
+    "featured": "Destacado",
+    "groups": {
+      "new": "Nuevas",
+      "updated": "Actualizadas",
+      "leaving": "Salientes"
+    },
+    "filters": {
+      "all": "Todos",
+      "emote": "Gestos",
+      "bundle": "Lotes",
+      "outfit": "Atuendos",
+      "wrap": "Camuflajes",
+      "sparks_song": "Músicas",
+      "pickaxe": "Picos",
+      "shoes": "Zapatillas",
+      "backpack": "Mochilas",
+      "wheel": "Ruedas",
+      "cars": "Coches",
+      "instrument": "Instrumentos",
+      "region_restricted": "Región",
+      "new": "Nuevo"
+    },
+    "close": "Cerrar",
+    "back": "Atrás",
+    "buy": "Comprar",
+    "gift": "Regalar",
+    "bought": "Compra realizada.",
+    "gifted": "Regalo enviado.",
+    "pickFriend": "Elige un amigo",
+    "noFriends": "No hay amigos para regalar.",
+    "notGiftable": "No se puede regalar",
+    "needAccount": "Conecta una cuenta Epic para comprar o regalar."
+  },
+  "brLocker": {
+    "title": "Locker",
+    "refresh": "Actualizar",
+    "activeAccount": "Cuenta activa",
+    "search": "Buscar",
+    "searchPlaceholder": "Buscar por nombre…",
+    "total": "{n} cosméticos",
+    "empty": "No hay cosméticos en esta vista.",
+    "prev": "Anterior",
+    "next": "Siguiente",
+    "page": "Pág. {i}/{total}",
+    "categories": {
+      "all": "Todo",
+      "skins": "Skins",
+      "backpacks": "Mochilas",
+      "pickaxes": "Picos",
+      "gliders": "Alas",
+      "contrails": "Estelas",
+      "emotes": "Gestos",
+      "toys": "Juguetes",
+      "sprays": "Grafitis",
+      "music": "Música",
+      "loadingscreen": "Pantallas",
+      "crew": "Crew",
+      "exclusivos": "Exclusivos"
+    },
+    "errors": {
+      "fetchFailed": "No se pudo cargar el locker.",
+      "premiumRequired": "Exclusivos requiere Premium."
+    },
+    "badges": {
+      "crew": "Crew",
+      "exclusive": "Exclusivo"
+    },
+    "premiumBadge": "Premium"
+  },
+  "stwInventory": {
+    "title": "Inventario",
+    "refresh": "Actualizar",
+    "activeAccount": "Cuenta activa",
+    "search": "Buscar",
+    "searchPlaceholder": "Buscar por id…",
+    "meta": "{unique} ítems · {qty} total",
+    "empty": "No hay objetos en esta vista.",
+    "prev": "Anterior",
+    "next": "Siguiente",
+    "page": "Pág. {i}/{total}",
+    "stackOne": "1 pila",
+    "stackMany": "{n} pilas",
+    "sources": {
+      "mochila": "Mochila",
+      "almacen": "Almacén",
+      "aventuras": "Aventuras"
+    },
+    "categories": {
+      "todos": "Todo",
+      "armas": "Armas",
+      "trampas": "Trampas",
+      "municion": "Munición",
+      "materiales": "Materiales"
+    },
+    "errors": {
+      "fetchFailed": "No se pudo cargar el inventario."
+    },
+    "assetCategories": {
+      "other": "Otros",
+      "resource": "Materiales",
+      "hero": "Héroes",
+      "schematic": "Esquemas",
+      "worker": "Supervivientes",
+      "cardpack": "Llamas"
+    }
+  },
+  "stwArmory": {
+    "title": "Taquilla",
+    "refresh": "Actualizar",
+    "activeAccount": "Cuenta activa",
+    "search": "Buscar",
+    "searchPlaceholder": "Buscar…",
+    "meta": "{total} · PL max {max} · Super {super}",
+    "empty": "No hay objetos en esta vista.",
+    "prev": "Anterior",
+    "next": "Siguiente",
+    "page": "Pág. {i}/{total}",
+    "tabs": {
+      "schematics": "Esquemas",
+      "heroes": "Héroes"
+    },
+    "schematics": {
+      "todos": "Todo",
+      "lanzadores": "Lanzadores",
+      "asalto": "Asalto",
+      "escopetas": "Escopetas",
+      "pistolas": "Pistolas",
+      "smg": "SMG",
+      "francotiradores": "Francotiradores",
+      "melee": "Melee",
+      "trampas": "Trampas",
+      "otras": "Otras"
+    },
+    "heroes": {
+      "todos": "Todo",
+      "soldado": "Soldado",
+      "constructor": "Constructor",
+      "ninja": "Ninja",
+      "outlander": "Outlander",
+      "otro": "Otro"
+    },
+    "traps": {
+      "todas": "Todas",
+      "suelo": "Suelo",
+      "pared": "Pared",
+      "techo": "Techo"
+    },
+    "errors": {
+      "fetchFailed": "No se pudo cargar la taquilla."
+    }
+  },
+  "stwLoadouts": {
+    "title": "Equipos de héroe",
+    "refresh": "Actualizar",
+    "activeAccount": "Cuenta activa",
+    "empty": "No hay equipos de héroe.",
+    "slot": "Equipo {n}",
+    "active": "Activo",
+    "activate": "Usar",
+    "activated": "Equipo activado.",
+    "errors": {
+      "fetchFailed": "No se pudieron cargar los equipos.",
+      "activateFailed": "No se pudo activar el equipo.",
+      "notFound": "Equipo no encontrado."
+    }
+  },
+  "legacyFinder": {
+    "title": "Rare/Legacy",
+    "refresh": "Actualizar",
+    "activeAccount": "Cuenta activa",
+    "search": "Buscar",
+    "searchPlaceholder": "Buscar…",
+    "meta": "{filtered} · Legacy {legacy} · AOE {aoe} · Modded {modded}",
+    "empty": "No hay esquemas en esta vista.",
+    "prev": "Anterior",
+    "next": "Siguiente",
+    "page": "Pág. {i}/{total}",
+    "categories": {
+      "aoe": "AOE",
+      "modded": "Modeadas",
+      "historical": "Históricas",
+      "campaign": "Inventario",
+      "collection_book_schematics0": "Libro",
+      "theater0": "Mochila",
+      "outpost0": "Almacén"
+    },
+    "status": {
+      "highlighted": "Destacadas",
+      "hybrid": "Híbridas",
+      "modded": "Modeadas",
+      "legacy": "Legacy",
+      "review": "Revisión",
+      "all": "Todas"
+    },
+    "kinds": {
+      "all": "Todo",
+      "weapon": "Armas",
+      "trap": "Trampas"
+    },
+    "badges": {
+      "aoe": "AOE",
+      "modded": "Modeada",
+      "defender": "Defensor",
+      "hybrid": "Híbrida",
+      "historical": "Histórica",
+      "legacy": "Legacy",
+      "review": "Revisión"
+    },
+    "errors": {
+      "fetchFailed": "No se pudo escanear la cuenta."
+    }
+  },
+  "homebase": {
+    "title": "Homebase",
+    "refresh": "Actualizar",
+    "scan": "Escanear",
+    "activeAccount": "Cuenta activa",
+    "ssdLevel": "SSD",
+    "endurance": "Resistencia",
+    "amplifiers": "Amps",
+    "noSaveShort": "Sin nube",
+    "totalStructures": "Total",
+    "trapsTitle": "Trampas ({count})",
+    "noTraps": "Sin trampas colocadas",
+    "noPermissions": "Sin permisos de edición",
+    "scanPrompt": "Pulsa Escanear para analizar trampas y estructuras.",
+    "scanning": "Descargando y analizando la base…",
+    "emptyWarning": "Esta base parece vacía o poco construida.",
+    "tabs": {
+      "base": "Base",
+      "permissions": "Permisos"
+    },
+    "structureTypes": {
+      "walls": "Paredes",
+      "floors": "Suelos",
+      "stairs": "Escaleras",
+      "cones": "Conos"
+    },
+    "materials": {
+      "wood": "Madera",
+      "stone": "Piedra",
+      "metal": "Metal"
+    },
+    "zones": {
+      "stonewood": "Bosque Pedregoso",
+      "plankerton": "Villatablón",
+      "cannyValley": "Valle Latoso",
+      "twinePeaks": "Cumbres Leñosas"
+    },
+    "layout": {
+      "empty": "No hay piezas construidas en esta zona",
+      "legendWood": "Madera",
+      "legendStone": "Piedra",
+      "legendMetal": "Metal",
+      "legendRoof": "Techo",
+      "legendFloorTrap": "Trampa de suelo",
+      "legendWallTrap": "Trampa de pared",
+      "legendCeilingTrap": "Trampa de techo",
+      "legendNote": "Vista mapa · trampas",
+      "piecesSummary": "{total} piezas — {floors} suelos · {walls} paredes · {stairs} escaleras · {roofs} techos",
+      "materialsSummary": "Madera {wood} · Piedra {stone} · Metal {metal}",
+      "trapsSummary": "{n} trampas"
+    },
+    "errors": {
+      "fetchFailed": "No se pudo cargar Homebase.",
+      "scanFailed": "No se pudo escanear la base.",
+      "noZones": "No hay outposts en esta cuenta.",
+      "noSave": "No hay datos en la nube para esta zona."
+    }
+  },
+  "sac": {
+    "title": "SAC",
+    "refresh": "Actualizar",
+    "viewAll": "Ver cuentas",
+    "apply": "Aplicar",
+    "applyAll": "Aplicar a todas",
+    "lookup": "Revisar",
+    "activeAccount": "Cuenta activa",
+    "modeBulk": "Todas las cuentas",
+    "codeLabel": "Código de creador",
+    "codePlaceholder": "Código SAC…",
+    "currentCode": "Código",
+    "noCode": "Sin código",
+    "setAt": "Desde",
+    "expiryHint": "Epic pide renovar el SAC cada 14 días.",
+    "applyOk": "SAC actualizado.",
+    "lookupName": "Creador",
+    "lookupCode": "Código",
+    "lookupNotFound": "Código no encontrado.",
+    "statusActive": "Activo",
+    "statusDisabled": "Inactivo",
+    "errors": {
+      "fetchFailed": "No se pudo cargar el SAC.",
+      "applyFailed": "No se pudo aplicar el SAC.",
+      "invalidCode": "Código no válido.",
+      "lookupFailed": "No se pudo revisar el código.",
+      "premiumRequired": "Premium necesario para todas las cuentas."
+    },
+    "renewAt": "Renueva",
+    "daysLeft": "{n} días",
+    "renewDue": "Renovar ya"
+  },
+  "redeem": {
+    "title": "Canjear",
+    "activeAccount": "Cuenta activa",
+    "modeBulk": "Todas las cuentas",
+    "codesLabel": "Códigos",
+    "codesPlaceholder": "Uno o varios códigos…",
+    "redeem": "Canjear",
+    "redeemAll": "Todas",
+    "redeeming": "Canjeando…",
+    "redeemed": "Canjeado",
+    "done": "Canje finalizado.",
+    "errors": {
+      "invalidCodes": "Introduce al menos un código.",
+      "failed": "No se pudo canjear {code}.",
+      "notFound": "Código no encontrado: {code}",
+      "used": "Código ya usado: {code}",
+      "expired": "Código caducado: {code}",
+      "premiumRequired": "Premium necesario para todas las cuentas."
+    }
+  },
+  "friends": {
+    "title": "Amigos",
+    "refresh": "Actualizar",
+    "clearOutgoing": "Limpiar salientes",
+    "add": "Añadir",
+    "addLabel": "Añadir amigo",
+    "addPlaceholder": "Nombre o ID…",
+    "search": "Buscar",
+    "searchPlaceholder": "Buscar…",
+    "activeAccount": "Cuenta activa",
+    "accept": "Aceptar",
+    "reject": "Rechazar",
+    "cancel": "Cancelar",
+    "remove": "Quitar",
+    "block": "Bloquear",
+    "unblock": "Desbloquear",
+    "empty": "No hay entradas en esta lista.",
+    "meta": "{n} resultados",
+    "prev": "Anterior",
+    "next": "Siguiente",
+    "page": "Pág. {i}/{total}",
+    "addOk": "Solicitud enviada a {name}.",
+    "acceptOk": "Amistad aceptada con {name}.",
+    "removeOk": "Eliminado: {name}.",
+    "blockOk": "Bloqueado: {name}.",
+    "unblockOk": "Desbloqueado: {name}.",
+    "clearOutgoingOk": "Canceladas {n} solicitudes salientes.",
+    "actionOk": "Hecho.",
+    "tabs": {
+      "friends": "Amigos",
+      "incoming": "Entrantes",
+      "outgoing": "Salientes",
+      "blocklist": "Bloqueados"
+    },
+    "errors": {
+      "fetchFailed": "No se pudo cargar amigos.",
+      "actionFailed": "No se pudo completar la acción.",
+      "invalidTarget": "Introduce un nombre o ID.",
+      "invalidAction": "Acción no válida.",
+      "notFound": "Cuenta no encontrada.",
+      "already": "Ya sois amigos o la solicitud ya existe.",
+      "self": "No puedes añadirte a ti mismo."
+    }
+  },
+  "collectionBook": {
+    "title": "Libro de colección",
+    "activeAccount": "Cuenta activa",
+    "bookLevel": "Nivel del libro: {level}",
+    "targetLevelLabel": "Nivel objetivo (2-50)",
+    "invalidLevel": "Nivel no válido. Usa un número entre 2 y 50.",
+    "btnCalculate": "Calcular recursos",
+    "btnUpgradeAll": "Mejorar todo",
+    "btnStopOnResources": "Parar sin recursos",
+    "note1": "Este proceso usa recursos de tu cuenta.",
+    "note2": "Los ítems se evolucionan automáticamente cuando hace falta.",
+    "note3": "Los ítems que ya están en el nivel objetivo o por encima se omiten.",
+    "resourcesTitle": "Recursos para {category} hasta nivel {level}",
+    "eligibleItems": "Mejorables",
+    "skippedItems": "Ya en nivel",
+    "totalItems": "Total",
+    "noResourcesNeeded": "No se necesitan recursos adicionales.",
+    "processingTitle": "Procesando…",
+    "processingBody": "Paso {step} de {total} ({phase})",
+    "processingProgress": "Progreso: {done}/{total}",
+    "phase": {
+      "query": "consultando",
+      "upgrade": "subiendo nivel",
+      "evolve": "evolucionando",
+      "finalize": "finalizando",
+      "done": "terminado"
+    },
+    "resultsHeader": "Resultados",
+    "resultUpgraded": "Mejorados",
+    "resultEvolved": "Evolucionados",
+    "resultFailed": "Fallidos",
+    "resultSkipped": "Omitidos",
+    "completeResourceWarning": "{count} ítems no se pudieron mejorar por falta de recursos.",
+    "completeBookLevelHeader": "Libro de colección",
+    "completeBookLevel": "Nivel {before} → {after}",
+    "completeBookLevelUnknown": "Nivel {before} → ?",
+    "completeResourcesHeader": "Recursos gastados",
+    "noResourcesSpent": "No se detectó consumo de recursos.",
+    "completeFooter": "Proceso completado — reinicia el juego para aplicar los cambios.",
+    "toastComplete": "Mejora del libro completada.",
+    "toastResourceShortage": "{count} ítems sin recursos.",
+    "categories": {
+      "all_items": "Todos",
+      "heroes": "Héroes",
+      "survivors": "Supervivientes",
+      "survivor_leads": "Líderes",
+      "defenders": "Defensores",
+      "weapons": "Armas",
+      "traps": "Trampas"
+    },
+    "resources": {
+      "heroxp": "XP de héroe",
+      "schematicxp": "XP de esquema",
+      "personnelxp": "XP de superviviente",
+      "reagent_people": "Manual de entrenamiento",
+      "reagent_schematic": "Diseño de arma",
+      "reagent_traps": "Diseño de trampa",
+      "reagent_c_t01": "Gota de lluvia",
+      "reagent_c_t02": "Rayo en botella",
+      "reagent_c_t03": "Ojo de la tormenta",
+      "reagent_c_t04": "Fragmento de tormenta"
+    },
+    "errors": {
+      "fetchFailed": "No se pudo cargar el libro de colección.",
+      "calculateFailed": "No se pudieron calcular los recursos.",
+      "runFailed": "No se pudo completar la mejora."
+    }
+  },
+  "brSpirits": {
+    "title": "Espíritus",
+    "activeAccount": "Cuenta activa",
+    "refresh": "Actualizar",
+    "search": "Buscar",
+    "searchPlaceholder": "Buscar espíritu…",
+    "empty": "Sin resultados.",
+    "prev": "Anterior",
+    "next": "Siguiente",
+    "page": "Pág. {i}/{total}",
+    "openWeb": "Abrir en la web",
+    "meta": {
+      "line": "{owned}/{total} · {mastered} max · {pending} pend. · dust {dust}"
+    },
+    "season": {
+      "current": "Actual",
+      "past": "Anteriores",
+      "all": "Todas"
+    },
+    "status": {
+      "all": "Todos",
+      "owned": "Tienes",
+      "missing": "Faltan",
+      "pending": "Pendientes",
+      "mastered": "Max"
+    },
+    "variants": {
+      "all": "Todas",
+      "Base": "Base",
+      "Gold": "Gold",
+      "Gummy": "Gummy",
+      "Galaxy": "Galaxy",
+      "CheatMaster": "Cheat Master",
+      "LootHacker": "Loot Hacker",
+      "Holofoil": "Holofoil",
+      "Cube": "Cube",
+      "Gem": "Gem",
+      "Quack": "Quack",
+      "BountyHunter": "Bounty Hunter",
+      "TrickTreat": "Trick or Treat"
+    },
+    "errors": {
+      "fetchFailed": "No se pudieron cargar los espíritus."
+    },
+    "badge": {
+      "max": "Max"
+    },
+    "filters": {
+      "season": "Temporada",
+      "status": "Estado",
+      "variant": "Variante"
+    }
+  },
+  "adminPanel": {
+    "title": "Admin panel",
+    "activeAccount": "Cuenta activa",
+    "refresh": "Actualizar",
+    "redeem": "Canjear",
+    "redeemAll": "Todas",
+    "redeeming": "Canjeando…",
+    "done": "Canje finalizado.",
+    "empty": "No hay códigos pendientes.",
+    "meta": "{needed} pendientes · {skipped} omitidos",
+    "accountSummary": "OK {ok} · Fallos {fail} · Omitidos {skipped}",
+    "kind": {
+      "ok": "Canjeado",
+      "lobby": "Solo lobby",
+      "unavailable": "No disponible / ya tenido",
+      "invalid": "Código inválido",
+      "error": "Error al canjear"
+    },
+    "errors": {
+      "fetchFailed": "No se pudieron cargar los códigos.",
+      "redeemFailed": "No se pudo completar el canje.",
+      "premiumRequired": "Premium necesario para todas las cuentas."
+    },
+    "metaNeeded": "{n} pendientes",
+    "metaSkipped": "{n} omitidos",
+    "reusable": "Reutilizable"
+  },
+  "xpBoosts": {
+    "title": "Boosts XP",
+    "activeAccount": "Cuenta activa",
+    "refresh": "Actualizar",
+    "amountLabel": "Cantidad",
+    "redeemPersonal": "Usar personales",
+    "searchLabel": "Jugador",
+    "searchPlaceholder": "Nombre Epic…",
+    "search": "Buscar",
+    "sendTeammate": "Enviar de equipo",
+    "personal": "Personal",
+    "teammate": "Equipo",
+    "boostedXp": "XP boost",
+    "level": "Nivel",
+    "working": "Procesando…",
+    "redeemOk": "Canjeados {current}/{expected}",
+    "sendOk": "Enviados {current}/{expected}",
+    "recipientMeta": "XP boost {xp} · Nv. {level}{private}",
+    "private": "privado",
+    "errors": {
+      "fetchFailed": "No se pudieron cargar los boosts.",
+      "consumeFailed": "No se pudo completar la acción.",
+      "noPersonal": "No hay boosts personales.",
+      "notFound": "Jugador no encontrado.",
+      "invalidQuery": "Introduce un nombre.",
+      "self": "No puedes enviarte boosts a ti mismo."
+    }
+  },
+  "communityBuilds": {
+    "title": "Builds",
+    "activeAccount": "Cuenta activa",
+    "search": "Buscar",
+    "searchPlaceholder": "Buscar build…",
+    "empty": "Sin builds.",
+    "prev": "Anterior",
+    "next": "Siguiente",
+    "page": "Pág. {i}",
+    "slotLabel": "Slot de equipo",
+    "clone": "Clonar",
+    "close": "Cerrar",
+    "cloning": "Clonando…",
+    "cloneOk": "Build clonada en el equipo.",
+    "clonePartial": "Build clonada con avisos (faltan héroes/gadgets).",
+    "votes": "Votos",
+    "official": "Oficial",
+    "sort": {
+      "top": "Top",
+      "recent": "Recientes"
+    },
+    "errors": {
+      "fetchFailed": "No se pudieron cargar las builds.",
+      "notFound": "Build no encontrada.",
+      "invalidSlot": "Slot de equipo no válido.",
+      "cloneFailed": "No se pudo clonar la build."
+    }
+  },
+  "miaChecker": {
+    "title": "Mia Checker",
+    "activeAccount": "Cuenta activa",
+    "run": "Revisar",
+    "censor": "Ocultar datos sensibles",
+    "vbucks": "V-Bucks",
+    "skins": "Skins",
+    "exclusives": "Exclusivos",
+    "friends": "Amigos",
+    "openLocker": "Abrir taquilla BR",
+    "noStw": "Sin STW / sin perfil de campaña.",
+    "copySale": "Copiar mensaje",
+    "copied": "Copiado.",
+    "copyFailed": "No se pudo copiar.",
+    "lastPlayedAgo": "{date} ({days}d)",
+    "saleMessageSkins": "{count} skins",
+    "saleMessageVbucks": "{amount} V-Bucks",
+    "sections": {
+      "account": "Cuenta",
+      "purchases": "Compras",
+      "activity": "Actividad",
+      "locker": "Taquilla",
+      "stw": "STW",
+      "sale": "Mensaje de venta"
+    },
+    "fields": {
+      "displayName": "Nombre",
+      "accountId": "ID",
+      "email": "Email",
+      "country": "País",
+      "created": "Creada",
+      "tfa": "2FA",
+      "platforms": "Plataformas",
+      "refunds": "Reembolsos",
+      "bought": "V-Bucks comprados",
+      "giftsSent": "Regalos enviados",
+      "giftsReceived": "Regalos recibidos",
+      "crew": "Crew",
+      "level": "Nivel",
+      "wins": "Victorias",
+      "matches": "Partidas",
+      "lastPlayed": "Última partida",
+      "totalItems": "Total",
+      "founder": "Fundador",
+      "stwLevel": "Nivel STW",
+      "collectionBook": "Libro",
+      "stwMatches": "Partidas STW"
+    },
+    "founderEditions": {
+      "newStw": "STW nuevo",
+      "standard": "Estándar",
+      "deluxe": "Lujo",
+      "superDeluxe": "Super lujo",
+      "limited": "Limitada",
+      "ultimate": "Definitiva"
+    },
+    "errors": {
+      "fetchFailed": "No se pudo generar el informe."
+    }
+  },
+  "authHub": {
+    "nav": "Auth Hub",
+    "navDesc": "Info, links, recibos y exchange",
+    "title": "Auth Hub",
+    "activeAccount": "Cuenta activa",
+    "refresh": "Actualizar",
+    "reveal": "Mostrar secretos",
+    "tabs": {
+      "info": "Info",
+      "links": "Links",
+      "transactions": "Recibos",
+      "auth": "Auth"
+    },
+    "secrets": "Credenciales",
+    "emptyLinks": "Sin cuentas enlazadas.",
+    "emptyTransactions": "Sin recibos.",
+    "emptyDevices": "Sin device auths.",
+    "currentDevice": "Actual",
+    "exchange": "Generar exchange",
+    "copied": "Exchange copiado.",
+    "prev": "Anterior",
+    "next": "Siguiente",
+    "fields": {
+      "name": "Nombre",
+      "email": "Email",
+      "country": "País",
+      "tfa": "2FA",
+      "emailVerified": "Email verificado",
+      "cabined": "Cabined",
+      "failedLogins": "Logins fallidos",
+      "nameChanges": "Cambios de nombre",
+      "canRename": "Puede renombrar",
+      "lastRename": "Último rename",
+      "lastLogin": "Último login",
+      "campaignCreated": "Creada (STW)",
+      "appStore": "Tienda",
+      "created": "Creado",
+      "lastAccess": "Último acceso"
+    },
+    "errors": {
+      "fetchFailed": "No se pudo cargar Auth Hub.",
+      "exchangeFailed": "No se pudo generar exchange."
+    }
+  },
+  "expeditions": {
+    "nav": "Expediciones",
+    "navDesc": "Enviar, recolectar y auto 24/7",
+    "title": "Expediciones",
+    "activeAccount": "Cuenta activa",
+    "refresh": "Actualizar",
+    "collect": "Recolectar",
+    "sendTitle": "Enviar",
+    "pendingTitle": "Activas",
+    "autoTitle": "Auto 24/7",
+    "autoOn": "Activar",
+    "autoOff": "Desactivar",
+    "autoActive": "Auto activo",
+    "autoInactive": "Auto inactivo",
+    "emptyPending": "Sin expediciones activas.",
+    "notLinkedHint": "Vincula la cuenta en Mia Discord para auto 24/7.",
+    "premiumHint": "Premium/Eternum para auto 24/7.",
+    "types": {
+      "Heroes": "Héroes",
+      "Resources": "Recursos",
+      "Supplies": "Suministros",
+      "Survivors": "Supervivientes",
+      "Traps": "Trampas",
+      "Weapons": "Armas"
+    },
+    "errors": {
+      "fetchFailed": "No se pudieron cargar las expediciones.",
+      "invalidType": "Tipo no válido.",
+      "sendFailed": "No se pudo enviar.",
+      "collectFailed": "No se pudo recolectar.",
+      "notLinked": "Cuenta no vinculada en Mia.",
+      "autoFailed": "No se pudo actualizar el auto.",
+      "premiumRequired": "Premium necesario para auto 24/7."
+    },
+    "ready": "Lista",
+    "autoPick": "Tipos a enviar automáticamente",
+    "premiumBadge": "Premium",
+    "configureAuto": "Configurar",
+    "close": "Cerrar"
+  },
+  "cloudStorage": {
+    "nav": "Cloud",
+    "navDesc": "Archivos .sav de Epic",
+    "title": "Cloud storage",
+    "activeAccount": "Cuenta activa",
+    "refresh": "Actualizar",
+    "download": "Descargar",
+    "empty": "No hay archivos .sav.",
+    "errors": {
+      "fetchFailed": "No se pudieron cargar los .sav.",
+      "invalidFile": "Archivo no válido.",
+      "downloadFailed": "No se pudo descargar."
+    },
+    "saveTitle": "Guardado a{slot}",
+    "revision": "Rev. {rev}",
+    "fileCount": "{n} archivos",
+    "search": "Buscar",
+    "searchPlaceholder": "Buscar guardado…",
+    "noResults": "Sin resultados."
+  },
+  "mcp": {
+    "title": "MCP",
+    "activeAccount": "Cuenta activa",
+    "premiumHint": "Premium/Eternum para usar la consola MCP.",
+    "operation": "Operación",
+    "profile": "Perfil",
+    "route": "Ruta",
+    "publicAccountId": "Cuenta pública",
+    "body": "Body JSON",
+    "run": "Ejecutar",
+    "ok": "OK",
+    "truncated": "Respuesta truncada.",
+    "errors": {
+      "premiumRequired": "Premium/Eternum requerido.",
+      "invalidProfile": "Perfil no válido.",
+      "invalidOperation": "Operación no válida.",
+      "invalidRoute": "Ruta no válida.",
+      "publicIdRequired": "Indica la cuenta pública.",
+      "invalidBody": "Body JSON no válido.",
+      "composeFailed": "No se pudo ejecutar MCP."
+    }
+  },
+  "worldEditor": {
+    "title": "World Editor",
+    "activeAccount": "Cuenta activa",
+    "hint": "Carga world-info en vivo o un JSON. Las transformaciones se descargan aquí (sin apply local).",
+    "loadLive": "Cargar live",
+    "loadFile": "Abrir JSON",
+    "download": "Descargar",
+    "json": "JSON",
+    "loaded": "World info cargado.",
+    "fileLoaded": "Archivo cargado.",
+    "transformed": "Transformación aplicada.",
+    "actions": {
+      "wi": "WI",
+      "dupe": "Dupe",
+      "remove-mods": "Sin mods",
+      "dev": "Dev",
+      "dupev": "DupeV"
+    },
+    "summary": {
+      "theaters": "Teatros",
+      "missions": "Misiones",
+      "alerts": "Alertas"
+    },
+    "errors": {
+      "empty": "Sin world-info.",
+      "fetchFailed": "No se pudo cargar world-info.",
+      "invalidJson": "JSON no válido.",
+      "tooLarge": "JSON demasiado grande.",
+      "invalidAction": "Acción no válida.",
+      "transformFailed": "No se pudo transformar."
+    }
   }
 }

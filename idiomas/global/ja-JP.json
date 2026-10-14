@@ -2498,7 +2498,8 @@
 				"msg15": "サブコマンド:",
 				"msg16": "Mia の SAC:",
 				"msg17": "詳細:",
-				"msg18": "公式ウェブサイト"
+				"msg18": "公式ウェブサイト",
+				"msg19": "Mia Pocket"
 			},
 			"bot": {
 				"msg1": "不明",
@@ -2723,7 +2724,8 @@
 				"productos": {
 					"mia": "Mia",
 					"launcher": "Mia Launcher",
-					"checker": "Mia Checker"
+					"checker": "Mia Checker",
+					"pocket": "Mia Pocket"
 				}
 			},
 			"enlaces": {
@@ -2739,7 +2741,8 @@
 				"kiosko": "El Kiosko",
 				"launcher": "Mia Launcher",
 				"terminos": "利用規約",
-				"privacidad": "プライバシー"
+				"privacidad": "プライバシー",
+				"pocket": "Mia Pocket"
 			}
 		},
 		"paneles": {

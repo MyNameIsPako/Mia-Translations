@@ -21,7 +21,8 @@
     "refresh": "Refresh",
     "download": "Download image",
     "downloadHint": "Download alerts image (same as Discord / Launcher)",
-    "downloadNeedFilter": "Pick a category or filter to download the image"
+    "downloadNeedFilter": "Pick a category or filter to download the image",
+    "viewAll": "View all alerts"
   },
   "loading": "Loading",
   "categories": {

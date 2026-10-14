@@ -2498,7 +2498,8 @@
 				"msg15": "子命令：",
 				"msg16": "Mia 的 SAC：",
 				"msg17": "详情：",
-				"msg18": "官方网站"
+				"msg18": "官方网站",
+				"msg19": "Mia Pocket"
 			},
 			"bot": {
 				"msg1": "未知",
@@ -2694,7 +2695,8 @@
 				"productos": {
 					"mia": "Mia",
 					"launcher": "Mia Launcher",
-					"checker": "Mia Checker"
+					"checker": "Mia Checker",
+					"pocket": "Mia Pocket"
 				}
 			},
 			"enlaces": {
@@ -2710,7 +2712,8 @@
 				"kiosko": "El Kiosko",
 				"launcher": "Mia Launcher",
 				"terminos": "条款",
-				"privacidad": "隐私政策"
+				"privacidad": "隐私政策",
+				"pocket": "Mia Pocket"
 			}
 		},
 		"rep": {

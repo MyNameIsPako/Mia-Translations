@@ -2482,7 +2482,8 @@
 				"msg15": "Unterbefehle:",
 				"msg16": "Mias SAC:",
 				"msg17": "Details:",
-				"msg18": "Offizielle Webseite"
+				"msg18": "Offizielle Webseite",
+				"msg19": "Mia Pocket"
 			},
 			"bot": {
 				"msg1": "Unbekannt",
@@ -2707,7 +2708,8 @@
 				"productos": {
 					"mia": "Mia",
 					"launcher": "Mia Launcher",
-					"checker": "Mia Checker"
+					"checker": "Mia Checker",
+					"pocket": "Mia Pocket"
 				}
 			},
 			"enlaces": {
@@ -2723,7 +2725,8 @@
 				"kiosko": "El Kiosko",
 				"launcher": "Mia Launcher",
 				"terminos": "Bedingungen",
-				"privacidad": "Datenschutz"
+				"privacidad": "Datenschutz",
+				"pocket": "Mia Pocket"
 			}
 		},
 		"paneles": {

@@ -21,7 +21,8 @@
     "refresh": "刷新",
     "download": "下载图片",
     "downloadHint": "下载警报图片（与 Discord / Launcher 相同）",
-    "downloadNeedFilter": "选择类别或筛选后再下载图片"
+    "downloadNeedFilter": "选择类别或筛选后再下载图片",
+    "viewAll": "查看全部警报"
   },
   "loading": "加载中",
   "categories": {

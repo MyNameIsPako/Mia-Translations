@@ -21,7 +21,8 @@
     "refresh": "Yenile",
     "download": "Görseli indir",
     "downloadHint": "Uyarı görselini indir (Discord / Launcher ile aynı)",
-    "downloadNeedFilter": "İndirmek için bir kategori veya filtre seç"
+    "downloadNeedFilter": "İndirmek için bir kategori veya filtre seç",
+    "viewAll": "Tüm alertleri gör"
   },
   "loading": "Yükleniyor",
   "categories": {

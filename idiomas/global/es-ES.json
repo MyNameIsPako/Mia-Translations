@@ -2492,7 +2492,8 @@
 				"msg15": "Subcomandos:",
 				"msg16": "SAC de Mia:",
 				"msg17": "Detalles:",
-				"msg18": "Web Oficial"
+				"msg18": "Web Oficial",
+				"msg19": "Mia Pocket"
 			},
 			"bot": {
 				"msg1": "Desconocido",
@@ -2717,7 +2718,8 @@
 				"productos": {
 					"mia": "Mia",
 					"launcher": "Mia Launcher",
-					"checker": "Mia Checker"
+					"checker": "Mia Checker",
+					"pocket": "Mia Pocket"
 				}
 			},
 			"enlaces": {
@@ -2733,7 +2735,8 @@
 				"kiosko": "El Kiosko",
 				"launcher": "Mia Launcher",
 				"terminos": "Términos",
-				"privacidad": "Privacidad"
+				"privacidad": "Privacidad",
+				"pocket": "Mia Pocket"
 			}
 		},
 		"paneles": {

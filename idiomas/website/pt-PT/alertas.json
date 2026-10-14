@@ -21,7 +21,8 @@
     "refresh": "Atualizar",
     "download": "Descarregar imagem",
     "downloadHint": "Transferir imagem de alertas (igual Discord / Launcher)",
-    "downloadNeedFilter": "Escolhe uma categoria ou filtro para transferir a imagem"
+    "downloadNeedFilter": "Escolhe uma categoria ou filtro para transferir a imagem",
+    "viewAll": "Ver todas as alertas"
   },
   "loading": "A carregar",
   "categories": {

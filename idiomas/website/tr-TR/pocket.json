@@ -1,6 +1,6 @@
 {
   "meta": {
-    "description": "Mia Pocket — yerel oturum açmayla telefonlar için optimize edilmiş Mia."
+    "description": "Mia Pocket — telefonlar için optimize edilmiş Mia; oturumlar yerelde saklanır."
   },
   "auth": {
     "loginDiscord": "Discord ile giriş yap",
@@ -8,35 +8,117 @@
     "loginTitle": "Giriş yap",
     "loginEpic": "Giriş yap",
     "signingIn": "Giriş yapılıyor",
-    "restoring": "Oturum geri yükleniyor",
+    "restoring": "Hesaplar yenileniyor",
     "cancel": "İptal",
-    "backHome": "Başa dön"
+    "backHome": "Ana sayfaya dön",
+    "chooseLoginMethod": "Epic hesabını nasıl bağlayacağını seç",
+    "recommended": "Önerilen",
+    "continue": "Devam",
+    "back": "Geri",
+    "loginStepsSelect": "Yöntemi seç",
+    "signingInAccount": "Hesabına giriş yapılıyor…",
+    "signingInAccounts": "Hesaplarına giriş yapılıyor…",
+    "refreshingAccounts": "Hesaplar yenileniyor"
   },
   "nav": {
     "alertas": "Uyarılar",
     "alertasDesc": "Günün STW görevleri",
     "dupe": "Dupe",
     "dupeDesc": "STW kaynaklarını çoğalt",
-    "party": "Parti",
-    "partyDesc": "Ayrıl ve sandıkları topla",
+    "party": "Party",
+    "partyDesc": "Ayrıl ve sandıkları al",
     "menu": "Menü",
     "menuAria": "Ana menü",
     "homeLead": "Ne yapmak istiyorsun?",
     "changeAccount": "Değiştir",
     "logout": "Çıkış",
-    "language": "Dil"
+    "language": "Dil",
+    "homeKicker": "Mobil başlatıcı",
+    "accounts": "Epic hesapları",
+    "accountsCount": "{n} hesap",
+    "activeAccount": "Aktif",
+    "addAccount": "Hesap ekle",
+    "removeAccount": "Hesabı kaldır",
+    "closeAccounts": "Kapat",
+    "accountsTab": "Hesaplar",
+    "accountsTabDesc": "Bu cihazdaki Epic",
+    "accountsTabHint": "Bağla veya değiştir",
+    "comingSoon": "Yakında",
+    "comingSoonDesc": "Daha fazla BR aracı geliyor",
+    "miscComingSoonDesc": "Daha fazla araç geliyor",
+    "diarias": "Görevler",
+    "diariasDesc": "Günlükler, günlük ve MSK",
+    "vbucks": "V-Bucks",
+    "vbucksDesc": "Bakiye ve hesap dökümü",
+    "serverStatus": "Sunucu durumu",
+    "serverStatusDesc": "Fortnite ve Epic hizmetleri",
+    "lookup": "Lookup",
+    "lookupDesc": "Epic oyuncu ara",
+    "alertasCheck": "Alertas Check",
+    "alertasCheckDesc": "Yapılan uyarıları incele",
+    "aventuras": "Maceralar",
+    "aventurasDesc": "Ventures ilerlemesi",
+    "stwShop": "STW Mağaza",
+    "stwShopDesc": "Mağaza ve lamalar",
+    "brStats": "Stats BR",
+    "brStatsDesc": "İstatistikler ve haftalık XP",
+    "brShop": "BR Mağaza",
+    "brShopDesc": "Mağaza, sızıntılar ve bölümler",
+    "brLocker": "Locker",
+    "brLockerDesc": "Hesap kozmetikleri",
+    "stwInventory": "Envanter",
+    "stwInventoryDesc": "Çanta, depo ve maceralar",
+    "stwArmory": "Cephanelik",
+    "stwArmoryDesc": "Şemalar ve kahramanlar",
+    "stwLoadouts": "Takımlar",
+    "stwLoadoutsDesc": "Aktif kahraman takımları",
+    "legacyFinder": "Rare/Legacy",
+    "legacyFinderDesc": "Legacy ve modlu şemalar",
+    "homebase": "Homebase",
+    "homebaseDesc": "Kalkanlar, üs ve izinler",
+    "sac": "SAC",
+    "sacDesc": "İçerik üretici kodu",
+    "redeem": "Kullan",
+    "redeemDesc": "Epic kodlarını kullan",
+    "friends": "Arkadaşlar",
+    "friendsDesc": "Liste ve istekler",
+    "collectionBook": "Koleksiyon kitabı",
+    "collectionBookDesc": "STW koleksiyon kitabı öğelerini yükselt",
+    "brSpirits": "Ruhlar",
+    "brSpiritsDesc": "Hesabın Magpie sprite’ları",
+    "adminPanel": "Admin panel",
+    "adminPanelDesc": "Yönetim paneli kodları",
+    "xpBoosts": "Boosts XP",
+    "xpBoostsDesc": "Kişisel ve takım boost’ları",
+    "communityBuilds": "Builds",
+    "communityBuildsDesc": "STW topluluk build’leri",
+    "miaChecker": "Checker",
+    "miaCheckerDesc": "Epic hesap raporu",
+    "authHub": "Auth Hub",
+    "authHubDesc": "Bilgi, linkler, makbuzlar ve exchange",
+    "expeditions": "Seferler",
+    "expeditionsDesc": "Gönder, topla ve otomatik 24/7",
+    "cloudStorage": "Cloud",
+    "cloudStorageDesc": "Epic .sav dosyaları",
+    "mcp": "MCP",
+    "mcpDesc": "MCP konsolu",
+    "worldEditor": "World Editor",
+    "worldEditorDesc": "world-info JSON görüntüle/düzenle",
+    "back": "Geri",
+    "scrollTop": "Yukarı çık",
+    "addingAccount": "Hesap ekleniyor…"
   },
   "party": {
-    "hubTitle": "Parti",
-    "hubDesc": "Bir parti eylemi seç",
+    "hubTitle": "Party",
+    "hubDesc": "Bir party işlemi seç",
     "kick": "Ayrıl",
-    "kickDesc": "Ödülleri almadan partiden ayrıl.",
+    "kickDesc": "Ödül almadan party’den ayrıl.",
     "kickClaim": "Ayrıl ve topla",
-    "kickClaimDesc": "Partiden ayrıl ve görev sandıklarını al.",
-    "kickAllClaimTransfer": "Herkesi at + topla + devret",
-    "kickAllClaimTransferDesc": "Herkesi at, ödülleri al ve liderliği devret.",
-    "kickAllClaimInvite": "Herkesi at + topla + davet et",
-    "kickAllClaimInviteDesc": "Herkesi at, ödülleri al ve tekrar davet et.",
+    "kickClaimDesc": "Party’den ayrıl ve görev sandıklarını al.",
+    "kickAllClaimTransfer": "Herkesi çıkar + topla + devret",
+    "kickAllClaimTransferDesc": "Herkesi çıkar, topla ve liderliği devret.",
+    "kickAllClaimInvite": "Herkesi çıkar + topla + davet et",
+    "kickAllClaimInviteDesc": "Herkesi çıkar, topla ve yeniden davet et.",
     "running": "Devam ediyor…",
     "processing": "İşleniyor",
     "connectionError": "Bağlantı hatası."
@@ -44,8 +126,8 @@
   "dupe": {
     "title": "Dupe",
     "desc": "STW kaynaklarını çoğalt",
-    "force": "Dupe'u zorla",
-    "start": "Dupe'u başlat",
+    "force": "Zorla dupe",
+    "start": "Dupe başlat",
     "cancel": "İptal",
     "retry": "Tekrar dene",
     "running": "Devam ediyor…",
@@ -55,60 +137,92 @@
       "applying": "Dupe uygulanıyor…",
       "success": "Dupe başarıyla uygulandı",
       "timedFailed": "Dupe uygulanamadı",
-      "forceFailed": "Zorlanan dupe başarısız oldu",
-      "noLockOrExpired": "Etkin profile lock yok veya süresi doldu",
+      "forceFailed": "Zorla dupe başarısız",
+      "noLockOrExpired": "Aktif profile lock yok veya süresi dolmuş",
       "profileUnavailable": "theater0 profili okunamadı",
-      "alreadyRunning": "Zaten devam eden bir dupe var"
+      "alreadyRunning": "Zaten bir dupe devam ediyor"
     }
   },
   "epic": {
-    "expired": "Giriş süresi doldu. Tekrar dene.",
+    "expired": "Oturum süresi doldu. Tekrar dene.",
     "blacklisted": "Bu hesap Mia Pocket kara listesinde.",
     "invalidCode": "Epic geçersiz bir kod döndürdü. Tekrar dene.",
-    "deviceAuthFailed": "Device auth oluşturulamadı. Tekrar dene.",
-    "loginFailed": "Giriş tamamlanamadı. Tekrar dene.",
+    "deviceAuthFailed": "device auth oluşturulamadı. Bir daha dene.",
+    "loginFailed": "Giriş tamamlanamadı. Bir daha dene.",
     "connectionError": "Bağlantı hatası. Tekrar dene.",
     "startFailed": "Epic akışı başlatılamadı."
   },
   "flash": {
     "account_connected": "Giriş başarılı.",
     "account_changed": "Başka bir Epic hesabı bağlayabilirsin.",
-    "logged_out": "Oturum kapatıldı."
+    "logged_out": "Oturum kapatıldı.",
+    "adding_account": "Başka bir Epic hesabıyla giriş yap. Diğerleri bu cihazda kalır."
   },
   "errors": {
     "invalid_account": "Seçilen hesap geçerli değil.",
     "csrf": "İstek geçerli değil. Tekrar dene.",
-    "oauth_state": "Discord girişinin süresi doldu. Tekrar dene.",
+    "oauth_state": "Discord girişi süresi doldu. Tekrar dene.",
     "oauth_failed": "Discord girişi tamamlanamadı.",
     "blacklisted": "Kullanıcın Mia Pocket kara listesinde.",
     "epic_login_failed": "Epic ile giriş yapılamadı. Tekrar dene.",
-    "invalid_exchange_code": "Exchange code 32 karakter olmalıdır.",
+    "invalid_exchange_code": "exchange code 32 karakter olmalı.",
     "invalid_authorization_code": "Yetkilendirme kodu geçerli değil.",
-    "device_code_expired": "Epic girişinin süresi doldu. Tekrar dene.",
+    "device_code_expired": "Epic girişi süresi doldu. Tekrar dene.",
     "account_blacklisted": "Bu Epic hesabı Mia Pocket kara listesinde.",
     "oauthStateTitle": "Geçersiz OAuth oturumu",
     "oauthCodeTitle": "Geçersiz OAuth kodu",
     "accessDeniedTitle": "Erişim reddedildi",
-    "loginErrorTitle": "Giriş hatası"
+    "loginErrorTitle": "Giriş hatası",
+    "epic_required": "Bu özellik bir Epic hesabı gerektirir."
   },
   "titles": {
     "home": "Mia Pocket",
     "dupe": "Dupe",
-    "party": "Parti",
+    "party": "Party",
     "alertas": "STW Uyarıları",
     "kick": "Ayrıl",
     "kickClaim": "Ayrıl ve topla",
-    "kickAllClaimTransfer": "Herkesi at ve topla",
-    "kickAllClaimInvite": "At, topla ve davet et"
+    "kickAllClaimTransfer": "Herkesi çıkar ve topla",
+    "kickAllClaimInvite": "Ayrıl, topla ve davet et",
+    "accounts": "Hesaplar",
+    "diarias": "Görevler",
+    "vbucks": "V-Bucks",
+    "serverStatus": "Sunucu durumu",
+    "lookup": "Lookup",
+    "alertasCheck": "Alertas Check",
+    "aventuras": "Maceralar",
+    "stwShop": "STW Mağaza",
+    "brStats": "Stats BR",
+    "brShop": "BR Mağaza",
+    "brLocker": "Locker",
+    "stwInventory": "Envanter",
+    "stwArmory": "Cephanelik",
+    "stwLoadouts": "Kahraman takımları",
+    "legacyFinder": "Rare/Legacy",
+    "homebase": "Homebase",
+    "sac": "SAC",
+    "redeem": "Kullan",
+    "friends": "Arkadaşlar",
+    "collectionBook": "Koleksiyon kitabı",
+    "brSpirits": "Ruhlar",
+    "adminPanel": "Admin panel",
+    "xpBoosts": "Boosts XP",
+    "communityBuilds": "Builds",
+    "miaChecker": "Mia Checker",
+    "authHub": "Auth Hub",
+    "expeditions": "Seferler",
+    "cloudStorage": "Cloud storage",
+    "mcp": "MCP",
+    "worldEditor": "World Editor"
   },
   "gate": {
     "title": "Yalnızca mobil",
     "desc": "Mia Pocket bilgisayarda kullanılamaz. Android veya iOS telefondan açıp ana ekrana ekle.",
     "close": "Anladım",
-    "installTitle": "Mia Pocket’i yükle",
-    "installDesc": "Paneli kullanmak için Mia Pocket’i ana ekrana ekle ve simgeden aç (PC Mia Launcher değil).",
+    "installTitle": "Mia Pocket’ı yükle",
+    "installDesc": "Paneli kullanmak için Mia Pocket’ı ana ekrana ekle ve ikondan aç (PC Mia Launcher değil).",
     "installCta": "Uygulamayı yükle",
-    "goHome": "miadsc.xyz’e git"
+    "goHome": "miadsc.xyz’ye git"
   },
   "home": {
     "title": "Ana sayfa"
@@ -119,15 +233,1202 @@
     "alerts": "Uyarılar yüklenemedi. Tekrar dene."
   },
   "installSteps": {
-    "iosSafari": "<p><strong>iPhone / iPad (Safari):</strong></p><ol><li><strong>Paylaş</strong> düğmesine (oklu kare) dokun.</li><li><strong>Ana Ekrana Ekle</strong> seçeneğini seç.</li><li><strong>Mia Pocket</strong>’i yeni simgeden aç.</li></ol>",
-    "iosChrome": "<p><strong>iPhone / iPad ({browser}):</strong></p><ol><li>Tarayıcı çubuğunda <strong>Paylaş</strong> düğmesine dokun.</li><li><strong>Ana Ekrana Ekle</strong> seçeneğini seç.</li><li><strong>Mia Pocket</strong>’i simgeden aç (tarayıcı sekmesinden değil).</li></ol><p>Çalışmazsa bu sayfayı <strong>Safari</strong>’de aç ve adımları tekrarla.</p>",
-    "iosFirefox": "<p><strong>iPhone / iPad (Firefox):</strong></p><ol><li>Menü (≡) → <strong>Paylaş</strong> veya <strong>Ana Ekrana Ekle</strong>.</li><li><strong>Mia Pocket</strong> simgesini onayla.</li><li>Uygulamayı ana ekrandaki simgeden aç.</li></ol><p>Çalışmazsa <strong>Safari</strong>’yi dene.</p>",
-    "iosDefault": "<p><strong>iPhone / iPad:</strong></p><ol><li><strong>Paylaş</strong> → <strong>Ana Ekrana Ekle</strong> yolunu kullan.</li><li><strong>Mia Pocket</strong>’i yeni simgeden aç.</li></ol><p>Önerilen: <strong>Safari</strong>, Chrome veya Brave.</p>",
-    "androidFirefox": "<p><strong>Android (Firefox):</strong></p><ol><li>Menü (⋮) → <strong>Yükle</strong> veya <strong>Ana ekrana ekle</strong>.</li><li><strong>Mia Pocket</strong>’i tarayıcıdan değil, simgeden aç.</li></ol>",
-    "androidSamsung": "<p><strong>Android (Samsung Internet):</strong></p><ol><li>Menü → <strong>Sayfayı şuraya ekle</strong> → <strong>Ana ekran</strong> veya <strong>Uygulamayı yükle</strong>.</li><li><strong>Mia Pocket</strong>’i yeni simgeden aç.</li></ol>",
-    "androidBrave": "<p><strong>Android (Brave):</strong></p><ol><li>Düğme görünürse <strong>Uygulamayı yükle</strong>’ye dokun.</li><li>Veya menü → <strong>Uygulamayı yükle</strong> / <strong>Ana ekrana ekle</strong>.</li><li><strong>Mia Pocket</strong>’i Brave’den değil, simgeden aç.</li></ol>",
-    "androidEdge": "<p><strong>Android (Edge):</strong></p><ol><li>Menü (⋯) → <strong>Uygulamayı yükle</strong> veya <strong>Ana ekrana ekle</strong>.</li><li><strong>Mia Pocket</strong>’i yeni simgeden aç.</li></ol>",
-    "androidOpera": "<p><strong>Android (Opera):</strong></p><ol><li>Menü → <strong>Ana ekrana ekle</strong> veya <strong>Uygulamayı yükle</strong>.</li><li><strong>Mia Pocket</strong>’i yeni simgeden aç.</li></ol>",
-    "androidDefault": "<p><strong>Android (Chrome ve diğerleri):</strong></p><ol><li>Düğme görünürse <strong>Uygulamayı yükle</strong>’ye dokun.</li><li>Veya menü (⋮) → <strong>Uygulamayı yükle</strong>.</li><li><strong>Mia Pocket</strong>’i tarayıcıdan değil, simgeden aç.</li></ol>"
+    "iosSafari": "<p><strong>iPhone / iPad (Safari):</strong></p><ol><li><strong>Paylaş</strong>’a dokun (oklu kare).</li><li><strong>Ana Ekrana Ekle</strong>’yi seç.</li><li>Yeni ikondan <strong>Mia Pocket</strong>’ı aç.</li></ol>",
+    "iosChrome": "<p><strong>iPhone / iPad ({browser}):</strong></p><ol><li>Tarayıcı çubuğunda <strong>Paylaş</strong>’a dokun.</li><li><strong>Ana Ekrana Ekle</strong> veya <strong>Ana ekrana</strong>’yı seç.</li><li>Tarayıcı sekmesinden değil, ikondan <strong>Mia Pocket</strong>’ı aç.</li></ol><p>Çalışmazsa bu sayfayı <strong>Safari</strong>’de açıp adımları tekrarla.</p>",
+    "iosFirefox": "<p><strong>iPhone / iPad (Firefox):</strong></p><ol><li>Menü (≡) → <strong>Paylaş</strong> veya <strong>Ana Ekrana Ekle</strong>.</li><li><strong>Mia Pocket</strong> ikonunu onayla.</li><li>Ana ekrandaki ikondan uygulamayı aç.</li></ol><p>Çalışmazsa <strong>Safari</strong>’yi dene.</p>",
+    "iosDefault": "<p><strong>iPhone / iPad:</strong></p><ol><li><strong>Paylaş</strong> → <strong>Ana Ekrana Ekle</strong>’yi kullan.</li><li>Yeni ikondan <strong>Mia Pocket</strong>’ı aç.</li></ol><p>Önerilen: <strong>Safari</strong>, Chrome veya Brave.</p>",
+    "androidFirefox": "<p><strong>Android (Firefox):</strong></p><ol><li>Menü (⋮) → <strong>Yükle</strong> veya <strong>Ana ekrana ekle</strong>.</li><li>Tarayıcıdan değil, ikondan <strong>Mia Pocket</strong>’ı aç.</li></ol>",
+    "androidSamsung": "<p><strong>Android (Samsung Internet):</strong></p><ol><li>Menü → <strong>Sayfayı ekle</strong> → <strong>Ana ekran</strong> veya <strong>Uygulamayı yükle</strong>.</li><li>Yeni ikondan <strong>Mia Pocket</strong>’ı aç.</li></ol>",
+    "androidBrave": "<p><strong>Android (Brave):</strong></p><ol><li>Görünürse <strong>Uygulamayı yükle</strong>’ye dokun.</li><li>Veya menü → <strong>Uygulamayı yükle</strong> / <strong>Ana ekrana ekle</strong>.</li><li>Brave’den değil, ikondan <strong>Mia Pocket</strong>’ı aç.</li></ol>",
+    "androidEdge": "<p><strong>Android (Edge):</strong></p><ol><li>Menü (⋯) → <strong>Uygulamayı yükle</strong> veya <strong>Ana ekrana ekle</strong>.</li><li>Yeni ikondan <strong>Mia Pocket</strong>’ı aç.</li></ol>",
+    "androidOpera": "<p><strong>Android (Opera):</strong></p><ol><li>Menü → <strong>Ana ekrana ekle</strong> veya <strong>Uygulamayı yükle</strong>.</li><li>Yeni ikondan <strong>Mia Pocket</strong>’ı aç.</li></ol>",
+    "androidDefault": "<p><strong>Android (Chrome ve diğerleri):</strong></p><ol><li>Görünürse <strong>Uygulamayı yükle</strong>’ye dokun.</li><li>Veya menü (⋮) → <strong>Uygulamayı yükle</strong> / <strong>Uygulamayı yükle</strong>.</li><li>Tarayıcıdan değil, ikondan <strong>Mia Pocket</strong>’ı aç.</li></ol>"
+  },
+  "welcome": {
+    "kicker": "Mia Pocket",
+    "greeting": "Merhaba, {name}",
+    "tagline": "Android ve iOS mobil uygulaman. Her şey bu cihazda yerelde tutulur.",
+    "actionsTitle": "Hızlı işlemler",
+    "alertsKicker": "Dünyayı Kurtar",
+    "alertsTitle": "Bugünün uyarıları",
+    "viewAllAlerts": "Tümünü gör"
+  },
+  "accounts": {
+    "pageTitle": "Epic hesapları",
+    "pageDesc": "Bu cihazdaki Epic hesaplarını burada bağlar ve değiştirirsin. Mia Pocket’ın geri kalanı giriş olmadan da kullanılabilir.",
+    "empty": "Bu cihazda henüz Epic hesabı yok.",
+    "addingDesc": "Hesapların bu cihazda kalır. Yenisini aşağıdan bağla.",
+    "cancelAdd": "İptal",
+    "addSection": "Yeni hesap"
+  },
+  "categories": {
+    "saveTheWorld": "Dünyayı Kurtar",
+    "battleRoyale": "Battle Royale",
+    "misc": "Misc"
+  },
+  "loginMethods": {
+    "deviceCode": {
+      "title": "Web onayı",
+      "description": "Onay bağlantısı (device_code) ile Epic’e giriş yap.",
+      "instructions": "Epic tarayıcıda açılacak. Erişimi onayla, Pocket kendiliğinden devam eder.",
+      "waitingConfirmation": "Epic’teki onayın bekleniyor…",
+      "expired": "Onay bağlantısının süresi doldu. Geri dönüp tekrar dene.",
+      "openWebsite": "Epic’i yeniden aç"
+    },
+    "authorizationCode": {
+      "title": "Yetkilendirme kodu",
+      "description": "Epic web’inin döndürdüğü kodu (authorization_code) kullan.",
+      "instructions": "Epic’i aç, yönlendirme URL’sindeki kodu kopyala ve aşağıya yapıştır.",
+      "inputPlaceholder": "Yetkilendirme kodunu yapıştır",
+      "openLogin": "Epic girişini aç",
+      "openRedirect": "Kod al"
+    },
+    "exchangeCode": {
+      "title": "Exchange kodu",
+      "description": "Varsa exchange code ile giriş yap.",
+      "instructions": "Exchange kodunu (32 karakter) yapıştır ve Devam’a bas.",
+      "inputPlaceholder": "Exchange kodunu buraya yapıştır"
+    }
+  },
+  "discordUser": {
+    "menuTitle": "Discord hesabı",
+    "userIdLabel": "Discord ID",
+    "premiumStatus": "Premium durumu",
+    "premium": {
+      "inactive": "Premium yok",
+      "premium": "Premium",
+      "booster": "Booster",
+      "eternum": "Eternum"
+    },
+    "expiresAt": "{date} tarihinde bitiyor",
+    "noExpiry": "Süresiz",
+    "premiumHint": "Daha fazla özelliğin kilidini açmak için Mia’da Premium’u etkinleştir.",
+    "logout": "Discord oturumunu kapat"
+  },
+  "tabs": {
+    "stw": "STW",
+    "br": "BR",
+    "misc": "Misc",
+    "navAria": "Bölümler",
+    "home": "Ana sayfa",
+    "commandsKicker": "Komutlar",
+    "commandsLead": "Ne yapmak istediğini seç"
+  },
+  "diarias": {
+    "title": "Görevler",
+    "desc": "Günlükler, görev kaydı ve STW MSK.",
+    "refresh": "Yenile",
+    "replace": "Değiştir",
+    "pin": "Sabitle",
+    "unpin": "Sabiti kaldır",
+    "pinned": "Sabitlendi",
+    "slots": "Yuvalar",
+    "rerolls": "Değiştirmeler",
+    "rewardVbucks": "Ödül V-Bucks",
+    "rewardTickets": "X-Ray biletleri",
+    "vbucks": "V-Bucks",
+    "tickets": "Biletler",
+    "gold": "Altın",
+    "empty": "Aktif günlük görev yok.",
+    "errors": {
+      "fetchFailed": "Günlükler yüklenemedi.",
+      "invalidQuest": "Geçersiz görev.",
+      "rerollFailed": "Görev değiştirilemedi.",
+      "pinFailed": "Sabit güncellenemedi."
+    },
+    "xp": "XP",
+    "questNumber": "Görev {n}",
+    "modeSingle": "Bu",
+    "modeBulk": "Tüm hesaplar",
+    "bulkSummary": "{ok}/{total} hesap",
+    "activeAccount": "Aktif hesap",
+    "loadAll": "Tümü",
+    "tabs": {
+      "daily": "Günlükler",
+      "log": "Kayıt",
+      "msk": "MSK"
+    },
+    "log": {
+      "total": "Görevler",
+      "empty": "Aktif görev yok.",
+      "errors": {
+        "fetchFailed": "Kayıt yüklenemedi."
+      },
+      "categories": {
+        "Daily": "Günlükler",
+        "WeeklyQuest": "Haftalıklar",
+        "StormKingHardmode": "Fırtına Kralı",
+        "Events": "Etkinlikler",
+        "Phoenix": "Maceralar",
+        "Stonewood": "Taşlıorman",
+        "Plankerton": "Kalaslıevler",
+        "CannyValley": "Tekinli Vadi",
+        "TwinePeaks": "Dikiz Tepeler",
+        "Challenges": "Mücadeleler",
+        "Achievements": "Başarımlar",
+        "Others": "Diğer"
+      },
+      "states": {
+        "active": "Aktif",
+        "completed": "Tamamlandı",
+        "claimed": "Alındı"
+      }
+    },
+    "msk": {
+      "weekly": "Haftalık MSK",
+      "completions": "Tamamlama",
+      "reset": "Reset",
+      "reroll": "Değiştir",
+      "noWeekly": "Aktif haftalık MSK görevi yok.",
+      "premiumHint": "Haftalığı değiştirmek için Premium.",
+      "superchargerTitle": "Süperşarj",
+      "weaponsTitle": "MSK silahları",
+      "weapons": {
+        "onslaught": "Onslaught",
+        "fury": "Fury",
+        "wrath": "Wrath",
+        "ravager": "Ravager",
+        "scourge": "Scourge"
+      },
+      "supercharger": {
+        "hero": "Kahraman süperşarjı",
+        "trap": "Tuzak süperşarjı",
+        "weapon": "Silah süperşarjı",
+        "survivor": "Hayatta kalan süperşarjı"
+      },
+      "errors": {
+        "fetchFailed": "MSK yüklenemedi.",
+        "invalidQuest": "Geçersiz görev.",
+        "rerollFailed": "Haftalık değiştirilemedi.",
+        "premiumRequired": "Haftalık MSK değiştirmek için Premium gerekli."
+      }
+    }
+  },
+  "vbucks": {
+    "title": "V-Bucks",
+    "desc": "Epic hesabının bakiyesi, platformu, hediyeleri ve dökümü.",
+    "refresh": "Yenile",
+    "balance": "Bakiye",
+    "platform": "Platform",
+    "gifts": "Hediyeler",
+    "nextGift": "Sonraki",
+    "creator": "İçerik üretici kodu",
+    "noCreator": "Yok",
+    "breakdown": "Döküm",
+    "noBreakdown": "Döküm yok",
+    "packs": "Satın alınan paketler",
+    "noPacks": "Paket yok",
+    "packsTotal": "Toplam paket",
+    "purchased": "Satın alınan",
+    "purchaseBonus": "Satın alma bonusu",
+    "complimentary": "Ücretsiz",
+    "giveaway": "Mücadeleler / Bilet",
+    "debt": "Borç",
+    "shared": "Paylaşılan",
+    "errors": {
+      "fetchFailed": "V-Bucks yüklenemedi.",
+      "profileUnavailable": "Profil okunamadı."
+    },
+    "modeSingle": "Bu",
+    "modeBulk": "Tüm hesaplar",
+    "bulkSummary": "{ok}/{total} hesap",
+    "bulkTotal": "Toplam hesap",
+    "activeAccount": "Aktif hesap",
+    "loadAll": "Tümü"
+  },
+  "serverStatus": {
+    "title": "Sunucu durumu",
+    "subtitle": "Epic’teki Fortnite hizmetleri",
+    "refresh": "Yenile",
+    "overall": "Fortnite",
+    "incidents": "Olaylar",
+    "noIncidents": "Aktif olay yok.",
+    "openPage": "status.epicgames.com’u aç",
+    "status": {
+      "operational": "Çalışıyor",
+      "degraded_performance": "Düşük performans",
+      "partial_outage": "Kısmi kesinti",
+      "major_outage": "Büyük kesinti",
+      "under_maintenance": "Bakım",
+      "unknown": "Bilinmiyor"
+    },
+    "services": {
+      "website": "Web",
+      "gameServices": "Oyun hizmetleri",
+      "login": "Giriş",
+      "parties": "Partiler, arkadaşlar ve mesajlar",
+      "voice": "Sesli sohbet",
+      "matchmaking": "Eşleştirme",
+      "stats": "İstatistikler ve sıralamalar",
+      "itemShop": "Eşya mağazası",
+      "crew": "Fortnite Crew"
+    },
+    "errors": {
+      "fetchFailed": "Durum yüklenemedi."
+    }
+  },
+  "lookup": {
+    "title": "Lookup",
+    "subtitle": "Ada veya ID ile oyuncu ara",
+    "placeholder": "Ad veya hesap ID",
+    "search": "Ara",
+    "accountId": "ID",
+    "linkedAccounts": "Bağlı hesaplar",
+    "registeredYes": "Mia’da kayıtlı",
+    "registeredNo": "Mia’da kayıtlı değil",
+    "noLinked": "Bağlı hesap yok.",
+    "platforms": {
+      "xbox": "Xbox",
+      "psn": "PlayStation",
+      "steam": "Steam",
+      "nintendo": "Nintendo",
+      "linked": "Bağlı"
+    },
+    "errors": {
+      "invalidQuery": "Bir ad veya ID yaz.",
+      "notFound": "Bu hesap bulunamadı.",
+      "fetchFailed": "Hesap aranamadı."
+    }
+  },
+  "alertasCheck": {
+    "title": "Alertas Check",
+    "refresh": "Yenile",
+    "loadAll": "Tümü",
+    "activeAccount": "Aktif hesap",
+    "modeBulk": "Tüm hesaplar",
+    "bulkSummary": "{ok}/{total} hesap",
+    "completed": "Yapılan",
+    "remaining": "Kalan",
+    "empty": "Bu kategoride uyarı yok.",
+    "categories": {
+      "honorific": "Onursal",
+      "vbucks": "V-Bucks",
+      "survivors": "Hayatta kalanlar",
+      "pl160": "PL 160",
+      "heroes": "Kahramanlar",
+      "defenders": "Savunucular",
+      "schematics": "Şemalar",
+      "evo": "Evo"
+    },
+    "errors": {
+      "fetchFailed": "Uyarılar incelenemedi."
+    }
+  },
+  "aventuras": {
+    "title": "Maceralar",
+    "refresh": "Yenile",
+    "loadAll": "Tümü",
+    "activeAccount": "Aktif hesap",
+    "modeBulk": "Tüm hesaplar",
+    "bulkSummary": "{ok}/{total} hesap",
+    "avgLevel": "Ortalama seviye",
+    "level": "Seviye",
+    "nextZone": "Bölge",
+    "toNext": "Sonraki seviyeye",
+    "toMax": "50’ye",
+    "noSeason": "Sezon yok",
+    "notStarted": "Bu hesap bu sezon henüz Maceralar oynamadı.",
+    "emptyQuests": "Aktif macera görevi yok.",
+    "seasons": {
+      "frozen": "Buzlu fiyortlar",
+      "flannel": "Flanel şelaleleri",
+      "scurvy": "İskorbüt sığlıkları",
+      "blasted": "Virane araziler",
+      "hex": "Hexsylvania"
+    },
+    "categories": {
+      "weapon": "Silahlar",
+      "monster": "Canavarlar",
+      "mission": "Görevler",
+      "locating": "Konum",
+      "destroy": "Yok et"
+    },
+    "errors": {
+      "fetchFailed": "Maceralar yüklenemedi."
+    }
+  },
+  "stwShop": {
+    "title": "STW Mağaza",
+    "refresh": "Yenile",
+    "activeAccount": "Aktif hesap",
+    "buy": "Satın al",
+    "soldOut": "Tükendi",
+    "bought": "Satın alma tamamlandı.",
+    "empty": "Bu bölümde teklif yok.",
+    "tabs": {
+      "shop": "Mağaza",
+      "llamas": "Lamalar"
+    },
+    "sections": {
+      "rotational": "Dönen",
+      "special": "Özel",
+      "llamas": "Lamalar"
+    },
+    "errors": {
+      "fetchFailed": "Mağaza yüklenemedi.",
+      "purchaseFailed": "Satın alınamadı.",
+      "invalidItem": "Geçersiz teklif.",
+      "soldOut": "Bu teklif tükendi."
+    },
+    "previewTitle": "X-Ray içeriği"
+  },
+  "llamas": {
+    "open": "Aç",
+    "opened": "Lamalar açıldı.",
+    "empty": "Açılacak laman yok.",
+    "errors": {
+      "fetchFailed": "Lamalar yüklenemedi.",
+      "openFailed": "Açılamadı.",
+      "invalidQuantity": "Geçersiz miktar.",
+      "notEnough": "Yeterli lama yok."
+    }
+  },
+  "brStats": {
+    "title": "Stats BR",
+    "refresh": "Yenile",
+    "loadAll": "Tümü",
+    "activeAccount": "Aktif hesap",
+    "modeBulk": "Tüm hesaplar",
+    "bulkSummary": "{ok}/{total} hesap",
+    "earnedXp": "Haftalık XP",
+    "publicStats": "Herkese açık istatistikler",
+    "battlePass": "Bilet",
+    "overall": "Genel",
+    "solo": "Solo",
+    "duo": "Duo",
+    "squad": "Squad",
+    "wins": "Wins",
+    "kills": "Kills",
+    "winRate": "WR",
+    "totalXp": "Toplam",
+    "private": "Herkese açık istatistikler gizli.",
+    "noPublic": "Herkese açık istatistik yok.",
+    "modes": {
+      "br": "Battle Royale",
+      "creative": "Creative",
+      "stw": "Dünyayı Kurtar"
+    },
+    "errors": {
+      "fetchFailed": "İstatistikler yüklenemedi."
+    }
+  },
+  "brShop": {
+    "title": "BR Mağaza",
+    "subtitle": "Günün mağaza görünümü",
+    "refresh": "Yenile",
+    "allSections": "Tümü",
+    "empty": "Öğe yok.",
+    "emptyFiltraciones": "Yeni sızıntı yok.",
+    "noSecciones": "Yakın zamanda bölüm değişikliği yok.",
+    "seccionesTitle": "Bölüm değişiklikleri",
+    "tabs": {
+      "shop": "Mağaza",
+      "filtraciones": "Sızıntılar",
+      "secciones": "Bölümler"
+    },
+    "errors": {
+      "fetchFailed": "Mağaza yüklenemedi.",
+      "filtracionesFailed": "Sızıntılar yüklenemedi.",
+      "seccionesFailed": "Bölümler yüklenemedi.",
+      "purchaseFailed": "Satın alınamadı.",
+      "giftFailed": "Hediye gönderilemedi.",
+      "invalidOffer": "Geçersiz teklif.",
+      "offerNotFound": "Bu öğe artık mağazada değil.",
+      "invalidReceiver": "Geçersiz arkadaş.",
+      "notGiftable": "Bu öğe hediye edilemez.",
+      "insufficientFunds": "Yeterli V-Bucks’ın yok."
+    },
+    "search": "Ara",
+    "searchPlaceholder": "Kozmetik ara…",
+    "filtersLabel": "Filtreler",
+    "allTypes": "Tümü",
+    "owned": "Sahip olunan",
+    "featured": "Öne çıkan",
+    "groups": {
+      "new": "Yeni",
+      "updated": "Güncellenen",
+      "leaving": "Ayrılan"
+    },
+    "filters": {
+      "all": "Tümü",
+      "emote": "İfadeler",
+      "bundle": "Paketler",
+      "outfit": "Kıyafetler",
+      "wrap": "Kaplamalar",
+      "sparks_song": "Müzikler",
+      "pickaxe": "Kazmalar",
+      "shoes": "Ayakkabılar",
+      "backpack": "Sırt çantaları",
+      "wheel": "Tekerlekler",
+      "cars": "Arabalar",
+      "instrument": "Enstrümanlar",
+      "region_restricted": "Bölge",
+      "new": "Yeni"
+    },
+    "close": "Kapat",
+    "back": "Geri",
+    "buy": "Satın al",
+    "gift": "Hediye et",
+    "bought": "Satın alma tamamlandı.",
+    "gifted": "Hediye gönderildi.",
+    "pickFriend": "Bir arkadaş seç",
+    "noFriends": "Hediye edilecek arkadaş yok.",
+    "notGiftable": "Hediye edilemez",
+    "needAccount": "Satın almak veya hediye etmek için bir Epic hesabı bağla."
+  },
+  "brLocker": {
+    "title": "Locker",
+    "refresh": "Yenile",
+    "activeAccount": "Aktif hesap",
+    "search": "Ara",
+    "searchPlaceholder": "Ada göre ara…",
+    "total": "{n} kozmetik",
+    "empty": "Bu görünümde kozmetik yok.",
+    "prev": "Önceki",
+    "next": "Sonraki",
+    "page": "Sayfa {i}/{total}",
+    "categories": {
+      "all": "Tümü",
+      "skins": "Skinler",
+      "backpacks": "Sırt çantaları",
+      "pickaxes": "Kazmalar",
+      "gliders": "Planörler",
+      "contrails": "İzler",
+      "emotes": "İfadeler",
+      "toys": "Oyuncaklar",
+      "sprays": "Spreyler",
+      "music": "Müzik",
+      "loadingscreen": "Yükleme ekranları",
+      "crew": "Crew",
+      "exclusivos": "Özel"
+    },
+    "errors": {
+      "fetchFailed": "Locker yüklenemedi.",
+      "premiumRequired": "Özel için Premium gerekir."
+    },
+    "badges": {
+      "crew": "Crew",
+      "exclusive": "Özel"
+    },
+    "premiumBadge": "Premium"
+  },
+  "stwInventory": {
+    "title": "Envanter",
+    "refresh": "Yenile",
+    "activeAccount": "Aktif hesap",
+    "search": "Ara",
+    "searchPlaceholder": "id ile ara…",
+    "meta": "{unique} öğe · toplam {qty}",
+    "empty": "Bu görünümde nesne yok.",
+    "prev": "Önceki",
+    "next": "Sonraki",
+    "page": "Sayfa {i}/{total}",
+    "stackOne": "1 yığın",
+    "stackMany": "{n} yığın",
+    "sources": {
+      "mochila": "Çanta",
+      "almacen": "Depo",
+      "aventuras": "Maceralar"
+    },
+    "categories": {
+      "todos": "Tümü",
+      "armas": "Silahlar",
+      "trampas": "Tuzaklar",
+      "municion": "Mermi",
+      "materiales": "Malzemeler"
+    },
+    "errors": {
+      "fetchFailed": "Envanter yüklenemedi."
+    },
+    "assetCategories": {
+      "other": "Diğer",
+      "resource": "Malzemeler",
+      "hero": "Kahramanlar",
+      "schematic": "Şemalar",
+      "worker": "Hayatta kalanlar",
+      "cardpack": "Lamalar"
+    }
+  },
+  "stwArmory": {
+    "title": "Cephanelik",
+    "refresh": "Yenile",
+    "activeAccount": "Aktif hesap",
+    "search": "Ara",
+    "searchPlaceholder": "Ara…",
+    "meta": "{total} · maks. PL {max} · Super {super}",
+    "empty": "Bu görünümde nesne yok.",
+    "prev": "Önceki",
+    "next": "Sonraki",
+    "page": "Sayfa {i}/{total}",
+    "tabs": {
+      "schematics": "Şemalar",
+      "heroes": "Kahramanlar"
+    },
+    "schematics": {
+      "todos": "Tümü",
+      "lanzadores": "Fırlatıcılar",
+      "asalto": "Hücum",
+      "escopetas": "Pompalılar",
+      "pistolas": "Tabancalar",
+      "smg": "SMG",
+      "francotiradores": "Keskin nişancılar",
+      "melee": "Melee",
+      "trampas": "Tuzaklar",
+      "otras": "Diğer"
+    },
+    "heroes": {
+      "todos": "Tümü",
+      "soldado": "Asker",
+      "constructor": "İnşaatçı",
+      "ninja": "Ninja",
+      "outlander": "Outlander",
+      "otro": "Diğer"
+    },
+    "traps": {
+      "todas": "Tümü",
+      "suelo": "Zemin",
+      "pared": "Duvar",
+      "techo": "Tavan"
+    },
+    "errors": {
+      "fetchFailed": "Cephanelik yüklenemedi."
+    }
+  },
+  "stwLoadouts": {
+    "title": "Kahraman takımları",
+    "refresh": "Yenile",
+    "activeAccount": "Aktif hesap",
+    "empty": "Kahraman takımı yok.",
+    "slot": "Takım {n}",
+    "active": "Aktif",
+    "activate": "Kullan",
+    "activated": "Takım etkinleştirildi.",
+    "errors": {
+      "fetchFailed": "Takımlar yüklenemedi.",
+      "activateFailed": "Takım etkinleştirilemedi.",
+      "notFound": "Takım bulunamadı."
+    }
+  },
+  "legacyFinder": {
+    "title": "Rare/Legacy",
+    "refresh": "Yenile",
+    "activeAccount": "Aktif hesap",
+    "search": "Ara",
+    "searchPlaceholder": "Ara…",
+    "meta": "{filtered} · Legacy {legacy} · AOE {aoe} · Modded {modded}",
+    "empty": "Bu görünümde şema yok.",
+    "prev": "Önceki",
+    "next": "Sonraki",
+    "page": "Sayfa {i}/{total}",
+    "categories": {
+      "aoe": "AOE",
+      "modded": "Modlu",
+      "historical": "Tarihsel",
+      "campaign": "Envanter",
+      "collection_book_schematics0": "Kitap",
+      "theater0": "Çanta",
+      "outpost0": "Depo"
+    },
+    "status": {
+      "highlighted": "Öne çıkan",
+      "hybrid": "Hibrit",
+      "modded": "Modlu",
+      "legacy": "Legacy",
+      "review": "İnceleme",
+      "all": "Tümü"
+    },
+    "kinds": {
+      "all": "Tümü",
+      "weapon": "Silahlar",
+      "trap": "Tuzaklar"
+    },
+    "badges": {
+      "aoe": "AOE",
+      "modded": "Modlu",
+      "defender": "Savunucu",
+      "hybrid": "Hibrit",
+      "historical": "Tarihsel",
+      "legacy": "Legacy",
+      "review": "İnceleme"
+    },
+    "errors": {
+      "fetchFailed": "Hesap taranamadı."
+    }
+  },
+  "homebase": {
+    "title": "Homebase",
+    "refresh": "Yenile",
+    "scan": "Tara",
+    "activeAccount": "Aktif hesap",
+    "ssdLevel": "SSD",
+    "endurance": "Dayanıklılık",
+    "amplifiers": "Amps",
+    "noSaveShort": "Bulut yok",
+    "totalStructures": "Toplam",
+    "trapsTitle": "Tuzaklar ({count})",
+    "noTraps": "Yerleştirilmiş tuzak yok",
+    "noPermissions": "Düzenleme izni yok",
+    "scanPrompt": "Tuzakları ve yapıları analiz etmek için Tara’ya dokun.",
+    "scanning": "Üs indiriliyor ve analiz ediliyor…",
+    "emptyWarning": "Bu üs boş veya az inşa edilmiş görünüyor.",
+    "tabs": {
+      "base": "Üs",
+      "permissions": "İzinler"
+    },
+    "structureTypes": {
+      "walls": "Duvarlar",
+      "floors": "Zeminler",
+      "stairs": "Merdivenler",
+      "cones": "Koni"
+    },
+    "materials": {
+      "wood": "Ahşap",
+      "stone": "Taş",
+      "metal": "Metal"
+    },
+    "zones": {
+      "stonewood": "Taşlıorman",
+      "plankerton": "Kalaslıevler",
+      "cannyValley": "Tekinli Vadi",
+      "twinePeaks": "Dikiz Tepeler"
+    },
+    "layout": {
+      "empty": "Bu bölgede inşa edilmiş parça yok",
+      "legendWood": "Ahşap",
+      "legendStone": "Taş",
+      "legendMetal": "Metal",
+      "legendRoof": "Çatı",
+      "legendFloorTrap": "Zemin tuzağı",
+      "legendWallTrap": "Duvar tuzağı",
+      "legendCeilingTrap": "Tavan tuzağı",
+      "legendNote": "Harita görünümü · tuzaklar",
+      "piecesSummary": "{total} parça — {floors} zemin · {walls} duvar · {stairs} merdiven · {roofs} çatı",
+      "materialsSummary": "Ahşap {wood} · Taş {stone} · Metal {metal}",
+      "trapsSummary": "{n} tuzak"
+    },
+    "errors": {
+      "fetchFailed": "Homebase yüklenemedi.",
+      "scanFailed": "Üs taranamadı.",
+      "noZones": "Bu hesapta outpost yok.",
+      "noSave": "Bu bölge için bulut verisi yok."
+    }
+  },
+  "sac": {
+    "title": "SAC",
+    "refresh": "Yenile",
+    "viewAll": "Hesapları gör",
+    "apply": "Uygula",
+    "applyAll": "Tümüne uygula",
+    "lookup": "Kontrol et",
+    "activeAccount": "Aktif hesap",
+    "modeBulk": "Tüm hesaplar",
+    "codeLabel": "İçerik üretici kodu",
+    "codePlaceholder": "SAC kodu…",
+    "currentCode": "Kod",
+    "noCode": "Kod yok",
+    "setAt": "Başlangıç",
+    "expiryHint": "Epic, SAC’nin her 14 günde bir yenilenmesini ister.",
+    "applyOk": "SAC güncellendi.",
+    "lookupName": "İçerik üretici",
+    "lookupCode": "Kod",
+    "lookupNotFound": "Kod bulunamadı.",
+    "statusActive": "Aktif",
+    "statusDisabled": "Pasif",
+    "errors": {
+      "fetchFailed": "SAC yüklenemedi.",
+      "applyFailed": "SAC uygulanamadı.",
+      "invalidCode": "Geçersiz kod.",
+      "lookupFailed": "Kod kontrol edilemedi.",
+      "premiumRequired": "Tüm hesaplar için Premium gerekli."
+    },
+    "renewAt": "Yenile",
+    "daysLeft": "{n} gün",
+    "renewDue": "Şimdi yenile"
+  },
+  "redeem": {
+    "title": "Kullan",
+    "activeAccount": "Aktif hesap",
+    "modeBulk": "Tüm hesaplar",
+    "codesLabel": "Kodlar",
+    "codesPlaceholder": "Bir veya daha fazla kod…",
+    "redeem": "Kullan",
+    "redeemAll": "Tümü",
+    "redeeming": "Kullanılıyor…",
+    "redeemed": "Kullanıldı",
+    "done": "Kullanım tamamlandı.",
+    "errors": {
+      "invalidCodes": "En az bir kod gir.",
+      "failed": "{code} kullanılamadı.",
+      "notFound": "Kod bulunamadı: {code}",
+      "used": "Kod zaten kullanılmış: {code}",
+      "expired": "Kodun süresi dolmuş: {code}",
+      "premiumRequired": "Tüm hesaplar için Premium gerekli."
+    }
+  },
+  "friends": {
+    "title": "Arkadaşlar",
+    "refresh": "Yenile",
+    "clearOutgoing": "Gidenleri temizle",
+    "add": "Ekle",
+    "addLabel": "Arkadaş ekle",
+    "addPlaceholder": "Ad veya ID…",
+    "search": "Ara",
+    "searchPlaceholder": "Ara…",
+    "activeAccount": "Aktif hesap",
+    "accept": "Kabul et",
+    "reject": "Reddet",
+    "cancel": "İptal",
+    "remove": "Kaldır",
+    "block": "Engelle",
+    "unblock": "Engeli kaldır",
+    "empty": "Bu listede kayıt yok.",
+    "meta": "{n} sonuç",
+    "prev": "Önceki",
+    "next": "Sonraki",
+    "page": "Sayfa {i}/{total}",
+    "addOk": "{name} adlı kişiye istek gönderildi.",
+    "acceptOk": "{name} ile arkadaşlık kabul edildi.",
+    "removeOk": "Kaldırıldı: {name}",
+    "blockOk": "Engellendi: {name}",
+    "unblockOk": "Engel kaldırıldı: {name}",
+    "clearOutgoingOk": "{n} giden istek iptal edildi.",
+    "actionOk": "Tamam.",
+    "tabs": {
+      "friends": "Arkadaşlar",
+      "incoming": "Gelen",
+      "outgoing": "Giden",
+      "blocklist": "Engellenenler"
+    },
+    "errors": {
+      "fetchFailed": "Arkadaşlar yüklenemedi.",
+      "actionFailed": "İşlem tamamlanamadı.",
+      "invalidTarget": "Bir ad veya ID gir.",
+      "invalidAction": "Geçersiz işlem.",
+      "notFound": "Hesap bulunamadı.",
+      "already": "Zaten arkadaşsınız veya istek mevcut.",
+      "self": "Kendini ekleyemezsin."
+    }
+  },
+  "collectionBook": {
+    "title": "Koleksiyon kitabı",
+    "activeAccount": "Aktif hesap",
+    "bookLevel": "Kitap seviyesi: {level}",
+    "targetLevelLabel": "Hedef seviye (2-50)",
+    "invalidLevel": "Geçersiz seviye. 2 ile 50 arasında bir sayı kullan.",
+    "btnCalculate": "Kaynakları hesapla",
+    "btnUpgradeAll": "Tümünü yükselt",
+    "btnStopOnResources": "Kaynak bitince dur",
+    "note1": "Bu işlem hesabındaki kaynakları kullanır.",
+    "note2": "Gerektiğinde öğeler otomatik evrimleşir.",
+    "note3": "Hedef seviyede veya üstünde olan öğeler atlanır.",
+    "resourcesTitle": "{category} için seviye {level}’e kadar kaynaklar",
+    "eligibleItems": "Yükseltilebilir",
+    "skippedItems": "Zaten seviyede",
+    "totalItems": "Toplam",
+    "noResourcesNeeded": "Ek kaynak gerekmiyor.",
+    "processingTitle": "İşleniyor…",
+    "processingBody": "Adım {step}/{total} ({phase})",
+    "processingProgress": "İlerleme: {done}/{total}",
+    "phase": {
+      "query": "sorgulanıyor",
+      "upgrade": "seviye artırılıyor",
+      "evolve": "evrimleşiyor",
+      "finalize": "sonlandırılıyor",
+      "done": "bitti"
+    },
+    "resultsHeader": "Sonuçlar",
+    "resultUpgraded": "Yükseltilen",
+    "resultEvolved": "Evrimleşen",
+    "resultFailed": "Başarısız",
+    "resultSkipped": "Atlanan",
+    "completeResourceWarning": "Kaynak yetersizliği nedeniyle {count} öğe yükseltilemedi.",
+    "completeBookLevelHeader": "Koleksiyon kitabı",
+    "completeBookLevel": "Seviye {before} → {after}",
+    "completeBookLevelUnknown": "Seviye {before} → ?",
+    "completeResourcesHeader": "Harcanan kaynaklar",
+    "noResourcesSpent": "Kaynak tüketimi tespit edilmedi.",
+    "completeFooter": "İşlem tamamlandı — değişiklikler için oyunu yeniden başlat.",
+    "toastComplete": "Kitap yükseltmesi tamamlandı.",
+    "toastResourceShortage": "{count} öğede kaynak yok.",
+    "categories": {
+      "all_items": "Tümü",
+      "heroes": "Kahramanlar",
+      "survivors": "Hayatta kalanlar",
+      "survivor_leads": "Liderler",
+      "defenders": "Savunucular",
+      "weapons": "Silahlar",
+      "traps": "Tuzaklar"
+    },
+    "resources": {
+      "heroxp": "Kahraman XP",
+      "schematicxp": "Şema XP",
+      "personnelxp": "Hayatta kalan XP",
+      "reagent_people": "Eğitim kılavuzu",
+      "reagent_schematic": "Silah tasarımı",
+      "reagent_traps": "Tuzak tasarımı",
+      "reagent_c_t01": "Yağmur damlası",
+      "reagent_c_t02": "Şişedeki şimşek",
+      "reagent_c_t03": "Fırtınanın gözü",
+      "reagent_c_t04": "Fırtına parçası"
+    },
+    "errors": {
+      "fetchFailed": "Koleksiyon kitabı yüklenemedi.",
+      "calculateFailed": "Kaynaklar hesaplanamadı.",
+      "runFailed": "Yükseltme tamamlanamadı."
+    }
+  },
+  "brSpirits": {
+    "title": "Ruhlar",
+    "activeAccount": "Aktif hesap",
+    "refresh": "Yenile",
+    "search": "Ara",
+    "searchPlaceholder": "Ruh ara…",
+    "empty": "Sonuç yok.",
+    "prev": "Önceki",
+    "next": "Sonraki",
+    "page": "Sayfa {i}/{total}",
+    "openWeb": "Web’de aç",
+    "meta": {
+      "line": "{owned}/{total} · {mastered} max · {pending} bek. · dust {dust}"
+    },
+    "season": {
+      "current": "Güncel",
+      "past": "Geçmiş",
+      "all": "Tümü"
+    },
+    "status": {
+      "all": "Tümü",
+      "owned": "Sahipsin",
+      "missing": "Eksik",
+      "pending": "Bekleyen",
+      "mastered": "Max"
+    },
+    "variants": {
+      "all": "Tümü",
+      "Base": "Base",
+      "Gold": "Gold",
+      "Gummy": "Gummy",
+      "Galaxy": "Galaxy",
+      "CheatMaster": "Cheat Master",
+      "LootHacker": "Loot Hacker",
+      "Holofoil": "Holofoil",
+      "Cube": "Cube",
+      "Gem": "Gem",
+      "Quack": "Quack",
+      "BountyHunter": "Bounty Hunter",
+      "TrickTreat": "Trick or Treat"
+    },
+    "errors": {
+      "fetchFailed": "Ruhlar yüklenemedi."
+    },
+    "badge": {
+      "max": "Max"
+    },
+    "filters": {
+      "season": "Sezon",
+      "status": "Durum",
+      "variant": "Varyant"
+    }
+  },
+  "adminPanel": {
+    "title": "Admin panel",
+    "activeAccount": "Aktif hesap",
+    "refresh": "Yenile",
+    "redeem": "Kullan",
+    "redeemAll": "Tümü",
+    "redeeming": "Kullanılıyor…",
+    "done": "Kullanım tamamlandı.",
+    "empty": "Bekleyen kod yok.",
+    "meta": "{needed} bekleyen · {skipped} atlanan",
+    "accountSummary": "OK {ok} · Hata {fail} · Atlanan {skipped}",
+    "kind": {
+      "ok": "Kullanıldı",
+      "lobby": "Yalnızca lobi",
+      "unavailable": "Kullanılamaz / zaten var",
+      "invalid": "Geçersiz kod",
+      "error": "Kullanım hatası"
+    },
+    "errors": {
+      "fetchFailed": "Kodlar yüklenemedi.",
+      "redeemFailed": "Kullanım tamamlanamadı.",
+      "premiumRequired": "Tüm hesaplar için Premium gerekli."
+    },
+    "metaNeeded": "{n} bekleyen",
+    "metaSkipped": "{n} atlanan",
+    "reusable": "Yeniden kullanılabilir"
+  },
+  "xpBoosts": {
+    "title": "Boosts XP",
+    "activeAccount": "Aktif hesap",
+    "refresh": "Yenile",
+    "amountLabel": "Miktar",
+    "redeemPersonal": "Kişiselleri kullan",
+    "searchLabel": "Oyuncu",
+    "searchPlaceholder": "Epic adı…",
+    "search": "Ara",
+    "sendTeammate": "Takıma gönder",
+    "personal": "Kişisel",
+    "teammate": "Takım",
+    "boostedXp": "XP boost",
+    "level": "Seviye",
+    "working": "İşleniyor…",
+    "redeemOk": "Kullanılan {current}/{expected}",
+    "sendOk": "Gönderilen {current}/{expected}",
+    "recipientMeta": "XP boost {xp} · Sv. {level}{private}",
+    "private": "gizli",
+    "errors": {
+      "fetchFailed": "Boost’lar yüklenemedi.",
+      "consumeFailed": "İşlem tamamlanamadı.",
+      "noPersonal": "Kişisel boost yok.",
+      "notFound": "Oyuncu bulunamadı.",
+      "invalidQuery": "Bir ad gir.",
+      "self": "Kendine boost gönderemezsin."
+    }
+  },
+  "communityBuilds": {
+    "title": "Builds",
+    "activeAccount": "Aktif hesap",
+    "search": "Ara",
+    "searchPlaceholder": "Build ara…",
+    "empty": "Build yok.",
+    "prev": "Önceki",
+    "next": "Sonraki",
+    "page": "Sayfa {i}",
+    "slotLabel": "Takım yuvası",
+    "clone": "Klonla",
+    "close": "Kapat",
+    "cloning": "Klonlanıyor…",
+    "cloneOk": "Build takıma klonlandı.",
+    "clonePartial": "Build uyarılarla klonlandı (eksik kahraman/gadget).",
+    "votes": "Oylar",
+    "official": "Resmi",
+    "sort": {
+      "top": "Top",
+      "recent": "Son"
+    },
+    "errors": {
+      "fetchFailed": "Build’ler yüklenemedi.",
+      "notFound": "Build bulunamadı.",
+      "invalidSlot": "Geçersiz takım yuvası.",
+      "cloneFailed": "Build klonlanamadı."
+    }
+  },
+  "miaChecker": {
+    "title": "Mia Checker",
+    "activeAccount": "Aktif hesap",
+    "run": "İncele",
+    "censor": "Hassas verileri gizle",
+    "vbucks": "V-Bucks",
+    "skins": "Skinler",
+    "exclusives": "Özel",
+    "friends": "Arkadaşlar",
+    "openLocker": "BR cephaneliğini aç",
+    "noStw": "STW yok / kampanya profili yok.",
+    "copySale": "Mesajı kopyala",
+    "copied": "Kopyalandı.",
+    "copyFailed": "Kopyalanamadı.",
+    "lastPlayedAgo": "{date} ({days}g)",
+    "saleMessageSkins": "{count} skin",
+    "saleMessageVbucks": "{amount} V-Bucks",
+    "sections": {
+      "account": "Hesap",
+      "purchases": "Satın alımlar",
+      "activity": "Etkinlik",
+      "locker": "Cephanelik",
+      "stw": "STW",
+      "sale": "Satış mesajı"
+    },
+    "fields": {
+      "displayName": "Ad",
+      "accountId": "ID",
+      "email": "Email",
+      "country": "Ülke",
+      "created": "Oluşturulma",
+      "tfa": "2FA",
+      "platforms": "Platformlar",
+      "refunds": "İadeler",
+      "bought": "Satın alınan V-Bucks",
+      "giftsSent": "Gönderilen hediyeler",
+      "giftsReceived": "Alınan hediyeler",
+      "crew": "Crew",
+      "level": "Seviye",
+      "wins": "Galibiyet",
+      "matches": "Maçlar",
+      "lastPlayed": "Son oyun",
+      "totalItems": "Toplam",
+      "founder": "Kurucu",
+      "stwLevel": "STW seviyesi",
+      "collectionBook": "Kitap",
+      "stwMatches": "STW maçları"
+    },
+    "founderEditions": {
+      "newStw": "Yeni STW",
+      "standard": "Standart",
+      "deluxe": "Lüks",
+      "superDeluxe": "Süper lüks",
+      "limited": "Sınırlı",
+      "ultimate": "Nihai"
+    },
+    "errors": {
+      "fetchFailed": "Rapor oluşturulamadı."
+    }
+  },
+  "authHub": {
+    "nav": "Auth Hub",
+    "navDesc": "Bilgi, linkler, makbuzlar ve exchange",
+    "title": "Auth Hub",
+    "activeAccount": "Aktif hesap",
+    "refresh": "Yenile",
+    "reveal": "Gizlileri göster",
+    "tabs": {
+      "info": "Bilgi",
+      "links": "Links",
+      "transactions": "Makbuzlar",
+      "auth": "Auth"
+    },
+    "secrets": "Kimlik bilgileri",
+    "emptyLinks": "Bağlı hesap yok.",
+    "emptyTransactions": "Makbuz yok.",
+    "emptyDevices": "device auth yok.",
+    "currentDevice": "Güncel",
+    "exchange": "Exchange oluştur",
+    "copied": "Exchange kopyalandı.",
+    "prev": "Önceki",
+    "next": "Sonraki",
+    "fields": {
+      "name": "Ad",
+      "email": "Email",
+      "country": "Ülke",
+      "tfa": "2FA",
+      "emailVerified": "Email doğrulandı",
+      "cabined": "Cabined",
+      "failedLogins": "Başarısız girişler",
+      "nameChanges": "Ad değişiklikleri",
+      "canRename": "Yeniden adlandırabilir",
+      "lastRename": "Son rename",
+      "lastLogin": "Son giriş",
+      "campaignCreated": "Oluşturulma (STW)",
+      "appStore": "Mağaza",
+      "created": "Oluşturulma",
+      "lastAccess": "Son erişim"
+    },
+    "errors": {
+      "fetchFailed": "Auth Hub yüklenemedi.",
+      "exchangeFailed": "Exchange oluşturulamadı."
+    }
+  },
+  "expeditions": {
+    "nav": "Seferler",
+    "navDesc": "Gönder, topla ve otomatik 24/7",
+    "title": "Seferler",
+    "activeAccount": "Aktif hesap",
+    "refresh": "Yenile",
+    "collect": "Topla",
+    "sendTitle": "Gönder",
+    "pendingTitle": "Aktif",
+    "autoTitle": "Otomatik 24/7",
+    "autoOn": "Etkinleştir",
+    "autoOff": "Devre dışı",
+    "autoActive": "Otomatik açık",
+    "autoInactive": "Otomatik kapalı",
+    "emptyPending": "Aktif sefer yok.",
+    "notLinkedHint": "Otomatik 24/7 için hesabı Mia Discord’da bağla.",
+    "premiumHint": "Otomatik 24/7 için Premium/Eternum.",
+    "types": {
+      "Heroes": "Kahramanlar",
+      "Resources": "Kaynaklar",
+      "Supplies": "Malzemeler",
+      "Survivors": "Hayatta kalanlar",
+      "Traps": "Tuzaklar",
+      "Weapons": "Silahlar"
+    },
+    "errors": {
+      "fetchFailed": "Seferler yüklenemedi.",
+      "invalidType": "Geçersiz tür.",
+      "sendFailed": "Gönderilemedi.",
+      "collectFailed": "Toplanamadı.",
+      "notLinked": "Hesap Mia’da bağlı değil.",
+      "autoFailed": "Otomatik güncellenemedi.",
+      "premiumRequired": "Otomatik 24/7 için Premium gerekli."
+    },
+    "ready": "Hazır",
+    "autoPick": "Otomatik gönderilecek türler",
+    "premiumBadge": "Premium",
+    "configureAuto": "Yapılandır",
+    "close": "Kapat"
+  },
+  "cloudStorage": {
+    "nav": "Cloud",
+    "navDesc": "Epic .sav dosyaları",
+    "title": "Cloud storage",
+    "activeAccount": "Aktif hesap",
+    "refresh": "Yenile",
+    "download": "İndir",
+    "empty": ".sav dosyası yok.",
+    "errors": {
+      "fetchFailed": ".sav dosyaları yüklenemedi.",
+      "invalidFile": "Geçersiz dosya.",
+      "downloadFailed": "İndirilemedi."
+    },
+    "saveTitle": "Kayıt a{slot}",
+    "revision": "Rev. {rev}",
+    "fileCount": "{n} dosya",
+    "search": "Ara",
+    "searchPlaceholder": "Kayıt ara…",
+    "noResults": "Sonuç yok."
+  },
+  "mcp": {
+    "title": "MCP",
+    "activeAccount": "Aktif hesap",
+    "premiumHint": "MCP konsolu için Premium/Eternum.",
+    "operation": "İşlem",
+    "profile": "Profil",
+    "route": "Rota",
+    "publicAccountId": "Herkese açık hesap",
+    "body": "Body JSON",
+    "run": "Çalıştır",
+    "ok": "OK",
+    "truncated": "Yanıt kısaltıldı.",
+    "errors": {
+      "premiumRequired": "Premium/Eternum gerekli.",
+      "invalidProfile": "Geçersiz profil.",
+      "invalidOperation": "Geçersiz işlem.",
+      "invalidRoute": "Geçersiz rota.",
+      "publicIdRequired": "Herkese açık hesabı belirt.",
+      "invalidBody": "Geçersiz Body JSON.",
+      "composeFailed": "MCP çalıştırılamadı."
+    }
+  },
+  "worldEditor": {
+    "title": "World Editor",
+    "activeAccount": "Aktif hesap",
+    "hint": "Canlı world-info veya bir JSON yükle. Dönüşümler burada indirilir (yerel apply yok).",
+    "loadLive": "Canlı yükle",
+    "loadFile": "JSON aç",
+    "download": "İndir",
+    "json": "JSON",
+    "loaded": "World info yüklendi.",
+    "fileLoaded": "Dosya yüklendi.",
+    "transformed": "Dönüşüm uygulandı.",
+    "actions": {
+      "wi": "WI",
+      "dupe": "Dupe",
+      "remove-mods": "Modsuz",
+      "dev": "Dev",
+      "dupev": "DupeV"
+    },
+    "summary": {
+      "theaters": "Tiyatrolar",
+      "missions": "Görevler",
+      "alerts": "Uyarılar"
+    },
+    "errors": {
+      "empty": "world-info yok.",
+      "fetchFailed": "world-info yüklenemedi.",
+      "invalidJson": "Geçersiz JSON.",
+      "tooLarge": "JSON çok büyük.",
+      "invalidAction": "Geçersiz işlem.",
+      "transformFailed": "Dönüştürülemedi."
+    }
   }
 }

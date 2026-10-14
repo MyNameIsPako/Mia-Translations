@@ -1,6 +1,6 @@
 {
   "meta": {
-    "description": "Mia Pocket — 面向手机、支持本地登录的 Mia。"
+    "description": "Mia Pocket — 专为手机优化的 Mia，登录保存在本地。"
   },
   "auth": {
     "loginDiscord": "使用 Discord 登录",
@@ -8,35 +8,117 @@
     "loginTitle": "登录",
     "loginEpic": "登录",
     "signingIn": "正在登录",
-    "restoring": "正在恢复会话",
+    "restoring": "正在刷新账号",
     "cancel": "取消",
-    "backHome": "返回首页"
+    "backHome": "返回首页",
+    "chooseLoginMethod": "选择如何连接你的 Epic 账号",
+    "recommended": "推荐",
+    "continue": "继续",
+    "back": "返回",
+    "loginStepsSelect": "选择方式",
+    "signingInAccount": "正在登录你的账号…",
+    "signingInAccounts": "正在登录你的账号…",
+    "refreshingAccounts": "正在刷新账号"
   },
   "nav": {
     "alertas": "警报",
     "alertasDesc": "今日 STW 任务",
     "dupe": "Dupe",
     "dupeDesc": "复制 STW 资源",
-    "party": "小队",
+    "party": "Party",
     "partyDesc": "离开并领取宝箱",
     "menu": "菜单",
     "menuAria": "主菜单",
     "homeLead": "你想做什么？",
     "changeAccount": "切换",
     "logout": "退出",
-    "language": "语言"
+    "language": "语言",
+    "homeKicker": "手机启动器",
+    "accounts": "Epic 账号",
+    "accountsCount": "{n} 个账号",
+    "activeAccount": "当前",
+    "addAccount": "添加账号",
+    "removeAccount": "移除账号",
+    "closeAccounts": "关闭",
+    "accountsTab": "账号",
+    "accountsTabDesc": "本设备上的 Epic",
+    "accountsTabHint": "连接或切换",
+    "comingSoon": "即将推出",
+    "comingSoonDesc": "更多 BR 工具正在路上",
+    "miscComingSoonDesc": "更多工具正在路上",
+    "diarias": "任务",
+    "diariasDesc": "日常、日志与 MSK",
+    "vbucks": "V-Bucks",
+    "vbucksDesc": "余额与账号明细",
+    "serverStatus": "服务器状态",
+    "serverStatusDesc": "Fortnite 与 Epic 服务",
+    "lookup": "Lookup",
+    "lookupDesc": "搜索 Epic 玩家",
+    "alertasCheck": "Alertas Check",
+    "alertasCheckDesc": "查看已完成警报",
+    "aventuras": "冒险",
+    "aventurasDesc": "Ventures 进度",
+    "stwShop": "STW 商店",
+    "stwShopDesc": "商店与羊驼",
+    "brStats": "Stats BR",
+    "brStatsDesc": "数据与周 XP",
+    "brShop": "BR 商店",
+    "brShopDesc": "商店、泄露与分区",
+    "brLocker": "Locker",
+    "brLockerDesc": "账号外观",
+    "stwInventory": "背包",
+    "stwInventoryDesc": "背包、仓库与冒险",
+    "stwArmory": "装备库",
+    "stwArmoryDesc": "蓝图与英雄",
+    "stwLoadouts": "编队",
+    "stwLoadoutsDesc": "当前英雄编队",
+    "legacyFinder": "Rare/Legacy",
+    "legacyFinderDesc": "Legacy 与改造蓝图",
+    "homebase": "Homebase",
+    "homebaseDesc": "护盾、基地与权限",
+    "sac": "SAC",
+    "sacDesc": "创作者代码",
+    "redeem": "兑换",
+    "redeemDesc": "兑换 Epic 代码",
+    "friends": "好友",
+    "friendsDesc": "列表与请求",
+    "collectionBook": "收藏书",
+    "collectionBookDesc": "升级 STW 收藏书物品",
+    "brSpirits": "精灵",
+    "brSpiritsDesc": "账号 Magpie 精灵",
+    "adminPanel": "Admin panel",
+    "adminPanelDesc": "管理面板代码",
+    "xpBoosts": "Boosts XP",
+    "xpBoostsDesc": "个人与队伍加速",
+    "communityBuilds": "Builds",
+    "communityBuildsDesc": "STW 社区 Builds",
+    "miaChecker": "Checker",
+    "miaCheckerDesc": "Epic 账号报告",
+    "authHub": "Auth Hub",
+    "authHubDesc": "信息、链接、收据与 exchange",
+    "expeditions": "远征",
+    "expeditionsDesc": "派遣、收取与自动 24/7",
+    "cloudStorage": "Cloud",
+    "cloudStorageDesc": "Epic 的 .sav 文件",
+    "mcp": "MCP",
+    "mcpDesc": "MCP 控制台",
+    "worldEditor": "World Editor",
+    "worldEditorDesc": "查看/编辑 world-info JSON",
+    "back": "返回",
+    "scrollTop": "回到顶部",
+    "addingAccount": "正在添加账号…"
   },
   "party": {
-    "hubTitle": "小队",
-    "hubDesc": "选择一个小队操作",
+    "hubTitle": "Party",
+    "hubDesc": "选择一项队伍操作",
     "kick": "离开",
-    "kickDesc": "离开小队且不领取奖励。",
-    "kickClaim": "离开并领取",
-    "kickClaimDesc": "离开小队并领取任务宝箱。",
-    "kickAllClaimTransfer": "踢出全员 + 领取 + 转让",
-    "kickAllClaimTransferDesc": "踢出所有人、领取并转让队长。",
-    "kickAllClaimInvite": "踢出全员 + 领取 + 邀请",
-    "kickAllClaimInviteDesc": "踢出所有人、领取并重新邀请。",
+    "kickDesc": "离开队伍且不领取奖励。",
+    "kickClaim": "离开并收取",
+    "kickClaimDesc": "离开队伍并领取任务宝箱。",
+    "kickAllClaimTransfer": "全部离开 + 收取 + 转让",
+    "kickAllClaimTransferDesc": "让所有人离开、收取并转让队长。",
+    "kickAllClaimInvite": "全部离开 + 收取 + 邀请",
+    "kickAllClaimInviteDesc": "让所有人离开、收取并重新邀请。",
     "running": "进行中…",
     "processing": "处理中",
     "connectionError": "连接错误。"
@@ -51,29 +133,30 @@
     "running": "进行中…",
     "status": {
       "checking": "正在检查 STW 档案…",
-      "countdown": "等待 Dupe 时间窗口",
+      "countdown": "等待 Dupe 窗口",
       "applying": "正在应用 Dupe…",
       "success": "Dupe 已成功应用",
       "timedFailed": "无法应用 Dupe",
       "forceFailed": "强制 Dupe 失败",
-      "noLockOrExpired": "没有有效的 profile lock，或已过期",
+      "noLockOrExpired": "没有有效的 profile lock 或已过期",
       "profileUnavailable": "无法读取 theater0 档案",
-      "alreadyRunning": "已有 Dupe 正在进行"
+      "alreadyRunning": "已有 Dupe 在进行中"
     }
   },
   "epic": {
     "expired": "登录已过期。请重试。",
     "blacklisted": "该账号在 Mia Pocket 黑名单中。",
-    "invalidCode": "Epic 返回了无效的代码。请重试。",
-    "deviceAuthFailed": "无法创建 device auth。请重试。",
-    "loginFailed": "无法完成登录。请重试。",
+    "invalidCode": "Epic 返回了无效代码。请重试。",
+    "deviceAuthFailed": "无法创建 device auth。请再试一次。",
+    "loginFailed": "无法完成登录。请再试一次。",
     "connectionError": "连接错误。请重试。",
-    "startFailed": "无法启动 Epic 登录流程。"
+    "startFailed": "无法启动 Epic 流程。"
   },
   "flash": {
     "account_connected": "登录成功。",
     "account_changed": "你可以连接另一个 Epic 账号。",
-    "logged_out": "已退出登录。"
+    "logged_out": "已退出登录。",
+    "adding_account": "用另一个 Epic 账号登录。其他账号仍保留在本设备。"
   },
   "errors": {
     "invalid_account": "所选账号无效。",
@@ -81,25 +164,56 @@
     "oauth_state": "Discord 登录已过期。请重试。",
     "oauth_failed": "无法完成 Discord 登录。",
     "blacklisted": "你的用户在 Mia Pocket 黑名单中。",
-    "epic_login_failed": "无法使用 Epic 登录。请重试。",
+    "epic_login_failed": "无法用 Epic 登录。请重试。",
     "invalid_exchange_code": "exchange code 必须为 32 个字符。",
     "invalid_authorization_code": "授权码无效。",
     "device_code_expired": "Epic 登录已过期。请重试。",
     "account_blacklisted": "该 Epic 账号在 Mia Pocket 黑名单中。",
-    "oauthStateTitle": "OAuth 会话无效",
-    "oauthCodeTitle": "OAuth 代码无效",
+    "oauthStateTitle": "无效的 OAuth 会话",
+    "oauthCodeTitle": "无效的 OAuth 代码",
     "accessDeniedTitle": "访问被拒绝",
-    "loginErrorTitle": "登录错误"
+    "loginErrorTitle": "登录错误",
+    "epic_required": "此功能需要 Epic 账号。"
   },
   "titles": {
     "home": "Mia Pocket",
     "dupe": "Dupe",
-    "party": "小队",
+    "party": "Party",
     "alertas": "STW 警报",
     "kick": "离开",
-    "kickClaim": "离开并领取",
-    "kickAllClaimTransfer": "踢出全员并领取",
-    "kickAllClaimInvite": "踢出、领取并邀请"
+    "kickClaim": "离开并收取",
+    "kickAllClaimTransfer": "全部离开并收取",
+    "kickAllClaimInvite": "离开、收取并邀请",
+    "accounts": "账号",
+    "diarias": "任务",
+    "vbucks": "V-Bucks",
+    "serverStatus": "服务器状态",
+    "lookup": "Lookup",
+    "alertasCheck": "Alertas Check",
+    "aventuras": "冒险",
+    "stwShop": "STW 商店",
+    "brStats": "Stats BR",
+    "brShop": "BR 商店",
+    "brLocker": "Locker",
+    "stwInventory": "背包",
+    "stwArmory": "装备库",
+    "stwLoadouts": "英雄编队",
+    "legacyFinder": "Rare/Legacy",
+    "homebase": "Homebase",
+    "sac": "SAC",
+    "redeem": "兑换",
+    "friends": "好友",
+    "collectionBook": "收藏书",
+    "brSpirits": "精灵",
+    "adminPanel": "Admin panel",
+    "xpBoosts": "Boosts XP",
+    "communityBuilds": "Builds",
+    "miaChecker": "Mia Checker",
+    "authHub": "Auth Hub",
+    "expeditions": "远征",
+    "cloudStorage": "Cloud storage",
+    "mcp": "MCP",
+    "worldEditor": "World Editor"
   },
   "gate": {
     "title": "仅限手机",
@@ -119,15 +233,1202 @@
     "alerts": "无法加载警报。请重试。"
   },
   "installSteps": {
-    "iosSafari": "<p><strong>iPhone / iPad（Safari）：</strong></p><ol><li>点按<strong>分享</strong>（带箭头的方框）。</li><li>选择<strong>添加到主屏幕</strong>。</li><li>从新图标打开 <strong>Mia Pocket</strong>。</li></ol>",
-    "iosChrome": "<p><strong>iPhone / iPad（{browser}）：</strong></p><ol><li>点按浏览器栏中的<strong>分享</strong>。</li><li>选择<strong>添加到主屏幕</strong>。</li><li>从图标（而不是浏览器标签页）打开 <strong>Mia Pocket</strong>。</li></ol><p>如果不行，请在 <strong>Safari</strong> 中打开此页面并重复步骤。</p>",
-    "iosFirefox": "<p><strong>iPhone / iPad（Firefox）：</strong></p><ol><li>菜单（≡）→ <strong>分享</strong>或<strong>添加到主屏幕</strong>。</li><li>确认 <strong>Mia Pocket</strong> 图标。</li><li>从主屏幕上的图标打开应用。</li></ol><p>如果不行，请试试 <strong>Safari</strong>。</p>",
-    "iosDefault": "<p><strong>iPhone / iPad：</strong></p><ol><li>使用<strong>分享</strong>→<strong>添加到主屏幕</strong>。</li><li>从新图标打开 <strong>Mia Pocket</strong>。</li></ol><p>推荐：<strong>Safari</strong>、Chrome 或 Brave。</p>",
-    "androidFirefox": "<p><strong>Android（Firefox）：</strong></p><ol><li>菜单（⋮）→ <strong>安装</strong>或<strong>添加到主屏幕</strong>。</li><li>从图标而不是浏览器打开 <strong>Mia Pocket</strong>。</li></ol>",
-    "androidSamsung": "<p><strong>Android（Samsung Internet）：</strong></p><ol><li>菜单 → <strong>将页面添加到</strong> → <strong>主屏幕</strong>或<strong>安装应用</strong>。</li><li>从新图标打开 <strong>Mia Pocket</strong>。</li></ol>",
-    "androidBrave": "<p><strong>Android（Brave）：</strong></p><ol><li>如果出现按钮，点按<strong>安装应用</strong>。</li><li>或菜单 → <strong>安装应用</strong> / <strong>添加到主屏幕</strong>。</li><li>从图标而不是 Brave 打开 <strong>Mia Pocket</strong>。</li></ol>",
-    "androidEdge": "<p><strong>Android（Edge）：</strong></p><ol><li>菜单（⋯）→ <strong>安装应用</strong>或<strong>添加到主屏幕</strong>。</li><li>从新图标打开 <strong>Mia Pocket</strong>。</li></ol>",
-    "androidOpera": "<p><strong>Android（Opera）：</strong></p><ol><li>菜单 → <strong>添加到主屏幕</strong>或<strong>安装应用</strong>。</li><li>从新图标打开 <strong>Mia Pocket</strong>。</li></ol>",
-    "androidDefault": "<p><strong>Android（Chrome 及其他）：</strong></p><ol><li>如果出现按钮，点按<strong>安装应用</strong>。</li><li>或菜单（⋮）→ <strong>安装应用</strong>。</li><li>从图标而不是浏览器打开 <strong>Mia Pocket</strong>。</li></ol>"
+    "iosSafari": "<p><strong>iPhone / iPad（Safari）：</strong></p><ol><li>点按<strong>共享</strong>（带箭头的方框）。</li><li>选择<strong>添加到主屏幕</strong>。</li><li>从新图标打开<strong>Mia Pocket</strong>。</li></ol>",
+    "iosChrome": "<p><strong>iPhone / iPad（{browser}）：</strong></p><ol><li>点按浏览器栏中的<strong>共享</strong>。</li><li>选择<strong>添加到主屏幕</strong>或<strong>主屏幕</strong>。</li><li>从图标打开<strong>Mia Pocket</strong>（不要从浏览器标签页打开）。</li></ol><p>如果不行，请用<strong>Safari</strong>打开此页面并重复步骤。</p>",
+    "iosFirefox": "<p><strong>iPhone / iPad（Firefox）：</strong></p><ol><li>菜单（≡）→ <strong>共享</strong>或<strong>添加到主屏幕</strong>。</li><li>确认<strong>Mia Pocket</strong>图标。</li><li>从主屏幕图标打开应用。</li></ol><p>如果不行，请尝试<strong>Safari</strong>。</p>",
+    "iosDefault": "<p><strong>iPhone / iPad：</strong></p><ol><li>使用<strong>共享</strong> → <strong>添加到主屏幕</strong>。</li><li>从新图标打开<strong>Mia Pocket</strong>。</li></ol><p>推荐：<strong>Safari</strong>、Chrome 或 Brave。</p>",
+    "androidFirefox": "<p><strong>Android（Firefox）：</strong></p><ol><li>菜单（⋮）→ <strong>安装</strong>或<strong>添加到主屏幕</strong>。</li><li>从图标打开<strong>Mia Pocket</strong>，不要从浏览器打开。</li></ol>",
+    "androidSamsung": "<p><strong>Android（Samsung Internet）：</strong></p><ol><li>菜单 → <strong>添加页面到</strong> → <strong>主屏幕</strong>或<strong>安装应用</strong>。</li><li>从新图标打开<strong>Mia Pocket</strong>。</li></ol>",
+    "androidBrave": "<p><strong>Android（Brave）：</strong></p><ol><li>如果出现按钮，点按<strong>安装应用</strong>。</li><li>或菜单 → <strong>安装应用</strong> / <strong>添加到主屏幕</strong>。</li><li>从图标打开<strong>Mia Pocket</strong>，不要从 Brave 打开。</li></ol>",
+    "androidEdge": "<p><strong>Android（Edge）：</strong></p><ol><li>菜单（⋯）→ <strong>安装应用</strong>或<strong>添加到主屏幕</strong>。</li><li>从新图标打开<strong>Mia Pocket</strong>。</li></ol>",
+    "androidOpera": "<p><strong>Android（Opera）：</strong></p><ol><li>菜单 → <strong>添加到主屏幕</strong>或<strong>安装应用</strong>。</li><li>从新图标打开<strong>Mia Pocket</strong>。</li></ol>",
+    "androidDefault": "<p><strong>Android（Chrome 等）：</strong></p><ol><li>如果出现按钮，点按<strong>安装应用</strong>。</li><li>或菜单（⋮）→ <strong>安装应用</strong> / <strong>安装应用</strong>。</li><li>从图标打开<strong>Mia Pocket</strong>，不要从浏览器打开。</li></ol>"
+  },
+  "welcome": {
+    "kicker": "Mia Pocket",
+    "greeting": "你好，{name}",
+    "tagline": "面向 Android 与 iOS 的应用。一切都保存在本设备本地。",
+    "actionsTitle": "快捷操作",
+    "alertsKicker": "拯救世界",
+    "alertsTitle": "今日警报",
+    "viewAllAlerts": "查看全部"
+  },
+  "accounts": {
+    "pageTitle": "Epic 账号",
+    "pageDesc": "在此连接和切换本设备上的 Epic 账号。Mia Pocket 其余功能无需登录也可使用。",
+    "empty": "本设备上还没有 Epic 账号。",
+    "addingDesc": "你的账号会保留在本设备。在下方连接新账号。",
+    "cancelAdd": "取消",
+    "addSection": "新账号"
+  },
+  "categories": {
+    "saveTheWorld": "拯救世界",
+    "battleRoyale": "Battle Royale",
+    "misc": "Misc"
+  },
+  "loginMethods": {
+    "deviceCode": {
+      "title": "网页确认",
+      "description": "通过确认链接（device_code）登录 Epic。",
+      "instructions": "将在浏览器中打开 Epic。确认访问后 Pocket 会自动继续。",
+      "waitingConfirmation": "等待你在 Epic 上确认…",
+      "expired": "确认链接已过期。请返回并重试。",
+      "openWebsite": "再次打开 Epic"
+    },
+    "authorizationCode": {
+      "title": "授权码",
+      "description": "使用 Epic 网页返回的代码（authorization_code）。",
+      "instructions": "打开 Epic，复制重定向 URL 中的代码并粘贴到下方。",
+      "inputPlaceholder": "粘贴你的授权码",
+      "openLogin": "打开 Epic 登录",
+      "openRedirect": "获取代码"
+    },
+    "exchangeCode": {
+      "title": "Exchange 代码",
+      "description": "如果你有 exchange code，可用它登录。",
+      "instructions": "粘贴 exchange 代码（32 个字符）并点继续。",
+      "inputPlaceholder": "在此粘贴 exchange 代码"
+    }
+  },
+  "discordUser": {
+    "menuTitle": "Discord 账号",
+    "userIdLabel": "Discord ID",
+    "premiumStatus": "Premium 状态",
+    "premium": {
+      "inactive": "无 Premium",
+      "premium": "Premium",
+      "booster": "Booster",
+      "eternum": "Eternum"
+    },
+    "expiresAt": "{date} 到期",
+    "noExpiry": "无到期日",
+    "premiumHint": "在 Mia 开通 Premium 以解锁更多功能。",
+    "logout": "退出 Discord 登录"
+  },
+  "tabs": {
+    "stw": "STW",
+    "br": "BR",
+    "misc": "Misc",
+    "navAria": "分区",
+    "home": "首页",
+    "commandsKicker": "命令",
+    "commandsLead": "选择你要做的事"
+  },
+  "diarias": {
+    "title": "任务",
+    "desc": "日常、任务记录与 STW 的 MSK。",
+    "refresh": "刷新",
+    "replace": "替换",
+    "pin": "固定",
+    "unpin": "取消固定",
+    "pinned": "已固定",
+    "slots": "栏位",
+    "rerolls": "替换次数",
+    "rewardVbucks": "奖励 V-Bucks",
+    "rewardTickets": "X-Ray 票据",
+    "vbucks": "V-Bucks",
+    "tickets": "票据",
+    "gold": "金币",
+    "empty": "没有进行中的日常任务。",
+    "errors": {
+      "fetchFailed": "无法加载日常。",
+      "invalidQuest": "任务无效。",
+      "rerollFailed": "无法替换任务。",
+      "pinFailed": "无法更新固定。"
+    },
+    "xp": "XP",
+    "questNumber": "任务 {n}",
+    "modeSingle": "当前",
+    "modeBulk": "全部账号",
+    "bulkSummary": "{ok}/{total} 个账号",
+    "activeAccount": "当前账号",
+    "loadAll": "全部",
+    "tabs": {
+      "daily": "日常",
+      "log": "记录",
+      "msk": "MSK"
+    },
+    "log": {
+      "total": "任务",
+      "empty": "没有进行中的任务。",
+      "errors": {
+        "fetchFailed": "无法加载记录。"
+      },
+      "categories": {
+        "Daily": "日常",
+        "WeeklyQuest": "每周",
+        "StormKingHardmode": "风暴之王",
+        "Events": "活动",
+        "Phoenix": "冒险",
+        "Stonewood": "石木",
+        "Plankerton": "板岩镇",
+        "CannyValley": "坎尼谷",
+        "TwinePeaks": "麻绳峰",
+        "Challenges": "挑战",
+        "Achievements": "成就",
+        "Others": "其他"
+      },
+      "states": {
+        "active": "进行中",
+        "completed": "已完成",
+        "claimed": "已领取"
+      }
+    },
+    "msk": {
+      "weekly": "每周 MSK",
+      "completions": "完成次数",
+      "reset": "Reset",
+      "reroll": "替换",
+      "noWeekly": "没有进行中的每周 MSK 任务。",
+      "premiumHint": "替换每周任务需要 Premium。",
+      "superchargerTitle": "超充器",
+      "weaponsTitle": "MSK 武器",
+      "weapons": {
+        "onslaught": "Onslaught",
+        "fury": "Fury",
+        "wrath": "Wrath",
+        "ravager": "Ravager",
+        "scourge": "Scourge"
+      },
+      "supercharger": {
+        "hero": "英雄超充器",
+        "trap": "陷阱超充器",
+        "weapon": "武器超充器",
+        "survivor": "幸存者超充器"
+      },
+      "errors": {
+        "fetchFailed": "无法加载 MSK。",
+        "invalidQuest": "任务无效。",
+        "rerollFailed": "无法替换每周任务。",
+        "premiumRequired": "替换每周 MSK 需要 Premium。"
+      }
+    }
+  },
+  "vbucks": {
+    "title": "V-Bucks",
+    "desc": "你的 Epic 账号余额、平台、礼物与明细。",
+    "refresh": "刷新",
+    "balance": "余额",
+    "platform": "平台",
+    "gifts": "礼物",
+    "nextGift": "下次",
+    "creator": "创作者代码",
+    "noCreator": "无",
+    "breakdown": "明细",
+    "noBreakdown": "无明细",
+    "packs": "已购礼包",
+    "noPacks": "无礼包",
+    "packsTotal": "礼包合计",
+    "purchased": "已购买",
+    "purchaseBonus": "购买奖励",
+    "complimentary": "赠送",
+    "giveaway": "挑战 / 通行证",
+    "debt": "欠款",
+    "shared": "共享",
+    "errors": {
+      "fetchFailed": "无法加载 V-Bucks。",
+      "profileUnavailable": "无法读取档案。"
+    },
+    "modeSingle": "当前",
+    "modeBulk": "全部账号",
+    "bulkSummary": "{ok}/{total} 个账号",
+    "bulkTotal": "账号合计",
+    "activeAccount": "当前账号",
+    "loadAll": "全部"
+  },
+  "serverStatus": {
+    "title": "服务器状态",
+    "subtitle": "Epic 上的 Fortnite 服务",
+    "refresh": "刷新",
+    "overall": "Fortnite",
+    "incidents": "事故",
+    "noIncidents": "暂无进行中的事故。",
+    "openPage": "打开 status.epicgames.com",
+    "status": {
+      "operational": "正常",
+      "degraded_performance": "性能下降",
+      "partial_outage": "部分中断",
+      "major_outage": "严重中断",
+      "under_maintenance": "维护中",
+      "unknown": "未知"
+    },
+    "services": {
+      "website": "网站",
+      "gameServices": "游戏服务",
+      "login": "登录",
+      "parties": "队伍、好友与消息",
+      "voice": "语音聊天",
+      "matchmaking": "匹配",
+      "stats": "统计与排行",
+      "itemShop": "物品商店",
+      "crew": "Fortnite Crew"
+    },
+    "errors": {
+      "fetchFailed": "无法加载状态。"
+    }
+  },
+  "lookup": {
+    "title": "Lookup",
+    "subtitle": "按名称或 ID 搜索玩家",
+    "placeholder": "名称或账号 ID",
+    "search": "搜索",
+    "accountId": "ID",
+    "linkedAccounts": "已关联账号",
+    "registeredYes": "已在 Mia 注册",
+    "registeredNo": "未在 Mia 注册",
+    "noLinked": "无关联账号。",
+    "platforms": {
+      "xbox": "Xbox",
+      "psn": "PlayStation",
+      "steam": "Steam",
+      "nintendo": "Nintendo",
+      "linked": "已关联"
+    },
+    "errors": {
+      "invalidQuery": "请输入名称或 ID。",
+      "notFound": "未找到该账号。",
+      "fetchFailed": "无法搜索账号。"
+    }
+  },
+  "alertasCheck": {
+    "title": "Alertas Check",
+    "refresh": "刷新",
+    "loadAll": "全部",
+    "activeAccount": "当前账号",
+    "modeBulk": "全部账号",
+    "bulkSummary": "{ok}/{total} 个账号",
+    "completed": "已完成",
+    "remaining": "待完成",
+    "empty": "此分类没有警报。",
+    "categories": {
+      "honorific": "荣誉",
+      "vbucks": "V-Bucks",
+      "survivors": "幸存者",
+      "pl160": "PL 160",
+      "heroes": "英雄",
+      "defenders": "防御者",
+      "schematics": "蓝图",
+      "evo": "Evo"
+    },
+    "errors": {
+      "fetchFailed": "无法检查警报。"
+    }
+  },
+  "aventuras": {
+    "title": "冒险",
+    "refresh": "刷新",
+    "loadAll": "全部",
+    "activeAccount": "当前账号",
+    "modeBulk": "全部账号",
+    "bulkSummary": "{ok}/{total} 个账号",
+    "avgLevel": "平均等级",
+    "level": "等级",
+    "nextZone": "区域",
+    "toNext": "距离下一级",
+    "toMax": "距离 50",
+    "noSeason": "无赛季",
+    "notStarted": "此账号本赛季尚未玩过冒险。",
+    "emptyQuests": "没有进行中的冒险任务。",
+    "seasons": {
+      "frozen": "冰封峡湾",
+      "flannel": "法兰绒瀑布",
+      "scurvy": "坏血病浅滩",
+      "blasted": "荒芜之地",
+      "hex": "Hexsylvania"
+    },
+    "categories": {
+      "weapon": "武器",
+      "monster": "怪物",
+      "mission": "任务",
+      "locating": "定位",
+      "destroy": "摧毁"
+    },
+    "errors": {
+      "fetchFailed": "无法加载冒险。"
+    }
+  },
+  "stwShop": {
+    "title": "STW 商店",
+    "refresh": "刷新",
+    "activeAccount": "当前账号",
+    "buy": "购买",
+    "soldOut": "售罄",
+    "bought": "购买成功。",
+    "empty": "此分区没有商品。",
+    "tabs": {
+      "shop": "商店",
+      "llamas": "羊驼"
+    },
+    "sections": {
+      "rotational": "轮换",
+      "special": "特别",
+      "llamas": "羊驼"
+    },
+    "errors": {
+      "fetchFailed": "无法加载商店。",
+      "purchaseFailed": "无法购买。",
+      "invalidItem": "商品无效。",
+      "soldOut": "此商品已售罄。"
+    },
+    "previewTitle": "X-Ray 内容"
+  },
+  "llamas": {
+    "open": "打开",
+    "opened": "已打开羊驼。",
+    "empty": "没有可打开的羊驼。",
+    "errors": {
+      "fetchFailed": "无法加载羊驼。",
+      "openFailed": "无法打开。",
+      "invalidQuantity": "数量无效。",
+      "notEnough": "羊驼不足。"
+    }
+  },
+  "brStats": {
+    "title": "Stats BR",
+    "refresh": "刷新",
+    "loadAll": "全部",
+    "activeAccount": "当前账号",
+    "modeBulk": "全部账号",
+    "bulkSummary": "{ok}/{total} 个账号",
+    "earnedXp": "周 XP",
+    "publicStats": "公开数据",
+    "battlePass": "通行证",
+    "overall": "总览",
+    "solo": "Solo",
+    "duo": "双人",
+    "squad": "小队",
+    "wins": "Wins",
+    "kills": "Kills",
+    "winRate": "WR",
+    "totalXp": "合计",
+    "private": "公开数据已设为私密。",
+    "noPublic": "无可用公开数据。",
+    "modes": {
+      "br": "Battle Royale",
+      "creative": "Creative",
+      "stw": "拯救世界"
+    },
+    "errors": {
+      "fetchFailed": "无法加载数据。"
+    }
+  },
+  "brShop": {
+    "title": "BR 商店",
+    "subtitle": "今日商店预览",
+    "refresh": "刷新",
+    "allSections": "全部",
+    "empty": "没有物品。",
+    "emptyFiltraciones": "没有新泄露。",
+    "noSecciones": "近期没有分区变更。",
+    "seccionesTitle": "分区变更",
+    "tabs": {
+      "shop": "商店",
+      "filtraciones": "泄露",
+      "secciones": "分区"
+    },
+    "errors": {
+      "fetchFailed": "无法加载商店。",
+      "filtracionesFailed": "无法加载泄露。",
+      "seccionesFailed": "无法加载分区。",
+      "purchaseFailed": "无法购买。",
+      "giftFailed": "无法赠送。",
+      "invalidOffer": "商品无效。",
+      "offerNotFound": "此物品已不在商店中。",
+      "invalidReceiver": "好友无效。",
+      "notGiftable": "此物品无法赠送。",
+      "insufficientFunds": "V-Bucks 不足。"
+    },
+    "search": "搜索",
+    "searchPlaceholder": "搜索外观…",
+    "filtersLabel": "筛选",
+    "allTypes": "全部",
+    "owned": "已拥有",
+    "featured": "精选",
+    "groups": {
+      "new": "新品",
+      "updated": "已更新",
+      "leaving": "即将下架"
+    },
+    "filters": {
+      "all": "全部",
+      "emote": "表情",
+      "bundle": "捆绑包",
+      "outfit": "皮肤",
+      "wrap": "裹身贴膜",
+      "sparks_song": "音乐",
+      "pickaxe": "镐",
+      "shoes": "鞋子",
+      "backpack": "背包",
+      "wheel": "车轮",
+      "cars": "载具",
+      "instrument": "乐器",
+      "region_restricted": "地区",
+      "new": "新品"
+    },
+    "close": "关闭",
+    "back": "返回",
+    "buy": "购买",
+    "gift": "赠送",
+    "bought": "购买成功。",
+    "gifted": "礼物已发送。",
+    "pickFriend": "选择好友",
+    "noFriends": "没有可赠送的好友。",
+    "notGiftable": "无法赠送",
+    "needAccount": "购买或赠送需要连接 Epic 账号。"
+  },
+  "brLocker": {
+    "title": "Locker",
+    "refresh": "刷新",
+    "activeAccount": "当前账号",
+    "search": "搜索",
+    "searchPlaceholder": "按名称搜索…",
+    "total": "{n} 件外观",
+    "empty": "此视图没有外观。",
+    "prev": "上一页",
+    "next": "下一页",
+    "page": "第 {i}/{total} 页",
+    "categories": {
+      "all": "全部",
+      "skins": "皮肤",
+      "backpacks": "背包",
+      "pickaxes": "镐",
+      "gliders": "滑翔伞",
+      "contrails": "尾迹",
+      "emotes": "表情",
+      "toys": "玩具",
+      "sprays": "喷涂",
+      "music": "音乐",
+      "loadingscreen": "加载画面",
+      "crew": "Crew",
+      "exclusivos": "限定"
+    },
+    "errors": {
+      "fetchFailed": "无法加载 Locker。",
+      "premiumRequired": "限定需要 Premium。"
+    },
+    "badges": {
+      "crew": "Crew",
+      "exclusive": "限定"
+    },
+    "premiumBadge": "Premium"
+  },
+  "stwInventory": {
+    "title": "背包",
+    "refresh": "刷新",
+    "activeAccount": "当前账号",
+    "search": "搜索",
+    "searchPlaceholder": "按 id 搜索…",
+    "meta": "{unique} 物品 · 共 {qty}",
+    "empty": "此视图没有物品。",
+    "prev": "上一页",
+    "next": "下一页",
+    "page": "第 {i}/{total} 页",
+    "stackOne": "1 堆",
+    "stackMany": "{n} 堆",
+    "sources": {
+      "mochila": "背包",
+      "almacen": "仓库",
+      "aventuras": "冒险"
+    },
+    "categories": {
+      "todos": "全部",
+      "armas": "武器",
+      "trampas": "陷阱",
+      "municion": "弹药",
+      "materiales": "材料"
+    },
+    "errors": {
+      "fetchFailed": "无法加载背包。"
+    },
+    "assetCategories": {
+      "other": "其他",
+      "resource": "材料",
+      "hero": "英雄",
+      "schematic": "蓝图",
+      "worker": "幸存者",
+      "cardpack": "羊驼"
+    }
+  },
+  "stwArmory": {
+    "title": "装备库",
+    "refresh": "刷新",
+    "activeAccount": "当前账号",
+    "search": "搜索",
+    "searchPlaceholder": "搜索…",
+    "meta": "{total} · 最高 PL {max} · Super {super}",
+    "empty": "此视图没有物品。",
+    "prev": "上一页",
+    "next": "下一页",
+    "page": "第 {i}/{total} 页",
+    "tabs": {
+      "schematics": "蓝图",
+      "heroes": "英雄"
+    },
+    "schematics": {
+      "todos": "全部",
+      "lanzadores": "发射器",
+      "asalto": "突击",
+      "escopetas": "霰弹枪",
+      "pistolas": "手枪",
+      "smg": "SMG",
+      "francotiradores": "狙击",
+      "melee": "Melee",
+      "trampas": "陷阱",
+      "otras": "其他"
+    },
+    "heroes": {
+      "todos": "全部",
+      "soldado": "士兵",
+      "constructor": "建筑师",
+      "ninja": "Ninja",
+      "outlander": "Outlander",
+      "otro": "其他"
+    },
+    "traps": {
+      "todas": "全部",
+      "suelo": "地面",
+      "pared": "墙壁",
+      "techo": "天花板"
+    },
+    "errors": {
+      "fetchFailed": "无法加载装备库。"
+    }
+  },
+  "stwLoadouts": {
+    "title": "英雄编队",
+    "refresh": "刷新",
+    "activeAccount": "当前账号",
+    "empty": "没有英雄编队。",
+    "slot": "编队 {n}",
+    "active": "当前",
+    "activate": "使用",
+    "activated": "编队已启用。",
+    "errors": {
+      "fetchFailed": "无法加载编队。",
+      "activateFailed": "无法启用编队。",
+      "notFound": "未找到编队。"
+    }
+  },
+  "legacyFinder": {
+    "title": "Rare/Legacy",
+    "refresh": "刷新",
+    "activeAccount": "当前账号",
+    "search": "搜索",
+    "searchPlaceholder": "搜索…",
+    "meta": "{filtered} · Legacy {legacy} · AOE {aoe} · Modded {modded}",
+    "empty": "此视图没有蓝图。",
+    "prev": "上一页",
+    "next": "下一页",
+    "page": "第 {i}/{total} 页",
+    "categories": {
+      "aoe": "AOE",
+      "modded": "改造",
+      "historical": "历史",
+      "campaign": "背包",
+      "collection_book_schematics0": "收藏书",
+      "theater0": "背包",
+      "outpost0": "仓库"
+    },
+    "status": {
+      "highlighted": "精选",
+      "hybrid": "混合",
+      "modded": "改造",
+      "legacy": "Legacy",
+      "review": "待审",
+      "all": "全部"
+    },
+    "kinds": {
+      "all": "全部",
+      "weapon": "武器",
+      "trap": "陷阱"
+    },
+    "badges": {
+      "aoe": "AOE",
+      "modded": "改造",
+      "defender": "防御者",
+      "hybrid": "混合",
+      "historical": "历史",
+      "legacy": "Legacy",
+      "review": "待审"
+    },
+    "errors": {
+      "fetchFailed": "无法扫描账号。"
+    }
+  },
+  "homebase": {
+    "title": "Homebase",
+    "refresh": "刷新",
+    "scan": "扫描",
+    "activeAccount": "当前账号",
+    "ssdLevel": "SSD",
+    "endurance": "耐力",
+    "amplifiers": "Amps",
+    "noSaveShort": "无云存档",
+    "totalStructures": "合计",
+    "trapsTitle": "陷阱（{count}）",
+    "noTraps": "未放置陷阱",
+    "noPermissions": "无编辑权限",
+    "scanPrompt": "点按扫描以分析陷阱与结构。",
+    "scanning": "正在下载并分析基地…",
+    "emptyWarning": "此基地看起来为空或建造很少。",
+    "tabs": {
+      "base": "基地",
+      "permissions": "权限"
+    },
+    "structureTypes": {
+      "walls": "墙壁",
+      "floors": "地板",
+      "stairs": "楼梯",
+      "cones": "锥形"
+    },
+    "materials": {
+      "wood": "木材",
+      "stone": "石头",
+      "metal": "金属"
+    },
+    "zones": {
+      "stonewood": "石木",
+      "plankerton": "板岩镇",
+      "cannyValley": "坎尼谷",
+      "twinePeaks": "麻绳峰"
+    },
+    "layout": {
+      "empty": "此区域没有建筑部件",
+      "legendWood": "木材",
+      "legendStone": "石头",
+      "legendMetal": "金属",
+      "legendRoof": "屋顶",
+      "legendFloorTrap": "地面陷阱",
+      "legendWallTrap": "墙壁陷阱",
+      "legendCeilingTrap": "天花板陷阱",
+      "legendNote": "地图视图 · 陷阱",
+      "piecesSummary": "{total} 部件 — 地板 {floors} · 墙壁 {walls} · 楼梯 {stairs} · 屋顶 {roofs}",
+      "materialsSummary": "木材 {wood} · 石头 {stone} · 金属 {metal}",
+      "trapsSummary": "{n} 个陷阱"
+    },
+    "errors": {
+      "fetchFailed": "无法加载 Homebase。",
+      "scanFailed": "无法扫描基地。",
+      "noZones": "此账号没有前哨。",
+      "noSave": "此区域没有云数据。"
+    }
+  },
+  "sac": {
+    "title": "SAC",
+    "refresh": "刷新",
+    "viewAll": "查看账号",
+    "apply": "应用",
+    "applyAll": "应用到全部",
+    "lookup": "查询",
+    "activeAccount": "当前账号",
+    "modeBulk": "全部账号",
+    "codeLabel": "创作者代码",
+    "codePlaceholder": "SAC 代码…",
+    "currentCode": "代码",
+    "noCode": "无代码",
+    "setAt": "自",
+    "expiryHint": "Epic 要求每 14 天更新一次 SAC。",
+    "applyOk": "SAC 已更新。",
+    "lookupName": "创作者",
+    "lookupCode": "代码",
+    "lookupNotFound": "未找到代码。",
+    "statusActive": "有效",
+    "statusDisabled": "无效",
+    "errors": {
+      "fetchFailed": "无法加载 SAC。",
+      "applyFailed": "无法应用 SAC。",
+      "invalidCode": "代码无效。",
+      "lookupFailed": "无法查询代码。",
+      "premiumRequired": "全部账号需要 Premium。"
+    },
+    "renewAt": "续期",
+    "daysLeft": "{n} 天",
+    "renewDue": "立即续期"
+  },
+  "redeem": {
+    "title": "兑换",
+    "activeAccount": "当前账号",
+    "modeBulk": "全部账号",
+    "codesLabel": "代码",
+    "codesPlaceholder": "一个或多个代码…",
+    "redeem": "兑换",
+    "redeemAll": "全部",
+    "redeeming": "兑换中…",
+    "redeemed": "已兑换",
+    "done": "兑换完成。",
+    "errors": {
+      "invalidCodes": "请至少输入一个代码。",
+      "failed": "无法兑换 {code}。",
+      "notFound": "未找到代码：{code}",
+      "used": "代码已使用：{code}",
+      "expired": "代码已过期：{code}",
+      "premiumRequired": "全部账号需要 Premium。"
+    }
+  },
+  "friends": {
+    "title": "好友",
+    "refresh": "刷新",
+    "clearOutgoing": "清除已发送",
+    "add": "添加",
+    "addLabel": "添加好友",
+    "addPlaceholder": "名称或 ID…",
+    "search": "搜索",
+    "searchPlaceholder": "搜索…",
+    "activeAccount": "当前账号",
+    "accept": "接受",
+    "reject": "拒绝",
+    "cancel": "取消",
+    "remove": "移除",
+    "block": "拉黑",
+    "unblock": "取消拉黑",
+    "empty": "此列表没有条目。",
+    "meta": "{n} 条结果",
+    "prev": "上一页",
+    "next": "下一页",
+    "page": "第 {i}/{total} 页",
+    "addOk": "已向 {name} 发送请求。",
+    "acceptOk": "已接受与 {name} 的好友。",
+    "removeOk": "已移除：{name}",
+    "blockOk": "已拉黑：{name}",
+    "unblockOk": "已取消拉黑：{name}",
+    "clearOutgoingOk": "已取消 {n} 条已发送请求。",
+    "actionOk": "完成。",
+    "tabs": {
+      "friends": "好友",
+      "incoming": "收到",
+      "outgoing": "已发送",
+      "blocklist": "黑名单"
+    },
+    "errors": {
+      "fetchFailed": "无法加载好友。",
+      "actionFailed": "无法完成操作。",
+      "invalidTarget": "请输入名称或 ID。",
+      "invalidAction": "操作无效。",
+      "notFound": "未找到账号。",
+      "already": "已是好友或请求已存在。",
+      "self": "不能添加自己。"
+    }
+  },
+  "collectionBook": {
+    "title": "收藏书",
+    "activeAccount": "当前账号",
+    "bookLevel": "收藏书等级：{level}",
+    "targetLevelLabel": "目标等级（2-50）",
+    "invalidLevel": "等级无效。请使用 2 到 50 之间的数字。",
+    "btnCalculate": "计算资源",
+    "btnUpgradeAll": "全部升级",
+    "btnStopOnResources": "资源不足时停止",
+    "note1": "此过程会使用你账号中的资源。",
+    "note2": "需要时物品会自动进化。",
+    "note3": "已达到或超过目标等级的物品会被跳过。",
+    "resourcesTitle": "{category} 升至等级 {level} 所需资源",
+    "eligibleItems": "可升级",
+    "skippedItems": "已达等级",
+    "totalItems": "合计",
+    "noResourcesNeeded": "不需要额外资源。",
+    "processingTitle": "处理中…",
+    "processingBody": "步骤 {step}/{total}（{phase}）",
+    "processingProgress": "进度：{done}/{total}",
+    "phase": {
+      "query": "查询中",
+      "upgrade": "升级中",
+      "evolve": "进化中",
+      "finalize": "收尾中",
+      "done": "完成"
+    },
+    "resultsHeader": "结果",
+    "resultUpgraded": "已升级",
+    "resultEvolved": "已进化",
+    "resultFailed": "失败",
+    "resultSkipped": "已跳过",
+    "completeResourceWarning": "因资源不足，{count} 件物品未能升级。",
+    "completeBookLevelHeader": "收藏书",
+    "completeBookLevel": "等级 {before} → {after}",
+    "completeBookLevelUnknown": "等级 {before} → ?",
+    "completeResourcesHeader": "已消耗资源",
+    "noResourcesSpent": "未检测到资源消耗。",
+    "completeFooter": "处理完成 — 请重启游戏以应用更改。",
+    "toastComplete": "收藏书升级完成。",
+    "toastResourceShortage": "{count} 件物品资源不足。",
+    "categories": {
+      "all_items": "全部",
+      "heroes": "英雄",
+      "survivors": "幸存者",
+      "survivor_leads": "队长",
+      "defenders": "防御者",
+      "weapons": "武器",
+      "traps": "陷阱"
+    },
+    "resources": {
+      "heroxp": "英雄 XP",
+      "schematicxp": "蓝图 XP",
+      "personnelxp": "幸存者 XP",
+      "reagent_people": "训练手册",
+      "reagent_schematic": "武器设计图",
+      "reagent_traps": "陷阱设计图",
+      "reagent_c_t01": "雨滴",
+      "reagent_c_t02": "瓶中闪电",
+      "reagent_c_t03": "风暴之眼",
+      "reagent_c_t04": "风暴碎片"
+    },
+    "errors": {
+      "fetchFailed": "无法加载收藏书。",
+      "calculateFailed": "无法计算资源。",
+      "runFailed": "无法完成升级。"
+    }
+  },
+  "brSpirits": {
+    "title": "精灵",
+    "activeAccount": "当前账号",
+    "refresh": "刷新",
+    "search": "搜索",
+    "searchPlaceholder": "搜索精灵…",
+    "empty": "无结果。",
+    "prev": "上一页",
+    "next": "下一页",
+    "page": "第 {i}/{total} 页",
+    "openWeb": "在网页打开",
+    "meta": {
+      "line": "{owned}/{total} · {mastered} max · {pending} 待定 · dust {dust}"
+    },
+    "season": {
+      "current": "当前",
+      "past": "过往",
+      "all": "全部"
+    },
+    "status": {
+      "all": "全部",
+      "owned": "已拥有",
+      "missing": "缺失",
+      "pending": "待定",
+      "mastered": "Max"
+    },
+    "variants": {
+      "all": "全部",
+      "Base": "Base",
+      "Gold": "Gold",
+      "Gummy": "Gummy",
+      "Galaxy": "Galaxy",
+      "CheatMaster": "Cheat Master",
+      "LootHacker": "Loot Hacker",
+      "Holofoil": "Holofoil",
+      "Cube": "Cube",
+      "Gem": "Gem",
+      "Quack": "Quack",
+      "BountyHunter": "Bounty Hunter",
+      "TrickTreat": "Trick or Treat"
+    },
+    "errors": {
+      "fetchFailed": "无法加载精灵。"
+    },
+    "badge": {
+      "max": "Max"
+    },
+    "filters": {
+      "season": "赛季",
+      "status": "状态",
+      "variant": "变体"
+    }
+  },
+  "adminPanel": {
+    "title": "Admin panel",
+    "activeAccount": "当前账号",
+    "refresh": "刷新",
+    "redeem": "兑换",
+    "redeemAll": "全部",
+    "redeeming": "兑换中…",
+    "done": "兑换完成。",
+    "empty": "没有待兑换代码。",
+    "meta": "{needed} 待兑换 · {skipped} 已跳过",
+    "accountSummary": "OK {ok} · 失败 {fail} · 跳过 {skipped}",
+    "kind": {
+      "ok": "已兑换",
+      "lobby": "仅大厅",
+      "unavailable": "不可用 / 已拥有",
+      "invalid": "无效代码",
+      "error": "兑换错误"
+    },
+    "errors": {
+      "fetchFailed": "无法加载代码。",
+      "redeemFailed": "无法完成兑换。",
+      "premiumRequired": "全部账号需要 Premium。"
+    },
+    "metaNeeded": "{n} 待兑换",
+    "metaSkipped": "{n} 已跳过",
+    "reusable": "可重复使用"
+  },
+  "xpBoosts": {
+    "title": "Boosts XP",
+    "activeAccount": "当前账号",
+    "refresh": "刷新",
+    "amountLabel": "数量",
+    "redeemPersonal": "使用个人",
+    "searchLabel": "玩家",
+    "searchPlaceholder": "Epic 名称…",
+    "search": "搜索",
+    "sendTeammate": "发送给队友",
+    "personal": "个人",
+    "teammate": "队伍",
+    "boostedXp": "XP boost",
+    "level": "等级",
+    "working": "处理中…",
+    "redeemOk": "已兑换 {current}/{expected}",
+    "sendOk": "已发送 {current}/{expected}",
+    "recipientMeta": "XP boost {xp} · 等级 {level}{private}",
+    "private": "私密",
+    "errors": {
+      "fetchFailed": "无法加载加速。",
+      "consumeFailed": "无法完成操作。",
+      "noPersonal": "没有个人加速。",
+      "notFound": "未找到玩家。",
+      "invalidQuery": "请输入名称。",
+      "self": "不能给自己发送加速。"
+    }
+  },
+  "communityBuilds": {
+    "title": "Builds",
+    "activeAccount": "当前账号",
+    "search": "搜索",
+    "searchPlaceholder": "搜索 build…",
+    "empty": "没有 builds。",
+    "prev": "上一页",
+    "next": "下一页",
+    "page": "第 {i} 页",
+    "slotLabel": "队伍栏位",
+    "clone": "克隆",
+    "close": "关闭",
+    "cloning": "克隆中…",
+    "cloneOk": "Build 已克隆到队伍。",
+    "clonePartial": "Build 已克隆但有警告（缺少英雄/道具）。",
+    "votes": "投票",
+    "official": "官方",
+    "sort": {
+      "top": "Top",
+      "recent": "最新"
+    },
+    "errors": {
+      "fetchFailed": "无法加载 builds。",
+      "notFound": "未找到 build。",
+      "invalidSlot": "队伍栏位无效。",
+      "cloneFailed": "无法克隆 build。"
+    }
+  },
+  "miaChecker": {
+    "title": "Mia Checker",
+    "activeAccount": "当前账号",
+    "run": "检查",
+    "censor": "隐藏敏感数据",
+    "vbucks": "V-Bucks",
+    "skins": "皮肤",
+    "exclusives": "限定",
+    "friends": "好友",
+    "openLocker": "打开 BR 装备库",
+    "noStw": "无 STW / 无战役档案。",
+    "copySale": "复制消息",
+    "copied": "已复制。",
+    "copyFailed": "无法复制。",
+    "lastPlayedAgo": "{date}（{days}天）",
+    "saleMessageSkins": "{count} 件皮肤",
+    "saleMessageVbucks": "{amount} V-Bucks",
+    "sections": {
+      "account": "账号",
+      "purchases": "购买",
+      "activity": "活动",
+      "locker": "装备库",
+      "stw": "STW",
+      "sale": "出售消息"
+    },
+    "fields": {
+      "displayName": "名称",
+      "accountId": "ID",
+      "email": "Email",
+      "country": "国家",
+      "created": "创建于",
+      "tfa": "2FA",
+      "platforms": "平台",
+      "refunds": "退款",
+      "bought": "已购 V-Bucks",
+      "giftsSent": "已送礼物",
+      "giftsReceived": "已收礼物",
+      "crew": "Crew",
+      "level": "等级",
+      "wins": "胜利",
+      "matches": "对局",
+      "lastPlayed": "上次游玩",
+      "totalItems": "合计",
+      "founder": "创始人",
+      "stwLevel": "STW 等级",
+      "collectionBook": "收藏书",
+      "stwMatches": "STW 对局"
+    },
+    "founderEditions": {
+      "newStw": "新 STW",
+      "standard": "标准",
+      "deluxe": "豪华",
+      "superDeluxe": "超级豪华",
+      "limited": "限定",
+      "ultimate": "终极"
+    },
+    "errors": {
+      "fetchFailed": "无法生成报告。"
+    }
+  },
+  "authHub": {
+    "nav": "Auth Hub",
+    "navDesc": "信息、链接、收据与 exchange",
+    "title": "Auth Hub",
+    "activeAccount": "当前账号",
+    "refresh": "刷新",
+    "reveal": "显示密钥",
+    "tabs": {
+      "info": "信息",
+      "links": "Links",
+      "transactions": "收据",
+      "auth": "Auth"
+    },
+    "secrets": "凭证",
+    "emptyLinks": "无关联账号。",
+    "emptyTransactions": "无收据。",
+    "emptyDevices": "无 device auth。",
+    "currentDevice": "当前",
+    "exchange": "生成 exchange",
+    "copied": "已复制 Exchange。",
+    "prev": "上一页",
+    "next": "下一页",
+    "fields": {
+      "name": "名称",
+      "email": "Email",
+      "country": "国家",
+      "tfa": "2FA",
+      "emailVerified": "Email 已验证",
+      "cabined": "Cabined",
+      "failedLogins": "登录失败",
+      "nameChanges": "改名次数",
+      "canRename": "可改名",
+      "lastRename": "上次改名",
+      "lastLogin": "上次登录",
+      "campaignCreated": "创建（STW）",
+      "appStore": "商店",
+      "created": "创建于",
+      "lastAccess": "上次访问"
+    },
+    "errors": {
+      "fetchFailed": "无法加载 Auth Hub。",
+      "exchangeFailed": "无法生成 exchange。"
+    }
+  },
+  "expeditions": {
+    "nav": "远征",
+    "navDesc": "派遣、收取与自动 24/7",
+    "title": "远征",
+    "activeAccount": "当前账号",
+    "refresh": "刷新",
+    "collect": "收取",
+    "sendTitle": "派遣",
+    "pendingTitle": "进行中",
+    "autoTitle": "自动 24/7",
+    "autoOn": "启用",
+    "autoOff": "停用",
+    "autoActive": "自动已开",
+    "autoInactive": "自动已关",
+    "emptyPending": "没有进行中的远征。",
+    "notLinkedHint": "请在 Mia Discord 关联账号以使用自动 24/7。",
+    "premiumHint": "自动 24/7 需要 Premium/Eternum。",
+    "types": {
+      "Heroes": "英雄",
+      "Resources": "资源",
+      "Supplies": "补给",
+      "Survivors": "幸存者",
+      "Traps": "陷阱",
+      "Weapons": "武器"
+    },
+    "errors": {
+      "fetchFailed": "无法加载远征。",
+      "invalidType": "类型无效。",
+      "sendFailed": "无法派遣。",
+      "collectFailed": "无法收取。",
+      "notLinked": "账号未在 Mia 关联。",
+      "autoFailed": "无法更新自动设置。",
+      "premiumRequired": "自动 24/7 需要 Premium。"
+    },
+    "ready": "就绪",
+    "autoPick": "自动派遣类型",
+    "premiumBadge": "Premium",
+    "configureAuto": "配置",
+    "close": "关闭"
+  },
+  "cloudStorage": {
+    "nav": "Cloud",
+    "navDesc": "Epic 的 .sav 文件",
+    "title": "Cloud storage",
+    "activeAccount": "当前账号",
+    "refresh": "刷新",
+    "download": "下载",
+    "empty": "没有 .sav 文件。",
+    "errors": {
+      "fetchFailed": "无法加载 .sav。",
+      "invalidFile": "文件无效。",
+      "downloadFailed": "无法下载。"
+    },
+    "saveTitle": "存档 a{slot}",
+    "revision": "Rev. {rev}",
+    "fileCount": "{n} 个文件",
+    "search": "搜索",
+    "searchPlaceholder": "搜索存档…",
+    "noResults": "无结果。"
+  },
+  "mcp": {
+    "title": "MCP",
+    "activeAccount": "当前账号",
+    "premiumHint": "使用 MCP 控制台需要 Premium/Eternum。",
+    "operation": "操作",
+    "profile": "档案",
+    "route": "路由",
+    "publicAccountId": "公开账号",
+    "body": "Body JSON",
+    "run": "执行",
+    "ok": "OK",
+    "truncated": "响应已截断。",
+    "errors": {
+      "premiumRequired": "需要 Premium/Eternum。",
+      "invalidProfile": "档案无效。",
+      "invalidOperation": "操作无效。",
+      "invalidRoute": "路由无效。",
+      "publicIdRequired": "请填写公开账号。",
+      "invalidBody": "Body JSON 无效。",
+      "composeFailed": "无法执行 MCP。"
+    }
+  },
+  "worldEditor": {
+    "title": "World Editor",
+    "activeAccount": "当前账号",
+    "hint": "加载实时 world-info 或 JSON。转换在此下载（无本地 apply）。",
+    "loadLive": "加载实时",
+    "loadFile": "打开 JSON",
+    "download": "下载",
+    "json": "JSON",
+    "loaded": "已加载 World info。",
+    "fileLoaded": "已加载文件。",
+    "transformed": "已应用转换。",
+    "actions": {
+      "wi": "WI",
+      "dupe": "Dupe",
+      "remove-mods": "无 mods",
+      "dev": "Dev",
+      "dupev": "DupeV"
+    },
+    "summary": {
+      "theaters": "剧场",
+      "missions": "任务",
+      "alerts": "警报"
+    },
+    "errors": {
+      "empty": "无 world-info。",
+      "fetchFailed": "无法加载 world-info。",
+      "invalidJson": "JSON 无效。",
+      "tooLarge": "JSON 过大。",
+      "invalidAction": "操作无效。",
+      "transformFailed": "无法转换。"
+    }
   }
 }
