@@ -45,7 +45,8 @@
           "mk": {
             "msg1": "🕓 Loading...",
             "msg2": "❌ You are not in a match",
-            "msg3": "✅ Kicked from the match"
+            "msg3": "✅ Kicked from the match",
+            "msg4": "❌ To use this command you must add {name} as a friend in Fortnite."
           },
           "mkc": {
             "msg1": "🕓 Loading...",
@@ -55,7 +56,8 @@
             "msg5": "- Chests opened:",
             "msg6": "- Challenge rewards:",
             "msg7": "- Mission alerts:",
-            "msg8": "❌ You need to be on the final match screen."
+            "msg8": "❌ You need to be on the final match screen.",
+            "msg9": "❌ To use this command you must add {name} as a friend in Fortnite."
           }
         }
       }

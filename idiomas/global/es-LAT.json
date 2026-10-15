@@ -1235,7 +1235,8 @@
 				"msg39": "Se expulso y recogieron las recompensas",
 				"msg40": "Se expulso pero no habia recompensas que recoger",
 				"msg41": "Recompensas:",
-				"msg42": "Recompensas (continuación):"
+				"msg42": "Recompensas (continuación):",
+				"msg43": "Para usar este comando tienes que agregar a **{name}** como amigo en Fortnite."
 			}
 		},
 		"stw": {

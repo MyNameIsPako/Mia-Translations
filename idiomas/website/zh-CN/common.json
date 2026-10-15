@@ -23,7 +23,8 @@
     "closeMenu": "关闭菜单",
     "language": "语言",
     "discordSupport": "支持服务器",
-    "install": "安装 Mia"
+    "install": "安装 Mia",
+    "status": "Status"
   },
   "footer": {
     "aria": "页脚",

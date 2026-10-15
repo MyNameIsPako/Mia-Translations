@@ -45,7 +45,8 @@
           "mk": {
             "msg1": "🕓 Chargement...",
             "msg2": "❌ Vous n'êtes pas dans une partie",
-            "msg3": "✅ Expulsé de la partie"
+            "msg3": "✅ Expulsé de la partie",
+            "msg4": "❌ Pour utiliser cette commande, tu dois ajouter {name} en ami sur Fortnite."
           },
           "mkc": {
             "msg1": "🕓 Chargement...",
@@ -55,7 +56,8 @@
             "msg5": "- Coffres ouverts :",
             "msg6": "- Récompenses des défis :",
             "msg7": "- Alertes de mission :",
-            "msg8": "❌ Vous devez être sur l'écran de fin de partie."
+            "msg8": "❌ Vous devez être sur l'écran de fin de partie.",
+            "msg9": "❌ Pour utiliser cette commande, tu dois ajouter {name} en ami sur Fortnite."
           }
         }
       }

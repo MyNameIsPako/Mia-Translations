@@ -23,7 +23,8 @@
     "closeMenu": "Menü schließen",
     "language": "Sprache",
     "discordSupport": "Support-Server",
-    "install": "Mia installieren"
+    "install": "Mia installieren",
+    "status": "Status"
   },
   "footer": {
     "aria": "Fußzeile",

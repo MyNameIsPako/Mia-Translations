@@ -23,7 +23,8 @@
     "closeMenu": "Chiudi menu",
     "language": "Lingua",
     "discordSupport": "Server di supporto",
-    "install": "Installa Mia"
+    "install": "Installa Mia",
+    "status": "Status"
   },
   "footer": {
     "aria": "Piè di pagina",

@@ -10,7 +10,8 @@
     "install": "安装 Mia",
     "support": "支持服务器",
     "alt": "Mia",
-    "trust": "获得社区知名创作者的认可，并支持多种语言，让任何人都能无障碍使用。"
+    "trust": "获得社区知名创作者的认可，并支持多种语言，让任何人都能无障碍使用。",
+    "status": "Mia Status"
   },
   "stats": {
     "communities": "社区",

@@ -10,7 +10,8 @@
     "install": "Mia’yı kur",
     "support": "Destek sunucusu",
     "alt": "Mia",
-    "trust": "Toplulukta tanınan içerik üreticileri tarafından desteklenir ve birden fazla dilde sunulur; böylece herkes engelsiz kullanabilir."
+    "trust": "Toplulukta tanınan içerik üreticileri tarafından desteklenir ve birden fazla dilde sunulur; böylece herkes engelsiz kullanabilir.",
+    "status": "Mia Status"
   },
   "stats": {
     "communities": "Topluluklar",

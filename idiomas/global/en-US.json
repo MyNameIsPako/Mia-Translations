@@ -1236,7 +1236,8 @@
 				"msg39": "Kicked and rewards were collected",
 				"msg40": "Kicked, but there were no rewards to collect",
 				"msg41": "Rewards:",
-				"msg42": "Rewards (continued):"
+				"msg42": "Rewards (continued):",
+				"msg43": "To use this command you must add **{name}** as a friend in Fortnite."
 			}
 		},
 		"stw": {

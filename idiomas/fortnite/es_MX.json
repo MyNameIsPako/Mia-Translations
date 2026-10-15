@@ -46,7 +46,8 @@
         "mk": {
           "msg1": "🕓 Cargando...",
           "msg2": "❌ No estas en una partida",
-          "msg3": "✅ Expulsado de la partida"
+          "msg3": "✅ Expulsado de la partida",
+          "msg4": "❌ Para usar este comando tienes que agregar a {name} como amigo en Fortnite."
         },
         "mkc": {
           "msg1": "🕓 Cargando...",
@@ -56,7 +57,8 @@
           "msg5": "- Cofres abiertos:",
           "msg6": "- Recompensas desafios:",
           "msg7": "- Alertas de la misión:",
-          "msg8": "❌ Tienes que estar en la pantalla final de la partida."
+          "msg8": "❌ Tienes que estar en la pantalla final de la partida.",
+          "msg9": "❌ Para usar este comando tienes que agregar a {name} como amigo en Fortnite."
         }
       }
     },

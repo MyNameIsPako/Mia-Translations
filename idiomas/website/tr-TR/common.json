@@ -23,7 +23,8 @@
     "closeMenu": "Menüyü kapat",
     "language": "Dil",
     "discordSupport": "Destek sunucusu",
-    "install": "Mia’yı yükle"
+    "install": "Mia’yı yükle",
+    "status": "Status"
   },
   "footer": {
     "aria": "Alt bilgi",

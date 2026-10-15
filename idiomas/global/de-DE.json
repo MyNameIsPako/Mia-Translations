@@ -1254,7 +1254,8 @@
 				"msg39": "Wurde entfernt und die Belohnungen wurden eingesammelt",
 				"msg40": "Wurde entfernt, aber es gab keine Belohnungen zum Einsammeln",
 				"msg41": "Belohnungen:",
-				"msg42": "Belohnungen (Fortsetzung):"
+				"msg42": "Belohnungen (Fortsetzung):",
+				"msg43": "Um diesen Befehl zu nutzen, musst du **{name}** in Fortnite als Freund hinzufügen."
 			}
 		},
 		"stw": {

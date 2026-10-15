@@ -23,7 +23,8 @@
     "closeMenu": "Cerrar menú",
     "language": "Idioma",
     "discordSupport": "Servidor de soporte",
-    "install": "Instalar Mia"
+    "install": "Instalar Mia",
+    "status": "Status"
   },
   "footer": {
     "aria": "Pie de página",

@@ -23,7 +23,8 @@
     "closeMenu": "メニューを閉じる",
     "language": "言語",
     "discordSupport": "サポートサーバー",
-    "install": "Miaをインストール"
+    "install": "Miaをインストール",
+    "status": "Status"
   },
   "footer": {
     "aria": "フッター",

@@ -10,7 +10,8 @@
     "install": "Installer Mia",
     "support": "Serveur de support",
     "alt": "Mia",
-    "trust": "Soutenue par des créateurs reconnus de la communauté et disponible en plusieurs langues, pour que chacun puisse l’utiliser sans barrières."
+    "trust": "Soutenue par des créateurs reconnus de la communauté et disponible en plusieurs langues, pour que chacun puisse l’utiliser sans barrières.",
+    "status": "Status Mia"
   },
   "stats": {
     "communities": "Communautés",
