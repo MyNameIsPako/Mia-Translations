@@ -3301,7 +3301,8 @@
 		"msg4": "Questo account non ha STW",
 		"msg5": "Segnala errore",
 		"msg6": "Server ufficiale",
-		"msg7": "L'account Fortnite **{account}** è bannato o non ha accesso a Fortnite a causa di una restrizione\n> Usa `/cambiar` con un altro account oppure registralo di nuovo quando Epic lo sblocca."
+		"msg7": "L'account Fortnite **{account}** è bannato o non ha accesso a Fortnite a causa di una restrizione\n> Usa `/cambiar` con un altro account oppure registralo di nuovo quando Epic lo sblocca.",
+		"msg8": "Status Mia"
 	},
 	"sistemas": {
 		"ad": {

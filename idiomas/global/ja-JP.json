@@ -3268,7 +3268,8 @@
 		"msg4": "このアカウントにはSTWがありません",
 		"msg5": "エラーを報告する",
 		"msg6": "公式サーバー",
-		"msg7": "Fortniteアカウント **{account}** はBANされているか、何らかの制限によりFortniteにアクセスできません\n> 別のアカウントで `/cambiar` を使うか、Epicが解除したら再度登録してください。"
+		"msg7": "Fortniteアカウント **{account}** はBANされているか、何らかの制限によりFortniteにアクセスできません\n> 別のアカウントで `/cambiar` を使うか、Epicが解除したら再度登録してください。",
+		"msg8": "Mia Status"
 	},
 	"sistemas": {
 		"ad": {

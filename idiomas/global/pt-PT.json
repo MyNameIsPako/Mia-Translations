@@ -3267,7 +3267,8 @@
 		"msg4": "Esta conta não possui STW",
 		"msg5": "Reportar erro",
 		"msg6": "Servidor oficial",
-		"msg7": "A conta de Fortnite **{account}** está banida ou não tem acesso ao Fortnite por alguma restrição\n> Usa `/cambiar` com outra conta ou volta a registá-la quando a Epic a desbloquear."
+		"msg7": "A conta de Fortnite **{account}** está banida ou não tem acesso ao Fortnite por alguma restrição\n> Usa `/cambiar` com outra conta ou volta a registá-la quando a Epic a desbloquear.",
+		"msg8": "Status Mia"
 	},
 	"sistemas": {
 		"ad": {
