@@ -700,11 +700,36 @@
       "music": "Musica",
       "loadingscreen": "Schermate",
       "crew": "Crew",
-      "exclusivos": "Esclusivi"
+      "exclusivos": "Esclusivi",
+      "exclusivosUnicos": "Esclusivi e unici",
+      "unicos": "Unici",
+      "recientes": "Recenti",
+      "favoritos": "Preferiti",
+      "desafios": "Sfide",
+      "tienda": "Negozio",
+      "crewPacks": "Pacchetti Crew",
+      "dias1000": "1.000+ giorni",
+      "variantesMax": "Varianti stile max.",
+      "archivados": "Archiviati",
+      "sinVer": "Non visti",
+      "bundles": "Lotti",
+      "sidekicks": "Sidekick",
+      "kicks": "Scarpe",
+      "wraps": "Coperture",
+      "emojis": "Emoticon",
+      "banners": "Stendardi",
+      "cars": "Auto",
+      "decals": "Decalcomanie",
+      "wheels": "Ruote",
+      "trails": "Fumi drift",
+      "boosts": "Boost",
+      "jamTracks": "Tracce Jam",
+      "instruments": "Strumenti",
+      "auras": "Aure"
     },
     "errors": {
       "fetchFailed": "Impossibile caricare il locker.",
-      "premiumRequired": "Esclusivi richiede Premium."
+      "premiumRequired": "I filtri premium richiedono Premium."
     },
     "badges": {
       "crew": "Crew",

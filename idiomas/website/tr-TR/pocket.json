@@ -700,11 +700,36 @@
       "music": "Müzik",
       "loadingscreen": "Yükleme ekranları",
       "crew": "Crew",
-      "exclusivos": "Özel"
+      "exclusivos": "Özel",
+      "exclusivosUnicos": "Özel ve benzersiz",
+      "unicos": "Benzersiz",
+      "recientes": "Son",
+      "favoritos": "Favoriler",
+      "desafios": "Görevler",
+      "tienda": "Mağaza",
+      "crewPacks": "Crew paketleri",
+      "dias1000": "1.000+ gün",
+      "variantesMax": "Maks. stil varyantları",
+      "archivados": "Arşivlenen",
+      "sinVer": "Görülmeyen",
+      "bundles": "Paketler",
+      "sidekicks": "Sidekickler",
+      "kicks": "Ayakkabılar",
+      "wraps": "Kaplamalar",
+      "emojis": "İfadeler",
+      "banners": "Afişler",
+      "cars": "Arabalar",
+      "decals": "Çıkartmalar",
+      "wheels": "Tekerlekler",
+      "trails": "Drift dumanları",
+      "boosts": "Boostlar",
+      "jamTracks": "Jam Parçaları",
+      "instruments": "Enstrümanlar",
+      "auras": "Auralar"
     },
     "errors": {
       "fetchFailed": "Locker yüklenemedi.",
-      "premiumRequired": "Özel için Premium gerekir."
+      "premiumRequired": "Premium filtreler Premium gerektirir."
     },
     "badges": {
       "crew": "Crew",

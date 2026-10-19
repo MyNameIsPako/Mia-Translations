@@ -178,7 +178,7 @@
 				"msg81": "Favourites",
 				"msg82": "Archived",
 				"msg83": "Unseen",
-				"msg84": "Fortnite Packs",
+				"msg84": "Bundles",
 				"msg85": "Missing Wraps",
 				"msg86": "Missing Banners",
 				"msg87": "Missing Contrails",
@@ -187,7 +187,23 @@
 				"msg90": "Add to favorites",
 				"msg91": "Added **{count}** image items to favorites.",
 				"msg92": "There are no image items to favorite.",
-				"msg93": "Could not add the items to favorites."
+				"msg93": "Could not add the items to favorites.",
+				"msg94": "Sidekicks",
+				"msg95": "Decals",
+				"msg96": "Missing Back Blings",
+				"msg97": "Missing Pickaxes",
+				"msg98": "Missing Gliders",
+				"msg99": "Missing Sidekicks",
+				"msg100": "Missing Kicks",
+				"msg101": "Missing Cars",
+				"msg102": "Missing Decals",
+				"msg103": "Missing Wheels",
+				"msg104": "Missing Trails",
+				"msg105": "Missing Boosts",
+				"msg106": "Missing Jam Tracks",
+				"msg107": "Missing Instruments",
+				"msg108": "Missing Auras",
+				"msg109": "Chapter 7"
 			},
 			"packsGratis": {
 				"noExiste": "This item is no longer available for purchase.",
@@ -2151,6 +2167,20 @@
 				"completeResourcesHeader": "Resources",
 				"completeResourcesUnreadable": "⚠️ Could not read the final balance; resources were still spent. Restart the game to see totals.",
 				"noResourcesSpent": "No resource consumption detected."
+			},
+			"party": {
+				"title": "Party",
+				"lobby": "You are in the lobby (no active mission).",
+				"mission": "Mission",
+				"rewards": "Rewards",
+				"alerts": "Alerts",
+				"timeInMission": "Time in mission",
+				"timeUnknown": "—",
+				"region": "Region",
+				"players": "Players",
+				"leader": "Leader",
+				"noRewards": "No rewards",
+				"zone": "Zone"
 			}
 		}
 	},
@@ -2366,7 +2396,9 @@
 				"msg21": "NEW",
 				"msg22": "REGION",
 				"msg23": "LEAVING",
-				"msg24": "Filtered by:"
+				"msg24": "Filtered by:",
+				"msg25": "Show music",
+				"msg26": "Hide music"
 			}
 		},
 		"config": {

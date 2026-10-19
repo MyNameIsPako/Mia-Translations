@@ -177,7 +177,7 @@
 				"msg81": "Preferiti",
 				"msg82": "Archiviati",
 				"msg83": "Non visti",
-				"msg84": "Pack Fortnite",
+				"msg84": "Lotti",
 				"msg85": "Coperture mancanti",
 				"msg86": "Banner mancanti",
 				"msg87": "Scie mancanti",
@@ -186,7 +186,23 @@
 				"msg90": "Aggiungi ai preferiti",
 				"msg91": "Aggiunti ai preferiti **{count}** oggetti dell'immagine.",
 				"msg92": "Nessun oggetto dell'immagine da aggiungere ai preferiti.",
-				"msg93": "Impossibile aggiungere gli oggetti ai preferiti."
+				"msg93": "Impossibile aggiungere gli oggetti ai preferiti.",
+				"msg94": "Sidekicks",
+				"msg95": "Decalcomanie",
+				"msg96": "Dorsi mancanti",
+				"msg97": "Picconi mancanti",
+				"msg98": "Deltaplani mancanti",
+				"msg99": "Mascotte mancanti",
+				"msg100": "Scarpe mancanti",
+				"msg101": "Auto mancanti",
+				"msg102": "Decalcomanie mancanti",
+				"msg103": "Ruote mancanti",
+				"msg104": "Scie mancanti",
+				"msg105": "Boost mancanti",
+				"msg106": "Tracce Jam mancanti",
+				"msg107": "Strumenti mancanti",
+				"msg108": "Aure mancanti",
+				"msg109": "Capitolo 7"
 			},
 			"packsGratis": {
 				"noExiste": "Questo articolo non è più disponibile per l'acquisto.",
@@ -2184,6 +2200,20 @@
 				"completeResourcesHeader": "Risorse",
 				"completeResourcesUnreadable": "⚠️ Impossibile leggere il saldo finale; le risorse sono state comunque consumate. Riavvia il gioco per vedere il totale.",
 				"noResourcesSpent": "Nessun consumo di risorse rilevato."
+			},
+			"party": {
+				"title": "Party",
+				"lobby": "Sei in lobby (nessuna missione attiva).",
+				"mission": "Missione",
+				"rewards": "Ricompense",
+				"alerts": "Allerte",
+				"timeInMission": "Tempo in missione",
+				"timeUnknown": "—",
+				"region": "Regione",
+				"players": "Giocatori",
+				"leader": "Leader",
+				"noRewards": "Nessuna ricompensa",
+				"zone": "Zona"
 			}
 		}
 	},
@@ -2399,7 +2429,9 @@
 				"msg21": "NUOVO",
 				"msg22": "REGIONE",
 				"msg23": "ESCE OGGI",
-				"msg24": "Filtrato per:"
+				"msg24": "Filtrato per:",
+				"msg25": "Mostra musiche",
+				"msg26": "Nascondi musiche"
 			}
 		},
 		"config": {

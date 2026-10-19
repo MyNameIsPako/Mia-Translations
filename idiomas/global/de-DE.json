@@ -180,7 +180,7 @@
 				"msg81": "Favoriten",
 				"msg82": "Archiviert",
 				"msg83": "Ungesehen",
-				"msg84": "Fortnite-Pakete",
+				"msg84": "Bundles",
 				"msg85": "Fehlende Folien",
 				"msg86": "Fehlende Banner",
 				"msg87": "Fehlende Contrails",
@@ -189,7 +189,23 @@
 				"msg90": "Zu Favoriten hinzufügen",
 				"msg91": "**{count}** Bild-Items wurden zu den Favoriten hinzugefügt.",
 				"msg92": "Es gibt keine Bild-Items zum Favorisieren.",
-				"msg93": "Items konnten nicht zu Favoriten hinzugefügt werden."
+				"msg93": "Items konnten nicht zu Favoriten hinzugefügt werden.",
+				"msg94": "Sidekicks",
+				"msg95": "Decals",
+				"msg96": "Fehlende Rücken-Blings",
+				"msg97": "Fehlende Spitzhacken",
+				"msg98": "Fehlende Gleiter",
+				"msg99": "Fehlende Sidekicks",
+				"msg100": "Fehlende Schuhe",
+				"msg101": "Fehlende Autos",
+				"msg102": "Fehlende Decals",
+				"msg103": "Fehlende Räder",
+				"msg104": "Fehlende Spuren",
+				"msg105": "Fehlende Boosts",
+				"msg106": "Fehlende Jam-Tracks",
+				"msg107": "Fehlende Instrumente",
+				"msg108": "Fehlende Auren",
+				"msg109": "Kapitel 7"
 			},
 			"packsGratis": {
 				"noExiste": "Dieser Artikel ist nicht mehr zum Kauf verfügbar.",
@@ -2169,6 +2185,20 @@
 				"completeResourcesHeader": "Ressourcen",
 				"completeResourcesUnreadable": "⚠️ Endstand konnte nicht gelesen werden; Ressourcen wurden trotzdem verbraucht. Starte das Spiel neu, um die Werte zu sehen.",
 				"noResourcesSpent": "Kein Ressourcenverbrauch erkannt."
+			},
+			"party": {
+				"title": "Party",
+				"lobby": "Du bist in der Lobby (keine aktive Mission).",
+				"mission": "Mission",
+				"rewards": "Belohnungen",
+				"alerts": "Alarme",
+				"timeInMission": "Zeit in der Mission",
+				"timeUnknown": "—",
+				"region": "Region",
+				"players": "Spieler",
+				"leader": "Anführer",
+				"noRewards": "Keine Belohnungen",
+				"zone": "Zone"
 			}
 		}
 	},
@@ -2384,7 +2414,9 @@
 				"msg21": "NEU",
 				"msg22": "REGION",
 				"msg23": "GEHT HEUTE",
-				"msg24": "Gefiltert nach:"
+				"msg24": "Gefiltert nach:",
+				"msg25": "Musik anzeigen",
+				"msg26": "Musik ausblenden"
 			}
 		},
 		"config": {

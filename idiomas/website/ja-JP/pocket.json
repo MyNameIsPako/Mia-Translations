@@ -700,11 +700,36 @@
       "music": "ミュージック",
       "loadingscreen": "ロード画面",
       "crew": "Crew",
-      "exclusivos": "限定"
+      "exclusivos": "限定",
+      "exclusivosUnicos": "限定＆ユニーク",
+      "unicos": "ユニーク",
+      "recientes": "最近",
+      "favoritos": "お気に入り",
+      "desafios": "チャレンジ",
+      "tienda": "ショップ",
+      "crewPacks": "クルーパック",
+      "dias1000": "1,000日以上",
+      "variantesMax": "最大スタイル",
+      "archivados": "アーカイブ",
+      "sinVer": "未確認",
+      "bundles": "バンドル",
+      "sidekicks": "サイドキック",
+      "kicks": "キックス",
+      "wraps": "ラップ",
+      "emojis": "絵文字",
+      "banners": "バナー",
+      "cars": "車",
+      "decals": "デカール",
+      "wheels": "ホイール",
+      "trails": "ドリフトトレイル",
+      "boosts": "ブースト",
+      "jamTracks": "ジャムトラック",
+      "instruments": "楽器",
+      "auras": "オーラ"
     },
     "errors": {
       "fetchFailed": "Lockerを読み込めませんでした。",
-      "premiumRequired": "限定にはPremiumが必要です。"
+      "premiumRequired": "プレミアムフィルターにはPremiumが必要です。"
     },
     "badges": {
       "crew": "Crew",

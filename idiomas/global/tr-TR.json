@@ -178,7 +178,7 @@
 				"msg81": "Favoriler",
 				"msg82": "Arşivlenenler",
 				"msg83": "Görülmeyen",
-				"msg84": "Fortnite Paketleri",
+				"msg84": "Paketler",
 				"msg85": "Eksik Kaplamalar",
 				"msg86": "Eksik Bannerlar",
 				"msg87": "Eksik Contrail",
@@ -187,7 +187,23 @@
 				"msg90": "Favorilere ekle",
 				"msg91": "Görseldeki **{count}** öğe favorilere eklendi.",
 				"msg92": "Favorilere eklenecek görsel öğesi yok.",
-				"msg93": "Öğeler favorilere eklenemedi."
+				"msg93": "Öğeler favorilere eklenemedi.",
+				"msg94": "Sidekickler",
+				"msg95": "Çıkartmalar",
+				"msg96": "Eksik Sırtlıklar",
+				"msg97": "Eksik Kazmalar",
+				"msg98": "Eksik Planörler",
+				"msg99": "Eksik Yan Karakterler",
+				"msg100": "Eksik Ayakkabılar",
+				"msg101": "Eksik Arabalar",
+				"msg102": "Eksik Çıkartmalar",
+				"msg103": "Eksik Tekerlekler",
+				"msg104": "Eksik İzler",
+				"msg105": "Eksik Boostlar",
+				"msg106": "Eksik Jam Parçaları",
+				"msg107": "Eksik Enstrümanlar",
+				"msg108": "Eksik Auralar",
+				"msg109": "Bölüm 7"
 			},
 			"packsGratis": {
 				"noExiste": "Bu ürün artık satın alınamıyor.",
@@ -2151,6 +2167,20 @@
 				"completeResourcesHeader": "Kaynaklar",
 				"completeResourcesUnreadable": "⚠️ Son bakiye okunamadı; kaynaklar yine de harcandı. Toplamı görmek için oyunu yeniden başlat.",
 				"noResourcesSpent": "Kaynak tüketimi tespit edilmedi."
+			},
+			"party": {
+				"title": "Parti",
+				"lobby": "Lobidesin (aktif görev yok).",
+				"mission": "Görev",
+				"rewards": "Ödüller",
+				"alerts": "Uyarılar",
+				"timeInMission": "Görev süresi",
+				"timeUnknown": "—",
+				"region": "Bölge",
+				"players": "Oyuncular",
+				"leader": "Lider",
+				"noRewards": "Ödül yok",
+				"zone": "Bölge"
 			}
 		}
 	},
@@ -2366,7 +2396,9 @@
 				"msg21": "YENİ",
 				"msg22": "BÖLGE",
 				"msg23": "BUGÜN GİDİYOR",
-				"msg24": "Filtre:"
+				"msg24": "Filtre:",
+				"msg25": "Müzikleri göster",
+				"msg26": "Müziği gizle"
 			}
 		},
 		"config": {

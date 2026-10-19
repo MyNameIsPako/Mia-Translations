@@ -177,7 +177,7 @@
 				"msg81": "Favoritos",
 				"msg82": "Archivados",
 				"msg83": "Sin ver",
-				"msg84": "Packs de Fortnite",
+				"msg84": "Lotes",
 				"msg85": "Envolturas faltantes",
 				"msg86": "Estandartes faltantes",
 				"msg87": "Estelas faltantes",
@@ -186,7 +186,23 @@
 				"msg90": "Añadir a favoritos",
 				"msg91": "Se añadieron a favoritos **{count}** ítems de la imagen.",
 				"msg92": "No hay ítems de la imagen para marcar como favoritos.",
-				"msg93": "No pude añadir los ítems a favoritos."
+				"msg93": "No pude añadir los ítems a favoritos.",
+				"msg94": "Mascotas",
+				"msg95": "Calcomanías",
+				"msg96": "Mochilas faltantes",
+				"msg97": "Picos faltantes",
+				"msg98": "Alas faltantes",
+				"msg99": "Mascotas faltantes",
+				"msg100": "Zapatillas faltantes",
+				"msg101": "Coches faltantes",
+				"msg102": "Calcomanías faltantes",
+				"msg103": "Ruedas faltantes",
+				"msg104": "Humo faltante",
+				"msg105": "Boosts faltantes",
+				"msg106": "Pistas Jam faltantes",
+				"msg107": "Instrumentos faltantes",
+				"msg108": "Auras faltantes",
+				"msg109": "Capítulo 7"
 			},
 			"packsGratis": {
 				"noExiste": "Este item ya no existe para comprar.",
@@ -2179,6 +2195,20 @@
 				"completeResourcesHeader": "Recursos",
 				"completeResourcesUnreadable": "⚠️ No se pudo leer el balance final; los recursos sí se consumieron. Reinicia el juego para ver el total.",
 				"noResourcesSpent": "No se detectó consumo de recursos."
+			},
+			"party": {
+				"title": "Partida",
+				"lobby": "Estás en el lobby (no hay misión activa).",
+				"mission": "Misión",
+				"rewards": "Recompensas",
+				"alerts": "Alertas",
+				"timeInMission": "Tiempo en misión",
+				"timeUnknown": "—",
+				"region": "Región",
+				"players": "Jugadores",
+				"leader": "Líder",
+				"noRewards": "Sin recompensas",
+				"zone": "Zona"
 			}
 		}
 	},
@@ -2394,7 +2424,9 @@
 				"msg21": "NUEVO",
 				"msg22": "REGIÓN",
 				"msg23": "SE VA HOY",
-				"msg24": "Filtrado por:"
+				"msg24": "Filtrado por:",
+				"msg25": "Mostrar músicas",
+				"msg26": "Ocultar músicas"
 			}
 		},
 		"config": {

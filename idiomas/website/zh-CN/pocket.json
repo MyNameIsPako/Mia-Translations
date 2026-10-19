@@ -700,11 +700,36 @@
       "music": "音乐",
       "loadingscreen": "加载画面",
       "crew": "Crew",
-      "exclusivos": "限定"
+      "exclusivos": "限定",
+      "exclusivosUnicos": "限定与独特",
+      "unicos": "独特",
+      "recientes": "最近",
+      "favoritos": "收藏",
+      "desafios": "挑战",
+      "tienda": "商店",
+      "crewPacks": "Crew 礼包",
+      "dias1000": "1,000+ 天",
+      "variantesMax": "最大样式变体",
+      "archivados": "已归档",
+      "sinVer": "未查看",
+      "bundles": "捆绑包",
+      "sidekicks": "伙伴",
+      "kicks": "球鞋",
+      "wraps": "皮肤",
+      "emojis": "表情",
+      "banners": "旗帜",
+      "cars": "载具",
+      "decals": "贴花",
+      "wheels": "轮胎",
+      "trails": "漂移尾迹",
+      "boosts": "加速",
+      "jamTracks": "Jam 音轨",
+      "instruments": "乐器",
+      "auras": "光环"
     },
     "errors": {
       "fetchFailed": "无法加载 Locker。",
-      "premiumRequired": "限定需要 Premium。"
+      "premiumRequired": "高级筛选需要 Premium。"
     },
     "badges": {
       "crew": "Crew",

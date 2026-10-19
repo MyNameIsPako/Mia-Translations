@@ -700,11 +700,36 @@
       "music": "Musik",
       "loadingscreen": "Ladebildschirme",
       "crew": "Crew",
-      "exclusivos": "Exklusiv"
+      "exclusivos": "Exklusiv",
+      "exclusivosUnicos": "Exklusives & Uniques",
+      "unicos": "Uniques",
+      "recientes": "Zuletzt",
+      "favoritos": "Favoriten",
+      "desafios": "Herausforderungen",
+      "tienda": "Shop",
+      "crewPacks": "Crew-Pakete",
+      "dias1000": "1.000+ Tage",
+      "variantesMax": "Max. Stilvarianten",
+      "archivados": "Archiviert",
+      "sinVer": "Ungesehen",
+      "bundles": "Bundles",
+      "sidekicks": "Sidekicks",
+      "kicks": "Kicks",
+      "wraps": "Folien",
+      "emojis": "Emoticons",
+      "banners": "Banner",
+      "cars": "Autos",
+      "decals": "Decals",
+      "wheels": "Reifen",
+      "trails": "Driftspuren",
+      "boosts": "Boosts",
+      "jamTracks": "Jam-Tracks",
+      "instruments": "Instrumente",
+      "auras": "Auren"
     },
     "errors": {
       "fetchFailed": "Locker konnte nicht geladen werden.",
-      "premiumRequired": "Exklusiv erfordert Premium."
+      "premiumRequired": "Premium-Filter erfordern Premium."
     },
     "badges": {
       "crew": "Crew",

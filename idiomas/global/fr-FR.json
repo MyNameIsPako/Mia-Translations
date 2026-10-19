@@ -177,7 +177,7 @@
 				"msg81": "Favoris",
 				"msg82": "Archivés",
 				"msg83": "Non vus",
-				"msg84": "Packs Fortnite",
+				"msg84": "Lots",
 				"msg85": "Couvertures manquantes",
 				"msg86": "Bannières manquantes",
 				"msg87": "Traînées manquantes",
@@ -186,7 +186,23 @@
 				"msg90": "Ajouter aux favoris",
 				"msg91": "**{count}** objets de l'image ont été ajoutés aux favoris.",
 				"msg92": "Aucun objet de l'image à ajouter aux favoris.",
-				"msg93": "Impossible d'ajouter les objets aux favoris."
+				"msg93": "Impossible d'ajouter les objets aux favoris.",
+				"msg94": "Sidekicks",
+				"msg95": "Stickers",
+				"msg96": "Sacs manquants",
+				"msg97": "Pioches manquantes",
+				"msg98": "Planeurs manquants",
+				"msg99": "Mascottes manquantes",
+				"msg100": "Chaussures manquantes",
+				"msg101": "Voitures manquantes",
+				"msg102": "Stickers manquants",
+				"msg103": "Roues manquantes",
+				"msg104": "Traînées manquantes",
+				"msg105": "Boosts manquants",
+				"msg106": "Pistes Jam manquantes",
+				"msg107": "Instruments manquants",
+				"msg108": "Auras manquantes",
+				"msg109": "Chapitre 7"
 			},
 			"packsGratis": {
 				"noExiste": "Cet article n'existe plus pour l'achat.",
@@ -2150,6 +2166,20 @@
 				"completeResourcesHeader": "Ressources",
 				"completeResourcesUnreadable": "⚠️ Impossible de lire le solde final ; les ressources ont bien été consommées. Redémarrez le jeu pour voir le total.",
 				"noResourcesSpent": "Aucune consommation de ressources détectée."
+			},
+			"party": {
+				"title": "Partie",
+				"lobby": "Tu es dans le lobby (aucune mission active).",
+				"mission": "Mission",
+				"rewards": "Récompenses",
+				"alerts": "Alertes",
+				"timeInMission": "Temps en mission",
+				"timeUnknown": "—",
+				"region": "Région",
+				"players": "Joueurs",
+				"leader": "Chef",
+				"noRewards": "Aucune récompense",
+				"zone": "Zone"
 			}
 		}
 	},
@@ -2365,7 +2395,9 @@
 				"msg21": "NOUVEAU",
 				"msg22": "RÉGION",
 				"msg23": "PART AUJ.",
-				"msg24": "Filtré par :"
+				"msg24": "Filtré par :",
+				"msg25": "Afficher musiques",
+				"msg26": "Masquer les musiques"
 			}
 		},
 		"config": {
