@@ -142,7 +142,10 @@
       "traductores": "翻译",
       "designers": "设计师",
       "thanks": "特别鸣谢"
-    }
+    },
+    "moreLead": "想认识所有为 Mia 做出贡献的人吗？",
+    "moreCta": "可以在这里查看",
+    "moreAria": "可以在这里查看"
   },
   "launchers": {
     "titleBefore": "需要一个 ",

@@ -142,7 +142,10 @@
       "traductores": "Translators",
       "designers": "Designers",
       "thanks": "Thanks"
-    }
+    },
+    "moreLead": "Want to meet everyone who has contributed to Mia?",
+    "moreCta": "You can see them here",
+    "moreAria": "You can see them here"
   },
   "launchers": {
     "titleBefore": "Need a ",

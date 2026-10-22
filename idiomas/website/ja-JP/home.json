@@ -142,7 +142,10 @@
       "traductores": "翻訳者",
       "designers": "デザイナー",
       "thanks": "スペシャルサンクス"
-    }
+    },
+    "moreLead": "Miaに貢献したすべての人を知りたい？",
+    "moreCta": "ここで見られます",
+    "moreAria": "ここで見られます"
   },
   "launchers": {
     "titleBefore": "お探しですか：",

@@ -142,7 +142,10 @@
       "traductores": "Tradutores",
       "designers": "Designers",
       "thanks": "Agradecimentos"
-    }
+    },
+    "moreLead": "Queres conhecer todas as pessoas que contribuíram para a Mia?",
+    "moreCta": "Podes vê-las aqui",
+    "moreAria": "Podes vê-las aqui"
   },
   "launchers": {
     "titleBefore": "Precisas de um ",

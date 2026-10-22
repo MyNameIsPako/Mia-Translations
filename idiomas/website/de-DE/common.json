@@ -24,7 +24,8 @@
     "language": "Sprache",
     "discordSupport": "Support-Server",
     "install": "Mia installieren",
-    "status": "Status"
+    "status": "Status",
+    "colaboradores": "Mitwirkende"
   },
   "footer": {
     "aria": "Fußzeile",
@@ -53,7 +54,8 @@
     "privacy": "Datenschutz",
     "terms": "Nutzungsbedingungen",
     "termsChecker": "Mia-Checker-Bedingungen",
-    "fromSpain": "Aus Spanien für unsere ganze Community."
+    "fromSpain": "Aus Spanien für unsere ganze Community.",
+    "colaboradores": "Mitwirkende"
   },
   "cta": {
     "install": "Mia installieren",

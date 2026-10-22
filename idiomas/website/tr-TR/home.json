@@ -142,7 +142,10 @@
       "traductores": "Çevirmenler",
       "designers": "Tasarımcılar",
       "thanks": "Teşekkürler"
-    }
+    },
+    "moreLead": "Mia'ya katkı sağlayan herkesi tanımak ister misin?",
+    "moreCta": "Buradan görebilirsin",
+    "moreAria": "Buradan görebilirsin"
   },
   "launchers": {
     "titleBefore": "Bir ",

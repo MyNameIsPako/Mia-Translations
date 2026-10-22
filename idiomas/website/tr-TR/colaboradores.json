@@ -1,0 +1,147 @@
+{
+  "kicker": "Ekip",
+  "title": "Katkıda bulunanlar",
+  "lead": "Mia'ya katkı sağlayanlar: üstlendikleri rol ve geliştirdikleri şeyler.",
+  "loading": "Katkıda bulunanlar yükleniyor…",
+  "empty": "Henüz katkıda bulunan yok.",
+  "errorApi": "Mia API başlatılamadı.",
+  "errorLoad": "Katkıda bulunanlar yüklenemedi.",
+  "sections": {
+    "active": "Aktif katkıda bulunanlar",
+    "activeLead": "Şu anda Mia Lounge'da kredi rolü olan kişiler.",
+    "alumni": "Eski katkıda bulunanlar",
+    "alumniLead": "Projede yer alıp katkı sağlayan kişiler."
+  },
+  "roles": {
+    "all": "Tümü",
+    "alumni": "Eski katkıda bulunanlar",
+    "betaTesters": "Beta testçiler",
+    "bugHunters": "Hata avcıları",
+    "codeHelpers": "Kod yardımcıları",
+    "designers": "Tasarımcılar",
+    "developers": "Geliştiriciler",
+    "thanks": "Teşekkürler",
+    "traductores": "Çevirmenler"
+  },
+  "meta": {
+    "title": "Mia · Katkıda bulunanlar",
+    "description": "Mia katkıda bulunanları: geliştiriciler, yardımcılar, çevirmenler, tasarımcılar ve katkı sağlayan herkes."
+  },
+  "funcsLabel": "Görevler / katkılar",
+  "noFuncs": "Listelenmiş görev yok.",
+  "badgeActivo": "Aktif",
+  "badgeInactivo": "Pasif",
+  "techLabel": "Teknolojiler",
+  "people": {
+    "345349877502574595": {
+      "rol": "Kurucu ve baş geliştirici",
+      "funciones": [
+        "TypeScript/Node.js ile Mia ekosisteminin full-stack mimarisi ve geliştirmesi: Discord.js bot, REST API (Express), worker'lar, otomasyonlar ve üretim backend servisleri.",
+        "Epic Games / Fortnite platformuyla derin entegrasyon (MCP, EOS, device auth, XMPP/STOMP, STW ve BR profilleri) ve güvenli kimlik bilgisi yönetimiyle çoklu hesap akışları.",
+        "Masaüstü ürünü Mia Launcher (Tauri + SvelteKit): Discord/Epic kimlik doğrulama, STW/BR panelleri, bot ile özellik paritesi ve imzalı güncelleme kanalı.",
+        "Web ürünleri Mia Website ve Mia Pocket: çok dilli site (Cloudflare Pages), mobil kontrol paneli, i18n ve genel/özel API kullanımı.",
+        "Uçtan uca altyapı ve operasyon: MongoDB/Mongoose, dağıtım, rate limiting, gözlemlenebilirlik, gizli anahtar güvenliği ve tüm Mia yığınının sürekli bakımı."
+      ],
+      "tecnologias": [
+        "TypeScript",
+        "Node.js",
+        "Discord.js",
+        "Express",
+        "MongoDB",
+        "Mongoose",
+        "Tauri",
+        "SvelteKit",
+        "Rust",
+        "Cloudflare Pages",
+        "Epic Games API",
+        "EOS / XMPP / STOMP"
+      ]
+    },
+    "755913151693717556": {
+      "rol": "Backend geliştirici (Discord botu)",
+      "funciones": [
+        "TypeScript/Node.js (Discord.js) ile Discord botunun geliştirilmesi ve bakımı: slash/prefix komutları, olay işleyicileri, runtime modülleri ve servis iç yapısı.",
+        "MongoDB/Mongoose ile veri katmanı ve kalıcılık: şemalar, controller'lar ve üretimde botu ayakta tutan hesap/kullanıcı/config mantığı.",
+        "Botun Fortnite sistemlerine destek (fnbr/EOS entegrasyonları, party/görev yardımcıları ve otomasyonlar) ve kritik akış regresyonlarını stabilize etme.",
+        "Üretimde hata ayıklama ve hardening: olay teşhisi, performans/güvenilirlik düzeltmeleri ve paylaşılan bot kodunun sürekli bakımı."
+      ],
+      "tecnologias": [
+        "TypeScript",
+        "Node.js",
+        "Discord.js",
+        "MongoDB",
+        "Mongoose",
+        "fnbr",
+        "Epic Games API",
+        "XMPP"
+      ]
+    },
+    "407069665609908234": {
+      "rol": "Eski kurucu ortak geliştirici",
+      "funciones": [
+        "Kurucu ile birlikte Mia'nın başlangıcından katılım: botun ilk kurulumu ve projenin ilk veritabanları.",
+        "STW kahraman ve şema verilerinin modellenmesi ve bakımı (komutlar ve envanterde kullanılan yapılar, kataloglar ve kalıcılık).",
+        "Herkese açık kaynaklardan web scraping ile bilgi çıkarımı; kahraman/şema veri setlerini doldurma ve sürdürme.",
+        "Ürüne erken yaratıcı katkılar (görsel varlıklar ve STW rotasyon içeriği) ve bot veri dokümantasyonuyla uyum."
+      ],
+      "tecnologias": [
+        "JavaScript",
+        "Node.js",
+        "JSON",
+        "Web scraping",
+        "STW data (heroes / schematics)",
+        "Discord"
+      ]
+    },
+    "720806475185913918": {
+      "rol": "Eski geliştirici (veri / MongoDB)",
+      "funciones": [
+        "Ekibe MongoDB teknik mentorluğu: belge modelleme, sorgular, indeksler ve Discord botuna uygulanan kalıcılık kalıpları.",
+        "Komut ve sistemlerin yerel JSON veritabanlarından MongoDB'ye taşınması; üretimde depolama ve veri erişiminin birleştirilmesi.",
+        "STW şema komutu ve alanına katkı: build/perk ve ilgili envanteri besleyen veri yapıları, sorgular ve akışlar.",
+        "Botun veri mimarisi hakkında bilgi aktarımı; ekibin Mongo katmanını bağımsız sürdürüp genişletebilmesi."
+      ],
+      "tecnologias": [
+        "MongoDB",
+        "Mongoose",
+        "JavaScript",
+        "Node.js",
+        "JSON → Mongo migration",
+        "Discord.js"
+      ]
+    },
+    "852586745002197074": {
+      "rol": "Eski harici geliştirici (Ar-Ge / reverse engineering)",
+      "funciones": [
+        "Mia'nın erken döneminde harici işbirliği: botun iç ekibine kod katkısı ve teknik bilgi aktarımı.",
+        "Üçüncü taraf istemci ve hizmetlerin reverse engineering'i ile Mia entegrasyonları için veri yapıları, sözleşmeler ve yeniden kullanılabilir akışların yeniden inşası.",
+        "Fiddler ile Epic Games HTTP(S) trafiği analizi: uç noktalar, başlıklar ve payload'ları yakalayarak botun kullanabileceği API'leri belgeleme ve uygulama.",
+        "AutoKick sistemine katkılar (XMPP/parti durumu ile görev izleme, otomatik ayrılma ve ilgili akışlar) ve diğer STW otomasyonlarına destek."
+      ],
+      "tecnologias": [
+        "Reverse engineering",
+        "Fiddler",
+        "HTTP / HTTPS analysis",
+        "Epic Games API",
+        "JavaScript",
+        "XMPP",
+        "AutoKick / automation"
+      ]
+    },
+    "758347870675009616": {
+      "rol": "Eski katkıda bulunan (destek / ticket)",
+      "funciones": [
+        "Resmi sunucu (Mia Lounge) destek ticket sistemine destek: akışlar, otomasyonlar ve operasyonun bakımı.",
+        "Mia'da günlük hata düzeltmeleri: kullanıcı bildirimlerinin teşhisi ve bot komut/sistemlerine hedefli yamalar.",
+        "Gerçek kullanıma duyarlı özelliklerin stabilize edilmesinde ekiple işbirliği (örn. hesap kaydı ve bağlı destek akışları)."
+      ],
+      "tecnologias": [
+        "Discord.js",
+        "JavaScript",
+        "TypeScript",
+        "Ticket systems",
+        "Debugging"
+      ]
+    }
+  }
+}

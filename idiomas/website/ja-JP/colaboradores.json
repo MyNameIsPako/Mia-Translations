@@ -1,0 +1,147 @@
+{
+  "kicker": "チーム",
+  "title": "協力者",
+  "lead": "Miaに貢献した人たち：担当した役割と開発した内容。",
+  "loading": "協力者を読み込み中…",
+  "empty": "協力者はまだいません。",
+  "errorApi": "Mia APIを初期化できませんでした。",
+  "errorLoad": "協力者を読み込めませんでした。",
+  "sections": {
+    "active": "現在の協力者",
+    "activeLead": "現在Mia Loungeでクレジット役割を持つ人。",
+    "alumni": "元協力者",
+    "alumniLead": "プロジェクトに関わり、貢献した人たち。"
+  },
+  "roles": {
+    "all": "すべて",
+    "alumni": "元協力者",
+    "betaTesters": "ベータテスター",
+    "bugHunters": "バグハンター",
+    "codeHelpers": "コードヘルパー",
+    "designers": "デザイナー",
+    "developers": "開発者",
+    "thanks": "スペシャルサンクス",
+    "traductores": "翻訳者"
+  },
+  "meta": {
+    "title": "Mia · 協力者",
+    "description": "Miaの協力者：開発者、ヘルパー、翻訳者、デザイナー、そして貢献したすべての人。"
+  },
+  "funcsLabel": "担当 / 貢献",
+  "noFuncs": "記載された機能はありません。",
+  "badgeActivo": "現役",
+  "badgeInactivo": "非現役",
+  "techLabel": "技術",
+  "people": {
+    "345349877502574595": {
+      "rol": "創設者兼リード開発者",
+      "funciones": [
+        "TypeScript/Node.js による Mia エコシステムのフルスタック設計・開発：Discord.js ボット、REST API（Express）、ワーカー、自動化、本番バックエンドサービス。",
+        "Epic Games / Fortnite プラットフォームとの深い統合（MCP、EOS、device auth、XMPP/STOMP、STW/BR プロフィール）と安全な認証情報管理によるマルチアカウントフロー。",
+        "デスクトップ製品 Mia Launcher（Tauri + SvelteKit）：Discord/Epic 認証、STW/BR パネル、ボットとの機能パリティ、署名付きアップデート経路。",
+        "Web 製品 Mia Website / Mia Pocket：多言語サイト（Cloudflare Pages）、モバイルダッシュボード、i18n、公開/非公開 API の利用。",
+        "エンドツーエンドのインフラと運用：MongoDB/Mongoose、デプロイ、レート制限、可観測性、シークレット管理、Mia スタック全体の継続保守。"
+      ],
+      "tecnologias": [
+        "TypeScript",
+        "Node.js",
+        "Discord.js",
+        "Express",
+        "MongoDB",
+        "Mongoose",
+        "Tauri",
+        "SvelteKit",
+        "Rust",
+        "Cloudflare Pages",
+        "Epic Games API",
+        "EOS / XMPP / STOMP"
+      ]
+    },
+    "755913151693717556": {
+      "rol": "バックエンド開発者（Discord ボット）",
+      "funciones": [
+        "TypeScript/Node.js（Discord.js）による Discord ボットの開発・保守：slash/prefix コマンド、イベントハンドラ、ランタイムモジュール、サービス内部構造。",
+        "MongoDB/Mongoose によるデータ層と永続化：スキーマ、コントローラ、本番ボットを支えるアカウント/ユーザー/設定ロジック。",
+        "ボットの Fortnite 系システム支援（fnbr/EOS 連携、パーティ/ミッションユーティリティ、自動化）と重大フロー退行の安定化。",
+        "本番のデバッグと hardening：障害診断、性能/信頼性修正、共有ボットコードの継続保守。"
+      ],
+      "tecnologias": [
+        "TypeScript",
+        "Node.js",
+        "Discord.js",
+        "MongoDB",
+        "Mongoose",
+        "fnbr",
+        "Epic Games API",
+        "XMPP"
+      ]
+    },
+    "407069665609908234": {
+      "rol": "元・創業期共同開発者",
+      "funciones": [
+        "創設者と共に Mia の初期から参加：ボットの立ち上げとプロジェクト初期データベースの構築。",
+        "STW ヒーロー／スキーマデータのモデリングと整備（コマンドやインベントリで使う構造・カタログ・永続化）。",
+        "公開ソースのウェブスクレイピングによる情報抽出で、ヒーロー／スキーマ等のデータセットを構築・維持。",
+        "製品初期のクリエイティブ貢献（ビジュアル資産や STW ローテーション内容）とボットのデータ文書整備への連携。"
+      ],
+      "tecnologias": [
+        "JavaScript",
+        "Node.js",
+        "JSON",
+        "Web scraping",
+        "STW data (heroes / schematics)",
+        "Discord"
+      ]
+    },
+    "720806475185913918": {
+      "rol": "元開発者（データ / MongoDB）",
+      "funciones": [
+        "チームへの MongoDB 技術メンタリング：ドキュメントモデリング、クエリ、インデックス、Discord ボット向け永続化パターン。",
+        "ローカル JSON データベースから MongoDB へのコマンド／システム移行で、本番のデータ保存とアクセスを統一。",
+        "STW スキーマコマンド／領域への協力：ビルド/パークや関連インベントリを支えるデータ構造・クエリ・フロー。",
+        "ボットのデータ設計に関する知識移管により、チームが Mongo 層を自律的に保守・拡張できるようにした。"
+      ],
+      "tecnologias": [
+        "MongoDB",
+        "Mongoose",
+        "JavaScript",
+        "Node.js",
+        "JSON → Mongo migration",
+        "Discord.js"
+      ]
+    },
+    "852586745002197074": {
+      "rol": "元・外部開発者（R&D / リバースエンジニアリング）",
+      "funciones": [
+        "Mia 初期段階での外部協力：コード提供とボット内製チームへの技術知識の移管。",
+        "サードパーティのクライアント／サービスのリバースエンジニアリングにより、Mia 連携向けのデータ構造・契約・再利用可能なフローを再構築。",
+        "Fiddler による Epic Games の HTTP(S) トラフィック解析：エンドポイント／ヘッダー／ペイロードを捕捉し、ボットが使える API を文書化・実装。",
+        "AutoKick システムへの貢献（XMPP／パーティ状態によるミッション監視、自動退出など）および他の STW 自動化への支援。"
+      ],
+      "tecnologias": [
+        "Reverse engineering",
+        "Fiddler",
+        "HTTP / HTTPS analysis",
+        "Epic Games API",
+        "JavaScript",
+        "XMPP",
+        "AutoKick / automation"
+      ]
+    },
+    "758347870675009616": {
+      "rol": "元協力者（サポート / チケット）",
+      "funciones": [
+        "公式サーバー（Mia Lounge）のサポートチケットシステムの支援：フロー、自動化、運用の維持。",
+        "Mia の日常的な不具合修正：ユーザー報告の診断と、ボットのコマンド／システムへのピンポイント修正。",
+        "実利用に敏感な機能の安定化への協力（例：アカウント登録や関連サポートフロー）。"
+      ],
+      "tecnologias": [
+        "Discord.js",
+        "JavaScript",
+        "TypeScript",
+        "Ticket systems",
+        "Debugging"
+      ]
+    }
+  }
+}

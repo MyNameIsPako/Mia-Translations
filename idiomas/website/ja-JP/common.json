@@ -24,7 +24,8 @@
     "language": "言語",
     "discordSupport": "サポートサーバー",
     "install": "Miaをインストール",
-    "status": "Status"
+    "status": "Status",
+    "colaboradores": "協力者"
   },
   "footer": {
     "aria": "フッター",
@@ -53,7 +54,8 @@
     "privacy": "プライバシーポリシー",
     "terms": "利用規約",
     "termsChecker": "Mia Checker利用規約",
-    "fromSpain": "スペインから、すべてのコミュニティへ。"
+    "fromSpain": "スペインから、すべてのコミュニティへ。",
+    "colaboradores": "協力者"
   },
   "cta": {
     "install": "Miaをインストール",

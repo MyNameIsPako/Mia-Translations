@@ -1,0 +1,147 @@
+{
+  "kicker": "Team",
+  "title": "Mitwirkende",
+  "lead": "Menschen, die zu Mia beigetragen haben: ihre Rolle und was sie entwickelt haben.",
+  "loading": "Mitwirkende werden geladen…",
+  "empty": "Noch keine Mitwirkenden.",
+  "errorApi": "Mia-API konnte nicht initialisiert werden.",
+  "errorLoad": "Mitwirkende konnten nicht geladen werden.",
+  "sections": {
+    "active": "Aktive Mitwirkende",
+    "activeLead": "Personen mit Credit-Rollen in Mia Lounge gerade jetzt.",
+    "alumni": "Ehemalige Mitwirkende",
+    "alumniLead": "Menschen, die am Projekt beteiligt waren und ihren Teil beigetragen haben."
+  },
+  "roles": {
+    "all": "Alle",
+    "alumni": "Ehemalige Mitwirkende",
+    "betaTesters": "Beta-Tester",
+    "bugHunters": "Bug-Hunter",
+    "codeHelpers": "Code-Helfer",
+    "designers": "Designer",
+    "developers": "Entwickler",
+    "thanks": "Danksagungen",
+    "traductores": "Übersetzer"
+  },
+  "meta": {
+    "title": "Mia · Mitwirkende",
+    "description": "Mitwirkende von Mia: Entwickler, Helfer, Übersetzer, Designer und alle, die mit angepackt haben."
+  },
+  "funcsLabel": "Funktionen / Beiträge",
+  "noFuncs": "Keine Funktionen gelistet.",
+  "badgeActivo": "Aktiv",
+  "badgeInactivo": "Inaktiv",
+  "techLabel": "Technologien",
+  "people": {
+    "345349877502574595": {
+      "rol": "Gründer und Hauptentwickler",
+      "funciones": [
+        "Full-Stack-Architektur und Entwicklung des Mia-Ökosystems in TypeScript/Node.js: Discord.js-Bot, REST-API (Express), Worker, Automatisierungen und Backend-Dienste in Produktion.",
+        "Tiefe Integration mit der Epic Games-/Fortnite-Plattform (MCP, EOS, Device Auth, XMPP/STOMP, STW- und BR-Profile) sowie Multi-Account-Flows mit sicherer Credential-Verwaltung.",
+        "Desktop-Produkt Mia Launcher (Tauri + SvelteKit): Discord-/Epic-Auth, STW-/BR-Panels, Feature-Parität mit dem Bot und signierter Update-Kanal.",
+        "Web-Produkte Mia Website und Mia Pocket: mehrsprachige Site (Cloudflare Pages), Mobile-Dashboard, i18n und Nutzung öffentlicher/privater APIs.",
+        "End-to-end Infrastruktur und Betrieb: MongoDB/Mongoose, Deployment, Rate Limiting, Observability, Secrets-Sicherheit und laufende Wartung des gesamten Mia-Stacks."
+      ],
+      "tecnologias": [
+        "TypeScript",
+        "Node.js",
+        "Discord.js",
+        "Express",
+        "MongoDB",
+        "Mongoose",
+        "Tauri",
+        "SvelteKit",
+        "Rust",
+        "Cloudflare Pages",
+        "Epic Games API",
+        "EOS / XMPP / STOMP"
+      ]
+    },
+    "755913151693717556": {
+      "rol": "Backend-Entwickler (Discord-Bot)",
+      "funciones": [
+        "Entwicklung und Wartung des Discord-Bots in TypeScript/Node.js (Discord.js): Slash-/Prefix-Befehle, Event-Handler, Runtime-Module und interne Service-Struktur.",
+        "Datenschicht und Persistenz mit MongoDB/Mongoose: Schemas, Controller und Account-/User-/Config-Logik für den Produktionsbetrieb.",
+        "Support der Fortnite-Systeme des Bots (fnbr/EOS-Integrationen, Party-/Missions-Utilities und Automatisierungen) mit Fokus auf Stabilisierung von Regressionen.",
+        "Debugging und Hardening in Produktion: Incident-Diagnose, Performance-/Zuverlässigkeitsfixes und laufende Wartung des gemeinsamen Bot-Codes."
+      ],
+      "tecnologias": [
+        "TypeScript",
+        "Node.js",
+        "Discord.js",
+        "MongoDB",
+        "Mongoose",
+        "fnbr",
+        "Epic Games API",
+        "XMPP"
+      ]
+    },
+    "407069665609908234": {
+      "rol": "Ehemaliger Mitgründer-Entwickler",
+      "funciones": [
+        "Mitwirkung ab dem Ursprung von Mia zusammen mit dem Gründer: initialer Bot-Start und erste Projektdatenbanken.",
+        "Modellierung und Pflege von STW-Helden- und Schema-Daten (Strukturen, Kataloge und Persistenz für Befehle und Inventar).",
+        "Informationsgewinnung per Web-Scraping öffentlicher Quellen zur Befüllung und Pflege von Helden-/Schema-Datasets und Metadaten.",
+        "Frühe kreative Produktbeiträge (Visuals und STW-Rotationsinhalte) abgestimmt auf die Daten-Dokumentation des Bots."
+      ],
+      "tecnologias": [
+        "JavaScript",
+        "Node.js",
+        "JSON",
+        "Web scraping",
+        "STW data (heroes / schematics)",
+        "Discord"
+      ]
+    },
+    "720806475185913918": {
+      "rol": "Ehemaliger Entwickler (Daten / MongoDB)",
+      "funciones": [
+        "Technisches Mentoring des Teams zu MongoDB: Dokumentmodellierung, Queries, Indizes und Persistenzmuster für den Discord-Bot.",
+        "Migration von Befehlen und Systemen von lokalen JSON-Datenbanken nach MongoDB zur Vereinheitlichung von Speicherung und Datenzugriff.",
+        "Mitarbeit am STW-Schematics-Befehl und -Domain: Datenstrukturen, Queries und Flows für Builds/Perks und zugehöriges Inventar.",
+        "Wissenstransfer zur Datenarchitektur des Bots, damit das Team die Mongo-Schicht eigenständig warten und erweitern konnte."
+      ],
+      "tecnologias": [
+        "MongoDB",
+        "Mongoose",
+        "JavaScript",
+        "Node.js",
+        "JSON → Mongo migration",
+        "Discord.js"
+      ]
+    },
+    "852586745002197074": {
+      "rol": "Ehemaliger externer Entwickler (R&D / Reverse Engineering)",
+      "funciones": [
+        "Externe Zusammenarbeit in Mias Frühphase: Code-Beiträge und technischer Wissenstransfer an das interne Bot-Team.",
+        "Reverse Engineering von Drittanbieter-Clients und -Diensten zur Rekonstruktion von Datenstrukturen, Verträgen und wiederverwendbaren Flows für Mia-Integrationen.",
+        "HTTP(S)-Traffic-Analyse von Epic Games mit Fiddler: Erfassung von Endpunkten, Headern und Payloads zur Dokumentation und Implementierung bot-nutzbarer APIs.",
+        "Beiträge zum AutoKick-System (Missionsüberwachung via XMPP/Party-Status, automatisches Verlassen und zugehörige Flows) sowie Unterstützung anderer STW-Automatisierungen."
+      ],
+      "tecnologias": [
+        "Reverse engineering",
+        "Fiddler",
+        "HTTP / HTTPS analysis",
+        "Epic Games API",
+        "JavaScript",
+        "XMPP",
+        "AutoKick / automation"
+      ]
+    },
+    "758347870675009616": {
+      "rol": "Ehemaliger Mitwirkender (Support / Tickets)",
+      "funciones": [
+        "Unterstützung des Ticket-Systems des offiziellen Servers (Mia Lounge): Flows, Automatisierungen und Wartung des Support-Betriebs.",
+        "Tägliche Fehlerbehebung in Mia: Diagnose nutzerseitig gemeldeter Incidents und gezielte Patches an Bot-Befehlen/-Systemen.",
+        "Zusammenarbeit mit dem Team zur Stabilisierung nutzungssensitiver Features (z. B. Account-Registrierung und verknüpfte Support-Flows)."
+      ],
+      "tecnologias": [
+        "Discord.js",
+        "JavaScript",
+        "TypeScript",
+        "Ticket systems",
+        "Debugging"
+      ]
+    }
+  }
+}

@@ -1,0 +1,147 @@
+{
+  "kicker": "团队",
+  "title": "贡献者",
+  "lead": "为 Mia 做出贡献的人：他们的角色以及开发的内容。",
+  "loading": "正在加载贡献者…",
+  "empty": "暂无贡献者。",
+  "errorApi": "无法初始化 Mia API。",
+  "errorLoad": "无法加载贡献者。",
+  "sections": {
+    "active": "当前贡献者",
+    "activeLead": "目前在 Mia Lounge 拥有积分角色的人。",
+    "alumni": "前贡献者",
+    "alumniLead": "曾参与项目并贡献过力量的人。"
+  },
+  "roles": {
+    "all": "全部",
+    "alumni": "前贡献者",
+    "betaTesters": "内测员",
+    "bugHunters": "找虫猎人",
+    "codeHelpers": "代码助手",
+    "designers": "设计师",
+    "developers": "开发者",
+    "thanks": "特别感谢",
+    "traductores": "翻译"
+  },
+  "meta": {
+    "title": "Mia · 贡献者",
+    "description": "Mia 贡献者：开发者、助手、翻译、设计师以及所有贡献过的人。"
+  },
+  "funcsLabel": "职责 / 贡献",
+  "noFuncs": "暂无列出的职责。",
+  "badgeActivo": "在职",
+  "badgeInactivo": "已退出",
+  "techLabel": "技术",
+  "people": {
+    "345349877502574595": {
+      "rol": "创始人兼首席开发者",
+      "funciones": [
+        "使用 TypeScript/Node.js 进行 Mia 生态全栈架构与开发：Discord.js 机器人、REST API（Express）、worker、自动化与生产后端服务。",
+        "深度集成 Epic Games / Fortnite 平台（MCP、EOS、device auth、XMPP/STOMP、STW 与 BR 档案），并设计安全的多账号凭证流程。",
+        "桌面产品 Mia Launcher（Tauri + SvelteKit）：Discord/Epic 登录、STW/BR 面板、与机器人功能对齐，以及签名更新通道。",
+        "Web 产品 Mia Website 与 Mia Pocket：多语言站点（Cloudflare Pages）、移动仪表盘、i18n，以及公有/私有 API 调用。",
+        "端到端基础设施与运维：MongoDB/Mongoose、部署、限流、可观测性、密钥安全，以及整个 Mia 技术栈的持续维护。"
+      ],
+      "tecnologias": [
+        "TypeScript",
+        "Node.js",
+        "Discord.js",
+        "Express",
+        "MongoDB",
+        "Mongoose",
+        "Tauri",
+        "SvelteKit",
+        "Rust",
+        "Cloudflare Pages",
+        "Epic Games API",
+        "EOS / XMPP / STOMP"
+      ]
+    },
+    "755913151693717556": {
+      "rol": "后端开发者（Discord 机器人）",
+      "funciones": [
+        "使用 TypeScript/Node.js（Discord.js）开发与维护 Discord 机器人：slash/prefix 命令、事件处理、运行时模块与服务内部结构。",
+        "使用 MongoDB/Mongoose 的数据层与持久化：schema、控制器，以及支撑生产环境的账号/用户/配置逻辑。",
+        "支持机器人的 Fortnite 相关系统（fnbr/EOS 集成、队伍/任务工具与自动化），重点稳定关键流程回归。",
+        "生产环境调试与加固：故障诊断、性能/可靠性修复，以及共享机器人代码的持续维护。"
+      ],
+      "tecnologias": [
+        "TypeScript",
+        "Node.js",
+        "Discord.js",
+        "MongoDB",
+        "Mongoose",
+        "fnbr",
+        "Epic Games API",
+        "XMPP"
+      ]
+    },
+    "407069665609908234": {
+      "rol": "前联合创始开发者",
+      "funciones": [
+        "与创始人一起从 Mia 起步阶段参与：机器人初始搭建与项目早期数据库。",
+        "建模与整理 STW 英雄与图纸数据（结构、目录及命令/背包所用的持久化）。",
+        "通过对公开来源进行网页抓取提取信息，填充并维护英雄、图纸及相关元数据。",
+        "早期产品创意贡献（视觉资源与 STW 轮换内容），并与机器人的数据文档对齐。"
+      ],
+      "tecnologias": [
+        "JavaScript",
+        "Node.js",
+        "JSON",
+        "Web scraping",
+        "STW data (heroes / schematics)",
+        "Discord"
+      ]
+    },
+    "720806475185913918": {
+      "rol": "前开发者（数据 / MongoDB）",
+      "funciones": [
+        "向团队提供 MongoDB 技术指导：文档建模、查询、索引，以及应用于 Discord 机器人的持久化模式。",
+        "将命令与系统从本地 JSON 数据库迁移到 MongoDB，统一生产环境的存储与数据访问。",
+        "协作 STW 图纸命令与领域：支撑 build/perk 及相关背包的数据结构、查询与流程。",
+        "传递机器人数据架构知识，使团队能自主维护并扩展 Mongo 层。"
+      ],
+      "tecnologias": [
+        "MongoDB",
+        "Mongoose",
+        "JavaScript",
+        "Node.js",
+        "JSON → Mongo migration",
+        "Discord.js"
+      ]
+    },
+    "852586745002197074": {
+      "rol": "前外部开发者（研发 / 逆向工程）",
+      "funciones": [
+        "Mia 早期阶段的外部协作：向机器人内部团队提供代码与技术知识转移。",
+        "对第三方客户端与服务进行逆向工程，重建可用于 Mia 集成的数据结构、契约与可复用流程。",
+        "使用 Fiddler 分析 Epic Games 的 HTTP(S) 流量：捕获端点、请求头与载荷，以文档化并实现机器人可调用的 API。",
+        "为 AutoKick 系统做贡献（通过 XMPP/队伍状态监控任务、自动离开及相关流程），并支持其他 STW 自动化。"
+      ],
+      "tecnologias": [
+        "Reverse engineering",
+        "Fiddler",
+        "HTTP / HTTPS analysis",
+        "Epic Games API",
+        "JavaScript",
+        "XMPP",
+        "AutoKick / automation"
+      ]
+    },
+    "758347870675009616": {
+      "rol": "前协作者（支持 / 工单）",
+      "funciones": [
+        "协助官方服务器（Mia Lounge）的支持工单系统：流程、自动化与日常运维。",
+        "处理 Mia 的日常错误：诊断用户反馈问题，并对机器人命令/系统做针对性修补。",
+        "与团队协作稳定对真实使用敏感的功能（例如账号注册及相关支持流程）。"
+      ],
+      "tecnologias": [
+        "Discord.js",
+        "JavaScript",
+        "TypeScript",
+        "Ticket systems",
+        "Debugging"
+      ]
+    }
+  }
+}

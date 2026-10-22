@@ -24,7 +24,8 @@
     "language": "Langue",
     "discordSupport": "Serveur de support",
     "install": "Installer Mia",
-    "status": "Status"
+    "status": "Status",
+    "colaboradores": "Collaborateurs"
   },
   "footer": {
     "aria": "Pied de page",
@@ -53,7 +54,8 @@
     "privacy": "Politique de confidentialité",
     "terms": "Conditions générales",
     "termsChecker": "Conditions Mia Checker",
-    "fromSpain": "Depuis l’Espagne pour toute notre communauté."
+    "fromSpain": "Depuis l’Espagne pour toute notre communauté.",
+    "colaboradores": "Collaborateurs"
   },
   "cta": {
     "install": "Installer Mia",

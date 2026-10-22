@@ -24,7 +24,8 @@
     "language": "语言",
     "discordSupport": "支持服务器",
     "install": "安装 Mia",
-    "status": "Status"
+    "status": "Status",
+    "colaboradores": "贡献者"
   },
   "footer": {
     "aria": "页脚",
@@ -53,7 +54,8 @@
     "privacy": "隐私政策",
     "terms": "条款与条件",
     "termsChecker": "Mia Checker 条款",
-    "fromSpain": "来自西班牙，服务我们的整个社区。"
+    "fromSpain": "来自西班牙，服务我们的整个社区。",
+    "colaboradores": "贡献者"
   },
   "cta": {
     "install": "安装 Mia",

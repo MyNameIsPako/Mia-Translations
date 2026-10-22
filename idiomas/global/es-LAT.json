@@ -3260,7 +3260,7 @@
 		}
 	},
 	"errores": {
-		"msg1": "Se produjo un al ejecutar el comando",
+		"msg1": "Se produjo un error al ejecutar el comando",
 		"msg2": "Mensaje del error:",
 		"msg3": "Desconocido",
 		"msg4": "Esta cuenta no tiene STW",

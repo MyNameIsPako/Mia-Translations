@@ -142,7 +142,10 @@
       "traductores": "Übersetzer",
       "designers": "Designer",
       "thanks": "Danksagungen"
-    }
+    },
+    "moreLead": "Möchtest du alle kennenlernen, die zu Mia beigetragen haben?",
+    "moreCta": "Hier kannst du sie sehen",
+    "moreAria": "Hier kannst du sie sehen"
   },
   "launchers": {
     "titleBefore": "Brauchst du einen ",

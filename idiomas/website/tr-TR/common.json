@@ -24,7 +24,8 @@
     "language": "Dil",
     "discordSupport": "Destek sunucusu",
     "install": "Mia’yı yükle",
-    "status": "Status"
+    "status": "Status",
+    "colaboradores": "Katkıda bulunanlar"
   },
   "footer": {
     "aria": "Alt bilgi",
@@ -53,7 +54,8 @@
     "privacy": "Gizlilik politikası",
     "terms": "Şartlar ve koşullar",
     "termsChecker": "Mia Checker şartları",
-    "fromSpain": "İspanya’dan tüm topluluğumuza."
+    "fromSpain": "İspanya’dan tüm topluluğumuza.",
+    "colaboradores": "Katkıda bulunanlar"
   },
   "cta": {
     "install": "Mia’yı yükle",
