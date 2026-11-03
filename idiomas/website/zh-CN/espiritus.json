@@ -34,6 +34,9 @@
 		"seasonCurrent": "当前",
 		"seasonPast": "往期",
 		"seasonAll": "全部",
+		"seasonPastEntry": "往期赛季",
+		"seasonAllSessions": "全部赛季",
+		"seasonCurrentNav": "当前赛季",
 		"variantLabel": "变体",
 		"variantAria": "变体",
 		"variants": {
@@ -142,6 +145,9 @@
 		"showing": "显示 {shown} / {total}",
 		"showingHint": "显示 {shown} / {total}（{season}）· 点击标记",
 		"seasonAll": "全部",
+		"seasonPastEntry": "往期赛季",
+		"seasonAllSessions": "全部赛季",
+		"seasonCurrentNav": "当前赛季",
 		"loadError": "无法加载精灵目录。Mia API 是否在运行？",
 		"loadErrorShort": "加载失败。请检查 API 连接。"
 	},

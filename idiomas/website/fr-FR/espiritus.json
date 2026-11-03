@@ -34,6 +34,9 @@
 		"seasonCurrent": "Actuelle",
 		"seasonPast": "Passées",
 		"seasonAll": "Toutes",
+		"seasonPastEntry": "Saisons passees",
+		"seasonAllSessions": "Toutes les saisons",
+		"seasonCurrentNav": "Saison actuelle",
 		"variantLabel": "Variante",
 		"variantAria": "Variante",
 		"variants": {
@@ -142,6 +145,9 @@
 		"showing": "Affichage de {shown} sur {total}",
 		"showingHint": "Affichage de {shown} sur {total} ({season}) · cliquer pour marquer",
 		"seasonAll": "toutes",
+		"seasonPastEntry": "Saisons passees",
+		"seasonAllSessions": "Toutes les saisons",
+		"seasonCurrentNav": "Saison actuelle",
 		"loadError": "Impossible de charger le catalogue d’esprits. L’API Mia est-elle en marche ?",
 		"loadErrorShort": "Échec du chargement. Vérifiez la connexion à l’API."
 	},

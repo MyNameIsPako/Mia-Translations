@@ -34,6 +34,9 @@
 		"seasonCurrent": "Attuale",
 		"seasonPast": "Passate",
 		"seasonAll": "Tutte",
+		"seasonPastEntry": "Stagioni passate",
+		"seasonAllSessions": "Tutte le stagioni",
+		"seasonCurrentNav": "Stagione attuale",
 		"variantLabel": "Variante",
 		"variantAria": "Variante",
 		"variants": {
@@ -142,6 +145,9 @@
 		"showing": "Mostro {shown} di {total}",
 		"showingHint": "Mostro {shown} di {total} ({season}) · clic per segnare",
 		"seasonAll": "tutte",
+		"seasonPastEntry": "Stagioni passate",
+		"seasonAllSessions": "Tutte le stagioni",
+		"seasonCurrentNav": "Stagione attuale",
 		"loadError": "Impossibile caricare il catalogo spiriti. L’API Mia è attiva?",
 		"loadErrorShort": "Caricamento non riuscito. Controlla la connessione all’API."
 	},

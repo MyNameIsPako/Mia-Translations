@@ -34,6 +34,9 @@
 		"seasonCurrent": "Actual",
 		"seasonPast": "Pasadas",
 		"seasonAll": "Todas",
+		"seasonPastEntry": "Sesiones pasadas",
+		"seasonAllSessions": "Todas las sesiones",
+		"seasonCurrentNav": "Temporada actual",
 		"variantLabel": "Variante",
 		"variantAria": "Variante",
 		"variants": {
@@ -142,6 +145,9 @@
 		"showing": "Mostrando {shown} de {total}",
 		"showingHint": "Mostrando {shown} de {total} ({season}) · clic para marcar y encender",
 		"seasonAll": "todas",
+		"seasonPastEntry": "Sesiones pasadas",
+		"seasonAllSessions": "Todas las sesiones",
+		"seasonCurrentNav": "Temporada actual",
 		"loadError": "No se pudo cargar el catálogo de espíritus. ¿Está el API de Mia en marcha?",
 		"loadErrorShort": "Error al cargar. Revisa la conexión con el API."
 	},

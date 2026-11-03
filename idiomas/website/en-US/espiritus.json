@@ -34,6 +34,9 @@
 		"seasonCurrent": "Current",
 		"seasonPast": "Past",
 		"seasonAll": "All",
+		"seasonPastEntry": "Past seasons",
+		"seasonAllSessions": "All Seasons",
+		"seasonCurrentNav": "Current season",
 		"variantLabel": "Variant",
 		"variantAria": "Variant",
 		"variants": {
@@ -142,6 +145,9 @@
 		"showing": "Showing {shown} of {total}",
 		"showingHint": "Showing {shown} of {total} ({season}) · click to mark",
 		"seasonAll": "all",
+		"seasonPastEntry": "Past seasons",
+		"seasonAllSessions": "All Seasons",
+		"seasonCurrentNav": "Current season",
 		"loadError": "Could not load the spirits catalog. Is the Mia API running?",
 		"loadErrorShort": "Failed to load. Check the API connection."
 	},

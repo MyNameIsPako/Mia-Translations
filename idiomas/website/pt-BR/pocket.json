@@ -1119,7 +1119,10 @@
     "season": {
       "current": "Atual",
       "past": "Anteriores",
-      "all": "Todas"
+      "all": "Todas",
+      "pastEntry": "Temporadas passadas",
+      "allPast": "Todas as seasons",
+      "currentNav": "Temporada atual"
     },
     "status": {
       "all": "Todos",

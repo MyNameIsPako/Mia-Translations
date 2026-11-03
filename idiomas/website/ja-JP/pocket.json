@@ -1119,7 +1119,10 @@
     "season": {
       "current": "現行",
       "past": "過去",
-      "all": "すべて"
+      "all": "すべて",
+      "pastEntry": "過去のシーズン",
+      "allPast": "すべてのシーズン",
+      "currentNav": "現行シーズン"
     },
     "status": {
       "all": "すべて",

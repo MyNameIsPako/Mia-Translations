@@ -1119,7 +1119,10 @@
     "season": {
       "current": "Güncel",
       "past": "Geçmiş",
-      "all": "Tümü"
+      "all": "Tümü",
+      "pastEntry": "Gecmis sezonlar",
+      "allPast": "Tum sezonlar",
+      "currentNav": "Guncel sezon"
     },
     "status": {
       "all": "Tümü",

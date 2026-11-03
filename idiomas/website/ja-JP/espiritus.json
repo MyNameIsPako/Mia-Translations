@@ -34,6 +34,9 @@
 		"seasonCurrent": "現行",
 		"seasonPast": "過去",
 		"seasonAll": "すべて",
+		"seasonPastEntry": "過去のシーズン",
+		"seasonAllSessions": "すべてのシーズン",
+		"seasonCurrentNav": "現行シーズン",
 		"variantLabel": "バリアント",
 		"variantAria": "バリアント",
 		"variants": {
@@ -142,6 +145,9 @@
 		"showing": "{shown} / {total} を表示",
 		"showingHint": "{shown} / {total} を表示（{season}）· クリックでマーク",
 		"seasonAll": "すべて",
+		"seasonPastEntry": "過去のシーズン",
+		"seasonAllSessions": "すべてのシーズン",
+		"seasonCurrentNav": "現行シーズン",
 		"loadError": "スピリットカタログを読み込めませんでした。Mia APIは起動していますか？",
 		"loadErrorShort": "読み込みに失敗しました。API接続を確認してください。"
 	},

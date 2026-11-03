@@ -34,6 +34,9 @@
 		"seasonCurrent": "Aktuell",
 		"seasonPast": "Vergangen",
 		"seasonAll": "Alle",
+		"seasonPastEntry": "Vergangene Seasons",
+		"seasonAllSessions": "Alle Seasons",
+		"seasonCurrentNav": "Aktuelle Season",
 		"variantLabel": "Variante",
 		"variantAria": "Variante",
 		"variants": {
@@ -142,6 +145,9 @@
 		"showing": "Zeige {shown} von {total}",
 		"showingHint": "Zeige {shown} von {total} ({season}) · klicken zum Markieren",
 		"seasonAll": "alle",
+		"seasonPastEntry": "Vergangene Seasons",
+		"seasonAllSessions": "Alle Seasons",
+		"seasonCurrentNav": "Aktuelle Season",
 		"loadError": "Geisterkatalog konnte nicht geladen werden. Läuft die Mia-API?",
 		"loadErrorShort": "Laden fehlgeschlagen. API-Verbindung prüfen."
 	},

@@ -34,6 +34,9 @@
 		"seasonCurrent": "Güncel",
 		"seasonPast": "Geçmiş",
 		"seasonAll": "Tümü",
+		"seasonPastEntry": "Gecmis sezonlar",
+		"seasonAllSessions": "Tum sezonlar",
+		"seasonCurrentNav": "Guncel sezon",
 		"variantLabel": "Varyant",
 		"variantAria": "Varyant",
 		"variants": {
@@ -142,6 +145,9 @@
 		"showing": "{shown} / {total} gösteriliyor",
 		"showingHint": "{shown} / {total} gösteriliyor ({season}) · işaretlemek için tıkla",
 		"seasonAll": "tümü",
+		"seasonPastEntry": "Gecmis sezonlar",
+		"seasonAllSessions": "Tum sezonlar",
+		"seasonCurrentNav": "Guncel sezon",
 		"loadError": "Ruh kataloğu yüklenemedi. Mia API çalışıyor mu?",
 		"loadErrorShort": "Yükleme başarısız. API bağlantısını kontrol et."
 	},
