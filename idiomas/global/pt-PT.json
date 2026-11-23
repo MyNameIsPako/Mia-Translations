@@ -484,7 +484,10 @@
 				"msg16": "Presentes diários restantes:",
 				"msg17": "Presentes enviados",
 				"msg18": "Presentes recebidos",
-				"msg19": "Presente mais recente:"
+				"msg19": "Presente mais recente:",
+				"msg38": "Ver nomes",
+				"msg39": "Ocultar nomes",
+				"msg40": "Estes dados são parciais e podem não incluir todos os presentes enviados."
 			},
 			"compras": {
 				"msg1": "Desconhecido",

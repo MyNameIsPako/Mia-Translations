@@ -487,7 +487,10 @@
 				"msg16": "Verbleibende tägliche Geschenke:",
 				"msg17": "Gesendete Geschenke",
 				"msg18": "Erhaltene Geschenke",
-				"msg19": "Letztes Geschenk:"
+				"msg19": "Letztes Geschenk:",
+				"msg38": "Namen anzeigen",
+				"msg39": "Namen ausblenden",
+				"msg40": "Diese Daten sind unvollständig und enthalten möglicherweise nicht alle gesendeten Geschenke."
 			},
 			"compras": {
 				"msg1": "Unbekannt",

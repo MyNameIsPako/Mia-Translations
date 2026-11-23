@@ -484,7 +484,10 @@
 				"msg16": "Regalos diarios restantes:",
 				"msg17": "Regalos enviados",
 				"msg18": "Regalos recibidos",
-				"msg19": "Regalo más reciente:"
+				"msg19": "Regalo más reciente:",
+				"msg38": "Ver nombres",
+				"msg39": "Ocultar nombres",
+				"msg40": "Este dato es parcial y podría no contener todos los regalos enviados."
 			},
 			"compras": {
 				"msg1": "Desconocido",

@@ -485,7 +485,10 @@
 				"msg16": "Kalan günlük hediyeler:",
 				"msg17": "Gönderilen Hediyeler",
 				"msg18": "Alınan Hediyeler",
-				"msg19": "En son hediye:"
+				"msg19": "En son hediye:",
+				"msg38": "İsimleri göster",
+				"msg39": "İsimleri gizle",
+				"msg40": "Bu veri kısmi olabilir ve tüm gönderilen hediyeleri içermeyebilir."
 			},
 			"compras": {
 				"msg1": "Bilinmiyor",

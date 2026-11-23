@@ -484,7 +484,10 @@
 				"msg16": "Regali giornalieri rimanenti:",
 				"msg17": "Regali inviati",
 				"msg18": "Regali ricevuti",
-				"msg19": "Regalo più recente:"
+				"msg19": "Regalo più recente:",
+				"msg38": "Mostra nomi",
+				"msg39": "Nascondi nomi",
+				"msg40": "Questi dati sono parziali e potrebbero non includere tutti i regali inviati."
 			},
 			"compras": {
 				"msg1": "Sconosciuto",

@@ -485,7 +485,10 @@
 				"msg16": "Daily gifts remaining:",
 				"msg17": "Gifts Sent",
 				"msg18": "Gifts Received",
-				"msg19": "Most recent gift:"
+				"msg19": "Most recent gift:",
+				"msg38": "Show names",
+				"msg39": "Hide names",
+				"msg40": "This data is partial and may not include every sent gift."
 			},
 			"compras": {
 				"msg1": "Unknown",
